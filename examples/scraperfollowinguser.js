@@ -1,5 +1,7 @@
 import { ApifyClient } from 'apify-client';
 import dotenv from 'dotenv';
+import fs from 'fs';
+import path from 'path';
 
 // Load environment variables from .env file
 dotenv.config();
@@ -29,6 +31,37 @@ const input = {
     ]
 };
 
+// Function to ensure the testdata directory exists
+function ensureTestDataDirectoryExists() {
+    const testDataDir = path.join(process.cwd(), 'testdata');
+    if (!fs.existsSync(testDataDir)) {
+        fs.mkdirSync(testDataDir, { recursive: true });
+        console.log(`Created directory: ${testDataDir}`);
+    }
+    return testDataDir;
+}
+
+// Function to get formatted date for filename
+function getFormattedDate() {
+    const now = new Date();
+    return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+}
+
+// Function to save all user data to a single file
+function saveAllUserDataToFile(usersData, testDataDir, formattedDate) {
+    try {
+        const filename = `${formattedDate}.json`;
+        const filePath = path.join(testDataDir, filename);
+        
+        fs.writeFileSync(filePath, JSON.stringify(usersData, null, 2));
+        console.log(`Saved data for ${usersData.length} users to ${filePath}`);
+        return filePath;
+    } catch (error) {
+        console.error(`Error saving data to file:`, error);
+        return null;
+    }
+}
+
 // Main function to run the scraper
 async function runTwitterUserScraper() {
     try {
@@ -47,13 +80,21 @@ async function runTwitterUserScraper() {
         
         console.log(`Retrieved ${items.length} items from dataset`);
         
-        // Print each item
-        items.forEach((item, index) => {
-            console.log(`\nItem ${index + 1}:`);
-            console.dir(item, { depth: 3 });
-        });
+        // Ensure testdata directory exists
+        const testDataDir = ensureTestDataDirectoryExists();
+        const formattedDate = getFormattedDate();
+        console.log(`Using date format for filename: ${formattedDate}`);
         
-        console.log('\nScraping completed successfully');
+        // Save all items to a single file
+        const filePath = saveAllUserDataToFile(items, testDataDir, formattedDate);
+        
+        if (filePath) {
+            console.log(`\nSuccessfully saved all data to: ${filePath}`);
+        } else {
+            console.log('\nFailed to save data to file');
+        }
+        
+        console.log('\nScraping and saving completed successfully');
     } catch (error) {
         console.error('Error running Twitter user scraper:', error);
     }

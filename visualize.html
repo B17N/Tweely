@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Data Visualization</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .json-viewer {
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        .user-card {
+            transition: all 0.3s ease;
+        }
+        .user-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-8 text-center text-gray-800">Twitter Data Visualization</h1>
+        
+        <!-- File Selection -->
+        <div class="mb-8 bg-white rounded-lg shadow p-6">
+            <h2 class="text-xl font-semibold mb-4">Select Data File</h2>
+            <input type="file" id="fileInput" accept=".json" class="block w-full text-sm text-gray-500
+                file:mr-4 file:py-2 file:px-4
+                file:rounded-full file:border-0
+                file:text-sm file:font-semibold
+                file:bg-blue-50 file:text-blue-700
+                hover:file:bg-blue-100
+            ">
+        </div>
+
+        <!-- Stats Summary -->
+        <div id="stats" class="mb-8 grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div class="bg-white rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold mb-2 text-gray-700">Total Users</h3>
+                <p id="totalUsers" class="text-3xl font-bold text-blue-600">-</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold mb-2 text-gray-700">Average Followers</h3>
+                <p id="avgFollowers" class="text-3xl font-bold text-green-600">-</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold mb-2 text-gray-700">Verified Users</h3>
+                <p id="verifiedUsers" class="text-3xl font-bold text-purple-600">-</p>
+            </div>
+        </div>
+
+        <!-- Search and Filter -->
+        <div class="mb-8 bg-white rounded-lg shadow p-6">
+            <input type="text" id="searchInput" 
+                placeholder="Search users by name or username..." 
+                class="w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </div>
+
+        <!-- User Cards -->
+        <div id="userContainer" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- User cards will be inserted here -->
+        </div>
+    </div>
+
+    <script>
+        let userData = [];
+
+        document.getElementById('fileInput').addEventListener('change', async (event) => {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            try {
+                const text = await file.text();
+                userData = JSON.parse(text);
+                updateVisualization();
+            } catch (error) {
+                console.error('Error loading file:', error);
+                alert('Error loading file. Please make sure it\'s a valid JSON file.');
+            }
+        });
+
+        document.getElementById('searchInput').addEventListener('input', (event) => {
+            const searchTerm = event.target.value.toLowerCase();
+            filterUsers(searchTerm);
+        });
+
+        function updateVisualization() {
+            updateStats();
+            displayUsers(userData);
+        }
+
+        function updateStats() {
+            // Update total users
+            document.getElementById('totalUsers').textContent = userData.length;
+
+            // Calculate average followers
+            const avgFollowers = Math.round(
+                userData.reduce((acc, user) => acc + (user.followers || 0), 0) / userData.length
+            );
+            document.getElementById('avgFollowers').textContent = avgFollowers.toLocaleString();
+
+            // Count verified users
+            const verifiedCount = userData.filter(user => user.isVerified).length;
+            document.getElementById('verifiedUsers').textContent = verifiedCount;
+        }
+
+        function filterUsers(searchTerm) {
+            const filteredUsers = userData.filter(user => 
+                user.userName?.toLowerCase().includes(searchTerm) ||
+                user.name?.toLowerCase().includes(searchTerm)
+            );
+            displayUsers(filteredUsers);
+        }
+
+        function displayUsers(users) {
+            const container = document.getElementById('userContainer');
+            container.innerHTML = '';
+
+            users.forEach(user => {
+                const card = document.createElement('div');
+                card.className = 'user-card bg-white rounded-lg shadow p-6';
+                card.innerHTML = `
+                    <div class="flex items-center mb-4">
+                        <img src="${user.profilePicture || 'https://via.placeholder.com/50'}" 
+                            alt="${user.userName}" 
+                            class="w-12 h-12 rounded-full mr-4">
+                        <div>
+                            <h3 class="font-semibold text-lg">
+                                ${user.name || 'Unknown'}
+                                ${user.isVerified ? '✓' : ''}
+                            </h3>
+                            <p class="text-gray-600">@${user.userName || 'unknown'}</p>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 mb-4">${user.description || 'No description'}</p>
+                    <div class="grid grid-cols-3 gap-4 text-center">
+                        <div>
+                            <p class="font-semibold">${(user.followers || 0).toLocaleString()}</p>
+                            <p class="text-gray-600 text-sm">Followers</p>
+                        </div>
+                        <div>
+                            <p class="font-semibold">${(user.following || 0).toLocaleString()}</p>
+                            <p class="text-gray-600 text-sm">Following</p>
+                        </div>
+                        <div>
+                            <p class="font-semibold">${(user.statusesCount || 0).toLocaleString()}</p>
+                            <p class="text-gray-600 text-sm">Tweets</p>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+    </script>
+</body>
+</html> 
