@@ -16,6 +16,7 @@ require('dotenv').config();
  * @param {String} [options.end] - End date (YYYY-MM-DD)
  * @returns {Promise<Object>} - The scraped data and dataset info
  */
+
 async function scrapeTwitterData(options = {}) {
   try {
     console.log('Twitter scraper service called with options:', JSON.stringify(options, null, 2));

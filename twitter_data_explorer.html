@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Data Explorer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .header {
+            background-color: #1DA1F2;
+            color: white;
+            padding: 20px 0;
+            margin-bottom: 30px;
+        }
+        .tweet-card {
+            border-radius: 12px;
+            border: 1px solid #e1e8ed;
+            padding: 15px;
+            margin-bottom: 20px;
+            background-color: white;
+            transition: all 0.2s ease;
+        }
+        .tweet-card:hover {
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+        .profile-image {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .user-name {
+            font-weight: bold;
+            margin-bottom: 0;
+        }
+        .user-handle {
+            color: #657786;
+            font-size: 0.9rem;
+        }
+        .tweet-text {
+            margin-top: 10px;
+            font-size: 1rem;
+            line-height: 1.4;
+        }
+        .tweet-stats {
+            display: flex;
+            margin-top: 10px;
+            color: #657786;
+            font-size: 0.9rem;
+        }
+        .tweet-stat {
+            margin-right: 20px;
+        }
+        .verified-badge {
+            color: #1DA1F2;
+            font-size: 0.9rem;
+            margin-left: 5px;
+        }
+        .tweet-date {
+            color: #657786;
+            font-size: 0.85rem;
+        }
+        .dashboard-card {
+            background-color: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #1DA1F2;
+        }
+        .stat-label {
+            color: #657786;
+            font-size: 0.9rem;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: #657786;
+        }
+        .hashtag, .mention {
+            color: #1DA1F2;
+            text-decoration: none;
+        }
+        .hashtag:hover, .mention:hover {
+            text-decoration: underline;
+        }
+        .filter-section {
+            background-color: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        .media-container {
+            margin-top: 10px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .media-container img {
+            max-width: 100%;
+            border-radius: 12px;
+        }
+        .file-input-section {
+            background-color: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        .file-input-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .file-input-container .btn-group {
+            display: flex;
+            gap: 10px;
+        }
+        .current-file {
+            font-size: 0.9rem;
+            color: #657786;
+            margin-top: 10px;
+        }
+        .current-file strong {
+            font-weight: 600;
+            color: #1DA1F2;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1 class="text-center">Twitter Data Explorer</h1>
+            <p class="text-center mb-0">Analyze Twitter data from JSON files</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- File Input Section -->
+        <div class="file-input-section mb-4">
+            <h5 class="mb-3">Data Source</h5>
+            <div class="file-input-container">
+                <div class="row">
+                    <div class="col-md-8 mb-3">
+                        <input type="file" class="form-control" id="file-input" accept=".json">
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="btn-group w-100">
+                            <button class="btn btn-primary" id="load-file-btn">Load Selected File</button>
+                            <button class="btn btn-secondary" id="load-default-btn">Load Default File</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="current-file">
+                    Currently loaded: <strong id="current-file-name">twitter_scraped_data_2025-03-11T07-05-06-272Z.json</strong>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dashboard -->
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <div class="dashboard-card text-center">
+                    <div class="stat-number" id="total-tweets">0</div>
+                    <div class="stat-label">Total Tweets</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="dashboard-card text-center">
+                    <div class="stat-number" id="total-likes">0</div>
+                    <div class="stat-label">Total Likes</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="dashboard-card text-center">
+                    <div class="stat-number" id="total-retweets">0</div>
+                    <div class="stat-label">Total Retweets</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="dashboard-card text-center">
+                    <div class="stat-number" id="unique-users">0</div>
+                    <div class="stat-label">Unique Users</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="filter-section mb-4">
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="search-input" class="form-label">Search Tweets</label>
+                    <input type="text" class="form-control" id="search-input" placeholder="Search by text, username, or hashtag">
+                </div>
+                <div class="col-md-3 mb-3">
+                    <label for="sort-select" class="form-label">Sort By</label>
+                    <select class="form-select" id="sort-select">
+                        <option value="date-desc">Date (Newest First)</option>
+                        <option value="date-asc">Date (Oldest First)</option>
+                        <option value="likes-desc">Likes (High to Low)</option>
+                        <option value="retweets-desc">Retweets (High to Low)</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mb-3">
+                    <label for="filter-select" class="form-label">Filter By</label>
+                    <select class="form-select" id="filter-select">
+                        <option value="all">All Tweets</option>
+                        <option value="has-media">With Media</option>
+                        <option value="has-mentions">With Mentions</option>
+                        <option value="has-hashtags">With Hashtags</option>
+                        <option value="verified">Verified Users</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading indicator -->
+        <div id="loading" class="loading">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p class="mt-2">Loading Twitter data...</p>
+        </div>
+
+        <!-- Tweets container -->
+        <div id="tweets-container" class="mb-5" style="display: none;"></div>
+
+        <!-- Pagination -->
+        <div class="d-flex justify-content-center mb-5">
+            <nav aria-label="Tweet pagination">
+                <ul class="pagination" id="pagination">
+                    <!-- Pagination will be generated here -->
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let allTweets = [];
+        let filteredTweets = [];
+        let currentPage = 1;
+        const tweetsPerPage = 100;
+        const defaultDataFile = 'testdata/twitter_scraped_data_2025-03-11T07-05-06-272Z.json';
+        let currentDataFile = defaultDataFile;
+
+        // DOM elements
+        const loadingElement = document.getElementById('loading');
+        const tweetsContainer = document.getElementById('tweets-container');
+        const paginationElement = document.getElementById('pagination');
+        const searchInput = document.getElementById('search-input');
+        const sortSelect = document.getElementById('sort-select');
+        const filterSelect = document.getElementById('filter-select');
+        const totalTweetsElement = document.getElementById('total-tweets');
+        const totalLikesElement = document.getElementById('total-likes');
+        const totalRetweetsElement = document.getElementById('total-retweets');
+        const uniqueUsersElement = document.getElementById('unique-users');
+        const fileInput = document.getElementById('file-input');
+        const loadFileBtn = document.getElementById('load-file-btn');
+        const loadDefaultBtn = document.getElementById('load-default-btn');
+        const currentFileName = document.getElementById('current-file-name');
+
+        // Format date to a readable string
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        // Format tweet text with hashtags and mentions
+        function formatTweetText(text, entities) {
+            if (!text) return '';
+            
+            let formattedText = text;
+            
+            // Replace mentions
+            if (entities && entities.user_mentions) {
+                entities.user_mentions.forEach(mention => {
+                    const mentionRegex = new RegExp(`@${mention.screen_name}`, 'gi');
+                    formattedText = formattedText.replace(
+                        mentionRegex, 
+                        `<a href="https://twitter.com/${mention.screen_name}" class="mention" target="_blank">@${mention.screen_name}</a>`
+                    );
+                });
+            }
+            
+            // Replace hashtags
+            if (entities && entities.hashtags) {
+                entities.hashtags.forEach(hashtag => {
+                    const hashtagRegex = new RegExp(`#${hashtag.text}`, 'gi');
+                    formattedText = formattedText.replace(
+                        hashtagRegex, 
+                        `<a href="https://twitter.com/hashtag/${hashtag.text}" class="hashtag" target="_blank">#${hashtag.text}</a>`
+                    );
+                });
+            }
+            
+            // Replace URLs
+            if (entities && entities.urls) {
+                entities.urls.forEach(url => {
+                    formattedText = formattedText.replace(
+                        url.url, 
+                        `<a href="${url.expanded_url}" target="_blank" class="tweet-url">${url.display_url}</a>`
+                    );
+                });
+            }
+            
+            return formattedText;
+        }
+
+        // Create tweet HTML
+        function createTweetHTML(tweet) {
+            const user = tweet.user;
+            const verifiedBadge = user.verified ? '<span class="verified-badge">✓</span>' : '';
+            
+            // Check for media
+            let mediaHTML = '';
+            if (tweet.extended_entities && tweet.extended_entities.media) {
+                mediaHTML = '<div class="media-container">';
+                tweet.extended_entities.media.forEach(media => {
+                    if (media.type === 'photo') {
+                        mediaHTML += `<img src="${media.media_url_https}" alt="Tweet media" class="img-fluid">`;
+                    }
+                });
+                mediaHTML += '</div>';
+            }
+            
+            return `
+                <div class="tweet-card">
+                    <div class="d-flex">
+                        <img src="${user.profile_image_url_https}" alt="${user.name}" class="profile-image me-3">
+                        <div>
+                            <div class="d-flex align-items-center">
+                                <p class="user-name">${user.name}</p>
+                                ${verifiedBadge}
+                            </div>
+                            <p class="user-handle">@${user.screen_name}</p>
+                        </div>
+                    </div>
+                    <div class="tweet-text">${formatTweetText(tweet.full_text, tweet.entities)}</div>
+                    ${mediaHTML}
+                    <div class="tweet-date">${formatDate(tweet.created_at)}</div>
+                    <div class="tweet-stats">
+                        <div class="tweet-stat">
+                            <i class="bi bi-heart"></i> ${tweet.favorite_count} Likes
+                        </div>
+                        <div class="tweet-stat">
+                            <i class="bi bi-repeat"></i> ${tweet.retweet_count} Retweets
+                        </div>
+                        <div class="tweet-stat">
+                            <i class="bi bi-chat"></i> ${tweet.reply_count} Replies
+                        </div>
+                        <div class="tweet-stat">
+                            <i class="bi bi-eye"></i> ${tweet.views_count || 0} Views
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Display tweets for the current page
+        function displayTweets() {
+            const startIndex = (currentPage - 1) * tweetsPerPage;
+            const endIndex = startIndex + tweetsPerPage;
+            const tweetsToDisplay = filteredTweets.slice(startIndex, endIndex);
+            
+            tweetsContainer.innerHTML = '';
+            
+            if (tweetsToDisplay.length === 0) {
+                tweetsContainer.innerHTML = '<div class="alert alert-info">No tweets found matching your criteria.</div>';
+                return;
+            }
+            
+            tweetsToDisplay.forEach(tweet => {
+                tweetsContainer.innerHTML += createTweetHTML(tweet);
+            });
+        }
+
+        // Generate pagination
+        function generatePagination() {
+            const totalPages = Math.ceil(filteredTweets.length / tweetsPerPage);
+            paginationElement.innerHTML = '';
+            
+            // Previous button
+            const prevLi = document.createElement('li');
+            prevLi.className = `page-item ${currentPage === 1 ? 'disabled' : ''}`;
+            prevLi.innerHTML = '<a class="page-link" href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>';
+            prevLi.addEventListener('click', (e) => {
+                e.preventDefault();
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayTweets();
+                    generatePagination();
+                    window.scrollTo(0, 0);
+                }
+            });
+            paginationElement.appendChild(prevLi);
+            
+            // Page numbers
+            const maxPages = 5;
+            let startPage = Math.max(1, currentPage - Math.floor(maxPages / 2));
+            let endPage = Math.min(totalPages, startPage + maxPages - 1);
+            
+            if (endPage - startPage + 1 < maxPages) {
+                startPage = Math.max(1, endPage - maxPages + 1);
+            }
+            
+            for (let i = startPage; i <= endPage; i++) {
+                const pageLi = document.createElement('li');
+                pageLi.className = `page-item ${i === currentPage ? 'active' : ''}`;
+                pageLi.innerHTML = `<a class="page-link" href="#">${i}</a>`;
+                pageLi.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    currentPage = i;
+                    displayTweets();
+                    generatePagination();
+                    window.scrollTo(0, 0);
+                });
+                paginationElement.appendChild(pageLi);
+            }
+            
+            // Next button
+            const nextLi = document.createElement('li');
+            nextLi.className = `page-item ${currentPage === totalPages ? 'disabled' : ''}`;
+            nextLi.innerHTML = '<a class="page-link" href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>';
+            nextLi.addEventListener('click', (e) => {
+                e.preventDefault();
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayTweets();
+                    generatePagination();
+                    window.scrollTo(0, 0);
+                }
+            });
+            paginationElement.appendChild(nextLi);
+        }
+
+        // Update dashboard statistics
+        function updateStats() {
+            totalTweetsElement.textContent = allTweets.length.toLocaleString();
+            
+            const totalLikes = allTweets.reduce((sum, tweet) => sum + (tweet.favorite_count || 0), 0);
+            totalLikesElement.textContent = totalLikes.toLocaleString();
+            
+            const totalRetweets = allTweets.reduce((sum, tweet) => sum + (tweet.retweet_count || 0), 0);
+            totalRetweetsElement.textContent = totalRetweets.toLocaleString();
+            
+            const uniqueUsers = new Set(allTweets.map(tweet => tweet.user.screen_name)).size;
+            uniqueUsersElement.textContent = uniqueUsers.toLocaleString();
+        }
+
+        // Filter and sort tweets
+        function filterAndSortTweets() {
+            const searchTerm = searchInput.value.toLowerCase();
+            const sortOption = sortSelect.value;
+            const filterOption = filterSelect.value;
+            
+            // Filter tweets
+            filteredTweets = allTweets.filter(tweet => {
+                // Search term filter
+                const matchesSearch = !searchTerm || 
+                    (tweet.full_text && tweet.full_text.toLowerCase().includes(searchTerm)) ||
+                    (tweet.user.name && tweet.user.name.toLowerCase().includes(searchTerm)) ||
+                    (tweet.user.screen_name && tweet.user.screen_name.toLowerCase().includes(searchTerm));
+                
+                // Additional filters
+                let passesFilter = true;
+                
+                switch (filterOption) {
+                    case 'has-media':
+                        passesFilter = tweet.extended_entities && tweet.extended_entities.media && tweet.extended_entities.media.length > 0;
+                        break;
+                    case 'has-mentions':
+                        passesFilter = tweet.entities && tweet.entities.user_mentions && tweet.entities.user_mentions.length > 0;
+                        break;
+                    case 'has-hashtags':
+                        passesFilter = tweet.entities && tweet.entities.hashtags && tweet.entities.hashtags.length > 0;
+                        break;
+                    case 'verified':
+                        passesFilter = tweet.user && tweet.user.verified;
+                        break;
+                }
+                
+                return matchesSearch && passesFilter;
+            });
+            
+            // Sort tweets
+            switch (sortOption) {
+                case 'date-desc':
+                    filteredTweets.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+                    break;
+                case 'date-asc':
+                    filteredTweets.sort((a, b) => new Date(a.created_at) - new Date(a.created_at));
+                    break;
+                case 'likes-desc':
+                    filteredTweets.sort((a, b) => (b.favorite_count || 0) - (a.favorite_count || 0));
+                    break;
+                case 'retweets-desc':
+                    filteredTweets.sort((a, b) => (b.retweet_count || 0) - (a.retweet_count || 0));
+                    break;
+            }
+            
+            // Reset to first page and update display
+            currentPage = 1;
+            displayTweets();
+            generatePagination();
+        }
+
+        // Reset UI for new data loading
+        function resetUI() {
+            // Show loading indicator
+            loadingElement.style.display = 'block';
+            tweetsContainer.style.display = 'none';
+            
+            // Reset loading indicator content
+            loadingElement.innerHTML = `
+                <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+                <p class="mt-2">Loading Twitter data...</p>
+            `;
+            
+            // Reset search and filters
+            searchInput.value = '';
+            sortSelect.value = 'date-desc';
+            filterSelect.value = 'all';
+            
+            // Reset pagination
+            currentPage = 1;
+        }
+
+        // Load Twitter data from URL
+        async function loadTwitterDataFromURL(url) {
+            resetUI();
+            
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Failed to load data: ${response.status} ${response.statusText}`);
+                }
+                
+                allTweets = await response.json();
+                filteredTweets = [...allTweets];
+                
+                // Update stats
+                updateStats();
+                
+                // Initial sort by date (newest first)
+                filteredTweets.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+                
+                // Display tweets and pagination
+                displayTweets();
+                generatePagination();
+                
+                // Hide loading, show tweets
+                loadingElement.style.display = 'none';
+                tweetsContainer.style.display = 'block';
+                
+                // Update current file name display
+                const fileName = url.split('/').pop();
+                currentFileName.textContent = fileName;
+                currentDataFile = url;
+                
+                return true;
+            } catch (error) {
+                console.error('Error loading Twitter data:', error);
+                loadingElement.innerHTML = `
+                    <div class="alert alert-danger">
+                        <h4>Error Loading Data</h4>
+                        <p>${error.message}</p>
+                        <p>Please check that the file exists at: ${url}</p>
+                    </div>
+                `;
+                return false;
+            }
+        }
+
+        // Load Twitter data from File object
+        async function loadTwitterDataFromFile(file) {
+            resetUI();
+            
+            try {
+                const fileContent = await file.text();
+                allTweets = JSON.parse(fileContent);
+                filteredTweets = [...allTweets];
+                
+                // Update stats
+                updateStats();
+                
+                // Initial sort by date (newest first)
+                filteredTweets.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+                
+                // Display tweets and pagination
+                displayTweets();
+                generatePagination();
+                
+                // Hide loading, show tweets
+                loadingElement.style.display = 'none';
+                tweetsContainer.style.display = 'block';
+                
+                // Update current file name display
+                currentFileName.textContent = file.name;
+                
+                return true;
+            } catch (error) {
+                console.error('Error loading Twitter data from file:', error);
+                loadingElement.innerHTML = `
+                    <div class="alert alert-danger">
+                        <h4>Error Loading Data</h4>
+                        <p>${error.message}</p>
+                        <p>Please check that the file contains valid JSON data in the expected format.</p>
+                    </div>
+                `;
+                return false;
+            }
+        }
+
+        // Event listeners
+        searchInput.addEventListener('input', filterAndSortTweets);
+        sortSelect.addEventListener('change', filterAndSortTweets);
+        filterSelect.addEventListener('change', filterAndSortTweets);
+        
+        // File input event listeners
+        loadFileBtn.addEventListener('click', () => {
+            const file = fileInput.files[0];
+            if (file) {
+                loadTwitterDataFromFile(file);
+            } else {
+                alert('Please select a file first.');
+            }
+        });
+        
+        loadDefaultBtn.addEventListener('click', () => {
+            loadTwitterDataFromURL(defaultDataFile);
+        });
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            loadTwitterDataFromURL(defaultDataFile);
+        });
+    </script>
+</body>
+</html> 

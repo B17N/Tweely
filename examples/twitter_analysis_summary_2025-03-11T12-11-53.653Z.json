@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "timestamp": "2025-03-11T12-11-53.653Z",
+    "source_file": "twitter_scraped_data_2025-03-11T07-05-06-272Z.json",
+    "usernames_file": "twitter_usernames_2025-03-11T11-46-54.112Z.json",
+    "total_users": 12,
+    "processed_users": 12
+  },
+  "analyses": [
+    {
+      "username": "dorgo_eth",
+      "name": "dorgo.eth ✝️🇺🇦",
+      "tweetCount": 3,
+      "summary": "The tweets by @dorgo_eth mainly focus on criticizing Russia, questioning its status as a technological state, calling for the dismantling of the Russian empire, and expressing concern about its dictatorship spreading globally if not stopped. There is also a mention of supporting a piece of art and a request for engagement with another user's tweet. Overall, the sentiment in the tweets is critical and aimed at highlighting issues with the Russian government.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/dorgo_eth_analysis_2025-03-11T12-11-56.217Z.txt"
+    },
+    {
+      "username": "Fatalmeh",
+      "name": "matrianarcute",
+      "tweetCount": 33,
+      "summary": "The tweets cover various topics such as criticism of legal advice, ethics in crypto, lawyers' roles, technology preferences, mental health, professional relationships, and hacker dynamics. The sentiment is a mix of skepticism, reflection, curiosity, concern, and occasional light-heartedness. There are discussions on the impact of dopamine, the role of lawyers in social and business contexts, and musings on hacking and criminal associations. The tone is introspective, critical, and at times playful, with an emphasis on questioning established norms and assumptions.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/Fatalmeh_analysis_2025-03-11T12-12-03.086Z.txt"
+    },
+    {
+      "username": "fradamt",
+      "name": "Francesco",
+      "tweetCount": 3,
+      "summary": "The tweets from @fradamt mainly revolve around casual observations and interactions on social media. The first tweet seems to express a sense of excitement or anticipation, possibly related to a refreshing or energizing experience. The second tweet with popcorn emojis may suggest enjoying some entertainment or being ready to watch something. The mention of muting someone without remembering why in the third tweet highlights the common experience of managing social media connections and the challenges of keeping track of them. Overall, the tweets touch on relatable, lighthearted interactions and experiences in the digital space.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/fradamt_analysis_2025-03-11T12-12-08.493Z.txt"
+    },
+    {
+      "username": "gavofyork",
+      "name": "Gavin Wood",
+      "tweetCount": 2,
+      "summary": "@Gavofyork tweeted about two different topics. In the first tweet, he expressed his opinion that missionaries are needed rather than mercenaries. The second tweet was about computation done for DOOM being run on JAM, inviting engagement and offering explanations in JAM Chat room on Matrix or during presentations. The sentiment in these tweets appears to be neutral with a focus on sharing information and opinions.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/gavofyork_analysis_2025-03-11T12-12-12.889Z.txt"
+    },
+    {
+      "username": "JanineLeger",
+      "name": "Janine Leger",
+      "tweetCount": 5,
+      "summary": "The main topics in these tweets include supporting young entrepreneurs, promoting healthy products, celebrating integrity in business, discussing urban development and the environment, and admiration for the \"Whole Earth Catalog.\" The overall sentiment is positive, with expressions of inspiration, admiration, and enthusiasm for innovative ideas and initiatives.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/JanineLeger_analysis_2025-03-11T12-12-17.087Z.txt"
+    },
+    {
+      "username": "kassandraETH",
+      "name": "mrs kzg.eth",
+      "tweetCount": 12,
+      "summary": "The tweets from @kassandraETH cover various topics related to blockchain technology and Ethereum. The main themes include discussions on wallet operations, interactions with decentralized finance (DeFi) applications, HD wallet paths, and the need for changes in the wallet/authentication layer. There is also a mention of BIP32/39/44 and ERC600 standards. The overall sentiment appears to be technical and focused on proposing improvements and advancements in the field of cryptocurrency and blockchain technology.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/kassandraETH_analysis_2025-03-11T12-12-22.430Z.txt"
+    },
+    {
+      "username": "mashbean",
+      "name": "mashbean｜豆泥｜ドゥに｜도니",
+      "tweetCount": 1,
+      "summary": "The tweet by @mashbean talks about the discovery that Wu Guoguang was only 30 years old when he wrote a paper on political system reform with Zhao Ziyang. The tweet seems to touch on a historical and political aspect, highlighting the young age of Wu Guoguang when he made significant contributions in this area. The sentiment appears to be informative and insightful.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/mashbean_analysis_2025-03-11T12-12-26.923Z.txt"
+    },
+    {
+      "username": "ml_sudo",
+      "name": "ml_sudo",
+      "tweetCount": 7,
+      "summary": "The tweets cover various topics. The user discusses issues related to Ethereum, including EIP standard changes, Ledger limitations, and the concept of upgradable contracts. There is also a mention of Zcash's financial situation within a year. Additionally, the user comments on Google's decision to remove International Women's Day from its cultural calendar and questions the company's commitment to diversity and inclusivity. The sentiment in the tweets ranges from curiosity and confusion about technical concepts to criticism towards corporate decisions.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/ml_sudo_analysis_2025-03-11T12-12-31.423Z.txt"
+    },
+    {
+      "username": "nero_eth",
+      "name": "Toni Wahrstätter ⟠",
+      "tweetCount": 1,
+      "summary": "The tweets from @nero_eth mainly focus on discussing issues related to the Pectra hardfork on Sepolia. The writer highlights a write-up that touches upon the problems arising from weird edge cases and causing significant disruptions due to the hardfork. The overall sentiment seems to be critical of the complications and challenges faced during this process.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/nero_eth_analysis_2025-03-11T12-12-35.661Z.txt"
+    },
+    {
+      "username": "OctantApp",
+      "name": "Octant.eth",
+      "tweetCount": 19,
+      "summary": "The tweets from @OctantApp cover a variety of topics such as design in the industry, job applications, collaborations with other companies like @ensdomains, community engagement for rewards, and casual interactions with followers. The tone appears to be lively and engaging, with mentions of doubling rewards, encouraging participation in events, and playful banter among users. Overall, the tweets convey a sense of positivity, excitement, and camaraderie within the community.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/OctantApp_analysis_2025-03-11T12-12-40.304Z.txt"
+    },
+    {
+      "username": "pcaversaccio",
+      "name": "sudo rm -rf --no-preserve-root /",
+      "tweetCount": 7,
+      "summary": "The tweets from @pcaversaccio predominantly discuss issues related to the cryptocurrency industry, donations, security measures, and technological upgrades. The sentiment expressed is one of frustration and criticism towards the industry's approach to donations and the handling of upgrades. The importance of incremental evolution in technology and avoiding unnecessary complexity is emphasized. There is also a mention of a donation address being set up and gratitude expressed for assistance in setting it up.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/pcaversaccio_analysis_2025-03-11T12-12-45.169Z.txt"
+    },
+    {
+      "username": "tkstanczak",
+      "name": "Tomasz K. Stańczak",
+      "tweetCount": 7,
+      "summary": "The tweets from @tkstanczak cover a range of topics, including suggesting organizing the Olympics, acknowledging the popularity of something, discussing collaborations with @infiniteyay on projects involving onchain, AI, and NFTs, emphasizing Ethereum's role in enabling these projects, and sharing insights on building local Ethereum communities. Additionally, there is a reference to stories with a central theme of favor in character interactions. The overall sentiment seems positive and focused on exploring technology and community building within the cryptocurrency space.",
+      "filePath": "/Users/stevenevans/Documents/MyDocument/Hackathon/testdata/tkstanczak_analysis_2025-03-11T12-12-49.750Z.txt"
+    }
+  ]
+}

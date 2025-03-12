@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Analysis Visualization</title>
+    <style>
+        :root {
+            --primary-color: #1DA1F2;
+            --secondary-color: #14171A;
+            --background-color: #f5f8fa;
+            --card-bg: #ffffff;
+            --text-color: #14171A;
+            --border-color: #e1e8ed;
+            --highlight-color: #1DA1F2;
+            --muted-color: #657786;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            margin-bottom: 30px;
+            border-radius: 0 0 10px 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        .metadata {
+            background-color: var(--card-bg);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .metadata h2 {
+            color: var(--primary-color);
+            margin-top: 0;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 10px;
+        }
+
+        .metadata-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .metadata-item {
+            background-color: var(--background-color);
+            padding: 10px 15px;
+            border-radius: 5px;
+            border-left: 4px solid var(--primary-color);
+        }
+
+        .metadata-item strong {
+            display: block;
+            color: var(--muted-color);
+            font-size: 0.9rem;
+            margin-bottom: 5px;
+        }
+
+        .user-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .user-card {
+            background-color: var(--card-bg);
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .user-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .user-header {
+            background-color: var(--secondary-color);
+            color: white;
+            padding: 15px;
+            position: relative;
+        }
+
+        .user-name {
+            margin: 0;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .username {
+            color: var(--muted-color);
+            font-weight: normal;
+            margin-left: 10px;
+            font-size: 1rem;
+        }
+
+        .tweet-count {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background-color: var(--primary-color);
+            color: white;
+            border-radius: 20px;
+            padding: 3px 10px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .user-body {
+            padding: 20px;
+        }
+
+        .summary {
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .view-details {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .view-details:hover {
+            background-color: #0c85d0;
+        }
+
+        .stats-container {
+            margin-top: 30px;
+        }
+
+        .chart-container {
+            background-color: var(--card-bg);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .chart-container h2 {
+            color: var(--primary-color);
+            margin-top: 0;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 10px;
+        }
+
+        .chart {
+            height: 300px;
+            margin-top: 20px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: var(--muted-color);
+        }
+
+        .error {
+            background-color: #fde8e8;
+            color: #e53e3e;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border-left: 4px solid #e53e3e;
+        }
+
+        @media (max-width: 768px) {
+            .user-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .metadata-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            overflow: auto;
+        }
+
+        .modal-content {
+            background-color: var(--card-bg);
+            margin: 5% auto;
+            padding: 20px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .close {
+            color: var(--muted-color);
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .close:hover {
+            color: var(--text-color);
+        }
+
+        .tweet-list {
+            margin-top: 20px;
+        }
+
+        .tweet {
+            background-color: var(--background-color);
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 4px solid var(--primary-color);
+        }
+
+        .tweet-date {
+            color: var(--muted-color);
+            font-size: 0.9rem;
+            margin-bottom: 5px;
+        }
+
+        .tweet-content {
+            margin-bottom: 0;
+        }
+
+        .file-selector {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: var(--background-color);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .file-selector label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        .file-selector input {
+            padding: 8px;
+            border: 1px solid var(--border-color);
+            border-radius: 5px;
+            width: 100%;
+        }
+
+        .file-selector button {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        .file-selector button:hover {
+            background-color: #0c85d0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Twitter Analysis Visualization</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="file-selector">
+            <label for="jsonFileInput">Enter JSON file path:</label>
+            <input type="text" id="jsonFileInput" placeholder="e.g., testdata/twitter_analysis_summary_2025-03-11T12-39-42.390Z.json">
+            <button id="loadFileButton">Load Analysis</button>
+            <p>Default: testdata/twitter_analysis_summary_2025-03-11T12-11-53.653Z.json</p>
+        </div>
+
+        <div id="errorContainer" class="error" style="display: none;"></div>
+
+        <div id="loadingContainer" class="loading">
+            Loading analysis data...
+        </div>
+
+        <div id="contentContainer" style="display: none;">
+            <div class="metadata">
+                <h2>Analysis Metadata</h2>
+                <div class="metadata-grid" id="metadataGrid">
+                    <!-- Metadata will be inserted here -->
+                </div>
+            </div>
+
+            <div class="chart-container">
+                <h2>Tweet Count by User</h2>
+                <div class="chart" id="tweetCountChart">
+                    <!-- Chart will be rendered here -->
+                </div>
+            </div>
+
+            <h2>User Analysis</h2>
+            <div class="user-grid" id="userGrid">
+                <!-- User cards will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <div id="userModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalUsername"></h2>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const loadingContainer = document.getElementById('loadingContainer');
+            const contentContainer = document.getElementById('contentContainer');
+            const errorContainer = document.getElementById('errorContainer');
+            const metadataGrid = document.getElementById('metadataGrid');
+            const userGrid = document.getElementById('userGrid');
+            const tweetCountChart = document.getElementById('tweetCountChart');
+            const modal = document.getElementById('userModal');
+            const modalUsername = document.getElementById('modalUsername');
+            const modalContent = document.getElementById('modalContent');
+            const closeModal = document.querySelector('.close');
+            const jsonFileInput = document.getElementById('jsonFileInput');
+            const loadFileButton = document.getElementById('loadFileButton');
+
+            // Set default file path
+            jsonFileInput.value = 'twitter_analysis_summary_2025-03-11T12-39-42.390Z.json';
+
+            // Close modal when clicking the X
+            closeModal.onclick = function() {
+                modal.style.display = 'none';
+            };
+
+            // Close modal when clicking outside of it
+            window.onclick = function(event) {
+                if (event.target === modal) {
+                    modal.style.display = 'none';
+                }
+            };
+
+            // Load file button click handler
+            loadFileButton.onclick = function() {
+                const filePath = jsonFileInput.value.trim();
+                if (filePath) {
+                    loadAnalysisData(filePath);
+                } else {
+                    showError('Please enter a valid file path');
+                }
+            };
+
+            // Function to load and display the analysis data
+            function loadAnalysisData(filePath) {
+                // Show loading, hide content and error
+                loadingContainer.style.display = 'block';
+                contentContainer.style.display = 'none';
+                errorContainer.style.display = 'none';
+
+                // Fetch the JSON file
+                fetch(filePath)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Failed to load file: ${response.status} ${response.statusText}`);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        // Process and display the data
+                        displayAnalysisData(data);
+                    })
+                    .catch(error => {
+                        showError(`Error loading analysis data: ${error.message}`);
+                    });
+            }
+
+            // Function to display error messages
+            function showError(message) {
+                errorContainer.textContent = message;
+                errorContainer.style.display = 'block';
+                loadingContainer.style.display = 'none';
+            }
+
+            // Function to display the analysis data
+            function displayAnalysisData(data) {
+                // Display metadata
+                displayMetadata(data.metadata);
+
+                // Display user analysis
+                displayUserAnalysis(data.analyses);
+
+                // Display tweet count chart
+                displayTweetCountChart(data.analyses);
+
+                // Hide loading, show content
+                loadingContainer.style.display = 'none';
+                contentContainer.style.display = 'block';
+            }
+
+            // Function to display metadata
+            function displayMetadata(metadata) {
+                metadataGrid.innerHTML = '';
+
+                for (const [key, value] of Object.entries(metadata)) {
+                    const metadataItem = document.createElement('div');
+                    metadataItem.className = 'metadata-item';
+                    
+                    const label = document.createElement('strong');
+                    label.textContent = formatLabel(key);
+                    
+                    const valueElement = document.createElement('span');
+                    valueElement.textContent = value;
+                    
+                    metadataItem.appendChild(label);
+                    metadataItem.appendChild(valueElement);
+                    metadataGrid.appendChild(metadataItem);
+                }
+            }
+
+            // Function to format label text
+            function formatLabel(key) {
+                return key
+                    .replace(/_/g, ' ')
+                    .replace(/\b\w/g, l => l.toUpperCase());
+            }
+
+            // Function to display user analysis
+            function displayUserAnalysis(analyses) {
+                userGrid.innerHTML = '';
+
+                analyses.forEach(user => {
+                    const userCard = document.createElement('div');
+                    userCard.className = 'user-card';
+
+                    const userHeader = document.createElement('div');
+                    userHeader.className = 'user-header';
+
+                    const userName = document.createElement('h3');
+                    userName.className = 'user-name';
+                    userName.textContent = user.name;
+
+                    const username = document.createElement('span');
+                    username.className = 'username';
+                    username.textContent = `@${user.username}`;
+                    userName.appendChild(username);
+
+                    const tweetCount = document.createElement('span');
+                    tweetCount.className = 'tweet-count';
+                    tweetCount.textContent = `${user.tweetCount} tweets`;
+
+                    userHeader.appendChild(userName);
+                    userHeader.appendChild(tweetCount);
+
+                    const userBody = document.createElement('div');
+                    userBody.className = 'user-body';
+
+                    const summary = document.createElement('div');
+                    summary.className = 'summary';
+                    summary.textContent = user.summary;
+
+                    const viewDetails = document.createElement('a');
+                    viewDetails.className = 'view-details';
+                    viewDetails.textContent = 'View Details';
+                    viewDetails.href = '#';
+                    viewDetails.onclick = function(e) {
+                        e.preventDefault();
+                        showUserDetails(user);
+                    };
+
+                    userBody.appendChild(summary);
+                    userBody.appendChild(viewDetails);
+
+                    userCard.appendChild(userHeader);
+                    userCard.appendChild(userBody);
+
+                    userGrid.appendChild(userCard);
+                });
+            }
+
+            // Function to show user details in modal
+            function showUserDetails(user) {
+                modalUsername.textContent = `${user.name} (@${user.username})`;
+                
+                let content = `
+                    <p><strong>Tweet Count:</strong> ${user.tweetCount}</p>
+                    <h3>Summary</h3>
+                    <p>${user.summary}</p>
+                `;
+                
+                if (user.filePath) {
+                    content += `
+                        <h3>Analysis File</h3>
+                        <p>Full analysis saved to: <code>${user.filePath}</code></p>
+                    `;
+                }
+                
+                modalContent.innerHTML = content;
+                modal.style.display = 'block';
+            }
+
+            // Function to display tweet count chart
+            function displayTweetCountChart(analyses) {
+                // Sort users by tweet count (descending)
+                const sortedUsers = [...analyses].sort((a, b) => b.tweetCount - a.tweetCount);
+                
+                // Create a simple bar chart
+                let chartHtml = '<div style="display: flex; height: 100%; align-items: flex-end;">';
+                
+                sortedUsers.forEach(user => {
+                    // Calculate height percentage (max 90%)
+                    const maxTweetCount = Math.max(...sortedUsers.map(u => u.tweetCount));
+                    const heightPercentage = (user.tweetCount / maxTweetCount) * 90;
+                    
+                    chartHtml += `
+                        <div style="flex: 1; display: flex; flex-direction: column; align-items: center; margin: 0 5px;">
+                            <div style="height: ${heightPercentage}%; background-color: var(--primary-color); width: 80%; border-radius: 5px 5px 0 0; position: relative;">
+                                <span style="position: absolute; top: -25px; left: 50%; transform: translateX(-50%); white-space: nowrap;">${user.tweetCount}</span>
+                            </div>
+                            <div style="margin-top: 10px; text-align: center; font-size: 0.8rem; overflow: hidden; text-overflow: ellipsis; width: 100%; white-space: nowrap;" title="@${user.username}">@${user.username}</div>
+                        </div>
+                    `;
+                });
+                
+                chartHtml += '</div>';
+                tweetCountChart.innerHTML = chartHtml;
+            }
+
+            // Load the default file on page load
+            loadAnalysisData(jsonFileInput.value);
+        });
+    </script>
+</body>
+</html> 

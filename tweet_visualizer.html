@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Scraper Data Visualization</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .tweet-card {
+            transition: all 0.3s ease;
+        }
+        .tweet-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        .data-viewer {
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        .hashtag {
+            color: #1DA1F2;
+        }
+        .mention {
+            color: #1DA1F2;
+        }
+        .link {
+            color: #1DA1F2;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-8 text-center text-gray-800">Twitter Scraper Data Visualization</h1>
+        
+        <!-- File Selection -->
+        <div class="mb-8 bg-white rounded-lg shadow p-6">
+            <h2 class="text-xl font-semibold mb-4">Select Data File</h2>
+            <div class="flex flex-col md:flex-row gap-4">
+                <input type="file" id="fileInput" accept=".json" class="block w-full text-sm text-gray-500
+                    file:mr-4 file:py-2 file:px-4
+                    file:rounded-full file:border-0
+                    file:text-sm file:font-semibold
+                    file:bg-blue-50 file:text-blue-700
+                    hover:file:bg-blue-100
+                ">
+                <button id="loadLatestBtn" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
+                    Load Latest Data
+                </button>
+            </div>
+            <div class="mt-4 text-sm text-gray-600">
+                Currently targeting: <span class="font-mono">twitter_scraped_data_2025-03-11T07-05-06-272Z.json</span>
+            </div>
+        </div>
+
+        <!-- Stats Summary -->
+        <div id="stats" class="mb-8 grid grid-cols-1 md:grid-cols-4 gap-4">
+            <div class="bg-white rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold mb-2 text-gray-700">Total Tweets</h3>
+                <p id="totalTweets" class="text-3xl font-bold text-blue-600">-</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold mb-2 text-gray-700">Total Likes</h3>
+                <p id="totalLikes" class="text-3xl font-bold text-green-600">-</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold mb-2 text-gray-700">Total Retweets</h3>
+                <p id="totalRetweets" class="text-3xl font-bold text-purple-600">-</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold mb-2 text-gray-700">Unique Authors</h3>
+                <p id="uniqueAuthors" class="text-3xl font-bold text-orange-600">-</p>
+            </div>
+        </div>
+
+        <!-- Search and Filter -->
+        <div class="mb-8 bg-white rounded-lg shadow p-6">
+            <div class="flex flex-col md:flex-row gap-4">
+                <div class="flex-1">
+                    <label for="searchInput" class="block text-sm font-medium text-gray-700 mb-1">Search Tweets</label>
+                    <input type="text" id="searchInput" 
+                        placeholder="Search by content, author, or hashtag..." 
+                        class="w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="w-full md:w-1/4">
+                    <label for="sortSelect" class="block text-sm font-medium text-gray-700 mb-1">Sort By</label>
+                    <select id="sortSelect" class="w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        <option value="date-desc">Date (Newest First)</option>
+                        <option value="date-asc">Date (Oldest First)</option>
+                        <option value="likes-desc">Likes (High to Low)</option>
+                        <option value="retweets-desc">Retweets (High to Low)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tweet Cards -->
+        <div id="tweetContainer" class="grid grid-cols-1 gap-6">
+            <!-- Tweet cards will be inserted here -->
+            <div class="text-center py-8 text-gray-500">
+                Select a file or click "Load Latest Data" to view tweets
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let tweetData = [];
+        const testdataPath = 'testdata/';
+        // Specific file to load
+        const specificDataFile = 'twitter_scraped_data_2025-03-11T07-05-06-272Z.json';
+
+        // Function to format date
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleString();
+        }
+
+        // Function to format tweet text with hashtags, mentions, and links
+        function formatTweetText(text) {
+            if (!text) return '';
+            
+            // Format hashtags
+            let formattedText = text.replace(/#(\w+)/g, '<span class="hashtag">#$1</span>');
+            
+            // Format mentions
+            formattedText = formattedText.replace(/@(\w+)/g, '<span class="mention">@$1</span>');
+            
+            // Format links (simple URL detection)
+            formattedText = formattedText.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" class="link">$1</a>');
+            
+            return formattedText;
+        }
+
+        // Function to update statistics
+        function updateStats() {
+            document.getElementById('totalTweets').textContent = tweetData.length;
+            
+            const totalLikes = tweetData.reduce((sum, tweet) => sum + (tweet.likeCount || 0), 0);
+            document.getElementById('totalLikes').textContent = totalLikes.toLocaleString();
+            
+            const totalRetweets = tweetData.reduce((sum, tweet) => sum + (tweet.retweetCount || 0), 0);
+            document.getElementById('totalRetweets').textContent = totalRetweets.toLocaleString();
+            
+            const uniqueAuthors = new Set(tweetData.map(tweet => tweet.authorUsername)).size;
+            document.getElementById('uniqueAuthors').textContent = uniqueAuthors;
+        }
+
+        // Function to display tweets
+        function displayTweets(tweets) {
+            const container = document.getElementById('tweetContainer');
+            container.innerHTML = '';
+
+            if (tweets.length === 0) {
+                container.innerHTML = '<div class="text-center py-8 text-gray-500">No tweets found matching your criteria</div>';
+                return;
+            }
+
+            tweets.forEach(tweet => {
+                const card = document.createElement('div');
+                card.className = 'tweet-card bg-white rounded-lg shadow p-6';
+                
+                // Create tweet header with author info
+                const tweetHeader = `
+                    <div class="flex items-start mb-4">
+                        <img src="${tweet.authorPfpUrl || 'https://via.placeholder.com/50'}" 
+                            alt="${tweet.authorUsername}" 
+                            class="w-12 h-12 rounded-full mr-4">
+                        <div>
+                            <div class="flex items-center">
+                                <h3 class="font-semibold text-lg">${tweet.authorName || 'Unknown'}</h3>
+                                ${tweet.authorIsVerified ? '<span class="ml-1 text-blue-500">✓</span>' : ''}
+                            </div>
+                            <p class="text-gray-600">@${tweet.authorUsername || 'unknown'}</p>
+                            <p class="text-gray-500 text-sm">${formatDate(tweet.date)}</p>
+                        </div>
+                    </div>
+                `;
+                
+                // Create tweet content
+                const tweetContent = `
+                    <div class="mb-4">
+                        <p class="text-gray-800 whitespace-pre-line">${formatTweetText(tweet.content)}</p>
+                        ${tweet.mediaUrls && tweet.mediaUrls.length > 0 ? 
+                            `<div class="mt-3 grid grid-cols-1 gap-2">
+                                ${tweet.mediaUrls.map(url => 
+                                    `<img src="${url}" alt="Tweet media" class="rounded-lg max-h-96 w-auto">`
+                                ).join('')}
+                            </div>` : ''
+                        }
+                    </div>
+                `;
+                
+                // Create tweet stats
+                const tweetStats = `
+                    <div class="flex items-center text-gray-500 text-sm">
+                        <div class="mr-6">
+                            <span class="font-semibold">${(tweet.likeCount || 0).toLocaleString()}</span> Likes
+                        </div>
+                        <div class="mr-6">
+                            <span class="font-semibold">${(tweet.retweetCount || 0).toLocaleString()}</span> Retweets
+                        </div>
+                        <div>
+                            <span class="font-semibold">${(tweet.replyCount || 0).toLocaleString()}</span> Replies
+                        </div>
+                    </div>
+                `;
+                
+                card.innerHTML = tweetHeader + tweetContent + tweetStats;
+                container.appendChild(card);
+            });
+        }
+
+        // Function to filter and sort tweets
+        function filterAndSortTweets() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const sortOption = document.getElementById('sortSelect').value;
+            
+            // Filter tweets
+            let filteredTweets = tweetData;
+            if (searchTerm) {
+                filteredTweets = tweetData.filter(tweet => 
+                    (tweet.content && tweet.content.toLowerCase().includes(searchTerm)) ||
+                    (tweet.authorUsername && tweet.authorUsername.toLowerCase().includes(searchTerm)) ||
+                    (tweet.authorName && tweet.authorName.toLowerCase().includes(searchTerm)) ||
+                    (tweet.hashtags && tweet.hashtags.some(tag => tag.toLowerCase().includes(searchTerm)))
+                );
+            }
+            
+            // Sort tweets
+            switch (sortOption) {
+                case 'date-desc':
+                    filteredTweets.sort((a, b) => new Date(b.date) - new Date(a.date));
+                    break;
+                case 'date-asc':
+                    filteredTweets.sort((a, b) => new Date(a.date) - new Date(b.date));
+                    break;
+                case 'likes-desc':
+                    filteredTweets.sort((a, b) => (b.likeCount || 0) - (a.likeCount || 0));
+                    break;
+                case 'retweets-desc':
+                    filteredTweets.sort((a, b) => (b.retweetCount || 0) - (a.retweetCount || 0));
+                    break;
+            }
+            
+            displayTweets(filteredTweets);
+        }
+
+        // Function to load data from file
+        async function loadDataFromFile(file) {
+            try {
+                const text = await file.text();
+                tweetData = JSON.parse(text);
+                updateStats();
+                filterAndSortTweets();
+            } catch (error) {
+                console.error('Error loading file:', error);
+                alert('Error loading file. Please make sure it\'s a valid JSON file.');
+            }
+        }
+
+        // Function to load the specific data file
+        async function loadSpecificDataFile() {
+            try {
+                console.log(`Loading specific file: ${testdataPath}${specificDataFile}`);
+                const response = await fetch(`${testdataPath}${specificDataFile}`);
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    tweetData = data;
+                    updateStats();
+                    filterAndSortTweets();
+                    console.log(`Successfully loaded ${tweetData.length} tweets`);
+                    return true;
+                } else {
+                    throw new Error(`Could not load file: ${response.status} ${response.statusText}`);
+                }
+            } catch (error) {
+                console.error('Error loading specific data file:', error);
+                alert(`Could not load the data file: ${specificDataFile}. Please check the file path or select a file manually.`);
+                return false;
+            }
+        }
+
+        // Event listeners
+        document.getElementById('fileInput').addEventListener('change', async (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                await loadDataFromFile(file);
+            }
+        });
+
+        document.getElementById('loadLatestBtn').addEventListener('click', () => {
+            loadSpecificDataFile();
+        });
+
+        document.getElementById('searchInput').addEventListener('input', filterAndSortTweets);
+        document.getElementById('sortSelect').addEventListener('change', filterAndSortTweets);
+
+        // Load the specific data file on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            loadSpecificDataFile();
+        });
+    </script>
+</body>
+</html> 
