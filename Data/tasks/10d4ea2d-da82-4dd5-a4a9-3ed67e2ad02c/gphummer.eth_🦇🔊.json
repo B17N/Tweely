@@ -1,0 +1,385 @@
+{
+  "username": "gphummer.eth 🦇🔊",
+  "fetchedAt": "2025-03-15T16:01:50.840Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 23:13:06 +0000 2025",
+      "conversation_id_str": "1899849392871641355",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1458910555209547782",
+            "name": "Rex",
+            "screen_name": "R89Capital",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 89,
+      "favorited": false,
+      "full_text": "@R89Capital ETH is better than both\n\nMore TPS than SOL (MegaETH, other highly performant centralized L2s)\nMore secure than BTC (study the security budget timebomb)\nMore decentralized than any other chain, period.\n\nIf civilization is moving onto blockchain rails, ETH is the only choice.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 6,
+      "retweet_count": 6,
+      "retweeted": false,
+      "user_id_str": "2771254832",
+      "id_str": "1899961881043099779",
+      "url": "https://x.com/gphummer/status/1899961881043099779",
+      "views_count": "2508",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Tue Aug 26 21:09:44 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Disintermediate the Leviathan\n\n@etherealize_io",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "granthummer.com",
+                "expanded_url": "http://granthummer.com",
+                "url": "https://t.co/WqvuSKyXcn",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 44164,
+        "followers_count": 6588,
+        "friends_count": 1194,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 196,
+        "location": "San Francisco, CA",
+        "media_count": 103,
+        "name": "gphummer.eth 🦇🔊",
+        "normal_followers_count": 6588,
+        "pinned_tweet_ids_str": [
+          "1898077299280433162"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771254832/1588244023",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1656358018991403013/ODcURfey_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gphummer",
+        "statuses_count": 1699,
+        "translator_type": "none",
+        "url": "https://t.co/WqvuSKyXcn",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 04:38:23 +0000 2025",
+      "conversation_id_str": "1898954467531276389",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1312719993411432449",
+            "name": "Amir",
+            "screen_name": "amiiretonam",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@amiiretonam 🙏",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2771254832",
+      "id_str": "1898956575206977821",
+      "url": "https://x.com/gphummer/status/1898956575206977821",
+      "views_count": "143",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Tue Aug 26 21:09:44 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Disintermediate the Leviathan\n\n@etherealize_io",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "granthummer.com",
+                "expanded_url": "http://granthummer.com",
+                "url": "https://t.co/WqvuSKyXcn",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 44164,
+        "followers_count": 6588,
+        "friends_count": 1194,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 196,
+        "location": "San Francisco, CA",
+        "media_count": 103,
+        "name": "gphummer.eth 🦇🔊",
+        "normal_followers_count": 6588,
+        "pinned_tweet_ids_str": [
+          "1898077299280433162"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771254832/1588244023",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1656358018991403013/ODcURfey_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gphummer",
+        "statuses_count": 1699,
+        "translator_type": "none",
+        "url": "https://t.co/WqvuSKyXcn",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Sat Mar 08 17:47:26 +0000 2025",
+      "conversation_id_str": "1898345880744341546",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "36691434",
+            "name": "CoinMamba",
+            "screen_name": "coinmamba",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 41,
+      "favorited": false,
+      "full_text": "@coinmamba ETH will see a massive resurgence from two drivers:\n1. RWAs and civilizational infrastructure using it and driving L1 revenues\n2. The return of its monetary premium as BTC’s security budget timebomb becomes clearer. ETH is the only alternative to BTC for the digital gold throne",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2771254832",
+      "id_str": "1898430370154254341",
+      "url": "https://x.com/gphummer/status/1898430370154254341",
+      "views_count": "1157",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Tue Aug 26 21:09:44 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Disintermediate the Leviathan\n\n@etherealize_io",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "granthummer.com",
+                "expanded_url": "http://granthummer.com",
+                "url": "https://t.co/WqvuSKyXcn",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 44164,
+        "followers_count": 6588,
+        "friends_count": 1194,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 196,
+        "location": "San Francisco, CA",
+        "media_count": 103,
+        "name": "gphummer.eth 🦇🔊",
+        "normal_followers_count": 6588,
+        "pinned_tweet_ids_str": [
+          "1898077299280433162"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771254832/1588244023",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1656358018991403013/ODcURfey_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gphummer",
+        "statuses_count": 1699,
+        "translator_type": "none",
+        "url": "https://t.co/WqvuSKyXcn",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 120,
+      "created_at": "Fri Mar 07 18:24:27 +0000 2025",
+      "conversation_id_str": "1898077299280433162",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1879590539890475008",
+            "name": "Etherealize",
+            "screen_name": "Etherealize_io",
+            "indices": [
+              33,
+              48
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1104,
+      "favorited": false,
+      "full_text": "Thrilled to announce I’m part of @etherealize_io as the final cofounder! I’m also the first cofounder. Does that sound a bit confusing?  Let me explain…\n\nETHEREALIZE’S ORIGIN STORY\n\nI’ve been involved in Ethereum for a decade. I believe in it deeply - it’s the only real shot the world has at putting civilizational infrastructure on fair, transparent rails.\n\nJuly 23rd, 2024: the Ethereum ETFs launched. It was the day I’d been waiting for all year - Wall Street would finally wake up to Ethereum’s potential as the new operating system for global finance and further cement its position as the premier smart contract blockchain.\n\nThe ETF launch fell short of my hopes, prompting me to dig deeper. I soon realized that the level of education and knowledge about ETH on Wall Street was still extremely low. While Bitcoin benefits from a clear “digital gold” storyline, Ethereum’s complexity makes its value harder to communicate—and no one was bridging that gap. Compounding the issue, competing layer-1 blockchains were—and still are—spreading relentless lies and gaslighting to chip away at Ethereum’s market share.\n\nThe solution became obvious: Ethereum needed evangelization. It required a dedicated marketing and business development effort aimed squarely at Wall Street institutions. Together with my good friend @jamesfickel, an early ETH investor and Etherealize advisor, we dug deep into the Ethereum community for the right person to spearhead this effort. That’s when we met Vivek Raman. Vivek is a rare talent—a true unicorn. He’s brilliant, tirelessly hardworking, emotionally grounded, and perfectly suited for the role, with over a decade of experience on Wall Street and five years in Ethereum.\n\nWe reached out to Vitalik Buterin and the Ethereum Foundation with our idea. They not only endorsed it but provided a grant to kick things off. When Vivek saw Vitalik’s support, he committed fully to Etherealize, and we hit the ground running! Soon, though, we discovered that sparking Wall Street’s interest in Ethereum meant more than talk—it meant action. We needed to build products and software to seamlessly integrate Ethereum into their systems.\n\nEnter Zach Obront.\n\nVivek brought in his friend Zach to develop prototype applications. Zach delivered an extraordinary suite of tools in record time—an entire production-ready prototype in just weeks. Having met thousands of developers and working for years as a software developer myself, I can say I’ve never seen anyone ship high-quality code that fast. As Etherealize’s ambitious mission to bring Ethereum into the real world crystallized, Zach joined as a cofounder.\n\nMeanwhile, we’d been discussing our plans with Danny Ryan, an Ethereum legend who played a major role in driving critical improvements to the Ethereum protocol between 2018-2024. Danny was considering returning to the EF, or doing something new. We shared Etherealize’s vision with him, and he grasped it instantly. He became excited about the prospect of contributing to real-world adoption and dealing closely with important users, which could feed back into protocol R&D. After an intense weightlifting session with Vivek, Danny was on board—the rest is history.\n\nAfter ideating Etherealize and mostly operating behind the scenes, I’ll now be taking on the role of Chief Strategy Officer. I will work to position Etherealize in the Ethereum ecosystem and drive the highest impact ways we can accelerate our mission of bringing Ethereum to the real world.\n\nAs we stand on the cusp of a transformative era, Ethereum’s moment to triumph is here. The Ethereum Foundation has appointed two exceptional co-Executive Directors, and we look forward to collaborating closely with them. Etherealize is partnering with the entire ecosystem to bridge innovation and real-world adoption. We’re here to energize Ethereum, elevate its narrative, and enable its potential to reshape the world. This is the moment we’ve all been waiting for—Etherealize is ready to help Ethereum not just succeed, but soar.\n\nEthereum is open for business.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 35,
+      "reply_count": 107,
+      "retweet_count": 164,
+      "retweeted": false,
+      "user_id_str": "2771254832",
+      "id_str": "1898077299280433162",
+      "url": "https://x.com/gphummer/status/1898077299280433162",
+      "views_count": "135304",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Tue Aug 26 21:09:44 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Disintermediate the Leviathan\n\n@etherealize_io",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "granthummer.com",
+                "expanded_url": "http://granthummer.com",
+                "url": "https://t.co/WqvuSKyXcn",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 44164,
+        "followers_count": 6588,
+        "friends_count": 1194,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 196,
+        "location": "San Francisco, CA",
+        "media_count": 103,
+        "name": "gphummer.eth 🦇🔊",
+        "normal_followers_count": 6588,
+        "pinned_tweet_ids_str": [
+          "1898077299280433162"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771254832/1588244023",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1656358018991403013/ODcURfey_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gphummer",
+        "statuses_count": 1699,
+        "translator_type": "none",
+        "url": "https://t.co/WqvuSKyXcn",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-12": [
+      0
+    ],
+    "2025-03-10": [
+      1
+    ],
+    "2025-03-08": [
+      2
+    ],
+    "2025-03-07": [
+      3
+    ]
+  }
+}

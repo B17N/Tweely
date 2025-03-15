@@ -1,0 +1,1623 @@
+{
+  "username": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+  "fetchedAt": "2025-03-15T15:58:08.316Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 17:13:38 +0000 2025",
+      "conversation_id_str": "1900347830327292173",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1429466307796340747",
+            "name": "prgrssnx",
+            "screen_name": "prgrssnx",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1807182528576696320",
+            "name": "ren ❀",
+            "screen_name": "florencecel",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@prgrssnx @florencecel theyre my reply girls",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1900596191542603802",
+      "url": "https://x.com/CharlotteFang77/status/1900596191542603802",
+      "views_count": "140",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 20,
+      "created_at": "Fri Mar 14 02:45:39 +0000 2025",
+      "conversation_id_str": "1900377760012657049",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 394,
+      "favorited": false,
+      "full_text": "running around town punching homeless people in the face leaving a remilia smiley mark to get on the news",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 42,
+      "retweet_count": 39,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1900377760012657049",
+      "url": "https://x.com/CharlotteFang77/status/1900377760012657049",
+      "views_count": "18248",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 16:56:12 +0000 2025",
+      "conversation_id_str": "1900225003062169850",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "846921210122395648",
+            "name": "cold 🥑",
+            "screen_name": "coldhealing",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@coldhealing interesting use of girl POV as an affirmational hack here",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1900229416208490629",
+      "url": "https://x.com/CharlotteFang77/status/1900229416208490629",
+      "views_count": "340",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 04:24:40 +0000 2025",
+      "conversation_id_str": "1900039033339744452",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1645256019713605632",
+            "name": "ObscureSoss",
+            "screen_name": "Dustygarden",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@Dustygarden Forgiven",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1900040289475252706",
+      "url": "https://x.com/CharlotteFang77/status/1900040289475252706",
+      "views_count": "343",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 17,
+      "created_at": "Wed Mar 12 20:16:55 +0000 2025",
+      "conversation_id_str": "1899917544200560786",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/hbhllKGxc0",
+            "expanded_url": "https://x.com/CharlotteFang77/status/1899917544200560786/photo/1",
+            "id_str": "1899917538534055942",
+            "indices": [
+              52,
+              75
+            ],
+            "media_key": "3_1899917538534055942",
+            "media_url_https": "https://pbs.twimg.com/media/Gl3c72LbYAY2gcG.jpg",
+            "type": "photo",
+            "url": "https://t.co/hbhllKGxc0",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1074,
+                "w": 805,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1074,
+                "w": 805,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1074,
+              "width": 805,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 451
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 805
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 918
+                },
+                {
+                  "x": 27,
+                  "y": 0,
+                  "w": 537,
+                  "h": 1074
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 1074
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899917538534055942"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/hbhllKGxc0",
+            "expanded_url": "https://x.com/CharlotteFang77/status/1899917544200560786/photo/1",
+            "id_str": "1899917538651152385",
+            "indices": [
+              52,
+              75
+            ],
+            "media_key": "3_1899917538651152385",
+            "media_url_https": "https://pbs.twimg.com/media/Gl3c72nWIAEJIHE.jpg",
+            "type": "photo",
+            "url": "https://t.co/hbhllKGxc0",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 604,
+                "w": 805,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 604,
+                "w": 805,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 604,
+              "width": 805,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 451
+                },
+                {
+                  "x": 120,
+                  "y": 0,
+                  "w": 604,
+                  "h": 604
+                },
+                {
+                  "x": 157,
+                  "y": 0,
+                  "w": 530,
+                  "h": 604
+                },
+                {
+                  "x": 271,
+                  "y": 0,
+                  "w": 302,
+                  "h": 604
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 604
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899917538651152385"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/hbhllKGxc0",
+            "expanded_url": "https://x.com/CharlotteFang77/status/1899917544200560786/photo/1",
+            "id_str": "1899917538534055942",
+            "indices": [
+              52,
+              75
+            ],
+            "media_key": "3_1899917538534055942",
+            "media_url_https": "https://pbs.twimg.com/media/Gl3c72LbYAY2gcG.jpg",
+            "type": "photo",
+            "url": "https://t.co/hbhllKGxc0",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1074,
+                "w": 805,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1074,
+                "w": 805,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1074,
+              "width": 805,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 451
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 805
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 918
+                },
+                {
+                  "x": 27,
+                  "y": 0,
+                  "w": 537,
+                  "h": 1074
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 1074
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899917538534055942"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/hbhllKGxc0",
+            "expanded_url": "https://x.com/CharlotteFang77/status/1899917544200560786/photo/1",
+            "id_str": "1899917538651152385",
+            "indices": [
+              52,
+              75
+            ],
+            "media_key": "3_1899917538651152385",
+            "media_url_https": "https://pbs.twimg.com/media/Gl3c72nWIAEJIHE.jpg",
+            "type": "photo",
+            "url": "https://t.co/hbhllKGxc0",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 604,
+                "w": 805,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 604,
+                "w": 805,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 604,
+              "width": 805,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 451
+                },
+                {
+                  "x": 120,
+                  "y": 0,
+                  "w": 604,
+                  "h": 604
+                },
+                {
+                  "x": 157,
+                  "y": 0,
+                  "w": 530,
+                  "h": 604
+                },
+                {
+                  "x": 271,
+                  "y": 0,
+                  "w": 302,
+                  "h": 604
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 805,
+                  "h": 604
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899917538651152385"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 629,
+      "favorited": false,
+      "full_text": "should we make this official merch. punished milady https://t.co/hbhllKGxc0",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 84,
+      "retweet_count": 27,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1899917544200560786",
+      "url": "https://x.com/CharlotteFang77/status/1899917544200560786",
+      "views_count": "13522",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Wed Mar 12 18:30:23 +0000 2025",
+      "conversation_id_str": "1899796103601524934",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "936839896982896640",
+            "name": "Sayuki",
+            "screen_name": "Sayuki10x",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "1402976022488879104",
+            "name": "dave 🪲",
+            "screen_name": "davetist",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 48,
+      "favorited": false,
+      "full_text": "It's not an official milady position--the only official milady positions are what's stated in the remilia manifesto and the core commitment to freedoms--but I also think it's healthy and funny for there to be radicals wielding milady as a weapon to push the space towards those values; I would only step in if it begins to contradict those values, though as a political project I do think it's more relevant they focus the energy on aligning the ETH ecosystem rather than outsider liquidity. It's an old contention with milady, remilio was partly in response to that energy, to give a space for trader and shitcoiner types that were getting attacked by purists. Remilia is a bigger umbrella than just milady and also bigger than crypto as an industry. We're building the new internet and milady is one cultural pillar.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1899890731428569354",
+      "url": "https://x.com/CharlotteFang77/status/1899890731428569354",
+      "views_count": "1787",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 17:57:18 +0000 2025",
+      "conversation_id_str": "1899796103601524934",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "936839896982896640",
+            "name": "Sayuki",
+            "screen_name": "Sayuki10x",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "1402976022488879104",
+            "name": "dave 🪲",
+            "screen_name": "davetist",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 50,
+      "favorited": false,
+      "full_text": "I don’t do PR. You’re mixing up positioning for short/mid term PA with a debate over long term execution towards aligned decentralized values. I do believe in the goal of a world computer; I tempered my opinion on the ICO fork and came around to ETH prior to their recognition of milady after speaking to developers closely involved and also after getting to understand the low levels of sincerity and short time horizons of the other teams building “alternatives”. I still maintain some caution if they truly will execute on the goals they’ve set out to, but I’m much more convinced on their sincerity in trying. This is not the same thing traders focused on their short/mid term price performance are worried about though, and it’s not any advocation on those bets. I’m also not a hardline maxi, I’ve argued all volume flooding into decentralized markets is good overall for the goals of the space; the positioning debate between chains is primarily about risks & time horizons which is informed by the idealism, defensibility & alignment debates that place ETH on top among its competitors—of which BTC is not one. BTC solves an entirely different goal than ETH, people contrasting the two are just thinking of them in terms of bags.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1899882406393635129",
+      "url": "https://x.com/CharlotteFang77/status/1899882406393635129",
+      "views_count": "804",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 23:10:24 +0000 2025",
+      "conversation_id_str": "1899561499875787127",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "747114835322757120",
+            "name": "Satocheese🧀",
+            "screen_name": "StakedSatoshi",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 87,
+      "favorited": false,
+      "full_text": "@StakedSatoshi likely drainer. there are things going on in that domain but milady has fair use as VPL and they would know that",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1899598812362248358",
+      "url": "https://x.com/CharlotteFang77/status/1899598812362248358",
+      "views_count": "1308",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 8,
+      "created_at": "Tue Mar 11 21:56:06 +0000 2025",
+      "conversation_id_str": "1899580115006460240",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/2ULb7M9Uty",
+            "expanded_url": "https://x.com/CharlotteFang77/status/1899580115006460240/photo/1",
+            "id_str": "1899580104147099648",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1899580104147099648",
+            "media_url_https": "https://pbs.twimg.com/media/GlyqClIWYAAME62.jpg",
+            "type": "photo",
+            "url": "https://t.co/2ULb7M9Uty",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 262,
+                    "y": 101,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 29,
+                    "y": 807,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 471,
+                    "y": 174,
+                    "h": 71,
+                    "w": 71
+                  },
+                  {
+                    "x": 121,
+                    "y": 483,
+                    "h": 87,
+                    "w": 87
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 262,
+                    "y": 101,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 29,
+                    "y": 807,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 471,
+                    "y": 174,
+                    "h": 71,
+                    "w": 71
+                  },
+                  {
+                    "x": 121,
+                    "y": 483,
+                    "h": 87,
+                    "w": 87
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 173,
+                    "y": 67,
+                    "h": 31,
+                    "w": 31
+                  },
+                  {
+                    "x": 19,
+                    "y": 535,
+                    "h": 37,
+                    "w": 37
+                  },
+                  {
+                    "x": 312,
+                    "y": 115,
+                    "h": 47,
+                    "w": 47
+                  },
+                  {
+                    "x": 80,
+                    "y": 320,
+                    "h": 57,
+                    "w": 57
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 262,
+                    "y": 101,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 29,
+                    "y": 807,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 471,
+                    "y": 174,
+                    "h": 71,
+                    "w": 71
+                  },
+                  {
+                    "x": 121,
+                    "y": 483,
+                    "h": 87,
+                    "w": 87
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1024,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1024,
+              "width": 1024,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 451,
+                  "w": 1024,
+                  "h": 573
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 1024
+                },
+                {
+                  "x": 126,
+                  "y": 0,
+                  "w": 898,
+                  "h": 1024
+                },
+                {
+                  "x": 486,
+                  "y": 0,
+                  "w": 512,
+                  "h": 1024
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 1024
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899580104147099648"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/2ULb7M9Uty",
+            "expanded_url": "https://x.com/CharlotteFang77/status/1899580115006460240/photo/1",
+            "id_str": "1899580104147099648",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1899580104147099648",
+            "media_url_https": "https://pbs.twimg.com/media/GlyqClIWYAAME62.jpg",
+            "type": "photo",
+            "url": "https://t.co/2ULb7M9Uty",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 262,
+                    "y": 101,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 29,
+                    "y": 807,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 471,
+                    "y": 174,
+                    "h": 71,
+                    "w": 71
+                  },
+                  {
+                    "x": 121,
+                    "y": 483,
+                    "h": 87,
+                    "w": 87
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 262,
+                    "y": 101,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 29,
+                    "y": 807,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 471,
+                    "y": 174,
+                    "h": 71,
+                    "w": 71
+                  },
+                  {
+                    "x": 121,
+                    "y": 483,
+                    "h": 87,
+                    "w": 87
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 173,
+                    "y": 67,
+                    "h": 31,
+                    "w": 31
+                  },
+                  {
+                    "x": 19,
+                    "y": 535,
+                    "h": 37,
+                    "w": 37
+                  },
+                  {
+                    "x": 312,
+                    "y": 115,
+                    "h": 47,
+                    "w": 47
+                  },
+                  {
+                    "x": 80,
+                    "y": 320,
+                    "h": 57,
+                    "w": 57
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 262,
+                    "y": 101,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 29,
+                    "y": 807,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 471,
+                    "y": 174,
+                    "h": 71,
+                    "w": 71
+                  },
+                  {
+                    "x": 121,
+                    "y": 483,
+                    "h": 87,
+                    "w": 87
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1024,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1024,
+              "width": 1024,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 451,
+                  "w": 1024,
+                  "h": 573
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 1024
+                },
+                {
+                  "x": 126,
+                  "y": 0,
+                  "w": 898,
+                  "h": 1024
+                },
+                {
+                  "x": 486,
+                  "y": 0,
+                  "w": 512,
+                  "h": 1024
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 1024
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899580104147099648"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 164,
+      "favorited": false,
+      "full_text": "https://t.co/2ULb7M9Uty",
+      "is_quote_status": true,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 4,
+      "retweet_count": 19,
+      "retweeted": false,
+      "user_id_str": "1327336243026223104",
+      "id_str": "1899580115006460240",
+      "url": "https://x.com/CharlotteFang77/status/1899580115006460240",
+      "views_count": "6972",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 13 19:43:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "恋人 ♡ ♡ ♡ 叛乱 ♱ 1999 ♱ HeavenRebellion ♱ ♱ 金光 Dissidents ♡ Remilia One Thousand Forever ♱ ♱ Mogul @RemiliaCorp333 @MiladyCult @MiladyMaker333 ♡ #𝔅ℜ𝔊 ♡ +4 std IQ",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenlight.mirror.xyz",
+                "expanded_url": "http://goldenlight.mirror.xyz",
+                "url": "https://t.co/JgZvGs4iUA",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62999,
+        "followers_count": 53854,
+        "friends_count": 3302,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 507,
+        "location": "省 省",
+        "media_count": 2908,
+        "name": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+        "normal_followers_count": 53854,
+        "pinned_tweet_ids_str": [
+          "1871713478802825255"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327336243026223104/1670287635",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878556912515686400/aaItIByd_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "CharlotteFang77",
+        "statuses_count": 30911,
+        "translator_type": "none",
+        "url": "https://t.co/JgZvGs4iUA",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1
+    ],
+    "2025-03-13": [
+      2,
+      3
+    ],
+    "2025-03-12": [
+      4,
+      5,
+      6
+    ],
+    "2025-03-11": [
+      7,
+      8
+    ]
+  }
+}

@@ -1,0 +1,3567 @@
+{
+  "username": "Dwarkesh Patel",
+  "fetchedAt": "2025-03-15T16:01:50.820Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 86,
+      "created_at": "Fri Mar 14 21:16:16 +0000 2025",
+      "conversation_id_str": "1900657253562106245",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/0I7PiR6jD3",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1900657253562106245/photo/1",
+            "id_str": "1900657186465832960",
+            "indices": [
+              47,
+              70
+            ],
+            "media_key": "3_1900657186465832960",
+            "media_url_https": "https://pbs.twimg.com/media/GmB9pBcW4AAGPdH.png",
+            "type": "photo",
+            "url": "https://t.co/0I7PiR6jD3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1754,
+                "w": 1700,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1163,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 659,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1754,
+              "width": 1700,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1700,
+                  "h": 952
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1700,
+                  "h": 1700
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1539,
+                  "h": 1754
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 877,
+                  "h": 1754
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1700,
+                  "h": 1754
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900657186465832960"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/0I7PiR6jD3",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1900657253562106245/photo/1",
+            "id_str": "1900657186465832960",
+            "indices": [
+              47,
+              70
+            ],
+            "media_key": "3_1900657186465832960",
+            "media_url_https": "https://pbs.twimg.com/media/GmB9pBcW4AAGPdH.png",
+            "type": "photo",
+            "url": "https://t.co/0I7PiR6jD3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1754,
+                "w": 1700,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1163,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 659,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1754,
+              "width": 1700,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1700,
+                  "h": 952
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1700,
+                  "h": 1700
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1539,
+                  "h": 1754
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 877,
+                  "h": 1754
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1700,
+                  "h": 1754
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900657186465832960"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 382,
+      "favorited": false,
+      "full_text": "Vibe coding -&gt; muller's ratchet on codebase https://t.co/0I7PiR6jD3",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 8,
+      "reply_count": 34,
+      "retweet_count": 21,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1900657253562106245",
+      "url": "https://x.com/dwarkesh_sp/status/1900657253562106245",
+      "views_count": "29167",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 03:56:25 +0000 2025",
+      "conversation_id_str": "1900384558228660382",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2472229016",
+            "name": "Shae Mclaughlin",
+            "screen_name": "shae_mcl",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@shae_mcl Congrats!!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1900395566732877947",
+      "url": "https://x.com/dwarkesh_sp/status/1900395566732877947",
+      "views_count": "1597",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 35,
+      "created_at": "Thu Mar 13 19:16:14 +0000 2025",
+      "conversation_id_str": "1900264659485417516",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 88,
+      "favorited": false,
+      "full_text": "If you enjoyed my episode with the physicist Adam Brown, you'll find this interesting.\n\nAdam discussed the possibility of vacuum decay, where you change the laws of the accessible universe and potentially destroy it. \n\nHere is a survey of what other physicists think:",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 3,
+      "retweet_count": 5,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1900264659485417516",
+      "url": "https://x.com/dwarkesh_sp/status/1900264659485417516",
+      "views_count": "14287",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 5,
+      "created_at": "Thu Mar 13 19:13:24 +0000 2025",
+      "conversation_id_str": "1900263932335710538",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "dwarkesh.com/p/joseph-henri…",
+            "expanded_url": "https://www.dwarkesh.com/p/joseph-henrich",
+            "url": "https://t.co/7OdUh9yDPl",
+            "indices": [
+              63,
+              86
+            ]
+          },
+          {
+            "display_url": "podcasts.apple.com/us/podcast/jos…",
+            "expanded_url": "https://podcasts.apple.com/us/podcast/joseph-henrich-why-humans-survived-and-smarter/id1516093381?i=1000698914456",
+            "url": "https://t.co/kYiZCnDmh9",
+            "indices": [
+              105,
+              128
+            ]
+          },
+          {
+            "display_url": "open.spotify.com/episode/12zpiP…",
+            "expanded_url": "https://open.spotify.com/episode/12zpiPQGJA215PJcDtNTjr?si=02bbf27382d24df5",
+            "url": "https://t.co/hUFFcwKssu",
+            "indices": [
+              140,
+              163
+            ]
+          },
+          {
+            "display_url": "youtu.be/TcfhrThp1OU",
+            "expanded_url": "https://youtu.be/TcfhrThp1OU",
+            "url": "https://t.co/DvDBcxKsQ3",
+            "indices": [
+              175,
+              198
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "3253256552",
+            "name": "Joe Henrich",
+            "screen_name": "JoHenrich",
+            "indices": [
+              28,
+              38
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 16,
+      "favorited": false,
+      "full_text": "Watch the full episode with @JoHenrich:\n\nRead the transcript:\n\nhttps://t.co/7OdUh9yDPl\n\nApple Podcasts:\n\nhttps://t.co/kYiZCnDmh9\n\nSpotify:\n\nhttps://t.co/hUFFcwKssu\n\nYouTube:\n\nhttps://t.co/DvDBcxKsQ3",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1900263944817959087",
+      "url": "https://x.com/dwarkesh_sp/status/1900263944817959087",
+      "views_count": "9530",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 144,
+      "created_at": "Thu Mar 13 19:13:21 +0000 2025",
+      "conversation_id_str": "1900263932335710538",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/a0HKHzvv0t",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1900263932335710538/video/1",
+            "id_str": "1900263727053889545",
+            "indices": [
+              276,
+              299
+            ],
+            "media_key": "13_1900263727053889545",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1900263727053889545/img/RIhoA19oLEPfLlx3.jpg",
+            "type": "video",
+            "url": "https://t.co/a0HKHzvv0t",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 68468,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/pl/xKe7odFgoX_u0rX8.m3u8?tag=14&v=01e"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/vid/avc1/320x320/nbJ6r_O5Rd3E4fCK.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/vid/avc1/540x540/aXaM66AGlAsDI_5x.mp4?tag=14"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/vid/avc1/720x720/L2NuEu7B23vfFhpv.mp4?tag=14"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "13_1900263727053889545"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/a0HKHzvv0t",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1900263932335710538/video/1",
+            "id_str": "1900263727053889545",
+            "indices": [
+              276,
+              299
+            ],
+            "media_key": "13_1900263727053889545",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1900263727053889545/img/RIhoA19oLEPfLlx3.jpg",
+            "type": "video",
+            "url": "https://t.co/a0HKHzvv0t",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 68468,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/pl/xKe7odFgoX_u0rX8.m3u8?tag=14&v=01e"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/vid/avc1/320x320/nbJ6r_O5Rd3E4fCK.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/vid/avc1/540x540/aXaM66AGlAsDI_5x.mp4?tag=14"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1900263727053889545/vid/avc1/720x720/L2NuEu7B23vfFhpv.mp4?tag=14"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "13_1900263727053889545"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 354,
+      "favorited": false,
+      "full_text": "With the decline in war, have we lost the selective pressure which makes governments improve over time?\n\nThere are many other layers of selection (companies within markets, political parties within elections).\n\nBut there's no ground truth outer loss on the system as a whole. https://t.co/a0HKHzvv0t",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 5,
+      "reply_count": 24,
+      "retweet_count": 36,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1900263932335710538",
+      "url": "https://x.com/dwarkesh_sp/status/1900263932335710538",
+      "views_count": "26451",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 20:08:17 +0000 2025",
+      "conversation_id_str": "1899902211314045320",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1637507099558027267",
+            "name": "Crémieux",
+            "screen_name": "cremieuxrecueil",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "2797975647",
+            "name": "Stefan Schubert",
+            "screen_name": "StefanFSchubert",
+            "indices": [
+              17,
+              33
+            ]
+          },
+          {
+            "id_str": "1637507099558027267",
+            "name": "Crémieux",
+            "screen_name": "cremieuxrecueil",
+            "indices": [
+              50,
+              66
+            ]
+          },
+          {
+            "id_str": "2797975647",
+            "name": "Stefan Schubert",
+            "screen_name": "StefanFSchubert",
+            "indices": [
+              67,
+              83
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@cremieuxrecueil @StefanFSchubert Thanks for this @cremieuxrecueil @StefanFSchubert. \n\nI did push him on that Reich lab study to the best of my understanding at the time.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899915370749976610",
+      "url": "https://x.com/dwarkesh_sp/status/1899915370749976610",
+      "views_count": "1113",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102586,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102586,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 9,
+      "created_at": "Wed Mar 12 19:21:08 +0000 2025",
+      "conversation_id_str": "1899902211314045320",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "dwarkesh.com/p/joseph-henri…",
+            "expanded_url": "https://www.dwarkesh.com/p/joseph-henrich",
+            "url": "https://t.co/7OdUh9yDPl",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "display_url": "podcasts.apple.com/us/podcast/jos…",
+            "expanded_url": "https://podcasts.apple.com/us/podcast/joseph-henrich-why-humans-survived-and-smarter/id1516093381?i=1000698914456",
+            "url": "https://t.co/kYiZCnDmh9",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "display_url": "open.spotify.com/episode/12zpiP…",
+            "expanded_url": "https://open.spotify.com/episode/12zpiPQGJA215PJcDtNTjr?si=02bbf27382d24df5",
+            "url": "https://t.co/hUFFcwKssu",
+            "indices": [
+              96,
+              119
+            ]
+          },
+          {
+            "display_url": "youtu.be/TcfhrThp1OU",
+            "expanded_url": "https://youtu.be/TcfhrThp1OU",
+            "url": "https://t.co/DvDBcxKsQ3",
+            "indices": [
+              130,
+              153
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 25,
+      "favorited": false,
+      "full_text": "Read the transcript:\nhttps://t.co/7OdUh9yDPl\n\nApple Podcasts:\nhttps://t.co/kYiZCnDmh9\n\nSpotify:\nhttps://t.co/hUFFcwKssu\n\nYouTube:\nhttps://t.co/DvDBcxKsQ3",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899903504363507916",
+      "url": "https://x.com/dwarkesh_sp/status/1899903504363507916",
+      "views_count": "12950",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 562,
+      "created_at": "Wed Mar 12 19:16:00 +0000 2025",
+      "conversation_id_str": "1899902211314045320",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/5bGZGRgLqk",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1899902211314045320/video/1",
+            "id_str": "1899900628731912192",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "7_1899900628731912192",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1899900628731912192/pu/img/pFvGoE4RrJ6Ux6TZ.jpg",
+            "type": "video",
+            "url": "https://t.co/5bGZGRgLqk",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 102802,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/pl/ed40F1bB3q0Qrlc_.m3u8?tag=12&v=306"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/vid/avc1/320x320/XhBdFeERkf8sEj1z.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/vid/avc1/540x540/YoeAaH6uLFgiT7j4.mp4?tag=12"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/vid/avc1/720x720/52X9hCfYNlLCRB6a.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1899900628731912192"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/5bGZGRgLqk",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1899902211314045320/video/1",
+            "id_str": "1899900628731912192",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "7_1899900628731912192",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1899900628731912192/pu/img/pFvGoE4RrJ6Ux6TZ.jpg",
+            "type": "video",
+            "url": "https://t.co/5bGZGRgLqk",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 102802,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/pl/ed40F1bB3q0Qrlc_.m3u8?tag=12&v=306"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/vid/avc1/320x320/XhBdFeERkf8sEj1z.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/vid/avc1/540x540/YoeAaH6uLFgiT7j4.mp4?tag=12"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899900628731912192/pu/vid/avc1/720x720/52X9hCfYNlLCRB6a.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1899900628731912192"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1123,
+      "favorited": false,
+      "full_text": "Humans have succeeded thanks to cultural evolution (and not individual IQ).\n\nAnd that's precisely why I think AGI is *under hyped*.\n\nBecause of massive populations and perfect knowledge transfer, AGI hive minds will discover new ideas so much faster, whether from lucky mistakes, deliberate experiments, de-novo inventions, or some combination.\n\nThis will be a step-function increase in cultural evolution that was as big as the jump between humans and non-human primates. \n\nFull interview with @JoHenrich out now!",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 15,
+      "reply_count": 47,
+      "retweet_count": 77,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899902211314045320",
+      "url": "https://x.com/dwarkesh_sp/status/1899902211314045320",
+      "views_count": "161396",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 17:17:20 +0000 2025",
+      "conversation_id_str": "1899539774744265195",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/dwarkesh_sp/st…",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1899868175388561473",
+            "url": "https://t.co/9XwHlJvSeQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "https://t.co/9XwHlJvSeQ",
+      "is_quote_status": true,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899872347311792318",
+      "url": "https://x.com/dwarkesh_sp/status/1899872347311792318",
+      "views_count": "8340",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 7,
+      "created_at": "Wed Mar 12 17:00:45 +0000 2025",
+      "conversation_id_str": "1899867891597791481",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "dwarkesh.com/p/joseph-henri…",
+            "expanded_url": "https://www.dwarkesh.com/p/joseph-henrich",
+            "url": "https://t.co/7OdUh9yDPl",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "display_url": "open.spotify.com/episode/12zpiP…",
+            "expanded_url": "https://open.spotify.com/episode/12zpiPQGJA215PJcDtNTjr?si=02bbf27382d24df5",
+            "url": "https://t.co/hUFFcwKssu",
+            "indices": [
+              55,
+              78
+            ]
+          },
+          {
+            "display_url": "podcasts.apple.com/us/podcast/jos…",
+            "expanded_url": "https://podcasts.apple.com/us/podcast/joseph-henrich-why-humans-survived-and-smarter/id1516093381?i=1000698914456",
+            "url": "https://t.co/kYiZCnDmh9",
+            "indices": [
+              96,
+              119
+            ]
+          },
+          {
+            "display_url": "youtu.be/TcfhrThp1OU",
+            "expanded_url": "https://youtu.be/TcfhrThp1OU",
+            "url": "https://t.co/DvDBcxKsQ3",
+            "indices": [
+              130,
+              153
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 26,
+      "favorited": false,
+      "full_text": "Read the transcript:\nhttps://t.co/7OdUh9yDPl\n\nSpotify:\nhttps://t.co/hUFFcwKssu\n\nApple Podcasts: https://t.co/kYiZCnDmh9\n\nYouTube: https://t.co/DvDBcxKsQ3",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899868175388561473",
+      "url": "https://x.com/dwarkesh_sp/status/1899868175388561473",
+      "views_count": "21444",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 328,
+      "created_at": "Wed Mar 12 16:59:37 +0000 2025",
+      "conversation_id_str": "1899867891597791481",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/KSZfE7sONy",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1899867891597791481/video/1",
+            "id_str": "1899860308329689088",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "13_1899860308329689088",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1899860308329689088/img/Y2wwZovmrXJXI2qP.jpg",
+            "type": "video",
+            "url": "https://t.co/KSZfE7sONy",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 6826089,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/pl/yRw5MXmVprO2IQT0.m3u8?tag=14&v=2c3"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/vid/avc1/480x270/3-imi67DtfXla7_j.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/vid/avc1/640x360/Nc4s6eeMYVLxVoAR.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/vid/avc1/1280x720/n7q97WaiH_lBUOq2.mp4?tag=14"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "13_1899860308329689088"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3253256552",
+            "name": "Joe Henrich",
+            "screen_name": "JoHenrich",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/KSZfE7sONy",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1899867891597791481/video/1",
+            "id_str": "1899860308329689088",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "13_1899860308329689088",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1899860308329689088/img/Y2wwZovmrXJXI2qP.jpg",
+            "type": "video",
+            "url": "https://t.co/KSZfE7sONy",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 6826089,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/pl/yRw5MXmVprO2IQT0.m3u8?tag=14&v=2c3"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/vid/avc1/480x270/3-imi67DtfXla7_j.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/vid/avc1/640x360/Nc4s6eeMYVLxVoAR.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1899860308329689088/vid/avc1/1280x720/n7q97WaiH_lBUOq2.mp4?tag=14"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "13_1899860308329689088"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 425,
+      "favorited": false,
+      "full_text": "New ep with @JoHenrich!\n\nHumans have *not* succeeded because of our raw intelligence. \n\nMarooned European explorers regularly starved to death in areas where foragers thrived for 1000s of years.\n\nI’ve always found this cultural evolution deeply mysterious.\n\nHow do you discover the 10 steps for processing cassava so it won’t give you cyanide poisoning simply by trial and error?\n\nHas human brain size declined over the last 10,000 years because we outsourced cultural evolution to a larger collective brain?\n\nThe most interesting part of the podcast is Henrich’s explanation of how the Catholic Church unintentionally instigated the Industrial Revolution through the dismantling of intensive kinship systems in medieval Europe.\n\nLinks below. Enjoy!\n\nTimestamps:\n0:00:00 - Humans didn’t succeed because of raw IQ\n0:10:13 - How cultural evolution works\n0:21:34 - Why is brain size declining?\n0:32:46 - Will AGI have superhuman cultural learning?\n0:43:20 - Why the Industrial Revolution happened in Europe\n0:56:16 - Why China, Rome, India got left behind\n1:21:55 - Loss of cultural variance in modern world\n1:32:06 - Is individual genius real?\n01:44:35 - IQ and collective brains",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 12,
+      "reply_count": 19,
+      "retweet_count": 56,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899867891597791481",
+      "url": "https://x.com/dwarkesh_sp/status/1899867891597791481",
+      "views_count": "52352",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 302,
+      "created_at": "Wed Mar 12 04:24:00 +0000 2025",
+      "conversation_id_str": "1899677733401329995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 441,
+      "favorited": false,
+      "full_text": "This was really good. \n\nAs you listen to these interesting nerd snipey arguments, it’s worth emphasizing that Will is describing something that is quite plausible in the next decade or two. \n\nThey’re talking about our timeline folks!",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 13,
+      "retweet_count": 33,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899677733401329995",
+      "url": "https://x.com/dwarkesh_sp/status/1899677733401329995",
+      "views_count": "48789",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102586,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102586,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 9,
+      "created_at": "Wed Mar 12 04:12:01 +0000 2025",
+      "conversation_id_str": "1899674718216810567",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "81961201",
+            "name": "Ashlee Vance",
+            "screen_name": "ashleevance",
+            "indices": [
+              4,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 135,
+      "favorited": false,
+      "full_text": "Let @ashleevance know!\n\nAnd subscribe to Core Memory!",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899674718216810567",
+      "url": "https://x.com/dwarkesh_sp/status/1899674718216810567",
+      "views_count": "24937",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102586,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102586,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 02:14:21 +0000 2025",
+      "conversation_id_str": "1899625774736642392",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "13232322",
+            "name": "Danielle Fong 🔆",
+            "screen_name": "DanielleFong",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@DanielleFong 😂",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899645105793057253",
+      "url": "https://x.com/dwarkesh_sp/status/1899645105793057253",
+      "views_count": "1219",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102586,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102586,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 296,
+      "created_at": "Tue Mar 11 19:15:48 +0000 2025",
+      "conversation_id_str": "1899539774744265195",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Vv0GXBEB0S",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1899539774744265195/video/1",
+            "id_str": "1899539233674801152",
+            "indices": [
+              268,
+              291
+            ],
+            "media_key": "7_1899539233674801152",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1899539233674801152/pu/img/Y51IsvKZSG1EESDS.jpg",
+            "type": "video",
+            "url": "https://t.co/Vv0GXBEB0S",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 49883,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/pl/eJUd8m6geOxSkkfS.m3u8?tag=12&v=cd8"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/vid/avc1/320x320/8-MheBYWnpuqqI9z.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/vid/avc1/540x540/O8hu3c_IGL9tBFO3.mp4?tag=12"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/vid/avc1/720x720/gYpBpOd6k99Q2jIs.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1899539233674801152"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3253256552",
+            "name": "Joe Henrich",
+            "screen_name": "JoHenrich",
+            "indices": [
+              33,
+              43
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Vv0GXBEB0S",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/1899539774744265195/video/1",
+            "id_str": "1899539233674801152",
+            "indices": [
+              268,
+              291
+            ],
+            "media_key": "7_1899539233674801152",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1899539233674801152/pu/img/Y51IsvKZSG1EESDS.jpg",
+            "type": "video",
+            "url": "https://t.co/Vv0GXBEB0S",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 49883,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/pl/eJUd8m6geOxSkkfS.m3u8?tag=12&v=cd8"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/vid/avc1/320x320/8-MheBYWnpuqqI9z.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/vid/avc1/540x540/O8hu3c_IGL9tBFO3.mp4?tag=12"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1899539233674801152/pu/vid/avc1/720x720/gYpBpOd6k99Q2jIs.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1899539233674801152"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 607,
+      "favorited": false,
+      "full_text": "The most interesting part of the @JoHenrich interview was when he explained how the Catholic Church unintentionally caused the Industrial Revolution!\n\nThe Church wanted to acquire land and wealth that would otherwise remain within extended kinship networks. \n\nSo they systematically dismantled these competing kin system of Early Medieval Europe. \n\n\"By the high Middle Ages, you get the rise of guilds, which are voluntary groups of craftsmen and self-help societies, because people don't have their families to rely on.\n\nPeople begin moving around, there's occupational sorting into different occupations, urbanization is rising, charter towns are on the rise, universities pop up, new kinds of monasteries pop up.\"\n\nFull episode out tomorrow!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 14,
+      "reply_count": 25,
+      "retweet_count": 58,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899539774744265195",
+      "url": "https://x.com/dwarkesh_sp/status/1899539774744265195",
+      "views_count": "102136",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102586,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102586,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 18:07:53 +0000 2025",
+      "conversation_id_str": "1899521494385922145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "363005534",
+            "name": "William MacAskill",
+            "screen_name": "willmacaskill",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "47268595",
+            "name": "Rob Wiblin",
+            "screen_name": "robertwiblin",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 20,
+      "favorited": false,
+      "full_text": "@willmacaskill @robertwiblin The faster the intelligence explosion, the longer the podcast!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899522680065515704",
+      "url": "https://x.com/dwarkesh_sp/status/1899522680065515704",
+      "views_count": "1379",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 39,
+      "created_at": "Tue Mar 11 04:10:48 +0000 2025",
+      "conversation_id_str": "1899312022602514742",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 324,
+      "favorited": false,
+      "full_text": "You'll get to work with a hilarious, brilliant, intense gentleman scientist who has decoded ancient scrolls, plotted out a terraform of Mars, and is currently making cheap synthetic fuel from sunlight and air.\n\nWhy haven't you applied?",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 13,
+      "retweet_count": 12,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1899312022602514742",
+      "url": "https://x.com/dwarkesh_sp/status/1899312022602514742",
+      "views_count": "40194",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 12,
+      "created_at": "Sat Mar 08 01:26:07 +0000 2025",
+      "conversation_id_str": "1898179448618262700",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "246072254",
+            "name": "Adam V Steele",
+            "screen_name": "adamvsteele",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 653,
+      "favorited": false,
+      "full_text": "@adamvsteele To be clear, at no point do I think Mao was actually a great leader. The Communists winning the civil war was a tragedy. But it's a good quote!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 12,
+      "reply_count": 25,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1898183415868146114",
+      "url": "https://x.com/dwarkesh_sp/status/1898183415868146114",
+      "views_count": "34674",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 953,
+      "created_at": "Sat Mar 08 01:10:21 +0000 2025",
+      "conversation_id_str": "1898179448618262700",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 4909,
+      "favorited": false,
+      "full_text": "“Had Mao died in 1956, his achievements would have been immortal. Had he died in 1966, he would still have been a great man but flawed. But he died in 1976. Alas, what can one say?”\n\n- Chen Yun, a leading Chinese Communist Party official under Mao and Deng Xiaoping",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 21,
+      "reply_count": 44,
+      "retweet_count": 233,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1898179448618262700",
+      "url": "https://x.com/dwarkesh_sp/status/1898179448618262700",
+      "views_count": "432361",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 07 20:59:41 +0000 2025",
+      "conversation_id_str": "1898113498972143647",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "742267758453264384",
+            "name": "𝚊𝚖𝚢 𝚌𝚞𝚗",
+            "screen_name": "amytcun",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@amytcun oh no ... wasn't me this time right 👀",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1898116364109488394",
+      "url": "https://x.com/dwarkesh_sp/status/1898116364109488394",
+      "views_count": "863",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 07 19:49:47 +0000 2025",
+      "conversation_id_str": "1897402226357981660",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "14435843",
+            "name": "Sean Grove",
+            "screen_name": "sgrove",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@sgrove I'm in! DMing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1898098774821818472",
+      "url": "https://x.com/dwarkesh_sp/status/1898098774821818472",
+      "views_count": "83",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102590,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102590,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 07 11:51:02 +0000 2025",
+      "conversation_id_str": "1897936704083751379",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "645503",
+            "name": "Sam Bowman",
+            "screen_name": "s8mb",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 44,
+      "favorited": false,
+      "full_text": "@s8mb Same thing with ordering. It doesn’t take 15 minutes to read a menu, but that’s how much most waiters will give you. \n\nMy solution is to declare that I’m ready to order as we’re sitting down, even if I haven’t seen the menu.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 10,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1209960539390201864",
+      "id_str": "1897978291472277814",
+      "url": "https://x.com/dwarkesh_sp/status/1897978291472277814",
+      "views_count": "6362",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Dec 25 22:14:46 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host of Dwarkesh Podcast\n\nhttps://t.co/3SXlu7f0hf\nhttps://t.co/rEhnfYxZ8q\nhttps://t.co/hQfIWdLu4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/DwarkeshPatel",
+                "expanded_url": "https://www.youtube.com/DwarkeshPatel",
+                "url": "https://t.co/3SXlu7f0hf",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "display_url": "spoti.fi/3MFtqBR",
+                "expanded_url": "https://spoti.fi/3MFtqBR",
+                "url": "https://t.co/rEhnfYxZ8q",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "display_url": "apple.co/3ujLQkZ",
+                "expanded_url": "https://apple.co/3ujLQkZ",
+                "url": "https://t.co/hQfIWdLu4P",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dwarkesh.com",
+                "expanded_url": "https://www.dwarkesh.com/",
+                "url": "https://t.co/WeFXM1NN1i",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 42449,
+        "followers_count": 102586,
+        "friends_count": 815,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1027,
+        "location": "San Francisco ",
+        "media_count": 677,
+        "name": "Dwarkesh Patel",
+        "normal_followers_count": 102586,
+        "pinned_tweet_ids_str": [
+          "1885357384866160762"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516990544165150721/gkmNmTig_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dwarkesh_sp",
+        "statuses_count": 4979,
+        "translator_type": "none",
+        "url": "https://t.co/WeFXM1NN1i",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1
+    ],
+    "2025-03-13": [
+      2,
+      3,
+      4
+    ],
+    "2025-03-12": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "2025-03-11": [
+      14,
+      15,
+      16
+    ],
+    "2025-03-08": [
+      17,
+      18
+    ],
+    "2025-03-07": [
+      19,
+      20,
+      21
+    ]
+  }
+}

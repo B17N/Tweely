@@ -1,0 +1,96 @@
+{
+  "username": "Ross Ulbricht",
+  "fetchedAt": "2025-03-15T15:58:08.317Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 210,
+      "created_at": "Thu Mar 13 20:05:52 +0000 2025",
+      "conversation_id_str": "1900277150303084641",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 12637,
+      "favorited": false,
+      "full_text": "For over a decade, I didn't have water fixtures that I could turn off and on. In prison, everything is on buttons with timers.\n\nAfter nearly two months in freedom, I still find myself staring at faucets and shower heads, waiting for them to turn off! So weird.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 45,
+      "reply_count": 539,
+      "retweet_count": 429,
+      "retweeted": false,
+      "user_id_str": "1012848315744993280",
+      "id_str": "1900277150303084641",
+      "url": "https://x.com/RealRossU/status/1900277150303084641",
+      "views_count": "404479",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Sat Jun 30 00:00:31 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sentenced to die in prison. Pardoned by President Trump after spending 4,130 days (11+ years) in max security. Freedom is sweet!",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "FreeRoss.org",
+                "expanded_url": "https://FreeRoss.org",
+                "url": "https://t.co/jFeuIEOG12",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1,
+        "followers_count": 509110,
+        "friends_count": 0,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 1167,
+        "location": "",
+        "media_count": 48,
+        "name": "Ross Ulbricht",
+        "normal_followers_count": 509110,
+        "pinned_tweet_ids_str": [
+          "1882609887878029519"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012848315744993280/1739642400",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1890148866583846912/3L9RhpqW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RealRossU",
+        "statuses_count": 487,
+        "translator_type": "none",
+        "url": "https://t.co/jFeuIEOG12",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-13": [
+      0
+    ]
+  }
+}

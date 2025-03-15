@@ -1,0 +1,45 @@
+{
+  "username": "cheeky-gorilla.eth",
+  "analyzedAt": "2025-03-15T18:29:23.002Z",
+  "tweetCount": 3,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 07 18:22:31 +0000 2025",
+    "latestTweet": "Thu Mar 13 11:28:35 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @cheeky-gorilla.eth and provide a summary of what they mainly talked about in the past week:\n\nETHDam III by @CryptoCanal is sure to be a highlight this year - love their focus on privacy and security!\n\nYou'll also be able to catch my talk on creating sustainable funding for Ethereum's core protocol development, aka @ProtocolGuild ⛓️🛡️\n\nJoin me May 9-11 in Amsterdam 🌷🇳🇱\n\nCan't wait for @EthPrague this year, honored to be able to present @ProtocolGuild ⛓️🛡️\n\nSee you there in May 🫡\n\n@alextnetto Waaay younger than I thought..! Happy birthday Alex 🫡"
+  },
+  "summary": "The tweets from @cheeky-gorilla.eth mainly focus on upcoming events related to Ethereum, particularly the ETHDam III event by @CryptoCanal and @EthPrague. They also mention their talk on sustainable funding for Ethereum's core protocol development through @ProtocolGuild. The tone seems positive and enthusiastic about the events and opportunities to present at them. Additionally, there is a casual mention of wishing someone a happy birthday.",
+  "keyTopics": [
+    "Ethereum,",
+    "They",
+    "Ethereum's",
+    "Additionally,"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900146972234797347",
+      "createdAt": "Thu Mar 13 11:28:35 +0000 2025",
+      "text": "ETHDam III by @CryptoCanal is sure to be a highlight this year - love their focus on privacy and sec..."
+    },
+    {
+      "index": 1,
+      "id": "1899553347553612090",
+      "createdAt": "Tue Mar 11 20:09:44 +0000 2025",
+      "text": "Can't wait for @EthPrague this year, honored to be able to present @ProtocolGuild ⛓️🛡️\n\nSee you the..."
+    },
+    {
+      "index": 2,
+      "id": "1898076813668008310",
+      "createdAt": "Fri Mar 07 18:22:31 +0000 2025",
+      "text": "@alextnetto Waaay younger than I thought..! Happy birthday Alex 🫡"
+    }
+  ]
+}

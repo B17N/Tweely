@@ -1,0 +1,3649 @@
+{
+  "username": "Shaw (wartime arc)",
+  "fetchedAt": "2025-03-15T15:58:08.308Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 07:28:34 +0000 2025",
+      "conversation_id_str": "1900811343655301169",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/broadcasts/1…",
+            "expanded_url": "https://x.com/i/broadcasts/1OyKALzewgnxb",
+            "url": "https://t.co/GtLkHRa2pg",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 33,
+      "favorited": false,
+      "full_text": "elizaos 1.0.0-alpha https://t.co/GtLkHRa2pg",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 25,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900811343655301169",
+      "url": "https://x.com/shawmakesmagic/status/1900811343655301169",
+      "views_count": "15235",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151307,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2618,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151307,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 05:20:52 +0000 2025",
+      "conversation_id_str": "1900779206063350094",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/broadcasts/1…",
+            "expanded_url": "https://x.com/i/broadcasts/1mnGegDvoXnxX",
+            "url": "https://t.co/ZeoZfi2v00",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 32,
+      "favorited": false,
+      "full_text": "elizaos 1.0.0-alpha https://t.co/ZeoZfi2v00",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 21,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900779206063350094",
+      "url": "https://x.com/shawmakesmagic/status/1900779206063350094",
+      "views_count": "7699",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151307,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2618,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151307,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 04:36:37 +0000 2025",
+      "conversation_id_str": "1900714577580511339",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "16157577",
+            "name": "Ghostface Killah",
+            "screen_name": "GhostfaceKillah",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 25,
+      "favorited": false,
+      "full_text": "@GhostfaceKillah I will make an AI agent of you, for you, you can run it yourself or we can run it\n\nYou don't have to buy my token or anything, I will just do it",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 12,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900768072086028525",
+      "url": "https://x.com/shawmakesmagic/status/1900768072086028525",
+      "views_count": "4031",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151307,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2618,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151307,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 00:00:53 +0000 2025",
+      "conversation_id_str": "1900667439450648725",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3315205122",
+            "name": "web weaver",
+            "screen_name": "deepfates",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@deepfates When the AI is the principal, not the agent?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900698681294377029",
+      "url": "https://x.com/shawmakesmagic/status/1900698681294377029",
+      "views_count": "668",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 00:00:08 +0000 2025",
+      "conversation_id_str": "1900698490935885941",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/xPCAdBZo2K",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1900698490935885941/photo/1",
+            "id_str": "1900698417313312769",
+            "indices": [
+              33,
+              56
+            ],
+            "media_key": "3_1900698417313312769",
+            "media_url_https": "https://pbs.twimg.com/media/GmCjI-UbcAES5sV.jpg",
+            "type": "photo",
+            "url": "https://t.co/xPCAdBZo2K",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 256,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900698417313312769"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/xPCAdBZo2K",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1900698490935885941/photo/1",
+            "id_str": "1900698417313312769",
+            "indices": [
+              33,
+              56
+            ],
+            "media_key": "3_1900698417313312769",
+            "media_url_https": "https://pbs.twimg.com/media/GmCjI-UbcAES5sV.jpg",
+            "type": "photo",
+            "url": "https://t.co/xPCAdBZo2K",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 256,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900698417313312769"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 113,
+      "favorited": false,
+      "full_text": "Never forget where you came from https://t.co/xPCAdBZo2K",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 3,
+      "reply_count": 28,
+      "retweet_count": 8,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900698490935885941",
+      "url": "https://x.com/shawmakesmagic/status/1900698490935885941",
+      "views_count": "9236",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 19:21:23 +0000 2025",
+      "conversation_id_str": "1900628341826482679",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/broadcasts/1…",
+            "expanded_url": "https://x.com/i/broadcasts/1dRKZYpgydVxB",
+            "url": "https://t.co/Q5EYNxfQ0n",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 46,
+      "favorited": false,
+      "full_text": "elizaos 1.0.0-alpha https://t.co/Q5EYNxfQ0n",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 3,
+      "reply_count": 20,
+      "retweet_count": 9,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900628341826482679",
+      "url": "https://x.com/shawmakesmagic/status/1900628341826482679",
+      "views_count": "5938",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 03:44:53 +0000 2025",
+      "conversation_id_str": "1900312606835171696",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1385599330518700032",
+            "name": "Adnan El Khzoum",
+            "screen_name": "KhzoumEl",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1742602876231315456",
+            "name": "daffy",
+            "screen_name": "DaffyHellman",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@KhzoumEl @DaffyHellman Those are not numbers those are letters",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900392666418077753",
+      "url": "https://x.com/shawmakesmagic/status/1900392666418077753",
+      "views_count": "110",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 22:33:07 +0000 2025",
+      "conversation_id_str": "1900312606835171696",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1742602876231315456",
+            "name": "daffy",
+            "screen_name": "DaffyHellman",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@DaffyHellman e is cool but too big brain to have mainstream appeal",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900314205066322214",
+      "url": "https://x.com/shawmakesmagic/status/1900314205066322214",
+      "views_count": "1030",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 9,
+      "created_at": "Thu Mar 13 22:26:46 +0000 2025",
+      "conversation_id_str": "1900312606835171696",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 219,
+      "favorited": false,
+      "full_text": "Best numbers, in order:\nπ\n42\n69\n420\n1337\n42069\n69420\n80085",
+      "is_quote_status": false,
+      "lang": "ro",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 7,
+      "reply_count": 89,
+      "retweet_count": 14,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900312606835171696",
+      "url": "https://x.com/shawmakesmagic/status/1900312606835171696",
+      "views_count": "22401",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Thu Mar 13 20:08:26 +0000 2025",
+      "conversation_id_str": "1900277793935724824",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/DZkX17KbVl",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1900277793935724824/photo/1",
+            "id_str": "1900277758695194624",
+            "indices": [
+              8,
+              31
+            ],
+            "media_key": "3_1900277758695194624",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8kja2aQAAPGTi.jpg",
+            "type": "photo",
+            "url": "https://t.co/DZkX17KbVl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 664,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 664,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 664,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 4,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 404,
+                  "y": 0,
+                  "w": 664,
+                  "h": 664
+                },
+                {
+                  "x": 445,
+                  "y": 0,
+                  "w": 582,
+                  "h": 664
+                },
+                {
+                  "x": 570,
+                  "y": 0,
+                  "w": 332,
+                  "h": 664
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 664
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900277758695194624"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/DZkX17KbVl",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1900277793935724824/photo/1",
+            "id_str": "1900277758695194624",
+            "indices": [
+              8,
+              31
+            ],
+            "media_key": "3_1900277758695194624",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8kja2aQAAPGTi.jpg",
+            "type": "photo",
+            "url": "https://t.co/DZkX17KbVl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 664,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 664,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 664,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 4,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 404,
+                  "y": 0,
+                  "w": 664,
+                  "h": 664
+                },
+                {
+                  "x": 445,
+                  "y": 0,
+                  "w": 582,
+                  "h": 664
+                },
+                {
+                  "x": 570,
+                  "y": 0,
+                  "w": 332,
+                  "h": 664
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 664
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900277758695194624"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 128,
+      "favorited": false,
+      "full_text": "Fellas? https://t.co/DZkX17KbVl",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 3,
+      "reply_count": 53,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900277793935724824",
+      "url": "https://x.com/shawmakesmagic/status/1900277793935724824",
+      "views_count": "13397",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Thu Mar 13 17:50:16 +0000 2025",
+      "conversation_id_str": "1900243024887898385",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/broadcasts/1…",
+            "expanded_url": "https://x.com/i/broadcasts/1OyKALzAPgwxb",
+            "url": "https://t.co/RzQjxEMWt1",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 47,
+      "favorited": false,
+      "full_text": "elizaos 1.0.0-alpha https://t.co/RzQjxEMWt1",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 4,
+      "reply_count": 17,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900243024887898385",
+      "url": "https://x.com/shawmakesmagic/status/1900243024887898385",
+      "views_count": "6171",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 03:59:57 +0000 2025",
+      "conversation_id_str": "1900034066415837663",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/broadcasts/1…",
+            "expanded_url": "https://x.com/i/broadcasts/1dRKZYpVmlrxB",
+            "url": "https://t.co/57JFSmjlhO",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 40,
+      "favorited": false,
+      "full_text": "elizaos 1.0.0-alpha https://t.co/57JFSmjlhO",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 3,
+      "reply_count": 15,
+      "retweet_count": 5,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1900034066415837663",
+      "url": "https://x.com/shawmakesmagic/status/1900034066415837663",
+      "views_count": "6667",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 6,
+      "created_at": "Tue Mar 11 22:51:11 +0000 2025",
+      "conversation_id_str": "1899593975729897799",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/broadcasts/1…",
+            "expanded_url": "https://x.com/i/broadcasts/1RDGlzDjzXlxL",
+            "url": "https://t.co/BB25uD22HE",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 89,
+      "favorited": false,
+      "full_text": "elizaos 1.0.0-alpha https://t.co/BB25uD22HE",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 4,
+      "reply_count": 16,
+      "retweet_count": 10,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899593975729897799",
+      "url": "https://x.com/shawmakesmagic/status/1899593975729897799",
+      "views_count": "8581",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Tue Mar 11 21:06:10 +0000 2025",
+      "conversation_id_str": "1899567549857386543",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 156,
+      "favorited": false,
+      "full_text": "I want to believe, ser",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 33,
+      "retweet_count": 8,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899567549857386543",
+      "url": "https://x.com/shawmakesmagic/status/1899567549857386543",
+      "views_count": "21060",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 7,
+      "created_at": "Tue Mar 11 21:05:54 +0000 2025",
+      "conversation_id_str": "1899567483440546160",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 73,
+      "favorited": false,
+      "full_text": "We are in the wrong game guys",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 3,
+      "reply_count": 17,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899567483440546160",
+      "url": "https://x.com/shawmakesmagic/status/1899567483440546160",
+      "views_count": "12440",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 03:54:01 +0000 2025",
+      "conversation_id_str": "1899237406445834246",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1480199691639873544",
+            "name": "skooks",
+            "screen_name": "skooookum",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@skooookum The country really wanted a reskilled junior dev with some AI tooling",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899307799768646140",
+      "url": "https://x.com/shawmakesmagic/status/1899307799768646140",
+      "views_count": "786",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 03:49:01 +0000 2025",
+      "conversation_id_str": "1899269779879518407",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3315205122",
+            "name": "web weaver",
+            "screen_name": "deepfates",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@deepfates Welcome… to the… Deep Fates program?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899306539498057947",
+      "url": "https://x.com/shawmakesmagic/status/1899306539498057947",
+      "views_count": "598",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 6,
+      "created_at": "Mon Mar 10 23:55:27 +0000 2025",
+      "conversation_id_str": "1899247761721381285",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 47,
+      "favorited": false,
+      "full_text": "Ordered my junior dev (Cursor instance 3) to write a script that parses the AST, identified all async calls that could be parallelized, then uses Claude to import the referenced functions and suggest an optimization change if it thinks it is possible without a race condition",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 14,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899247761721381285",
+      "url": "https://x.com/shawmakesmagic/status/1899247761721381285",
+      "views_count": "7741",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151307,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2618,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151307,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 23:51:19 +0000 2025",
+      "conversation_id_str": "1899128311101751408",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "101584084",
+            "name": "Brian Roemmele",
+            "screen_name": "BrianRoemmele",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@BrianRoemmele Man just call it OpenAnus",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899246720539897878",
+      "url": "https://x.com/shawmakesmagic/status/1899246720539897878",
+      "views_count": "806",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151307,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2618,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151307,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 23:49:50 +0000 2025",
+      "conversation_id_str": "1899202118424408154",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1464161975714435089",
+            "name": "javi",
+            "screen_name": "javitoshi",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@javitoshi Good tip",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899246346965754111",
+      "url": "https://x.com/shawmakesmagic/status/1899246346965754111",
+      "views_count": "522",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151307,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2618,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151307,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Mon Mar 10 22:32:33 +0000 2025",
+      "conversation_id_str": "1899226899500720639",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/broadcasts/1…",
+            "expanded_url": "https://x.com/i/broadcasts/1ynKOlbMzaqGR",
+            "url": "https://t.co/HpPVvTIAWe",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 33,
+      "favorited": false,
+      "full_text": "Eliza v2 Hacking https://t.co/HpPVvTIAWe",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 14,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899226899500720639",
+      "url": "https://x.com/shawmakesmagic/status/1899226899500720639",
+      "views_count": "6234",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 9,
+      "created_at": "Mon Mar 10 22:27:10 +0000 2025",
+      "conversation_id_str": "1899225546468503726",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 47,
+      "favorited": false,
+      "full_text": "We’re not back yet\n\nBut almost",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 16,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899225546468503726",
+      "url": "https://x.com/shawmakesmagic/status/1899225546468503726",
+      "views_count": "11979",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Mon Mar 10 22:23:51 +0000 2025",
+      "conversation_id_str": "1899007747636748522",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1128159740599656448",
+            "name": "near",
+            "screen_name": "nearcyan",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 26,
+      "favorited": false,
+      "full_text": "@nearcyan Literally thinking about buying a farm\n\nIf I can code from my AirPods and Raybans then why am I living in a box in this shithole city",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 4,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899224709356761301",
+      "url": "https://x.com/shawmakesmagic/status/1899224709356761301",
+      "views_count": "1258",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Mon Mar 10 21:08:19 +0000 2025",
+      "conversation_id_str": "1898817843287994800",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/KBdUPbbBw7",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1899205701295391175/photo/1",
+            "id_str": "1899205684761092096",
+            "indices": [
+              22,
+              45
+            ],
+            "media_key": "3_1899205684761092096",
+            "media_url_https": "https://pbs.twimg.com/media/GltVggOWYAA9h9Y.jpg",
+            "type": "photo",
+            "url": "https://t.co/KBdUPbbBw7",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 95,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 384,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899205684761092096"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "284333988",
+            "name": "Logan Kilpatrick",
+            "screen_name": "OfficialLoganK",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/KBdUPbbBw7",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1899205701295391175/photo/1",
+            "id_str": "1899205684761092096",
+            "indices": [
+              22,
+              45
+            ],
+            "media_key": "3_1899205684761092096",
+            "media_url_https": "https://pbs.twimg.com/media/GltVggOWYAA9h9Y.jpg",
+            "type": "photo",
+            "url": "https://t.co/KBdUPbbBw7",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 95,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 384,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899205684761092096"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@OfficialLoganK Me rn https://t.co/KBdUPbbBw7",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899205701295391175",
+      "url": "https://x.com/shawmakesmagic/status/1899205701295391175",
+      "views_count": "735",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Mon Mar 10 21:07:47 +0000 2025",
+      "conversation_id_str": "1899203141226406022",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1515481734439006210",
+            "name": "BloomOne",
+            "screen_name": "BV_Bloom1",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@BV_Bloom1 It is how we will know we’re at the bottom",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899205568549847390",
+      "url": "https://x.com/shawmakesmagic/status/1899205568549847390",
+      "views_count": "453",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 20:58:55 +0000 2025",
+      "conversation_id_str": "1899148642750955534",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1293155875864141824",
+            "name": "∿ △ ⇑",
+            "screen_name": "somewheresy",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@somewheresy Adblock for slop is a great idea",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899203338291564735",
+      "url": "https://x.com/shawmakesmagic/status/1899203338291564735",
+      "views_count": "365",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 20:58:09 +0000 2025",
+      "conversation_id_str": "1899203141226406022",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 42,
+      "favorited": false,
+      "full_text": "I don’t know about you guys but personally I’m really excited about the Kanye x Ansem collab!!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 19,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899203141226406022",
+      "url": "https://x.com/shawmakesmagic/status/1899203141226406022",
+      "views_count": "8562",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Mon Mar 10 20:57:14 +0000 2025",
+      "conversation_id_str": "1899202912175472941",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 183,
+      "favorited": false,
+      "full_text": "1 more week of boring streams and grinding to ship v2\n\nThen I’ll respond to my DMs and be a person again",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 4,
+      "reply_count": 27,
+      "retweet_count": 18,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899202912175472941",
+      "url": "https://x.com/shawmakesmagic/status/1899202912175472941",
+      "views_count": "13185",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 20,
+      "created_at": "Mon Mar 10 20:54:05 +0000 2025",
+      "conversation_id_str": "1899202118424408154",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/n8xaW1hbqo",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1899202118424408154/photo/1",
+            "id_str": "1899202001793417216",
+            "indices": [
+              52,
+              75
+            ],
+            "media_key": "3_1899202001793417216",
+            "media_url_https": "https://pbs.twimg.com/media/GltSKIGbgAADgBM.jpg",
+            "type": "photo",
+            "url": "https://t.co/n8xaW1hbqo",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 95,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 384,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899202001793417216"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/n8xaW1hbqo",
+            "expanded_url": "https://x.com/shawmakesmagic/status/1899202118424408154/photo/1",
+            "id_str": "1899202001793417216",
+            "indices": [
+              52,
+              75
+            ],
+            "media_key": "3_1899202001793417216",
+            "media_url_https": "https://pbs.twimg.com/media/GltSKIGbgAADgBM.jpg",
+            "type": "photo",
+            "url": "https://t.co/n8xaW1hbqo",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 95,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 384,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899202001793417216"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 258,
+      "favorited": false,
+      "full_text": "Vibe coding? You mean directing my junior dev team? https://t.co/n8xaW1hbqo",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 29,
+      "retweet_count": 15,
+      "retweeted": false,
+      "user_id_str": "1830340867737178112",
+      "id_str": "1899202118424408154",
+      "url": "https://x.com/shawmakesmagic/status/1899202118424408154",
+      "views_count": "17458",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Sep 01 20:24:15 +0000 2024",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @ Eliza Labs\n\nCreator of elizaOS: https://t.co/VcPditeReE\n\nHead down building. If you need something, email inquiries@elizalabs.ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/elizaos/eliza",
+                "expanded_url": "https://github.com/elizaos/eliza",
+                "url": "https://t.co/VcPditeReE",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizaos.ai",
+                "expanded_url": "https://elizaos.ai",
+                "url": "https://t.co/ExbTczoHB0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2412,
+        "followers_count": 151314,
+        "friends_count": 1089,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 2617,
+        "location": "San Francisco, CA",
+        "media_count": 52,
+        "name": "Shaw (wartime arc)",
+        "normal_followers_count": 151314,
+        "pinned_tweet_ids_str": [
+          "1891151484256923730"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830340867737178112/1736003176",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1877150361837797376/7jkUcWej_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "shawmakesmagic",
+        "statuses_count": 711,
+        "translator_type": "none",
+        "url": "https://t.co/ExbTczoHB0",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "2025-03-14": [
+      5,
+      6
+    ],
+    "2025-03-13": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "2025-03-11": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "2025-03-10": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  }
+}

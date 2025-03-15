@@ -1,0 +1,60 @@
+{
+  "username": "oskarth",
+  "analyzedAt": "2025-03-15T18:29:21.525Z",
+  "tweetCount": 6,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 04:50:16 +0000 2025",
+    "latestTweet": "Fri Mar 14 13:13:29 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @oskarth and provide a summary of what they mainly talked about in the past week:\n\nwalking is the best form of traveling\n\n@_hrkrshnn All &lt;events&gt; should be held in &lt;my city&gt;\n\nNYC is great, but this is a very myopic view (clickbait?). Plenty of people are unable or unwilling to travel to USA. The world is much bigger than NYC/USA, despite what its people think. https://t.co/O7n6jbQ51L\n\n@aisconnolly @nicksvyaznoy @audreyt @jbaylina @JulianAssange_ @santisiri @post_polar_ I’d just reply here\n\nOP is a very abbreviated tweet of talk I gave earlier\n\n@secparam @alinush407 I wrote this with this specific audience in mind :)\n\nhttps://t.co/bnv4i6RoLN\n\nDeliberately doesn't cover polynomials though, but I'll build more intuition on this in the next part\n\nNot just UK and Sweden, France now too\n\nThese law proposals never seem to die, every few years some crackpot politician wants to add another backdoor \"wouldn't it be nice if we could listen in on the bad people? brilliant idea!\" smh\n\nhttps://t.co/jNxFqxnclq\n\nThis seems... fragile"
+  },
+  "summary": "The tweets from @oskarth in the past week mainly cover a variety of topics such as traveling, events, New York City, a talk given earlier, specific audiences, law proposals on backdoors, and expressing skepticism or concern. The sentiment ranges from positive views on walking and events to skepticism towards certain views and law proposals. The tweets also touch upon the idea of a larger world beyond specific locations like NYC and the implications of certain political ideas.",
+  "keyTopics": [
+    "City,"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900535759096197137",
+      "createdAt": "Fri Mar 14 13:13:29 +0000 2025",
+      "text": "walking is the best form of traveling"
+    },
+    {
+      "index": 1,
+      "id": "1900407411057582442",
+      "createdAt": "Fri Mar 14 04:43:29 +0000 2025",
+      "text": "@_hrkrshnn All &lt;events&gt; should be held in &lt;my city&gt;\n\nNYC is great, but this is a very my..."
+    },
+    {
+      "index": 2,
+      "id": "1899446451576726009",
+      "createdAt": "Tue Mar 11 13:04:58 +0000 2025",
+      "text": "@aisconnolly @nicksvyaznoy @audreyt @jbaylina @JulianAssange_ @santisiri @post_polar_ I’d just reply..."
+    },
+    {
+      "index": 3,
+      "id": "1899410511231598592",
+      "createdAt": "Tue Mar 11 10:42:09 +0000 2025",
+      "text": "@secparam @alinush407 I wrote this with this specific audience in mind :)\n\nhttps://t.co/bnv4i6RoLN\n\n..."
+    },
+    {
+      "index": 4,
+      "id": "1899322766496833995",
+      "createdAt": "Tue Mar 11 04:53:29 +0000 2025",
+      "text": "Not just UK and Sweden, France now too\n\nThese law proposals never seem to die, every few years some ..."
+    },
+    {
+      "index": 5,
+      "id": "1899321957226844607",
+      "createdAt": "Tue Mar 11 04:50:16 +0000 2025",
+      "text": "This seems... fragile"
+    }
+  ]
+}

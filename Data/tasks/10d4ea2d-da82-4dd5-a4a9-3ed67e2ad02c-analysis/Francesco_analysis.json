@@ -1,0 +1,50 @@
+{
+  "username": "Francesco",
+  "analyzedAt": "2025-03-15T18:28:04.074Z",
+  "tweetCount": 4,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 07:55:35 +0000 2025",
+    "latestTweet": "Fri Mar 14 17:15:39 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Francesco and provide a summary of what they mainly talked about in the past week:\n\n@notnotstorm Here you're focusing on storage, which indeed is not an issue (particularly after history expiry). That's not the only problem with state size though. Sync performance is the primary concern of Geth folks, iiuc.\n\nRefreshing intensifies https://t.co/QjnOMDcWqR\n\n🍿🍿 https://t.co/Hl8GN8ydGm\n\n@nope_its_lily Only if you have good memory. I regularly find that I muted someone but have no idea why"
+  },
+  "summary": "The tweets from @Francesco mainly discuss technical aspects related to storage and performance in the context of Geth (Go Ethereum). There is a mention of the issue with state size and its impact on sync performance. Additionally, there is a lighthearted mention of memory and muting someone on social media. The overall sentiment seems to be focused on technical discussions and casual observations about online interactions.",
+  "keyTopics": [
+    "Geth",
+    "There",
+    "Additionally,"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900596700705923151",
+      "createdAt": "Fri Mar 14 17:15:39 +0000 2025",
+      "text": "@notnotstorm Here you're focusing on storage, which indeed is not an issue (particularly after histo..."
+    },
+    {
+      "index": 1,
+      "id": "1899176550765048287",
+      "createdAt": "Mon Mar 10 19:12:29 +0000 2025",
+      "text": "Refreshing intensifies https://t.co/QjnOMDcWqR"
+    },
+    {
+      "index": 2,
+      "id": "1899175636389765225",
+      "createdAt": "Mon Mar 10 19:08:51 +0000 2025",
+      "text": "🍿🍿 https://t.co/Hl8GN8ydGm"
+    },
+    {
+      "index": 3,
+      "id": "1899006203004403864",
+      "createdAt": "Mon Mar 10 07:55:35 +0000 2025",
+      "text": "@nope_its_lily Only if you have good memory. I regularly find that I muted someone but have no idea ..."
+    }
+  ]
+}

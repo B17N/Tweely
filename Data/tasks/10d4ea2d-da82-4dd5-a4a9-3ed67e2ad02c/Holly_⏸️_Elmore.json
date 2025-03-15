@@ -1,0 +1,5727 @@
+{
+  "username": "Holly ⏸️ Elmore",
+  "fetchedAt": "2025-03-15T15:58:08.311Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 02:59:16 +0000 2025",
+      "conversation_id_str": "1706396440015015941",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1267476991",
+            "name": "Blake Blue",
+            "screen_name": "photoroller",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "1356033723494400002",
+            "name": "Hephaistos Fnord",
+            "screen_name": "HephaistosF",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "id_str": "2595244026",
+            "name": "Eliezer Yudkowsky ⏹️",
+            "screen_name": "ESYudkowsky",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@photoroller @HephaistosF @ESYudkowsky Nope, mine are totally natural",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900743574691668179",
+      "url": "https://x.com/ilex_ulmus/status/1900743574691668179",
+      "views_count": "5",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 02:57:07 +0000 2025",
+      "conversation_id_str": "1900743032577933524",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "🥲",
+      "is_quote_status": true,
+      "lang": "art",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900743032577933524",
+      "url": "https://x.com/ilex_ulmus/status/1900743032577933524",
+      "views_count": "460",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 21:27:48 +0000 2025",
+      "conversation_id_str": "1900258842954621081",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "25422302",
+            "name": "Liv Boeree",
+            "screen_name": "Liv_Boeree",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@Liv_Boeree AI-mnesia",
+      "is_quote_status": false,
+      "lang": "in",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900660158423793930",
+      "url": "https://x.com/ilex_ulmus/status/1900660158423793930",
+      "views_count": "76",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 21:20:47 +0000 2025",
+      "conversation_id_str": "1900347755890909378",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/MyAGabSojb",
+            "expanded_url": "https://x.com/ilex_ulmus/status/1900658390482686043/photo/1",
+            "id_str": "1900658173599444992",
+            "indices": [
+              169,
+              192
+            ],
+            "media_key": "3_1900658173599444992",
+            "media_url_https": "https://pbs.twimg.com/media/GmB-iezWcAAHPpF.jpg",
+            "type": "photo",
+            "url": "https://t.co/MyAGabSojb",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 434,
+                "w": 1274,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 409,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 232,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 434,
+              "width": 1274,
+              "focus_rects": [
+                {
+                  "x": 250,
+                  "y": 0,
+                  "w": 775,
+                  "h": 434
+                },
+                {
+                  "x": 420,
+                  "y": 0,
+                  "w": 434,
+                  "h": 434
+                },
+                {
+                  "x": 447,
+                  "y": 0,
+                  "w": 381,
+                  "h": 434
+                },
+                {
+                  "x": 529,
+                  "y": 0,
+                  "w": 217,
+                  "h": 434
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1274,
+                  "h": 434
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900658173599444992"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "48412390",
+            "name": "Peli Grietzer",
+            "screen_name": "peligrietzer",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/MyAGabSojb",
+            "expanded_url": "https://x.com/ilex_ulmus/status/1900658390482686043/photo/1",
+            "id_str": "1900658173599444992",
+            "indices": [
+              169,
+              192
+            ],
+            "media_key": "3_1900658173599444992",
+            "media_url_https": "https://pbs.twimg.com/media/GmB-iezWcAAHPpF.jpg",
+            "type": "photo",
+            "url": "https://t.co/MyAGabSojb",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 434,
+                "w": 1274,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 409,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 232,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 434,
+              "width": 1274,
+              "focus_rects": [
+                {
+                  "x": 250,
+                  "y": 0,
+                  "w": 775,
+                  "h": 434
+                },
+                {
+                  "x": 420,
+                  "y": 0,
+                  "w": 434,
+                  "h": 434
+                },
+                {
+                  "x": 447,
+                  "y": 0,
+                  "w": 381,
+                  "h": 434
+                },
+                {
+                  "x": 529,
+                  "y": 0,
+                  "w": 217,
+                  "h": 434
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1274,
+                  "h": 434
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900658173599444992"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@peligrietzer This can get really out of control when there's pressure to be seen as updating quickly. (From The Sequences-- I assume you're implicating EA/rationality) https://t.co/MyAGabSojb",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900658390482686043",
+      "url": "https://x.com/ilex_ulmus/status/1900658390482686043",
+      "views_count": "242",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 21:03:47 +0000 2025",
+      "conversation_id_str": "1900654106995265723",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "After you've been thru it once, you know in your bones that giving up status and the identity that came w it will not kill you. Please brave this leap of faith and stop contributing to ASI for the good of the world. It is hard, but you will make it, and you will be stronger. 3/",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900654111860625813",
+      "url": "https://x.com/ilex_ulmus/status/1900654111860625813",
+      "views_count": "307",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 21:03:46 +0000 2025",
+      "conversation_id_str": "1900654106995265723",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "It's really scary if you've never practiced surrendering status before. Like your first breakup, it can feel like a death. I'm trying to remember this as I ask people to give up status and a piece of their identity by leaving AI companies and their collaborators like OpenPhil. 2/",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900654108941459587",
+      "url": "https://x.com/ilex_ulmus/status/1900654108941459587",
+      "views_count": "311",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Fri Mar 14 21:03:46 +0000 2025",
+      "conversation_id_str": "1900654106995265723",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 18,
+      "favorited": false,
+      "full_text": "In the same way that \"the first cut is the deepest\" with romantic breakups, the first time is the hardest when it comes to giving up status. You learn that you'll survive, and you gain confidence that allows you to act with more integrity in the future. 1/",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900654106995265723",
+      "url": "https://x.com/ilex_ulmus/status/1900654106995265723",
+      "views_count": "843",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 20:51:54 +0000 2025",
+      "conversation_id_str": "1900651121485529339",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 71,
+      "favorited": false,
+      "full_text": "🤮 Ugh this reeks of OpenAI PR memo.\n\n\"What are you doing today to prepare for my company, OpenAI, recklessly aiming to destroy your way of life?\"\n\nFixed it.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900651121485529339",
+      "url": "https://x.com/ilex_ulmus/status/1900651121485529339",
+      "views_count": "2842",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 20:42:53 +0000 2025",
+      "conversation_id_str": "1900638396781129828",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2271659647",
+            "name": "Mahmet Tokarev ⏹️",
+            "screen_name": "MahmetTokarev",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@MahmetTokarev I agree-- specifically it's a bid to be a Great Man of History or even a god",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900648852593799451",
+      "url": "https://x.com/ilex_ulmus/status/1900648852593799451",
+      "views_count": "59",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 20:01:20 +0000 2025",
+      "conversation_id_str": "1900638396781129828",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 49,
+      "favorited": false,
+      "full_text": "If Wall Street's sin is greed, I think the AI world's sin is FOMO.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900638396781129828",
+      "url": "https://x.com/ilex_ulmus/status/1900638396781129828",
+      "views_count": "2275",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:57:45 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@David_Kasten Oh I think I interpreted that opposite what you meant",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900637494191993193",
+      "url": "https://x.com/ilex_ulmus/status/1900637494191993193",
+      "views_count": "13",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:36:42 +0000 2025",
+      "conversation_id_str": "1900621555534528802",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1013086717530820608",
+            "name": "Agus 🔎 🔸",
+            "screen_name": "austinc3301",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@austinc3301 That is if this story is real",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900632198245732555",
+      "url": "https://x.com/ilex_ulmus/status/1900632198245732555",
+      "views_count": "29",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:36:25 +0000 2025",
+      "conversation_id_str": "1900621555534528802",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1013086717530820608",
+            "name": "Agus 🔎 🔸",
+            "screen_name": "austinc3301",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@austinc3301 I feel like it's got to be about fear of defection/brain drain",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900632125814304850",
+      "url": "https://x.com/ilex_ulmus/status/1900632125814304850",
+      "views_count": "86",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:31:00 +0000 2025",
+      "conversation_id_str": "1900543167629283769",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "35367022",
+            "name": "Conrad Barski",
+            "screen_name": "lisperati",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "79571866",
+            "name": "Shakeel",
+            "screen_name": "ShakeelHashim",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "id_str": "2595244026",
+            "name": "Eliezer Yudkowsky ⏹️",
+            "screen_name": "ESYudkowsky",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@lisperati @ShakeelHashim @ESYudkowsky They like libertarians and iconoclasts 🤷‍♀️",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900630764003488192",
+      "url": "https://x.com/ilex_ulmus/status/1900630764003488192",
+      "views_count": "44",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:24:06 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@David_Kasten &gt;My fellows already leave so much on the table trying to placate them and service their egos.\n\nThis behavior, btw, makes it so they have no reason to change their mind. They're exactly where they want to be when we treat them as super important bc of their proximity to AI dev.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900629028056485916",
+      "url": "https://x.com/ilex_ulmus/status/1900629028056485916",
+      "views_count": "15",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:23:06 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@David_Kasten I'm not counting on converting those ppl. My fellows already leave so much on the table trying to placate them and service their egos. Imo a lot of those ppl are only gonna care if AI irresponsibility is actually stigmatized in broader society. They're convincible-- just not yet.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900628774254993414",
+      "url": "https://x.com/ilex_ulmus/status/1900628774254993414",
+      "views_count": "12",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:16:59 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/David_Kasten/s…",
+            "expanded_url": "https://x.com/David_Kasten/status/1900623218769310146",
+            "url": "https://t.co/oOCiAIJ1QA",
+            "indices": [
+              148,
+              171
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@David_Kasten Honestly, if you think this, we should get as far away from these amoral people as possible and openly oppose them. Terrible allies. \nhttps://t.co/oOCiAIJ1QA",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900627237386535064",
+      "url": "https://x.com/ilex_ulmus/status/1900627237386535064",
+      "views_count": "28",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:13:53 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@David_Kasten In this case, Alex is pissed now, but I directly confronted a serious issue (instead of tiptoeing around it politely and allowing him not to take it to heart) and he will probably be reflecting on it. On top of that, people are watching and getting the message.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900626457241751925",
+      "url": "https://x.com/ilex_ulmus/status/1900626457241751925",
+      "views_count": "14",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:11:11 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@David_Kasten 1) Of course everyone's not worth convincing *with your limited energy*. 2) \"Convincing\" someone like Alex w an ingrained take means spending time you can't spend on other people, most of whom are probably more receptive. 3) Negative confrontations also change minds.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900625774895591711",
+      "url": "https://x.com/ilex_ulmus/status/1900625774895591711",
+      "views_count": "12",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:08:37 +0000 2025",
+      "conversation_id_str": "1900625130612810212",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "It's true OpenAI is openly evil here whereas Anthropic merely wants to make AI a war asset, but how long before Anthropic drops the act too? Don't be fooled again like so many of you were by Sam Altman-- it's obvious where all the frontier AI companies are headed.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900625130612810212",
+      "url": "https://x.com/ilex_ulmus/status/1900625130612810212",
+      "views_count": "580",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:02:10 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@David_Kasten Not really worth holding on to such people, is it?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900623507027096044",
+      "url": "https://x.com/ilex_ulmus/status/1900623507027096044",
+      "views_count": "9",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:59:38 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "266564506",
+            "name": "dave kasten",
+            "screen_name": "David_Kasten",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@David_Kasten Are you saying he'll convince himself he doesn't care if I tell him that's his revealed preference?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900622869346046069",
+      "url": "https://x.com/ilex_ulmus/status/1900622869346046069",
+      "views_count": "17",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:49:24 +0000 2025",
+      "conversation_id_str": "1900620292931965146",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "Don't do this.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900620292931965146",
+      "url": "https://x.com/ilex_ulmus/status/1900620292931965146",
+      "views_count": "338",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:45:43 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1162062259021058048",
+            "name": "alex lawsen",
+            "screen_name": "lxrjl",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@lxrjl I know you live in a web of tortured justifications for supporting a supervillain megaproject, but straightforwardly you are supporting the building of a doomsday device.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900619365286080579",
+      "url": "https://x.com/ilex_ulmus/status/1900619365286080579",
+      "views_count": "438",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:41:00 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1162062259021058048",
+            "name": "alex lawsen",
+            "screen_name": "lxrjl",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@lxrjl That's what your actions and priorities imply, yeah",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900618181888405632",
+      "url": "https://x.com/ilex_ulmus/status/1900618181888405632",
+      "views_count": "109",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:17:20 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "You can't support Anthropic building bigger and bigger models (who have God knows what interior experience), putting the entire world at risk, and then act all offended that some bad apple would treat a model cruelly, as if that's what wrong with AI development.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900612223636320522",
+      "url": "https://x.com/ilex_ulmus/status/1900612223636320522",
+      "views_count": "281",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 14 18:13:42 +0000 2025",
+      "conversation_id_str": "1900611307931595145",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "Don't get me wrong-- it's important to treat AI models nicely in case they feel things or one day feel things-- but I'm surprised by how righteous people are about it who seem fine putting other humans at a high risk of dying to make bigger models. Get off your high horse.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900611307931595145",
+      "url": "https://x.com/ilex_ulmus/status/1900611307931595145",
+      "views_count": "608",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 16:57:03 +0000 2025",
+      "conversation_id_str": "1900398733327818873",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "500203815",
+            "name": "shb",
+            "screen_name": "himbodhisattva",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@himbodhisattva I'm really looking forward to the new haggard emoji to express this",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900592021393514825",
+      "url": "https://x.com/ilex_ulmus/status/1900592021393514825",
+      "views_count": "17",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 06:03:18 +0000 2025",
+      "conversation_id_str": "1900398733327818873",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "500203815",
+            "name": "shb",
+            "screen_name": "himbodhisattva",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@himbodhisattva Blazed?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900427498355368255",
+      "url": "https://x.com/ilex_ulmus/status/1900427498355368255",
+      "views_count": "30",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 06:01:23 +0000 2025",
+      "conversation_id_str": "1900228085120983149",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2595244026",
+            "name": "Eliezer Yudkowsky ⏹️",
+            "screen_name": "ESYudkowsky",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@ESYudkowsky It was certainly human artist level.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900427016614404521",
+      "url": "https://x.com/ilex_ulmus/status/1900427016614404521",
+      "views_count": "149",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 05:55:13 +0000 2025",
+      "conversation_id_str": "1900332270294344184",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1680757426889342977",
+            "name": "Defender",
+            "screen_name": "DefenderOfBasic",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@DefenderOfBasic Well there is presumably *some* physics guiding them, like the physics behind our brains, that we simply don't have a full account of and which can be described in a predictive way, as you say, at higher levels.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900425465124585939",
+      "url": "https://x.com/ilex_ulmus/status/1900425465124585939",
+      "views_count": "42",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 05:49:32 +0000 2025",
+      "conversation_id_str": "1900424035223429452",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/6QAm6nYm0t",
+            "expanded_url": "https://x.com/ilex_ulmus/status/1900424035223429452/photo/1",
+            "id_str": "1900423786098483200",
+            "indices": [
+              104,
+              127
+            ],
+            "media_key": "3_1900423786098483200",
+            "media_url_https": "https://pbs.twimg.com/media/Gl-pXVUaYAATgZI.png",
+            "type": "photo",
+            "url": "https://t.co/6QAm6nYm0t",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 774,
+                "w": 726,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 774,
+                "w": 726,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 638,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 774,
+              "width": 726,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 726,
+                  "h": 407
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 726,
+                  "h": 726
+                },
+                {
+                  "x": 47,
+                  "y": 0,
+                  "w": 679,
+                  "h": 774
+                },
+                {
+                  "x": 213,
+                  "y": 0,
+                  "w": 387,
+                  "h": 774
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 726,
+                  "h": 774
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900423786098483200"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/6QAm6nYm0t",
+            "expanded_url": "https://x.com/ilex_ulmus/status/1900424035223429452/photo/1",
+            "id_str": "1900423786098483200",
+            "indices": [
+              104,
+              127
+            ],
+            "media_key": "3_1900423786098483200",
+            "media_url_https": "https://pbs.twimg.com/media/Gl-pXVUaYAATgZI.png",
+            "type": "photo",
+            "url": "https://t.co/6QAm6nYm0t",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 774,
+                "w": 726,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 774,
+                "w": 726,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 638,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 774,
+              "width": 726,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 726,
+                  "h": 407
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 726,
+                  "h": 726
+                },
+                {
+                  "x": 47,
+                  "y": 0,
+                  "w": 679,
+                  "h": 774
+                },
+                {
+                  "x": 213,
+                  "y": 0,
+                  "w": 387,
+                  "h": 774
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 726,
+                  "h": 774
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900423786098483200"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "It probably should say it was donated by the org, but I'm pretty tickled to have donated a museum item. https://t.co/6QAm6nYm0t",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900424035223429452",
+      "url": "https://x.com/ilex_ulmus/status/1900424035223429452",
+      "views_count": "611",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 05:30:20 +0000 2025",
+      "conversation_id_str": "1900194787761783130",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1372879423",
+            "name": "Tetraboston 💎🌁",
+            "screen_name": "TetraspaceWest",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@TetraspaceWest 😂\n\nI appreciated that he was played by Jeffrey Dean Morgan, and Invincible is played by Stephen Yuen, and I'm sure other Walking Dead fans will appreciate the significance.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900419202714132747",
+      "url": "https://x.com/ilex_ulmus/status/1900419202714132747",
+      "views_count": "90",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 05:28:36 +0000 2025",
+      "conversation_id_str": "1900418765076275228",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "OpenAI... more like openly evil.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900418765076275228",
+      "url": "https://x.com/ilex_ulmus/status/1900418765076275228",
+      "views_count": "532",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 05:23:03 +0000 2025",
+      "conversation_id_str": "1900325224723226929",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1175714145133633536",
+            "name": "Gideon Futerman",
+            "screen_name": "GFuterman",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@GFuterman I'll happily serve as a reference if that's helpful.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900417368850841676",
+      "url": "https://x.com/ilex_ulmus/status/1900417368850841676",
+      "views_count": "45",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 05:22:57 +0000 2025",
+      "conversation_id_str": "1900325224723226929",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1175714145133633536",
+            "name": "Gideon Futerman",
+            "screen_name": "GFuterman",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@GFuterman You're such a catch! You're an extremely rare mix of speaking diplomatically while never compromising the point. I've admired your bravery a lot since I've known you, like when you spoke out against the coldwarmongering of SA while everyone else was still starstruck.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900417344918479136",
+      "url": "https://x.com/ilex_ulmus/status/1900417344918479136",
+      "views_count": "61",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 03:09:36 +0000 2025",
+      "conversation_id_str": "1900383779522568264",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/bd_HZnPMXAw?si…",
+            "expanded_url": "https://youtu.be/bd_HZnPMXAw?si=XJovskYlDxphk4d6",
+            "url": "https://t.co/O5VUD9UEHV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "https://t.co/O5VUD9UEHV",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900383784719253522",
+      "url": "https://x.com/ilex_ulmus/status/1900383784719253522",
+      "views_count": "249",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 03:09:35 +0000 2025",
+      "conversation_id_str": "1900383779522568264",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/lqrWV2AfcxY?si…",
+            "expanded_url": "https://youtu.be/lqrWV2AfcxY?si=lnB1yLb0hSG2NdyW",
+            "url": "https://t.co/ON94e9WQ6K",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "https://t.co/ON94e9WQ6K",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900383782194311483",
+      "url": "https://x.com/ilex_ulmus/status/1900383782194311483",
+      "views_count": "261",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 03:09:35 +0000 2025",
+      "conversation_id_str": "1900383779522568264",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "You can check out my two interviews with John below!",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900383779522568264",
+      "url": "https://x.com/ilex_ulmus/status/1900383779522568264",
+      "views_count": "691",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 20:32:46 +0000 2025",
+      "conversation_id_str": "1900283917980319965",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 46,
+      "favorited": false,
+      "full_text": "On the one hand, thank you for thinking about this and sharing this. Otoh, it's cheap to say that \"society\" needs to prepare for what *your company* is doing to it. What the world needs to do is make your company and its competitors stop. And you need to stop supporting OpenAI.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900283917980319965",
+      "url": "https://x.com/ilex_ulmus/status/1900283917980319965",
+      "views_count": "2723",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 20:32:14 +0000 2025",
+      "conversation_id_str": "1899986206634467596",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "232584545",
+            "name": "julia villagra",
+            "screen_name": "juliacvillagra",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "@juliacvillagra On the one hand, thank you for thinking about this and sharing this. Otoh, it's cheap to say that \"society\" needs to prepare for what *your company* is doing to it. What the world needs to do is make your company and its competitors stop. And you need to stop supporting OpenAI.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900283786262438053",
+      "url": "https://x.com/ilex_ulmus/status/1900283786262438053",
+      "views_count": "238",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 20:13:39 +0000 2025",
+      "conversation_id_str": "1900203994732990469",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "25776739",
+            "name": "Peter Wildeford 🇺🇸",
+            "screen_name": "peterwildeford",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@peterwildeford But doesn't it seem wrong not to include their time dating since the unmarried line presumably starts earlier in those peoples' relationships? And then why does the marriage-like same sex line start later?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900279109542174891",
+      "url": "https://x.com/ilex_ulmus/status/1900279109542174891",
+      "views_count": "109",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 20:08:25 +0000 2025",
+      "conversation_id_str": "1900203994732990469",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "25776739",
+            "name": "Peter Wildeford 🇺🇸",
+            "screen_name": "peterwildeford",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@peterwildeford Doesn't it seem like this should show dating turning into marriage? Idk now that I think about that seems very hard...",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900277792358682685",
+      "url": "https://x.com/ilex_ulmus/status/1900277792358682685",
+      "views_count": "33",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 20:00:22 +0000 2025",
+      "conversation_id_str": "1900176924040638722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1260577292067254276",
+            "name": "Kat Woods ⏸️ 🔶",
+            "screen_name": "Kat__Woods",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@Kat__Woods It's especially especially bad because people police increases in moral standards. They want to tear down EA because it makes them morally insecure. Ditto vegetarianism.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900275763510993040",
+      "url": "https://x.com/ilex_ulmus/status/1900275763510993040",
+      "views_count": "92",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:57:39 +0000 2025",
+      "conversation_id_str": "1900203994732990469",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "25776739",
+            "name": "Peter Wildeford 🇺🇸",
+            "screen_name": "peterwildeford",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@peterwildeford When did the straight couples get married? At the zero mark? Or the label about how the couple ended up before the breakup or at the end of the data?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900275079566770176",
+      "url": "https://x.com/ilex_ulmus/status/1900275079566770176",
+      "views_count": "603",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 02:36:17 +0000 2025",
+      "conversation_id_str": "1899918815087186322",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1356205700",
+            "name": "grief seed oil disrespecter",
+            "screen_name": "softminus",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "756181721997987848",
+            "name": "Amanda Askell",
+            "screen_name": "AmandaAskell",
+            "indices": [
+              11,
+              24
+            ]
+          },
+          {
+            "id_str": "138923554",
+            "name": "Evan Hubinger",
+            "screen_name": "EvanHub",
+            "indices": [
+              25,
+              33
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@softminus @AmandaAskell @EvanHub *Quit and don't work at another AI company",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1900013013010448552",
+      "url": "https://x.com/ilex_ulmus/status/1900013013010448552",
+      "views_count": "311",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 21:58:36 +0000 2025",
+      "conversation_id_str": "1899492789999550523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "15484497",
+            "name": "davidad 🎇",
+            "screen_name": "davidad",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "1240746561191260160",
+            "name": "Otto Barten⏸",
+            "screen_name": "BartenOtto",
+            "indices": [
+              9,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@davidad @BartenOtto I think this is outweighed by the loss of buffer.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899943131111711149",
+      "url": "https://x.com/ilex_ulmus/status/1899943131111711149",
+      "views_count": "29",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 24,
+      "created_at": "Wed Mar 12 20:21:58 +0000 2025",
+      "conversation_id_str": "1899918815087186322",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "756181721997987848",
+            "name": "Amanda Askell",
+            "screen_name": "AmandaAskell",
+            "indices": [
+              110,
+              123
+            ]
+          },
+          {
+            "id_str": "138923554",
+            "name": "Evan Hubinger",
+            "screen_name": "EvanHub",
+            "indices": [
+              124,
+              132
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 67,
+      "favorited": false,
+      "full_text": "Anyone who joined Anthropic for safety reasons needs to leave and stop contributing to this coldwarmongering. @AmandaAskell @EvanHub I know you would never have joined if this is how it started. Quit.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 10,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899918815087186322",
+      "url": "https://x.com/ilex_ulmus/status/1899918815087186322",
+      "views_count": "7110",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 20:14:31 +0000 2025",
+      "conversation_id_str": "1899632795015663947",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1013086717530820608",
+            "name": "Agus 🔎 🔸",
+            "screen_name": "austinc3301",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@austinc3301 What did he support?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899916936680784313",
+      "url": "https://x.com/ilex_ulmus/status/1899916936680784313",
+      "views_count": "167",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 05:46:44 +0000 2025",
+      "conversation_id_str": "1899129822171046257",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "17308990",
+            "name": "Henry Shevlin",
+            "screen_name": "dioscuri",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@dioscuri It really is a tragic descent. Just from the erratic behavior and unsound thinking it feels like substance abuse or mental illness must be playing a big role.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899698553322422469",
+      "url": "https://x.com/ilex_ulmus/status/1899698553322422469",
+      "views_count": "75",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 04:58:16 +0000 2025",
+      "conversation_id_str": "1593844637441331200",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "\"Unhoused\"\n\nI wish this was \"houseless\" instead, which would be an easier switch. But it addresses a real problem w \"homeless\", which is that a \"home\" is much more abstract than a physical dwelling. Ppl w/o houses may have e.g. other shelter or psychological home w their friends.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899686354566713426",
+      "url": "https://x.com/ilex_ulmus/status/1899686354566713426",
+      "views_count": "366",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 04:19:31 +0000 2025",
+      "conversation_id_str": "1899430284350616025",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "865622395",
+            "name": "Sebastian Raschka",
+            "screen_name": "rasbt",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "1461305890892570628",
+            "name": "Haider.",
+            "screen_name": "slow_developer",
+            "indices": [
+              7,
+              22
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@rasbt @slow_developer We can only hope",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899676603778818249",
+      "url": "https://x.com/ilex_ulmus/status/1899676603778818249",
+      "views_count": "64",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 03:11:30 +0000 2025",
+      "conversation_id_str": "1899647976877756793",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "19636275",
+            "name": "Nathan Labenz",
+            "screen_name": "labenz",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@labenz (sincere question)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899659489361674584",
+      "url": "https://x.com/ilex_ulmus/status/1899659489361674584",
+      "views_count": "43",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 03:10:49 +0000 2025",
+      "conversation_id_str": "1844408424764977241",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "824207366484848641",
+            "name": "Michaël Trazzi",
+            "screen_name": "MichaelTrazzi",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@MichaelTrazzi Wow, what a family history! A what a unique experience to get to know your grandfather (and, it sounds like, your grandmother, as well) through a film while growing as a filmmaker yourself.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899659315973415235",
+      "url": "https://x.com/ilex_ulmus/status/1899659315973415235",
+      "views_count": "145",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 03:03:48 +0000 2025",
+      "conversation_id_str": "1899647976877756793",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "19636275",
+            "name": "Nathan Labenz",
+            "screen_name": "labenz",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@labenz Why does this strike you as interesting or important?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899657548300705843",
+      "url": "https://x.com/ilex_ulmus/status/1899657548300705843",
+      "views_count": "156",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 23:41:22 +0000 2025",
+      "conversation_id_str": "1899601229627400333",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1260577292067254276",
+            "name": "Kat Woods ⏸️ 🔶",
+            "screen_name": "Kat__Woods",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "@Kat__Woods Yeah I'm amazed how much LLMs seemed to get for free from training on human text. I wouldn't say specification is solved, though, bc we don't know what LLMs will take our low capabilities into their higher capability versions. A lot of our currently specified values will break.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899606604477329852",
+      "url": "https://x.com/ilex_ulmus/status/1899606604477329852",
+      "views_count": "240",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 19:00:01 +0000 2025",
+      "conversation_id_str": "1899196567451795555",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "39677225",
+            "name": "Ryan Moulton",
+            "screen_name": "moultano",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@moultano Easier to hold them that way with one hand, I guess",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899535800645435603",
+      "url": "https://x.com/ilex_ulmus/status/1899535800645435603",
+      "views_count": "38",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:13:41 +0000 2025",
+      "conversation_id_str": "1899062018188914831",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1230125104761393153",
+            "name": "Tee Barnett",
+            "screen_name": "teebarnettsays",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@teebarnettsays I feel that Safety was never their top priority, and they led EA and others to believe that it was.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899493944528081201",
+      "url": "https://x.com/ilex_ulmus/status/1899493944528081201",
+      "views_count": "15",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:12:53 +0000 2025",
+      "conversation_id_str": "1899062018188914831",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1230125104761393153",
+            "name": "Tee Barnett",
+            "screen_name": "teebarnettsays",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@teebarnettsays I think such people really want the Singularity to happen safely and not kill them but they also get scared that public sentiment will turn against the Singularity and just have a very hard time with their transhumanist identity seeming to be against \"technological progress\".",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1458979594183266333",
+      "id_str": "1899493741880324324",
+      "url": "https://x.com/ilex_ulmus/status/1899493741880324324",
+      "views_count": "11",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 12 02:07:39 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated to the protection and thriving of sentient beings. PhD in evo bio.🔸\n\nExecutive Director of @PauseAIUS. Opinions not necessarily those of the org.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollyelmore.substack.com",
+                "expanded_url": "http://hollyelmore.substack.com",
+                "url": "https://t.co/w3eK4SIEkD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 40774,
+        "followers_count": 5782,
+        "friends_count": 487,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 51,
+        "location": "",
+        "media_count": 636,
+        "name": "Holly ⏸️ Elmore",
+        "normal_followers_count": 5782,
+        "pinned_tweet_ids_str": [
+          "1862345294534328509"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458979594183266333/1710697016",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1892095338640756736/m4GgThMG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ilex_ulmus",
+        "statuses_count": 22298,
+        "translator_type": "none",
+        "url": "https://t.co/w3eK4SIEkD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1
+    ],
+    "2025-03-14": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "2025-03-13": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "2025-03-12": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "2025-03-11": [
+      55,
+      56,
+      57,
+      58
+    ]
+  }
+}

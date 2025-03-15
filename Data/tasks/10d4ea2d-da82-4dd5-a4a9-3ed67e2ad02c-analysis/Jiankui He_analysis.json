@@ -1,0 +1,58 @@
+{
+  "username": "Jiankui He",
+  "analyzedAt": "2025-03-15T18:29:04.801Z",
+  "tweetCount": 5,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 01:44:08 +0000 2025",
+    "latestTweet": "Sat Mar 15 01:53:20 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Jiankui He and provide a summary of what they mainly talked about in the past week:\n\nI will speak in the World Forum in Berlin next week. https://t.co/N5G8zTdotb\n\nWoolly mice is bioweapon. https://t.co/66YY8QV08r\n\nI will start to eradicate Alzheimer's disease in two years. https://t.co/il6vzie4sc\n\nEthics is holding back scientific innovation and progress https://t.co/5QH6pVfvEJ\n\nTransplanting pig organs into people will become routine one day. https://t.co/le8yiblJ5i"
+  },
+  "summary": "Summary:\n@Jiankui He's tweets in the past week mainly focused on various topics related to biotechnology and scientific innovation. He discussed his upcoming speaking engagement at the World Forum in Berlin, the potential use of woolly mice as bioweapons, plans to eradicate Alzheimer's disease, the impact of ethics on scientific progress, and the future possibility of routine pig organ transplants in humans. The overall sentiment of the tweets suggests a strong interest in pushing the boundaries of science and technology despite ethical considerations.",
+  "keyTopics": [
+    "Summary:",
+    "He's",
+    "Forum",
+    "Berlin,",
+    "Alzheimer's"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900726978803888594",
+      "createdAt": "Sat Mar 15 01:53:20 +0000 2025",
+      "text": "I will speak in the World Forum in Berlin next week. https://t.co/N5G8zTdotb"
+    },
+    {
+      "index": 1,
+      "id": "1900547519152894003",
+      "createdAt": "Fri Mar 14 14:00:13 +0000 2025",
+      "text": "Woolly mice is bioweapon. https://t.co/66YY8QV08r"
+    },
+    {
+      "index": 2,
+      "id": "1900197403489427819",
+      "createdAt": "Thu Mar 13 14:48:59 +0000 2025",
+      "text": "I will start to eradicate Alzheimer's disease in two years. https://t.co/il6vzie4sc"
+    },
+    {
+      "index": 3,
+      "id": "1899271973190209969",
+      "createdAt": "Tue Mar 11 01:31:39 +0000 2025",
+      "text": "Ethics is holding back scientific innovation and progress https://t.co/5QH6pVfvEJ"
+    },
+    {
+      "index": 4,
+      "id": "1898912725126033804",
+      "createdAt": "Mon Mar 10 01:44:08 +0000 2025",
+      "text": "Transplanting pig organs into people will become routine one day. https://t.co/le8yiblJ5i"
+    }
+  ]
+}

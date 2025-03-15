@@ -1,0 +1,128 @@
+{
+  "username": "dorgo.eth ✝️🇺🇦",
+  "analyzedAt": "2025-03-15T18:28:07.676Z",
+  "tweetCount": 17,
+  "tweetDateRange": {
+    "earliestTweet": "Sun Mar 09 12:03:31 +0000 2025",
+    "latestTweet": "Fri Mar 14 15:09:45 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @dorgo.eth ✝️🇺🇦 and provide a summary of what they mainly talked about in the past week:\n\n✨ Your support will help cover artist honorariums, production costs, outreach, and accessibility. Any contribution matters!\n\n💛 Join and share:\nIn fiat: https://t.co/8t6PDb95DF\nIn crypto: to karyna.eth\nGoal: $600\n\nThis project is a key part of her research on female and queer Ukrainian art in the wake of the full-scale war. \n\nArt is a tool for resistance, healing, and storytelling, especially in times of crisis. This performance will create space for deep conversations about guilt, vulnerability, connection, and collective trauma through immersive rituals and discussion.\n\n🔥 My dear friend and an amazing girl, art historian and cultural manager at the School of the Art Institute of Chicago (@saic_news) Karyna Vovkotrub, is organizing a 🇺🇦 performance called “Ok, Let’s Talk About You Instead”. ✨\n\nTo make this performance a reality, additional resources and ❤️ our support are needed.\n\nMore details: https://t.co/180hWQCotM\n\nCypherpunks, join the @nymproject VPN Launch Livestream on Twitter or YouTube:\n\nhttps://t.co/lN8n3imMuY https://t.co/1YQ3rBpF3M\n\n@Rarimo_protocol thank you for this product!\n\n@Arvolear @Rarimo_protocol thank you for this product!\n\n@sternenko +\n\n@factcheckdotfun Why is Kyiv, Ukraine not permitted to access your platform?\n\nVitalik has built an entire digital system based on an incredible philosophy, which has given rise to thousands of blockchain products and developers.\n\nCompared to other L1s, Ethereum has been able to unlock the potential of blockchain and continues to do so. It has gathered quality like-minded people around. At this stage. And it’s simply amazing.\n\nWe need to stop thinking about the fiat equivalent of eth. It’s a big mistake.\nWe should get used to the idea that 1 ETH = 1 ETH and unite to build new products on Ethereum.\n\nYour vote may have a huge impact\n\nNate Vance, the cousin of @JDVance, said that he personally saw russians shooting their own soldiers for trying to retreat.\n\n“This happened so often that it could be considered their policy towards retreating soldiers. These people ‘devour’ their own. They don’t care what we think. They are not our allies and won’t be for at least a generation,” said Nate Vance.\n\nThe cousin of U.S. Vice President J.D. Vance, Nate Vance, fought for Ukraine as part of the Gonor (“Da Vinci Wolves” @VovkyDaVinchi ) unit.\n\n@ethersphoenix @Ethprofit 🤜🤛\n\n@dgtlrgnl Look at this Ukrainian fund of digitized art\nhttps://t.co/MMN6bg8DYF\n\nWhat makes you think russia is a technological state? All the smart people who could have contributed to the development of technology left this country a long time ago or were repressed.\n\nWar is terrible—I agree with you on that. But russia and its dictatorship must be stopped, or it will spread across the world if we don’t stop it. \nThe russian empire must be dismantled FOREVER.\n\n@YourAnonCentral The author of this art is @vasylisk_tattoo\n\n@trayanmuse Ставлю комент, щоб просунути твіт"
+  },
+  "summary": "The main topics discussed in the tweets from @dorgo.eth ✝️🇺🇦 in the past week include fundraising for an art performance focusing on female and queer Ukrainian art, the importance of art in times of crisis, support for a VPN launch livestream, appreciation for certain products/projects, discussions on Ethereum and its ecosystem, testimonies of Russian actions in the war, calls to stop the Russian dictatorship, and sharing of digital art resources related to Ukraine. The sentiments expressed range from calls for support and solidarity to condemnation of the Russian government and advocacy for technological advancement and resistance against oppressive regimes.",
+  "keyTopics": [
+    "Ukrainian",
+    "Ethereum",
+    "Russian"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900565018346688762",
+      "createdAt": "Fri Mar 14 15:09:45 +0000 2025",
+      "text": "✨ Your support will help cover artist honorariums, production costs, outreach, and accessibility. An..."
+    },
+    {
+      "index": 1,
+      "id": "1900565014760550537",
+      "createdAt": "Fri Mar 14 15:09:44 +0000 2025",
+      "text": "This project is a key part of her research on female and queer Ukrainian art in the wake of the full..."
+    },
+    {
+      "index": 2,
+      "id": "1900565011199590478",
+      "createdAt": "Fri Mar 14 15:09:44 +0000 2025",
+      "text": "🔥 My dear friend and an amazing girl, art historian and cultural manager at the School of the Art I..."
+    },
+    {
+      "index": 3,
+      "id": "1900281193188184349",
+      "createdAt": "Thu Mar 13 20:21:56 +0000 2025",
+      "text": "Cypherpunks, join the @nymproject VPN Launch Livestream on Twitter or YouTube:\n\nhttps://t.co/lN8n3im..."
+    },
+    {
+      "index": 4,
+      "id": "1899520205946073132",
+      "createdAt": "Tue Mar 11 17:58:03 +0000 2025",
+      "text": "@Rarimo_protocol thank you for this product!"
+    },
+    {
+      "index": 5,
+      "id": "1899520132298182745",
+      "createdAt": "Tue Mar 11 17:57:45 +0000 2025",
+      "text": "@Arvolear @Rarimo_protocol thank you for this product!"
+    },
+    {
+      "index": 6,
+      "id": "1899516522562826647",
+      "createdAt": "Tue Mar 11 17:43:24 +0000 2025",
+      "text": "@sternenko +"
+    },
+    {
+      "index": 7,
+      "id": "1899509792466424268",
+      "createdAt": "Tue Mar 11 17:16:40 +0000 2025",
+      "text": "@factcheckdotfun Why is Kyiv, Ukraine not permitted to access your platform?"
+    },
+    {
+      "index": 8,
+      "id": "1899499020885569880",
+      "createdAt": "Tue Mar 11 16:33:52 +0000 2025",
+      "text": "Vitalik has built an entire digital system based on an incredible philosophy, which has given rise t..."
+    },
+    {
+      "index": 9,
+      "id": "1899445018730872953",
+      "createdAt": "Tue Mar 11 12:59:17 +0000 2025",
+      "text": "Your vote may have a huge impact"
+    },
+    {
+      "index": 10,
+      "id": "1899440738796007805",
+      "createdAt": "Tue Mar 11 12:42:16 +0000 2025",
+      "text": "Nate Vance, the cousin of @JDVance, said that he personally saw russians shooting their own soldiers..."
+    },
+    {
+      "index": 11,
+      "id": "1899440735620862400",
+      "createdAt": "Tue Mar 11 12:42:15 +0000 2025",
+      "text": "The cousin of U.S. Vice President J.D. Vance, Nate Vance, fought for Ukraine as part of the Gonor (“..."
+    },
+    {
+      "index": 12,
+      "id": "1899423172547465653",
+      "createdAt": "Tue Mar 11 11:32:28 +0000 2025",
+      "text": "@ethersphoenix @Ethprofit 🤜🤛"
+    },
+    {
+      "index": 13,
+      "id": "1899389789536747932",
+      "createdAt": "Tue Mar 11 09:19:49 +0000 2025",
+      "text": "@dgtlrgnl Look at this Ukrainian fund of digitized art\nhttps://t.co/MMN6bg8DYF"
+    },
+    {
+      "index": 14,
+      "id": "1898774650118959385",
+      "createdAt": "Sun Mar 09 16:35:28 +0000 2025",
+      "text": "What makes you think russia is a technological state? All the smart people who could have contribute..."
+    },
+    {
+      "index": 15,
+      "id": "1898769638005014707",
+      "createdAt": "Sun Mar 09 16:15:33 +0000 2025",
+      "text": "@YourAnonCentral The author of this art is @vasylisk_tattoo"
+    },
+    {
+      "index": 16,
+      "id": "1898706211668672610",
+      "createdAt": "Sun Mar 09 12:03:31 +0000 2025",
+      "text": "@trayanmuse Ставлю комент, щоб просунути твіт"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "username": "Tarek Mansour",
+  "fetchedAt": "2025-03-15T16:01:50.830Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:50:09 +0000 2025",
+      "conversation_id_str": "1900554515306463270",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1150205216232357888",
+            "name": "Rex Woodbury",
+            "screen_name": "rex_woodbury",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@rex_woodbury congrats!!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1362103982089531392",
+      "id_str": "1900635582235373864",
+      "url": "https://x.com/mansourtarek_/status/1900635582235373864",
+      "views_count": "52",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 17 18:17:57 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Free markets",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kalshi.com",
+                "expanded_url": "https://kalshi.com/",
+                "url": "https://t.co/JFANgtUW2z",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 21361,
+        "followers_count": 42371,
+        "friends_count": 1993,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 448,
+        "location": "New York",
+        "media_count": 795,
+        "name": "Tarek Mansour",
+        "normal_followers_count": 42371,
+        "pinned_tweet_ids_str": [
+          "1896245972617015494"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362103982089531392/1740934343",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1768380797692637184/IvuffmAG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "mansourtarek_",
+        "statuses_count": 5492,
+        "translator_type": "none",
+        "url": "https://t.co/JFANgtUW2z",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:13:01 +0000 2025",
+      "conversation_id_str": "1900594369729884433",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1613487242034712577",
+            "name": "rahulxkm",
+            "screen_name": "rahulxkm",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1749290115216867328",
+            "name": "kri",
+            "screen_name": "stonksqween",
+            "indices": [
+              10,
+              22
+            ]
+          },
+          {
+            "id_str": "1071484733543079936",
+            "name": "Kalshi",
+            "screen_name": "Kalshi",
+            "indices": [
+              23,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@rahulxkm @stonksqween @Kalshi i like",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1362103982089531392",
+      "id_str": "1900626236478812363",
+      "url": "https://x.com/mansourtarek_/status/1900626236478812363",
+      "views_count": "25",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 17 18:17:57 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Free markets",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kalshi.com",
+                "expanded_url": "https://kalshi.com/",
+                "url": "https://t.co/JFANgtUW2z",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 21361,
+        "followers_count": 42371,
+        "friends_count": 1993,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 448,
+        "location": "New York",
+        "media_count": 795,
+        "name": "Tarek Mansour",
+        "normal_followers_count": 42371,
+        "pinned_tweet_ids_str": [
+          "1896245972617015494"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362103982089531392/1740934343",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1768380797692637184/IvuffmAG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "mansourtarek_",
+        "statuses_count": 5492,
+        "translator_type": "none",
+        "url": "https://t.co/JFANgtUW2z",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 23:04:15 +0000 2025",
+      "conversation_id_str": "1899950474788471200",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "14379660",
+            "name": "Brian Armstrong",
+            "screen_name": "brian_armstrong",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@brian_armstrong It's really hard to imagine how hard it must be to have 174 regulators... \n\nPretty awesome",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1362103982089531392",
+      "id_str": "1899959652197994625",
+      "url": "https://x.com/mansourtarek_/status/1899959652197994625",
+      "views_count": "682",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 17 18:17:57 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Free markets",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kalshi.com",
+                "expanded_url": "https://kalshi.com/",
+                "url": "https://t.co/JFANgtUW2z",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 21361,
+        "followers_count": 42371,
+        "friends_count": 1993,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 448,
+        "location": "New York",
+        "media_count": 795,
+        "name": "Tarek Mansour",
+        "normal_followers_count": 42371,
+        "pinned_tweet_ids_str": [
+          "1896245972617015494"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362103982089531392/1740934343",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1768380797692637184/IvuffmAG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "mansourtarek_",
+        "statuses_count": 5492,
+        "translator_type": "none",
+        "url": "https://t.co/JFANgtUW2z",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 21:57:06 +0000 2025",
+      "conversation_id_str": "1898437513720520758",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "27941192",
+            "name": "FatScribe",
+            "screen_name": "FatScribe",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "319495411",
+            "name": "Peter St Onge, Ph.D.",
+            "screen_name": "profstonge",
+            "indices": [
+              11,
+              22
+            ]
+          },
+          {
+            "id_str": "1071484733543079936",
+            "name": "Kalshi",
+            "screen_name": "Kalshi",
+            "indices": [
+              23,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@FatScribe @profstonge @Kalshi \"n'est-ce pas\" haha",
+      "is_quote_status": false,
+      "lang": "fr",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1362103982089531392",
+      "id_str": "1898493203478667349",
+      "url": "https://x.com/mansourtarek_/status/1898493203478667349",
+      "views_count": "54",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 17 18:17:57 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Free markets",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kalshi.com",
+                "expanded_url": "https://kalshi.com/",
+                "url": "https://t.co/JFANgtUW2z",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 21361,
+        "followers_count": 42371,
+        "friends_count": 1993,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 448,
+        "location": "New York",
+        "media_count": 795,
+        "name": "Tarek Mansour",
+        "normal_followers_count": 42371,
+        "pinned_tweet_ids_str": [
+          "1896245972617015494"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362103982089531392/1740934343",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1768380797692637184/IvuffmAG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "mansourtarek_",
+        "statuses_count": 5492,
+        "translator_type": "none",
+        "url": "https://t.co/JFANgtUW2z",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 21:37:18 +0000 2025",
+      "conversation_id_str": "1898437513720520758",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "27941192",
+            "name": "FatScribe",
+            "screen_name": "FatScribe",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "319495411",
+            "name": "Peter St Onge, Ph.D.",
+            "screen_name": "profstonge",
+            "indices": [
+              11,
+              22
+            ]
+          },
+          {
+            "id_str": "1071484733543079936",
+            "name": "Kalshi",
+            "screen_name": "Kalshi",
+            "indices": [
+              23,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@FatScribe @profstonge @Kalshi Thank you for looking at the facts fairly. \n\nI don't expect everyone to agree with what we're doing, but I have deep respect for people who are willing to update their views based on new information/data.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1362103982089531392",
+      "id_str": "1898488219483947226",
+      "url": "https://x.com/mansourtarek_/status/1898488219483947226",
+      "views_count": "62",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 17 18:17:57 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Free markets",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kalshi.com",
+                "expanded_url": "https://kalshi.com/",
+                "url": "https://t.co/JFANgtUW2z",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 21361,
+        "followers_count": 42371,
+        "friends_count": 1993,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 448,
+        "location": "New York",
+        "media_count": 795,
+        "name": "Tarek Mansour",
+        "normal_followers_count": 42371,
+        "pinned_tweet_ids_str": [
+          "1896245972617015494"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362103982089531392/1740934343",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1768380797692637184/IvuffmAG_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "mansourtarek_",
+        "statuses_count": 5492,
+        "translator_type": "none",
+        "url": "https://t.co/JFANgtUW2z",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1
+    ],
+    "2025-03-12": [
+      2
+    ],
+    "2025-03-08": [
+      3,
+      4
+    ]
+  }
+}

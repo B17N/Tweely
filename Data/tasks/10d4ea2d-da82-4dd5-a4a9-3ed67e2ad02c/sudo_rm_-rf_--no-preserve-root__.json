@@ -1,0 +1,4803 @@
+{
+  "username": "sudo rm -rf --no-preserve-root /",
+  "fetchedAt": "2025-03-15T15:55:31.347Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 14:48:37 +0000 2025",
+      "conversation_id_str": "1900903213382979673",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/0xCygaar/statu…",
+            "expanded_url": "https://x.com/0xCygaar/status/1900908522482618442",
+            "url": "https://t.co/Cc7RYmWday",
+            "indices": [
+              18,
+              41
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "14299295",
+            "name": "Danno.eth Ferrin.eth | shemnon.eth",
+            "screen_name": "shemnon",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@shemnon Example\n\nhttps://t.co/Cc7RYmWday",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900922085951537590",
+      "url": "https://x.com/pcaversaccio/status/1900922085951537590",
+      "views_count": "81",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 14:47:14 +0000 2025",
+      "conversation_id_str": "1900903213382979673",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "14299295",
+            "name": "Danno.eth Ferrin.eth | shemnon.eth",
+            "screen_name": "shemnon",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@shemnon The EVM should have a product-market-fit. I'm myself very bullish on L1 itself, as you probably know, but this doesn't mean we should not listen to the \"consumers\" of the EVM. With the p256 precompile it worked well.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900921738864529414",
+      "url": "https://x.com/pcaversaccio/status/1900921738864529414",
+      "views_count": "129",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 7,
+      "created_at": "Sat Mar 15 13:33:37 +0000 2025",
+      "conversation_id_str": "1900903213382979673",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 45,
+      "favorited": false,
+      "full_text": "Look, if there's a consensus to ship the current version of EOF (and you all know where I stand on this), let's debut it on L2s first. If they find value, they'll embrace it. If not, it'll send a loud, clear signal.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 9,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900903213382979673",
+      "url": "https://x.com/pcaversaccio/status/1900903213382979673",
+      "views_count": "15298",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 12:37:32 +0000 2025",
+      "conversation_id_str": "1900872434451931269",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "60050283",
+            "name": "Florian Glatz",
+            "screen_name": "heckerhut",
+            "indices": [
+              13,
+              23
+            ]
+          },
+          {
+            "id_str": "574690409",
+            "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+            "screen_name": "TheVladCostea",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "id_str": "4571343215",
+            "name": "Pie Man | Fairblock",
+            "screen_name": "Pememoni",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "id_str": "1247139653595140096",
+            "name": "Lukas Helminger",
+            "screen_name": "luhelminger",
+            "indices": [
+              49,
+              61
+            ]
+          },
+          {
+            "id_str": "1290000819174203409",
+            "name": "Shady El Damaty, Ph.D",
+            "screen_name": "hebbianloop",
+            "indices": [
+              62,
+              74
+            ]
+          },
+          {
+            "id_str": "1574451301",
+            "name": "Sterlin Lujan",
+            "screen_name": "SterlinLujan",
+            "indices": [
+              75,
+              88
+            ]
+          },
+          {
+            "id_str": "540921227",
+            "name": "Yábir Benchakhtir 🐪",
+            "screen_name": "yabirgb",
+            "indices": [
+              89,
+              97
+            ]
+          },
+          {
+            "id_str": "521540994",
+            "name": "oskarth",
+            "screen_name": "oskarth",
+            "indices": [
+              98,
+              106
+            ]
+          },
+          {
+            "id_str": "11287432",
+            "name": "Daniel Luca 🦄",
+            "screen_name": "cleanunicorn",
+            "indices": [
+              107,
+              120
+            ]
+          },
+          {
+            "id_str": "848628608738488321",
+            "name": "dcbuilder.eth ⚪️",
+            "screen_name": "DCbuild3r",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "id_str": "1310605670522204161",
+            "name": "ᴜɴᴛʀᴀᴄᴇᴀʙʟᴇ",
+            "screen_name": "DontTraceMeBruh",
+            "indices": [
+              132,
+              148
+            ]
+          },
+          {
+            "id_str": "4436851876",
+            "name": "Wesley— oss/acc",
+            "screen_name": "wslyvh",
+            "indices": [
+              149,
+              156
+            ]
+          },
+          {
+            "id_str": "1399447726874673153",
+            "name": "Vladimir S. | Officer's Notes",
+            "screen_name": "officer_cia",
+            "indices": [
+              157,
+              169
+            ]
+          },
+          {
+            "id_str": "7403862",
+            "name": "⿻ Audrey Tang 唐鳳",
+            "screen_name": "audreyt",
+            "indices": [
+              170,
+              178
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "Secure Core VPN by Proton. Well, I don't have a calendar since I don't do meetings, I work 99% of the time on an ad-hoc basis. I'm not a slave of a calendar. Signal since the username feature got added is also cool IMO. I don't have any video conference tools to recommend as I don't do calls most of the time and if, via Threema or Signal.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900889099306725451",
+      "url": "https://x.com/pcaversaccio/status/1900889099306725451",
+      "views_count": "57",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 12:24:52 +0000 2025",
+      "conversation_id_str": "1900872434451931269",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "protonvpn.com/support/secure…",
+            "expanded_url": "https://protonvpn.com/support/secure-core-vpn",
+            "url": "https://t.co/lBxaG17vBY",
+            "indices": [
+              244,
+              267
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "60050283",
+            "name": "Florian Glatz",
+            "screen_name": "heckerhut",
+            "indices": [
+              13,
+              23
+            ]
+          },
+          {
+            "id_str": "574690409",
+            "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+            "screen_name": "TheVladCostea",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "id_str": "4571343215",
+            "name": "Pie Man | Fairblock",
+            "screen_name": "Pememoni",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "id_str": "1247139653595140096",
+            "name": "Lukas Helminger",
+            "screen_name": "luhelminger",
+            "indices": [
+              49,
+              61
+            ]
+          },
+          {
+            "id_str": "1290000819174203409",
+            "name": "Shady El Damaty, Ph.D",
+            "screen_name": "hebbianloop",
+            "indices": [
+              62,
+              74
+            ]
+          },
+          {
+            "id_str": "1574451301",
+            "name": "Sterlin Lujan",
+            "screen_name": "SterlinLujan",
+            "indices": [
+              75,
+              88
+            ]
+          },
+          {
+            "id_str": "540921227",
+            "name": "Yábir Benchakhtir 🐪",
+            "screen_name": "yabirgb",
+            "indices": [
+              89,
+              97
+            ]
+          },
+          {
+            "id_str": "521540994",
+            "name": "oskarth",
+            "screen_name": "oskarth",
+            "indices": [
+              98,
+              106
+            ]
+          },
+          {
+            "id_str": "11287432",
+            "name": "Daniel Luca 🦄",
+            "screen_name": "cleanunicorn",
+            "indices": [
+              107,
+              120
+            ]
+          },
+          {
+            "id_str": "848628608738488321",
+            "name": "dcbuilder.eth ⚪️",
+            "screen_name": "DCbuild3r",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "id_str": "1310605670522204161",
+            "name": "ᴜɴᴛʀᴀᴄᴇᴀʙʟᴇ",
+            "screen_name": "DontTraceMeBruh",
+            "indices": [
+              132,
+              148
+            ]
+          },
+          {
+            "id_str": "4436851876",
+            "name": "Wesley— oss/acc",
+            "screen_name": "wslyvh",
+            "indices": [
+              149,
+              156
+            ]
+          },
+          {
+            "id_str": "1399447726874673153",
+            "name": "Vladimir S. | Officer's Notes",
+            "screen_name": "officer_cia",
+            "indices": [
+              157,
+              169
+            ]
+          },
+          {
+            "id_str": "7403862",
+            "name": "⿻ Audrey Tang 唐鳳",
+            "screen_name": "audreyt",
+            "indices": [
+              170,
+              178
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@web3privacy @heckerhut @TheVladCostea @Pememoni @luhelminger @hebbianloop @SterlinLujan @yabirgb @oskarth @cleanunicorn @DCbuild3r @DontTraceMeBruh @wslyvh @officer_cia @audreyt I can recommend using secure core VPNs like the one from Proton: https://t.co/lBxaG17vBY\n\nAlso, using protonpass, proton email, calendar etc.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900885910666752104",
+      "url": "https://x.com/pcaversaccio/status/1900885910666752104",
+      "views_count": "74",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 12:20:52 +0000 2025",
+      "conversation_id_str": "1900872434451931269",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "threema.ch",
+            "expanded_url": "http://threema.ch",
+            "url": "https://t.co/iyIffYIAe5",
+            "indices": [
+              219,
+              242
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "60050283",
+            "name": "Florian Glatz",
+            "screen_name": "heckerhut",
+            "indices": [
+              13,
+              23
+            ]
+          },
+          {
+            "id_str": "574690409",
+            "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+            "screen_name": "TheVladCostea",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "id_str": "4571343215",
+            "name": "Pie Man | Fairblock",
+            "screen_name": "Pememoni",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "id_str": "1247139653595140096",
+            "name": "Lukas Helminger",
+            "screen_name": "luhelminger",
+            "indices": [
+              49,
+              61
+            ]
+          },
+          {
+            "id_str": "1290000819174203409",
+            "name": "Shady El Damaty, Ph.D",
+            "screen_name": "hebbianloop",
+            "indices": [
+              62,
+              74
+            ]
+          },
+          {
+            "id_str": "1574451301",
+            "name": "Sterlin Lujan",
+            "screen_name": "SterlinLujan",
+            "indices": [
+              75,
+              88
+            ]
+          },
+          {
+            "id_str": "540921227",
+            "name": "Yábir Benchakhtir 🐪",
+            "screen_name": "yabirgb",
+            "indices": [
+              89,
+              97
+            ]
+          },
+          {
+            "id_str": "521540994",
+            "name": "oskarth",
+            "screen_name": "oskarth",
+            "indices": [
+              98,
+              106
+            ]
+          },
+          {
+            "id_str": "11287432",
+            "name": "Daniel Luca 🦄",
+            "screen_name": "cleanunicorn",
+            "indices": [
+              107,
+              120
+            ]
+          },
+          {
+            "id_str": "848628608738488321",
+            "name": "dcbuilder.eth ⚪️",
+            "screen_name": "DCbuild3r",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "id_str": "1310605670522204161",
+            "name": "ᴜɴᴛʀᴀᴄᴇᴀʙʟᴇ",
+            "screen_name": "DontTraceMeBruh",
+            "indices": [
+              132,
+              148
+            ]
+          },
+          {
+            "id_str": "4436851876",
+            "name": "Wesley— oss/acc",
+            "screen_name": "wslyvh",
+            "indices": [
+              149,
+              156
+            ]
+          },
+          {
+            "id_str": "1399447726874673153",
+            "name": "Vladimir S. | Officer's Notes",
+            "screen_name": "officer_cia",
+            "indices": [
+              157,
+              169
+            ]
+          },
+          {
+            "id_str": "7403862",
+            "name": "⿻ Audrey Tang 唐鳳",
+            "screen_name": "audreyt",
+            "indices": [
+              170,
+              178
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@web3privacy @heckerhut @TheVladCostea @Pememoni @luhelminger @hebbianloop @SterlinLujan @yabirgb @oskarth @cleanunicorn @DCbuild3r @DontTraceMeBruh @wslyvh @officer_cia @audreyt re communications, I like Threema a lot https://t.co/iyIffYIAe5.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900884904151253338",
+      "url": "https://x.com/pcaversaccio/status/1900884904151253338",
+      "views_count": "141",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 12:19:40 +0000 2025",
+      "conversation_id_str": "1900872434451931269",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "897198731975680001",
+            "name": "Amir Taaki ⛛",
+            "screen_name": "Narodism",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "11287432",
+            "name": "Daniel Luca 🦄",
+            "screen_name": "cleanunicorn",
+            "indices": [
+              10,
+              23
+            ]
+          },
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              24,
+              36
+            ]
+          },
+          {
+            "id_str": "60050283",
+            "name": "Florian Glatz",
+            "screen_name": "heckerhut",
+            "indices": [
+              37,
+              47
+            ]
+          },
+          {
+            "id_str": "574690409",
+            "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+            "screen_name": "TheVladCostea",
+            "indices": [
+              48,
+              62
+            ]
+          },
+          {
+            "id_str": "4571343215",
+            "name": "Pie Man | Fairblock",
+            "screen_name": "Pememoni",
+            "indices": [
+              63,
+              72
+            ]
+          },
+          {
+            "id_str": "1247139653595140096",
+            "name": "Lukas Helminger",
+            "screen_name": "luhelminger",
+            "indices": [
+              73,
+              85
+            ]
+          },
+          {
+            "id_str": "1290000819174203409",
+            "name": "Shady El Damaty, Ph.D",
+            "screen_name": "hebbianloop",
+            "indices": [
+              86,
+              98
+            ]
+          },
+          {
+            "id_str": "1574451301",
+            "name": "Sterlin Lujan",
+            "screen_name": "SterlinLujan",
+            "indices": [
+              99,
+              112
+            ]
+          },
+          {
+            "id_str": "540921227",
+            "name": "Yábir Benchakhtir 🐪",
+            "screen_name": "yabirgb",
+            "indices": [
+              113,
+              121
+            ]
+          },
+          {
+            "id_str": "521540994",
+            "name": "oskarth",
+            "screen_name": "oskarth",
+            "indices": [
+              122,
+              130
+            ]
+          },
+          {
+            "id_str": "848628608738488321",
+            "name": "dcbuilder.eth ⚪️",
+            "screen_name": "DCbuild3r",
+            "indices": [
+              131,
+              141
+            ]
+          },
+          {
+            "id_str": "1310605670522204161",
+            "name": "ᴜɴᴛʀᴀᴄᴇᴀʙʟᴇ",
+            "screen_name": "DontTraceMeBruh",
+            "indices": [
+              142,
+              158
+            ]
+          },
+          {
+            "id_str": "4436851876",
+            "name": "Wesley— oss/acc",
+            "screen_name": "wslyvh",
+            "indices": [
+              159,
+              166
+            ]
+          },
+          {
+            "id_str": "1399447726874673153",
+            "name": "Vladimir S. | Officer's Notes",
+            "screen_name": "officer_cia",
+            "indices": [
+              167,
+              179
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Narodism @cleanunicorn @web3privacy @heckerhut @TheVladCostea @Pememoni @luhelminger @hebbianloop @SterlinLujan @yabirgb @oskarth @DCbuild3r @DontTraceMeBruh @wslyvh @officer_cia 😂😂",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900884603465765277",
+      "url": "https://x.com/pcaversaccio/status/1900884603465765277",
+      "views_count": "59",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 12:18:46 +0000 2025",
+      "conversation_id_str": "1900872434451931269",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "proton.me/support/addres…",
+            "expanded_url": "https://proton.me/support/addresses-and-aliases#hide",
+            "url": "https://t.co/VwK4Ye4oC6",
+            "indices": [
+              278,
+              301
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "60050283",
+            "name": "Florian Glatz",
+            "screen_name": "heckerhut",
+            "indices": [
+              13,
+              23
+            ]
+          },
+          {
+            "id_str": "574690409",
+            "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+            "screen_name": "TheVladCostea",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "id_str": "4571343215",
+            "name": "Pie Man | Fairblock",
+            "screen_name": "Pememoni",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "id_str": "1247139653595140096",
+            "name": "Lukas Helminger",
+            "screen_name": "luhelminger",
+            "indices": [
+              49,
+              61
+            ]
+          },
+          {
+            "id_str": "1290000819174203409",
+            "name": "Shady El Damaty, Ph.D",
+            "screen_name": "hebbianloop",
+            "indices": [
+              62,
+              74
+            ]
+          },
+          {
+            "id_str": "1574451301",
+            "name": "Sterlin Lujan",
+            "screen_name": "SterlinLujan",
+            "indices": [
+              75,
+              88
+            ]
+          },
+          {
+            "id_str": "540921227",
+            "name": "Yábir Benchakhtir 🐪",
+            "screen_name": "yabirgb",
+            "indices": [
+              89,
+              97
+            ]
+          },
+          {
+            "id_str": "521540994",
+            "name": "oskarth",
+            "screen_name": "oskarth",
+            "indices": [
+              98,
+              106
+            ]
+          },
+          {
+            "id_str": "11287432",
+            "name": "Daniel Luca 🦄",
+            "screen_name": "cleanunicorn",
+            "indices": [
+              107,
+              120
+            ]
+          },
+          {
+            "id_str": "848628608738488321",
+            "name": "dcbuilder.eth ⚪️",
+            "screen_name": "DCbuild3r",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "id_str": "1310605670522204161",
+            "name": "ᴜɴᴛʀᴀᴄᴇᴀʙʟᴇ",
+            "screen_name": "DontTraceMeBruh",
+            "indices": [
+              132,
+              148
+            ]
+          },
+          {
+            "id_str": "4436851876",
+            "name": "Wesley— oss/acc",
+            "screen_name": "wslyvh",
+            "indices": [
+              149,
+              156
+            ]
+          },
+          {
+            "id_str": "1399447726874673153",
+            "name": "Vladimir S. | Officer's Notes",
+            "screen_name": "officer_cia",
+            "indices": [
+              157,
+              169
+            ]
+          },
+          {
+            "id_str": "7403862",
+            "name": "⿻ Audrey Tang 唐鳳",
+            "screen_name": "audreyt",
+            "indices": [
+              170,
+              178
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@web3privacy @heckerhut @TheVladCostea @Pememoni @luhelminger @hebbianloop @SterlinLujan @yabirgb @oskarth @cleanunicorn @DCbuild3r @DontTraceMeBruh @wslyvh @officer_cia @audreyt hmmm, well what I can recommend to anyone is using so-called hide-my-email aliases for all logins: https://t.co/VwK4Ye4oC6\n\nAlso something to mention is using residential VPNs can help you a lot to circumvent basic VPN blocks.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900884374821703913",
+      "url": "https://x.com/pcaversaccio/status/1900884374821703913",
+      "views_count": "110",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 12:11:45 +0000 2025",
+      "conversation_id_str": "1900872434451931269",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "11287432",
+            "name": "Daniel Luca 🦄",
+            "screen_name": "cleanunicorn",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "id_str": "60050283",
+            "name": "Florian Glatz",
+            "screen_name": "heckerhut",
+            "indices": [
+              27,
+              37
+            ]
+          },
+          {
+            "id_str": "574690409",
+            "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+            "screen_name": "TheVladCostea",
+            "indices": [
+              38,
+              52
+            ]
+          },
+          {
+            "id_str": "4571343215",
+            "name": "Pie Man | Fairblock",
+            "screen_name": "Pememoni",
+            "indices": [
+              53,
+              62
+            ]
+          },
+          {
+            "id_str": "1247139653595140096",
+            "name": "Lukas Helminger",
+            "screen_name": "luhelminger",
+            "indices": [
+              63,
+              75
+            ]
+          },
+          {
+            "id_str": "1290000819174203409",
+            "name": "Shady El Damaty, Ph.D",
+            "screen_name": "hebbianloop",
+            "indices": [
+              76,
+              88
+            ]
+          },
+          {
+            "id_str": "1574451301",
+            "name": "Sterlin Lujan",
+            "screen_name": "SterlinLujan",
+            "indices": [
+              89,
+              102
+            ]
+          },
+          {
+            "id_str": "540921227",
+            "name": "Yábir Benchakhtir 🐪",
+            "screen_name": "yabirgb",
+            "indices": [
+              103,
+              111
+            ]
+          },
+          {
+            "id_str": "521540994",
+            "name": "oskarth",
+            "screen_name": "oskarth",
+            "indices": [
+              112,
+              120
+            ]
+          },
+          {
+            "id_str": "848628608738488321",
+            "name": "dcbuilder.eth ⚪️",
+            "screen_name": "DCbuild3r",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "id_str": "1310605670522204161",
+            "name": "ᴜɴᴛʀᴀᴄᴇᴀʙʟᴇ",
+            "screen_name": "DontTraceMeBruh",
+            "indices": [
+              132,
+              148
+            ]
+          },
+          {
+            "id_str": "4436851876",
+            "name": "Wesley— oss/acc",
+            "screen_name": "wslyvh",
+            "indices": [
+              149,
+              156
+            ]
+          },
+          {
+            "id_str": "1399447726874673153",
+            "name": "Vladimir S. | Officer's Notes",
+            "screen_name": "officer_cia",
+            "indices": [
+              157,
+              169
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@cleanunicorn @web3privacy @heckerhut @TheVladCostea @Pememoni @luhelminger @hebbianloop @SterlinLujan @yabirgb @oskarth @DCbuild3r @DontTraceMeBruh @wslyvh @officer_cia lol dude, security through obscurity applies to system design, not personal opsec. The less an attacker knows about a person's setup, the fewer attack vectors they have. Privacy is security.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900882611381174345",
+      "url": "https://x.com/pcaversaccio/status/1900882611381174345",
+      "views_count": "122",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 12:07:22 +0000 2025",
+      "conversation_id_str": "1900872434451931269",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "60050283",
+            "name": "Florian Glatz",
+            "screen_name": "heckerhut",
+            "indices": [
+              13,
+              23
+            ]
+          },
+          {
+            "id_str": "574690409",
+            "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+            "screen_name": "TheVladCostea",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "id_str": "4571343215",
+            "name": "Pie Man | Fairblock",
+            "screen_name": "Pememoni",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "id_str": "1247139653595140096",
+            "name": "Lukas Helminger",
+            "screen_name": "luhelminger",
+            "indices": [
+              49,
+              61
+            ]
+          },
+          {
+            "id_str": "1290000819174203409",
+            "name": "Shady El Damaty, Ph.D",
+            "screen_name": "hebbianloop",
+            "indices": [
+              62,
+              74
+            ]
+          },
+          {
+            "id_str": "1574451301",
+            "name": "Sterlin Lujan",
+            "screen_name": "SterlinLujan",
+            "indices": [
+              75,
+              88
+            ]
+          },
+          {
+            "id_str": "540921227",
+            "name": "Yábir Benchakhtir 🐪",
+            "screen_name": "yabirgb",
+            "indices": [
+              89,
+              97
+            ]
+          },
+          {
+            "id_str": "521540994",
+            "name": "oskarth",
+            "screen_name": "oskarth",
+            "indices": [
+              98,
+              106
+            ]
+          },
+          {
+            "id_str": "11287432",
+            "name": "Daniel Luca 🦄",
+            "screen_name": "cleanunicorn",
+            "indices": [
+              107,
+              120
+            ]
+          },
+          {
+            "id_str": "848628608738488321",
+            "name": "dcbuilder.eth ⚪️",
+            "screen_name": "DCbuild3r",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "id_str": "1310605670522204161",
+            "name": "ᴜɴᴛʀᴀᴄᴇᴀʙʟᴇ",
+            "screen_name": "DontTraceMeBruh",
+            "indices": [
+              132,
+              148
+            ]
+          },
+          {
+            "id_str": "4436851876",
+            "name": "Wesley— oss/acc",
+            "screen_name": "wslyvh",
+            "indices": [
+              149,
+              156
+            ]
+          },
+          {
+            "id_str": "1399447726874673153",
+            "name": "Vladimir S. | Officer's Notes",
+            "screen_name": "officer_cia",
+            "indices": [
+              157,
+              169
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@web3privacy @heckerhut @TheVladCostea @Pememoni @luhelminger @hebbianloop @SterlinLujan @yabirgb @oskarth @cleanunicorn @DCbuild3r @DontTraceMeBruh @wslyvh @officer_cia For opsec reasons, I prefer not to disclose my stack. You know, security comes from keeping critical details private. Generally speaking, having different devices for different purposes is something I can personally recommend. Re OSes, Tails and Quebes OS can be recommended.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900881508115612007",
+      "url": "https://x.com/pcaversaccio/status/1900881508115612007",
+      "views_count": "123",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 10:27:41 +0000 2025",
+      "conversation_id_str": "1900494032649793808",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 54,
+      "favorited": false,
+      "full_text": "Happy π day!",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900494032649793808",
+      "url": "https://x.com/pcaversaccio/status/1900494032649793808",
+      "views_count": "2728",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:55:11 +0000 2025",
+      "conversation_id_str": "1900252182986797408",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1208764819878350850",
+            "name": "Mrc",
+            "screen_name": "centralizedmrc",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1193198356123795456",
+            "name": "Vyper",
+            "screen_name": "vyperlang",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@centralizedmrc @vyperlang ape works too as well!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900274458910482876",
+      "url": "https://x.com/pcaversaccio/status/1900274458910482876",
+      "views_count": "17",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:27:00 +0000 2025",
+      "conversation_id_str": "1900252182986797408",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/vyperlang/tita…",
+            "expanded_url": "https://github.com/vyperlang/titanoboa",
+            "url": "https://t.co/ud2k3y25wq",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1208764819878350850",
+            "name": "Mrc",
+            "screen_name": "centralizedmrc",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1193198356123795456",
+            "name": "Vyper",
+            "screen_name": "vyperlang",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@centralizedmrc @vyperlang https://t.co/ud2k3y25wq",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900267368577982693",
+      "url": "https://x.com/pcaversaccio/status/1900267368577982693",
+      "views_count": "110",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Thu Mar 13 15:23:46 +0000 2025",
+      "conversation_id_str": "1900200732000759892",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/2lzHr74PIH",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900206158431809877/photo/1",
+            "id_str": "1900206131365953536",
+            "indices": [
+              111,
+              134
+            ],
+            "media_key": "3_1900206131365953536",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7jaKQWQAAfCc2.png",
+            "type": "photo",
+            "url": "https://t.co/2lzHr74PIH",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 241,
+                "w": 1010,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 241,
+                "w": 1010,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 162,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 241,
+              "width": 1010,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 430,
+                  "h": 241
+                },
+                {
+                  "x": 6,
+                  "y": 0,
+                  "w": 241,
+                  "h": 241
+                },
+                {
+                  "x": 21,
+                  "y": 0,
+                  "w": 211,
+                  "h": 241
+                },
+                {
+                  "x": 66,
+                  "y": 0,
+                  "w": 121,
+                  "h": 241
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1010,
+                  "h": 241
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900206131365953536"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1538653263720873984",
+            "name": "0xjustadev.eth (⛽️,📉)",
+            "screen_name": "0xjustadev",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/2lzHr74PIH",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900206158431809877/photo/1",
+            "id_str": "1900206131365953536",
+            "indices": [
+              111,
+              134
+            ],
+            "media_key": "3_1900206131365953536",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7jaKQWQAAfCc2.png",
+            "type": "photo",
+            "url": "https://t.co/2lzHr74PIH",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 241,
+                "w": 1010,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 241,
+                "w": 1010,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 162,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 241,
+              "width": 1010,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 430,
+                  "h": 241
+                },
+                {
+                  "x": 6,
+                  "y": 0,
+                  "w": 241,
+                  "h": 241
+                },
+                {
+                  "x": 21,
+                  "y": 0,
+                  "w": 211,
+                  "h": 241
+                },
+                {
+                  "x": 66,
+                  "y": 0,
+                  "w": 121,
+                  "h": 241
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1010,
+                  "h": 241
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900206131365953536"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 72,
+      "favorited": false,
+      "full_text": "@0xjustadev stack-too-deep is due to bad compiler engineering. Vyper doesn't have the issue... I write it here https://t.co/2lzHr74PIH",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 1,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900206158431809877",
+      "url": "https://x.com/pcaversaccio/status/1900206158431809877",
+      "views_count": "8778",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 106,
+      "created_at": "Thu Mar 13 15:02:13 +0000 2025",
+      "conversation_id_str": "1900200732000759892",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/UaVkJlRTXP",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900200732000759892/photo/1",
+            "id_str": "1900200585191665664",
+            "indices": [
+              120,
+              143
+            ],
+            "media_key": "3_1900200585191665664",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7eXVJWsAAIzLh.png",
+            "type": "photo",
+            "url": "https://t.co/UaVkJlRTXP",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1244,
+                "w": 1120,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 612,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1244,
+              "width": 1120,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1120,
+                  "h": 627
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1120,
+                  "h": 1120
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1091,
+                  "h": 1244
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 622,
+                  "h": 1244
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1120,
+                  "h": 1244
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900200585191665664"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/UaVkJlRTXP",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900200732000759892/photo/1",
+            "id_str": "1900200601784348672",
+            "indices": [
+              120,
+              143
+            ],
+            "media_key": "3_1900200601784348672",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7eYS9W8AAX1UU.png",
+            "type": "photo",
+            "url": "https://t.co/UaVkJlRTXP",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 489,
+                "w": 799,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 489,
+                "w": 799,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 416,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 489,
+              "width": 799,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 799,
+                  "h": 447
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 489,
+                  "h": 489
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 429,
+                  "h": 489
+                },
+                {
+                  "x": 17,
+                  "y": 0,
+                  "w": 245,
+                  "h": 489
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 799,
+                  "h": 489
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900200601784348672"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "ethereum-magicians.org/t/ethereum-is-…",
+            "expanded_url": "https://ethereum-magicians.org/t/ethereum-is-turning-into-a-labyrinth-of-unnecessary-complexity-with-eof-lets-reconsider-eof/23136",
+            "url": "https://t.co/bP93RRCoP9",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/UaVkJlRTXP",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900200732000759892/photo/1",
+            "id_str": "1900200585191665664",
+            "indices": [
+              120,
+              143
+            ],
+            "media_key": "3_1900200585191665664",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7eXVJWsAAIzLh.png",
+            "type": "photo",
+            "url": "https://t.co/UaVkJlRTXP",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1244,
+                "w": 1120,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 612,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1244,
+              "width": 1120,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1120,
+                  "h": 627
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1120,
+                  "h": 1120
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1091,
+                  "h": 1244
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 622,
+                  "h": 1244
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1120,
+                  "h": 1244
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900200585191665664"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/UaVkJlRTXP",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900200732000759892/photo/1",
+            "id_str": "1900200601784348672",
+            "indices": [
+              120,
+              143
+            ],
+            "media_key": "3_1900200601784348672",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7eYS9W8AAX1UU.png",
+            "type": "photo",
+            "url": "https://t.co/UaVkJlRTXP",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 489,
+                "w": 799,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 489,
+                "w": 799,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 416,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 489,
+              "width": 799,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 799,
+                  "h": 447
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 489,
+                  "h": 489
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 429,
+                  "h": 489
+                },
+                {
+                  "x": 17,
+                  "y": 0,
+                  "w": 245,
+                  "h": 489
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 799,
+                  "h": 489
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900200601784348672"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 371,
+      "favorited": false,
+      "full_text": "Ethereum is turning into a labyrinth of unnecessary complexity with EOF - Let's reconsider EOF.\nhttps://t.co/bP93RRCoP9 https://t.co/UaVkJlRTXP",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 15,
+      "reply_count": 21,
+      "retweet_count": 45,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900200732000759892",
+      "url": "https://x.com/pcaversaccio/status/1900200732000759892",
+      "views_count": "212092",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 196,
+      "created_at": "Thu Mar 13 12:28:19 +0000 2025",
+      "conversation_id_str": "1900162004003835922",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/L1LZ5fAAro",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900162004003835922/photo/1",
+            "id_str": "1900158591291535360",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1900158591291535360",
+            "media_url_https": "https://pbs.twimg.com/media/Gl64K9rWsAA7_Cz.jpg",
+            "type": "photo",
+            "url": "https://t.co/L1LZ5fAAro",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 903,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 529,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 300,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1438,
+              "width": 3261,
+              "focus_rects": [
+                {
+                  "x": 428,
+                  "y": 0,
+                  "w": 2568,
+                  "h": 1438
+                },
+                {
+                  "x": 993,
+                  "y": 0,
+                  "w": 1438,
+                  "h": 1438
+                },
+                {
+                  "x": 1082,
+                  "y": 0,
+                  "w": 1261,
+                  "h": 1438
+                },
+                {
+                  "x": 1353,
+                  "y": 0,
+                  "w": 719,
+                  "h": 1438
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3261,
+                  "h": 1438
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900158591291535360"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/L1LZ5fAAro",
+            "expanded_url": "https://x.com/pcaversaccio/status/1900162004003835922/photo/1",
+            "id_str": "1900158591291535360",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1900158591291535360",
+            "media_url_https": "https://pbs.twimg.com/media/Gl64K9rWsAA7_Cz.jpg",
+            "type": "photo",
+            "url": "https://t.co/L1LZ5fAAro",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 903,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 529,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 300,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1438,
+              "width": 3261,
+              "focus_rects": [
+                {
+                  "x": 428,
+                  "y": 0,
+                  "w": 2568,
+                  "h": 1438
+                },
+                {
+                  "x": 993,
+                  "y": 0,
+                  "w": 1438,
+                  "h": 1438
+                },
+                {
+                  "x": 1082,
+                  "y": 0,
+                  "w": 1261,
+                  "h": 1438
+                },
+                {
+                  "x": 1353,
+                  "y": 0,
+                  "w": 719,
+                  "h": 1438
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3261,
+                  "h": 1438
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900158591291535360"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 466,
+      "favorited": false,
+      "full_text": "So there is some bad news here unfortunately (before you continue reading, this is a warning related to an experimental, incomplete feature so nothing at risk for now). Solidity EOF (via the `osaka` EVM version) implements a reentrancy possibility for their `transfer` and `send` built-ins. The TL;DR is: Solidity removed the custom gas forwarding of `2,300` gas for the EOF versions of `transfer` and `send` and forwards the remaining gas (subject to the 63/64th rule and the additional introduced logic) since they now use the EOF `EXTCALL` opcode (EOF has no gas introspection!). This change means that `transfer` and `send` can no longer be considered safe from reentrancy attacks under `osaka`! To clarify again, no contracts are affected yet, and the specifications for the Fusaka upgrade aren't finalised. However, I feel it's crucial to warn the industry early: If EOF ships and these opcodes go live, people will likely continue using the existing Solidity code with `transfer` or `send` under the false assumption that it's safe against reentrancy, unknowingly exposing themselves to potential attacks. I've documented the full analysis here:\nhttps://t.co/KLzgRZ2BOc",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 10,
+      "reply_count": 21,
+      "retweet_count": 71,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1900162004003835922",
+      "url": "https://x.com/pcaversaccio/status/1900162004003835922",
+      "views_count": "78626",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 21:05:44 +0000 2025",
+      "conversation_id_str": "1899066518102532308",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "86221409",
+            "name": "prestonvanloon.eth",
+            "screen_name": "preston_vanloon",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@preston_vanloon I prefer to keep my personal data as far away as possible from a centralised platform. Thus I choose Ethereum (or Bitcoin and ZCash) whenever possible.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899567440041783339",
+      "url": "https://x.com/pcaversaccio/status/1899567440041783339",
+      "views_count": "130",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 19:33:25 +0000 2025",
+      "conversation_id_str": "1899066518102532308",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/JaSzfgF9L2",
+            "expanded_url": "https://x.com/pcaversaccio/status/1899544205573189644/photo/1",
+            "id_str": "1899544032444915714",
+            "indices": [
+              108,
+              131
+            ],
+            "media_key": "3_1899544032444915714",
+            "media_url_https": "https://pbs.twimg.com/media/GlyJO7kXoAI_MVj.jpg",
+            "type": "photo",
+            "url": "https://t.co/JaSzfgF9L2",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 944,
+                "w": 1074,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 944,
+                "w": 1074,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 598,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 944,
+              "width": 1074,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1074,
+                  "h": 601
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 944,
+                  "h": 944
+                },
+                {
+                  "x": 42,
+                  "y": 0,
+                  "w": 828,
+                  "h": 944
+                },
+                {
+                  "x": 220,
+                  "y": 0,
+                  "w": 472,
+                  "h": 944
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1074,
+                  "h": 944
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899544032444915714"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "86221409",
+            "name": "prestonvanloon.eth",
+            "screen_name": "preston_vanloon",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/JaSzfgF9L2",
+            "expanded_url": "https://x.com/pcaversaccio/status/1899544205573189644/photo/1",
+            "id_str": "1899544032444915714",
+            "indices": [
+              108,
+              131
+            ],
+            "media_key": "3_1899544032444915714",
+            "media_url_https": "https://pbs.twimg.com/media/GlyJO7kXoAI_MVj.jpg",
+            "type": "photo",
+            "url": "https://t.co/JaSzfgF9L2",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 944,
+                "w": 1074,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 944,
+                "w": 1074,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 598,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 944,
+              "width": 1074,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1074,
+                  "h": 601
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 944,
+                  "h": 944
+                },
+                {
+                  "x": 42,
+                  "y": 0,
+                  "w": 828,
+                  "h": 944
+                },
+                {
+                  "x": 220,
+                  "y": 0,
+                  "w": 472,
+                  "h": 944
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1074,
+                  "h": 944
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899544032444915714"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@preston_vanloon I don't want to add my details on GH tbh. What's wrong with the Ethereum donation address? https://t.co/JaSzfgF9L2",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899544205573189644",
+      "url": "https://x.com/pcaversaccio/status/1899544205573189644",
+      "views_count": "253",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 15:00:04 +0000 2025",
+      "conversation_id_str": "1899443578666954783",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/pcaversaccio/s…",
+            "expanded_url": "http://github.com/pcaversaccio/safe-tx-hashes-util",
+            "url": "https://t.co/QwXZmUeTtH",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "Here is the link to my script: https://t.co/QwXZmUeTtH",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899475414445109471",
+      "url": "https://x.com/pcaversaccio/status/1899475414445109471",
+      "views_count": "893",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 30,
+      "created_at": "Tue Mar 11 12:53:33 +0000 2025",
+      "conversation_id_str": "1899443578666954783",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/pT3wJSQMkD",
+            "expanded_url": "https://x.com/pcaversaccio/status/1899443578666954783/photo/1",
+            "id_str": "1899438456620695552",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "3_1899438456620695552",
+            "media_url_https": "https://pbs.twimg.com/media/GlwpNm-XwAAIkWQ.png",
+            "type": "photo",
+            "url": "https://t.co/pT3wJSQMkD",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1105,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 647,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 367,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1171,
+              "width": 2171,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2091,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1171,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1027,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 586,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2171,
+                  "h": 1171
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899438456620695552"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/pT3wJSQMkD",
+            "expanded_url": "https://x.com/pcaversaccio/status/1899443578666954783/photo/1",
+            "id_str": "1899443543480971264",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "3_1899443543480971264",
+            "media_url_https": "https://pbs.twimg.com/media/Glwt1tAXsAAxaB2.png",
+            "type": "photo",
+            "url": "https://t.co/pT3wJSQMkD",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 652,
+                "w": 1320,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 593,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 336,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 652,
+              "width": 1320,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1164,
+                  "h": 652
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 652,
+                  "h": 652
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 572,
+                  "h": 652
+                },
+                {
+                  "x": 2,
+                  "y": 0,
+                  "w": 326,
+                  "h": 652
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1320,
+                  "h": 652
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899443543480971264"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/pT3wJSQMkD",
+            "expanded_url": "https://x.com/pcaversaccio/status/1899443578666954783/photo/1",
+            "id_str": "1899438456620695552",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "3_1899438456620695552",
+            "media_url_https": "https://pbs.twimg.com/media/GlwpNm-XwAAIkWQ.png",
+            "type": "photo",
+            "url": "https://t.co/pT3wJSQMkD",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1105,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 647,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 367,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1171,
+              "width": 2171,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2091,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1171,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1027,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 586,
+                  "h": 1171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2171,
+                  "h": 1171
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899438456620695552"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/pT3wJSQMkD",
+            "expanded_url": "https://x.com/pcaversaccio/status/1899443578666954783/photo/1",
+            "id_str": "1899443543480971264",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "3_1899443543480971264",
+            "media_url_https": "https://pbs.twimg.com/media/Glwt1tAXsAAxaB2.png",
+            "type": "photo",
+            "url": "https://t.co/pT3wJSQMkD",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 652,
+                "w": 1320,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 593,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 336,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 652,
+              "width": 1320,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1164,
+                  "h": 652
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 652,
+                  "h": 652
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 572,
+                  "h": 652
+                },
+                {
+                  "x": 2,
+                  "y": 0,
+                  "w": 326,
+                  "h": 652
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1320,
+                  "h": 652
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899443543480971264"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 117,
+      "favorited": false,
+      "full_text": "So while some moronic DeFi projects still refuse to donate without KYC (they probably prefer donating to fake KYCed DPRK IT workers instead at this stage), some new features have dropped for my safe-tx-hashes-util script today (I simply do this because I fucking care about our industry): \n- A new check to detect potential gas token attacks (see, e.g. https://t.co/1eZr1noUVM)\n-  A new CLI feature to calculate hashes offline using an `--interactive` mode. When using `--interactive` mode, a user will be prompted to provide values for various parameters such as `version`, `to`, `value`, and others. If the user leaves any parameter empty, the default value displayed in the terminal will be used. These defaults are either retrieved from the Safe transaction service API or, in case of failure, fall back to zero values. This allows a user to customise the parameters or proceed with the API-sourced defaults.\n\nPlease pull the latest main commit to use these features.\n\nFurthermore, I added a small section on the security best practices for using this script. READ THEM! \n\nA big s/o to @fredriksvantes for laying the groundwork for both features.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 6,
+      "retweet_count": 19,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899443578666954783",
+      "url": "https://x.com/pcaversaccio/status/1899443578666954783",
+      "views_count": "12789",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:14:27 +0000 2025",
+      "conversation_id_str": "1899066518102532308",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/pcaversaccio/s…",
+            "expanded_url": "https://github.com/pcaversaccio/safe-tx-hashes-util/pull/19",
+            "url": "https://t.co/NfzOIU5YP5",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1375249892877205508",
+            "name": "Owen | Guardian",
+            "screen_name": "0xOwenThurm",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@0xOwenThurm Thx a lot - I will ship this soon https://t.co/NfzOIU5YP5",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899222344427618328",
+      "url": "https://x.com/pcaversaccio/status/1899222344427618328",
+      "views_count": "671",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 21:54:30 +0000 2025",
+      "conversation_id_str": "1899066518102532308",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1646685096",
+            "name": "Ameen Soleimani",
+            "screen_name": "ameensol",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 21,
+      "favorited": false,
+      "full_text": "@ameensol A proxy is an imperfect solution to a problem that should not exist at all.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899217325322105221",
+      "url": "https://x.com/pcaversaccio/status/1899217325322105221",
+      "views_count": "648",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 12:31:15 +0000 2025",
+      "conversation_id_str": "1899066518102532308",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2611856134",
+            "name": "ross",
+            "screen_name": "z0r0zzz",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 15,
+      "favorited": false,
+      "full_text": "@z0r0zzz 🤝it's my official snekmate funding address, but pcaversaccio.eth is great as well! Thx a lot for setting it up and sending it over 🫡",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899075575668420919",
+      "url": "https://x.com/pcaversaccio/status/1899075575668420919",
+      "views_count": "1696",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 12:17:18 +0000 2025",
+      "conversation_id_str": "1899066518102532308",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1546814146385268737",
+            "name": "pashov",
+            "screen_name": "pashovkrum",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@pashovkrum 🫡",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899072067280019458",
+      "url": "https://x.com/pcaversaccio/status/1899072067280019458",
+      "views_count": "2051",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 43,
+      "created_at": "Mon Mar 10 11:55:15 +0000 2025",
+      "conversation_id_str": "1899066518102532308",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 433,
+      "favorited": false,
+      "full_text": "Some Monday morning rant. This entire industry is a fucking joke when it comes to donations. We've got tons of security councils and a whole bunch of projects using my safe-tx-hashes-util, but when it comes to sending a simple donation, it's always the same \"we need to KYC you\" bullshit. Everyone knows I don't deal with that. So, go fuck yourself with your moronic legal team. Use my script, I sincerely hope it does its job, but don't come to me asking how to donate again. I released this because I truly care about securing the industry—not because I was hired to. But if you can't even send a tiny donation without me giving up my personal info, then FUCK YOU. For anyone that cares, I've added a donation address here now: https://t.co/PvL4c1Lrlu",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 6,
+      "reply_count": 30,
+      "retweet_count": 33,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1899066518102532308",
+      "url": "https://x.com/pcaversaccio/status/1899066518102532308",
+      "views_count": "41857",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 11:10:50 +0000 2025",
+      "conversation_id_str": "1898686880343810054",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1277335268379459585",
+            "name": "donnoh.eth 💗",
+            "screen_name": "donnoh_eth",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 16,
+      "favorited": false,
+      "full_text": "@donnoh_eth where there's a will there's a way",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1898692953570193910",
+      "url": "https://x.com/pcaversaccio/status/1898692953570193910",
+      "views_count": "1837",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 27,
+      "created_at": "Sun Mar 09 10:46:42 +0000 2025",
+      "conversation_id_str": "1898686880343810054",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 298,
+      "favorited": false,
+      "full_text": "Look guys, the Pectra fork upgrade issues on Holesky and Sepolia are a stark reminder that even seemingly 'trivial' changes can unravel into major disruptions (check how many days Holesky was down). Complexity isn't always obvious—it lurks beneath the surface, waiting to break things (and it will happen ultimately). And while not the root cause here, adding 19 opcodes while removing 16 in one upgrade is simply reckless, IMHO. The PoS transition was a necessity—EOF is not! We can and should evolve _incrementally_, strengthening Ethereum without inviting chaos.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 6,
+      "reply_count": 14,
+      "retweet_count": 22,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1898686880343810054",
+      "url": "https://x.com/pcaversaccio/status/1898686880343810054",
+      "views_count": "26779",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 08 09:53:00 +0000 2025",
+      "conversation_id_str": "1898114017262031217",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/vyperlang/audi…",
+            "expanded_url": "https://github.com/vyperlang/audits",
+            "url": "https://t.co/mHjtaKvXXk",
+            "indices": [
+              169,
+              192
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1858128041290932224",
+            "name": "zoomer",
+            "screen_name": "solahdie72828",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "3421665124",
+            "name": "fiddy",
+            "screen_name": "fiddyresearch",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@solahdie72828 @fiddyresearch I guess you haven't seen what we did in terms of security over the last 1.5 years since the incident. You should definitely check this out https://t.co/mHjtaKvXXk",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "113203570",
+      "id_str": "1898310978661408856",
+      "url": "https://x.com/pcaversaccio/status/1898310978661408856",
+      "views_count": "54",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Thu Feb 11 01:40:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐰𝐡𝐚𝐭'𝐬 𝐧𝐞𝐱𝐭.\nꟼGꟼ: 063E 966C 93AB 4356 492F E032 7C3B 4B4B 7725 111F",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/pcaversaccio",
+                "expanded_url": "https://github.com/pcaversaccio",
+                "url": "https://t.co/PryTxc9Ur8",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 62587,
+        "followers_count": 24621,
+        "friends_count": 333,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 373,
+        "location": "w021d",
+        "media_count": 2776,
+        "name": "sudo rm -rf --no-preserve-root /",
+        "normal_followers_count": 24621,
+        "pinned_tweet_ids_str": [
+          "1895806679704306130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113203570/1581545173",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734666604049289216/7ezXxfGv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "pcaversaccio",
+        "statuses_count": 24196,
+        "translator_type": "none",
+        "url": "https://t.co/PryTxc9Ur8",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "2025-03-14": [
+      10
+    ],
+    "2025-03-13": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "2025-03-11": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "2025-03-10": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "2025-03-09": [
+      25,
+      26
+    ],
+    "2025-03-08": [
+      27
+    ]
+  }
+}

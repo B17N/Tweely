@@ -1,0 +1,3556 @@
+{
+  "username": "timbeiko.eth",
+  "fetchedAt": "2025-03-15T15:55:31.357Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 20:54:53 +0000 2025",
+      "conversation_id_str": "1900605728819159072",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/IQLH8d45BH",
+            "expanded_url": "https://x.com/TimBeiko/status/1900651874333704497/photo/1",
+            "id_str": "1900651860614148096",
+            "indices": [
+              104,
+              127
+            ],
+            "media_key": "3_1900651860614148096",
+            "media_url_https": "https://pbs.twimg.com/media/GmB4zBGXcAA3ze7.jpg",
+            "type": "photo",
+            "url": "https://t.co/IQLH8d45BH",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1092,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1092,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 630,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1092,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 230,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 87,
+                  "y": 0,
+                  "w": 1092,
+                  "h": 1092
+                },
+                {
+                  "x": 221,
+                  "y": 0,
+                  "w": 958,
+                  "h": 1092
+                },
+                {
+                  "x": 633,
+                  "y": 0,
+                  "w": 546,
+                  "h": 1092
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1092
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900651860614148096"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "8705962",
+            "name": "Kev.Ξth",
+            "screen_name": "owocki",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "id_str": "962401880763764737",
+            "name": "trent.eth",
+            "screen_name": "trent_vanepps",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "id_str": "263162731",
+            "name": "griff.eth - $GIV Maxi",
+            "screen_name": "thegrifft",
+            "indices": [
+              23,
+              33
+            ]
+          },
+          {
+            "id_str": "1572000098917445633",
+            "name": "Octant.eth",
+            "screen_name": "OctantApp",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "id_str": "856446453157376003",
+            "name": "Gitcoin",
+            "screen_name": "gitcoin",
+            "indices": [
+              45,
+              53
+            ]
+          },
+          {
+            "id_str": "1190750118938632193",
+            "name": "clr.fund",
+            "screen_name": "clrfund",
+            "indices": [
+              54,
+              62
+            ]
+          },
+          {
+            "id_str": "260868264",
+            "name": "Eleftherios",
+            "screen_name": "lftherios",
+            "indices": [
+              63,
+              73
+            ]
+          },
+          {
+            "id_str": "1445838147900764162",
+            "name": "Jimi.tgn",
+            "screen_name": "JimiCohen",
+            "indices": [
+              74,
+              84
+            ]
+          },
+          {
+            "id_str": "40364621",
+            "name": "Auryn -- at ETHDenver",
+            "screen_name": "auryn_macmillan",
+            "indices": [
+              85,
+              101
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/IQLH8d45BH",
+            "expanded_url": "https://x.com/TimBeiko/status/1900651874333704497/photo/1",
+            "id_str": "1900651860614148096",
+            "indices": [
+              104,
+              127
+            ],
+            "media_key": "3_1900651860614148096",
+            "media_url_https": "https://pbs.twimg.com/media/GmB4zBGXcAA3ze7.jpg",
+            "type": "photo",
+            "url": "https://t.co/IQLH8d45BH",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1092,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1092,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 630,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1092,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 230,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 87,
+                  "y": 0,
+                  "w": 1092,
+                  "h": 1092
+                },
+                {
+                  "x": 221,
+                  "y": 0,
+                  "w": 958,
+                  "h": 1092
+                },
+                {
+                  "x": 633,
+                  "y": 0,
+                  "w": 546,
+                  "h": 1092
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1092
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900651860614148096"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@owocki @trent_vanepps @thegrifft @OctantApp @gitcoin @clrfund @lftherios @JimiCohen @auryn_macmillan 🫡 https://t.co/IQLH8d45BH",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900651874333704497",
+      "url": "https://x.com/TimBeiko/status/1900651874333704497",
+      "views_count": "478",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32131,
+        "followers_count": 137549,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137549,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 20:49:07 +0000 2025",
+      "conversation_id_str": "1900599557815214500",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1695922946487791616",
+            "name": "jasperthefriendlyghost.eth",
+            "screen_name": "drjasper_eth",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "1004371029307912192",
+            "name": "Christine Kim",
+            "screen_name": "christine_dkim",
+            "indices": [
+              14,
+              29
+            ]
+          },
+          {
+            "id_str": "1311617716239900673",
+            "name": "Lido",
+            "screen_name": "LidoFinance",
+            "indices": [
+              30,
+              42
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@drjasper_eth @christine_dkim @LidoFinance Apps need time to test, core devs can do other things (like work on Fusaka) while apps are testing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900650422614061414",
+      "url": "https://x.com/TimBeiko/status/1900650422614061414",
+      "views_count": "108",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32131,
+        "followers_count": 137549,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137549,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 14 20:48:28 +0000 2025",
+      "conversation_id_str": "1900646963286340013",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lu.ma/vth5pfbi",
+            "expanded_url": "https://lu.ma/vth5pfbi",
+            "url": "https://t.co/RaO3XIPrDC",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "If you’d like to learn more, we’ll be hosting an SoP Town Hall next Friday (Mar 21) at 15:00 UTC — see you there 👋 \n\nhttps://t.co/RaO3XIPrDC",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900650258448715922",
+      "url": "https://x.com/TimBeiko/status/1900650258448715922",
+      "views_count": "2649",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32131,
+        "followers_count": 137549,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137549,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 14 20:47:15 +0000 2025",
+      "conversation_id_str": "1900646963286340013",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "open.substack.com/pub/protocoliz…",
+            "expanded_url": "https://open.substack.com/pub/protocolized/p/sop-2025-accelerating-order",
+            "url": "https://t.co/0SWKnY5P6i",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "You can read the full announcement, and find application links for the various tracks, on Protocolized directly 😄\n\nhttps://t.co/0SWKnY5P6i",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900649950536458502",
+      "url": "https://x.com/TimBeiko/status/1900649950536458502",
+      "views_count": "2787",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32131,
+        "followers_count": 137549,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137549,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 20:45:49 +0000 2025",
+      "conversation_id_str": "1900646963286340013",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/g4u6VnQ5hl",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649590581309459/photo/1",
+            "id_str": "1900649567999176704",
+            "indices": [
+              197,
+              220
+            ],
+            "media_key": "3_1900649567999176704",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2tkcXMAARq46.jpg",
+            "type": "photo",
+            "url": "https://t.co/g4u6VnQ5hl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1770,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 799,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1770,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 156,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 885,
+                  "h": 1770
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1770
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900649567999176704"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/g4u6VnQ5hl",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649590581309459/photo/1",
+            "id_str": "1900649568041103360",
+            "indices": [
+              197,
+              220
+            ],
+            "media_key": "3_1900649568041103360",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2tkmW8AAchOD.jpg",
+            "type": "photo",
+            "url": "https://t.co/g4u6VnQ5hl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 28,
+                    "y": 695,
+                    "h": 239,
+                    "w": 239
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 21,
+                    "y": 535,
+                    "h": 184,
+                    "w": 184
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 12,
+                    "y": 302,
+                    "h": 104,
+                    "w": 104
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 28,
+                    "y": 695,
+                    "h": 239,
+                    "w": 239
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1559,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 908,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 514,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1559,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 98,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 780,
+                  "h": 1559
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1559
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900649568041103360"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/g4u6VnQ5hl",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649590581309459/photo/1",
+            "id_str": "1900649567999176704",
+            "indices": [
+              197,
+              220
+            ],
+            "media_key": "3_1900649567999176704",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2tkcXMAARq46.jpg",
+            "type": "photo",
+            "url": "https://t.co/g4u6VnQ5hl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1770,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 799,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1770,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 156,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 885,
+                  "h": 1770
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1770
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900649567999176704"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/g4u6VnQ5hl",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649590581309459/photo/1",
+            "id_str": "1900649568041103360",
+            "indices": [
+              197,
+              220
+            ],
+            "media_key": "3_1900649568041103360",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2tkmW8AAchOD.jpg",
+            "type": "photo",
+            "url": "https://t.co/g4u6VnQ5hl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 28,
+                    "y": 695,
+                    "h": 239,
+                    "w": 239
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 21,
+                    "y": 535,
+                    "h": 184,
+                    "w": 184
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 12,
+                    "y": 302,
+                    "h": 104,
+                    "w": 104
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 28,
+                    "y": 695,
+                    "h": 239,
+                    "w": 239
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1559,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 908,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 514,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1559,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 98,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 780,
+                  "h": 1559
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1559
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900649568041103360"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "And, last but not least, we’re planning some in-person workshops focused on deriving a “grand theory” of protocols. The first one will focus on the intersection of distributed AI and blockchains 🤖 https://t.co/g4u6VnQ5hl",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900649590581309459",
+      "url": "https://x.com/TimBeiko/status/1900649590581309459",
+      "views_count": "2216",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32131,
+        "followers_count": 137549,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137549,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 14 20:44:04 +0000 2025",
+      "conversation_id_str": "1900646963286340013",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Y8K5dyibfz",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649151072784596/photo/1",
+            "id_str": "1900648972487958528",
+            "indices": [
+              105,
+              128
+            ],
+            "media_key": "3_1900648972487958528",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2K5_bIAAhNMU.jpg",
+            "type": "photo",
+            "url": "https://t.co/Y8K5dyibfz",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1929,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 733,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 416,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1929,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 965,
+                  "h": 1929
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1929
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900648972487958528"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/Y8K5dyibfz",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649151072784596/photo/1",
+            "id_str": "1900648972492095488",
+            "indices": [
+              105,
+              128
+            ],
+            "media_key": "3_1900648972492095488",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2K6AaQAACm7J.jpg",
+            "type": "photo",
+            "url": "https://t.co/Y8K5dyibfz",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1719,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 823,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 466,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1719,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1002,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 540,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 375,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 860,
+                  "h": 1719
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1719
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900648972492095488"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Y8K5dyibfz",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649151072784596/photo/1",
+            "id_str": "1900648972487958528",
+            "indices": [
+              105,
+              128
+            ],
+            "media_key": "3_1900648972487958528",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2K5_bIAAhNMU.jpg",
+            "type": "photo",
+            "url": "https://t.co/Y8K5dyibfz",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1929,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 733,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 416,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1929,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 965,
+                  "h": 1929
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1929
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900648972487958528"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/Y8K5dyibfz",
+            "expanded_url": "https://x.com/TimBeiko/status/1900649151072784596/photo/1",
+            "id_str": "1900648972492095488",
+            "indices": [
+              105,
+              128
+            ],
+            "media_key": "3_1900648972492095488",
+            "media_url_https": "https://pbs.twimg.com/media/GmB2K6AaQAACm7J.jpg",
+            "type": "photo",
+            "url": "https://t.co/Y8K5dyibfz",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1719,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 823,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 466,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1719,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1002,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 540,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 375,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 860,
+                  "h": 1719
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1719
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900648972492095488"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 15,
+      "favorited": false,
+      "full_text": "At a smaller scale, we also have several paid writing opportunities for contributions to Protocolized ✍️ https://t.co/Y8K5dyibfz",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900649151072784596",
+      "url": "https://x.com/TimBeiko/status/1900649151072784596",
+      "views_count": "2098",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32132,
+        "followers_count": 137562,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137562,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Fri Mar 14 20:39:02 +0000 2025",
+      "conversation_id_str": "1900646963286340013",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/1Sfv6h8AvA",
+            "expanded_url": "https://x.com/TimBeiko/status/1900647885479571534/photo/1",
+            "id_str": "1900647511544782848",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900647511544782848",
+            "media_url_https": "https://pbs.twimg.com/media/GmB013jbYAAuHPe.jpg",
+            "type": "photo",
+            "url": "https://t.co/1Sfv6h8AvA",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 10,
+                    "y": 266,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 6,
+                    "y": 177,
+                    "h": 137,
+                    "w": 137
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 3,
+                    "y": 100,
+                    "h": 77,
+                    "w": 77
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 10,
+                    "y": 266,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1796,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 788,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 446,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1796,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 44,
+                  "y": 0,
+                  "w": 898,
+                  "h": 1796
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1796
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900647511544782848"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/1Sfv6h8AvA",
+            "expanded_url": "https://x.com/TimBeiko/status/1900647885479571534/photo/1",
+            "id_str": "1900647511779426304",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900647511779426304",
+            "media_url_https": "https://pbs.twimg.com/media/GmB014bXwAAIlmo.jpg",
+            "type": "photo",
+            "url": "https://t.co/1Sfv6h8AvA",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1762,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 803,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 455,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1762,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 506,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 247,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 164,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 881,
+                  "h": 1762
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1762
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900647511779426304"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1612275917140951042",
+            "name": "Edge City",
+            "screen_name": "JoinEdgeCity",
+            "indices": [
+              227,
+              240
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/1Sfv6h8AvA",
+            "expanded_url": "https://x.com/TimBeiko/status/1900647885479571534/photo/1",
+            "id_str": "1900647511544782848",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900647511544782848",
+            "media_url_https": "https://pbs.twimg.com/media/GmB013jbYAAuHPe.jpg",
+            "type": "photo",
+            "url": "https://t.co/1Sfv6h8AvA",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 10,
+                    "y": 266,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 6,
+                    "y": 177,
+                    "h": 137,
+                    "w": 137
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 3,
+                    "y": 100,
+                    "h": 77,
+                    "w": 77
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 10,
+                    "y": 266,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1796,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 788,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 446,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1796,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 44,
+                  "y": 0,
+                  "w": 898,
+                  "h": 1796
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1796
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900647511544782848"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/1Sfv6h8AvA",
+            "expanded_url": "https://x.com/TimBeiko/status/1900647885479571534/photo/1",
+            "id_str": "1900647511779426304",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900647511779426304",
+            "media_url_https": "https://pbs.twimg.com/media/GmB014bXwAAIlmo.jpg",
+            "type": "photo",
+            "url": "https://t.co/1Sfv6h8AvA",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1762,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 803,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 455,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1762,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 506,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 247,
+                  "w": 1179,
+                  "h": 1179
+                },
+                {
+                  "x": 0,
+                  "y": 164,
+                  "w": 1179,
+                  "h": 1344
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 881,
+                  "h": 1762
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 1762
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900647511779426304"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "Our Curriculum Development Track has 500K$ in grants available to fund college-level courses around protocols, with GCC sponsoring a Chinese language track. \n\nWe’ll kick the summer off with a Curriculum Development workshop at @JoinEdgeCity 📚 https://t.co/1Sfv6h8AvA",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900647885479571534",
+      "url": "https://x.com/TimBeiko/status/1900647885479571534",
+      "views_count": "2418",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32132,
+        "followers_count": 137562,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137562,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 16,
+      "created_at": "Fri Mar 14 20:35:23 +0000 2025",
+      "conversation_id_str": "1900646963286340013",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/4EVGke0DlO",
+            "expanded_url": "https://x.com/TimBeiko/status/1900646963286340013/photo/1",
+            "id_str": "1900644045258661888",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "3_1900644045258661888",
+            "media_url_https": "https://pbs.twimg.com/media/GmBxsGoaoAAhFTe.jpg",
+            "type": "photo",
+            "url": "https://t.co/4EVGke0DlO",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 862,
+                    "y": 1029,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 596,
+                    "y": 424,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 598,
+                    "y": 456,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 613,
+                    "y": 766,
+                    "h": 75,
+                    "w": 75
+                  },
+                  {
+                    "x": 744,
+                    "y": 729,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 621,
+                    "y": 830,
+                    "h": 136,
+                    "w": 136
+                  },
+                  {
+                    "x": 905,
+                    "y": 479,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 763,
+                    "y": 911,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 527,
+                    "y": 375,
+                    "h": 74,
+                    "w": 74
+                  },
+                  {
+                    "x": 529,
+                    "y": 403,
+                    "h": 74,
+                    "w": 74
+                  },
+                  {
+                    "x": 542,
+                    "y": 678,
+                    "h": 66,
+                    "w": 66
+                  },
+                  {
+                    "x": 658,
+                    "y": 645,
+                    "h": 100,
+                    "w": 100
+                  },
+                  {
+                    "x": 549,
+                    "y": 735,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 801,
+                    "y": 424,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 432,
+                    "y": 516,
+                    "h": 33,
+                    "w": 33
+                  },
+                  {
+                    "x": 299,
+                    "y": 212,
+                    "h": 42,
+                    "w": 42
+                  },
+                  {
+                    "x": 300,
+                    "y": 228,
+                    "h": 42,
+                    "w": 42
+                  },
+                  {
+                    "x": 307,
+                    "y": 384,
+                    "h": 37,
+                    "w": 37
+                  },
+                  {
+                    "x": 373,
+                    "y": 365,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 311,
+                    "y": 416,
+                    "h": 68,
+                    "w": 68
+                  },
+                  {
+                    "x": 454,
+                    "y": 240,
+                    "h": 103,
+                    "w": 103
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 862,
+                    "y": 1029,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 596,
+                    "y": 424,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 598,
+                    "y": 456,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 613,
+                    "y": 766,
+                    "h": 75,
+                    "w": 75
+                  },
+                  {
+                    "x": 744,
+                    "y": 729,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 621,
+                    "y": 830,
+                    "h": 136,
+                    "w": 136
+                  },
+                  {
+                    "x": 905,
+                    "y": 479,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1355,
+                "w": 1355,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1355,
+              "width": 1355,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 264,
+                  "w": 1355,
+                  "h": 759
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1355,
+                  "h": 1355
+                },
+                {
+                  "x": 166,
+                  "y": 0,
+                  "w": 1189,
+                  "h": 1355
+                },
+                {
+                  "x": 677,
+                  "y": 0,
+                  "w": 678,
+                  "h": 1355
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1355,
+                  "h": 1355
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900644045258661888"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/4EVGke0DlO",
+            "expanded_url": "https://x.com/TimBeiko/status/1900646963286340013/photo/1",
+            "id_str": "1900644045258661888",
+            "indices": [
+              278,
+              301
+            ],
+            "media_key": "3_1900644045258661888",
+            "media_url_https": "https://pbs.twimg.com/media/GmBxsGoaoAAhFTe.jpg",
+            "type": "photo",
+            "url": "https://t.co/4EVGke0DlO",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 862,
+                    "y": 1029,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 596,
+                    "y": 424,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 598,
+                    "y": 456,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 613,
+                    "y": 766,
+                    "h": 75,
+                    "w": 75
+                  },
+                  {
+                    "x": 744,
+                    "y": 729,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 621,
+                    "y": 830,
+                    "h": 136,
+                    "w": 136
+                  },
+                  {
+                    "x": 905,
+                    "y": 479,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 763,
+                    "y": 911,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 527,
+                    "y": 375,
+                    "h": 74,
+                    "w": 74
+                  },
+                  {
+                    "x": 529,
+                    "y": 403,
+                    "h": 74,
+                    "w": 74
+                  },
+                  {
+                    "x": 542,
+                    "y": 678,
+                    "h": 66,
+                    "w": 66
+                  },
+                  {
+                    "x": 658,
+                    "y": 645,
+                    "h": 100,
+                    "w": 100
+                  },
+                  {
+                    "x": 549,
+                    "y": 735,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 801,
+                    "y": 424,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 432,
+                    "y": 516,
+                    "h": 33,
+                    "w": 33
+                  },
+                  {
+                    "x": 299,
+                    "y": 212,
+                    "h": 42,
+                    "w": 42
+                  },
+                  {
+                    "x": 300,
+                    "y": 228,
+                    "h": 42,
+                    "w": 42
+                  },
+                  {
+                    "x": 307,
+                    "y": 384,
+                    "h": 37,
+                    "w": 37
+                  },
+                  {
+                    "x": 373,
+                    "y": 365,
+                    "h": 56,
+                    "w": 56
+                  },
+                  {
+                    "x": 311,
+                    "y": 416,
+                    "h": 68,
+                    "w": 68
+                  },
+                  {
+                    "x": 454,
+                    "y": 240,
+                    "h": 103,
+                    "w": 103
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 862,
+                    "y": 1029,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 596,
+                    "y": 424,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 598,
+                    "y": 456,
+                    "h": 84,
+                    "w": 84
+                  },
+                  {
+                    "x": 613,
+                    "y": 766,
+                    "h": 75,
+                    "w": 75
+                  },
+                  {
+                    "x": 744,
+                    "y": 729,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 621,
+                    "y": 830,
+                    "h": 136,
+                    "w": 136
+                  },
+                  {
+                    "x": 905,
+                    "y": 479,
+                    "h": 206,
+                    "w": 206
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1355,
+                "w": 1355,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1355,
+              "width": 1355,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 264,
+                  "w": 1355,
+                  "h": 759
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1355,
+                  "h": 1355
+                },
+                {
+                  "x": 166,
+                  "y": 0,
+                  "w": 1189,
+                  "h": 1355
+                },
+                {
+                  "x": 677,
+                  "y": 0,
+                  "w": 678,
+                  "h": 1355
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1355,
+                  "h": 1355
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900644045258661888"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 84,
+      "favorited": false,
+      "full_text": "Summer of Protocols is back for 2025 ☀️\n\nIn 2023, our guiding question was whether “protocols” should be studied as a first class topic. After validating that, 2024 focused on applied research, in fields ranging from cryptography to wildfire prevention. \n\nIn 2025, our focus is education both via our Curriculum Development Program, and revamped Protocolized publication! \n\nMore info on all of this below 👇",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 8,
+      "retweet_count": 18,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900646963286340013",
+      "url": "https://x.com/TimBeiko/status/1900646963286340013",
+      "views_count": "16834",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32132,
+        "followers_count": 137562,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137562,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:50:48 +0000 2025",
+      "conversation_id_str": "1900599557815214500",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1004371029307912192",
+            "name": "Christine Kim",
+            "screen_name": "christine_dkim",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1311617716239900673",
+            "name": "Lido",
+            "screen_name": "LidoFinance",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 20,
+      "favorited": false,
+      "full_text": "@christine_dkim @LidoFinance Just to clarify: this will delay Pectra relative to the hacky Holesky fixes working without issues (not a given!), but the \"delay\" comes from infra teams testing. Client teams can (rest and then) start working on the next thing! \n\nOverall, this is the quickest path to Fusak 😄",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900635745154724325",
+      "url": "https://x.com/TimBeiko/status/1900635745154724325",
+      "views_count": "787",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32132,
+        "followers_count": 137562,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137562,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 17:53:01 +0000 2025",
+      "conversation_id_str": "1900606106164228395",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 143,
+      "favorited": false,
+      "full_text": "You can just do things 🫡",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 4,
+      "retweet_count": 6,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900606106164228395",
+      "url": "https://x.com/TimBeiko/status/1900606106164228395",
+      "views_count": "8729",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32132,
+        "followers_count": 137562,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137562,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Thu Mar 13 23:44:59 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1427859040671911939",
+            "name": "storm",
+            "screen_name": "notnotstorm",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 45,
+      "favorited": false,
+      "full_text": "@notnotstorm We discussed this on ACD today!  \n\nWe're a bit busy right now trying to save Holesky and getting Hoodi up, but there was some support for a testnet that would serve this purpose. \n\nSomething like: \n- Sepolia → Dev Testnet \n- Hoodi → Infra Testnet \n- TBD → ACD Perf Testnet",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 4,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900332291995689362",
+      "url": "https://x.com/TimBeiko/status/1900332291995689362",
+      "views_count": "2857",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32132,
+        "followers_count": 137562,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137562,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 17:10:07 +0000 2025",
+      "conversation_id_str": "1900232845194649787",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "ethereum-magicians.org/t/all-core-dev…",
+            "expanded_url": "https://ethereum-magicians.org/t/all-core-devs-execution-acde-207/23020",
+            "url": "https://t.co/oZNKHnX6a3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "https://t.co/oZNKHnX6a3",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900232919031164956",
+      "url": "https://x.com/TimBeiko/status/1900232919031164956",
+      "views_count": "3472",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32131,
+        "followers_count": 137549,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137549,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 11,
+      "created_at": "Thu Mar 13 17:09:49 +0000 2025",
+      "conversation_id_str": "1900232845194649787",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/FK05GmtPnk",
+            "expanded_url": "https://x.com/TimBeiko/status/1900232845194649787/photo/1",
+            "id_str": "1900232839356178434",
+            "indices": [
+              284,
+              307
+            ],
+            "media_key": "3_1900232839356178434",
+            "media_url_https": "https://pbs.twimg.com/media/Gl77sxRbYAIDXP5.jpg",
+            "type": "photo",
+            "url": "https://t.co/FK05GmtPnk",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 686,
+                "w": 1608,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 512,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 290,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 686,
+              "width": 1608,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1225,
+                  "h": 686
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 686,
+                  "h": 686
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 602,
+                  "h": 686
+                },
+                {
+                  "x": 109,
+                  "y": 0,
+                  "w": 343,
+                  "h": 686
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1608,
+                  "h": 686
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900232839356178434"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/FK05GmtPnk",
+            "expanded_url": "https://x.com/TimBeiko/status/1900232845194649787/photo/1",
+            "id_str": "1900232839356178434",
+            "indices": [
+              284,
+              307
+            ],
+            "media_key": "3_1900232839356178434",
+            "media_url_https": "https://pbs.twimg.com/media/Gl77sxRbYAIDXP5.jpg",
+            "type": "photo",
+            "url": "https://t.co/FK05GmtPnk",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 686,
+                "w": 1608,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 512,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 290,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 686,
+              "width": 1608,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1225,
+                  "h": 686
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 686,
+                  "h": 686
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 602,
+                  "h": 686
+                },
+                {
+                  "x": 109,
+                  "y": 0,
+                  "w": 343,
+                  "h": 686
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1608,
+                  "h": 686
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900232839356178434"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 199,
+      "favorited": false,
+      "full_text": "ACDE Recap\n\nA new testnet, Hoodi, is going live Monday to wrap up Pectra testing, if you need to test validator exits, be on the lookout for it! Everything else can be tested on Sepolia & Holesky. \n\nPectra will be scheduled 30+ days after Hoodi forks successfully,  pending infra and client testing. \n\nFusaka planning will run in parallel, with a deadline of March 24 to propose EIPs, and a tentative date of April 10 for a scope freeze 🫡\n\nFull recap on @EthMagicians, link below 👇",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 15,
+      "reply_count": 21,
+      "retweet_count": 36,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1900232845194649787",
+      "url": "https://x.com/TimBeiko/status/1900232845194649787",
+      "views_count": "40702",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32131,
+        "followers_count": 137549,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137549,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 14:06:15 +0000 2025",
+      "conversation_id_str": "1899072227686973809",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "566534886",
+            "name": "Hasu⚡️🤖",
+            "screen_name": "hasufl",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@hasufl the most annoying thing for my taxes this year 😅",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "80722677",
+      "id_str": "1899461871045873872",
+      "url": "https://x.com/TimBeiko/status/1899461871045873872",
+      "views_count": "1271",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "helping ethereum win",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tim.mirror.xyz",
+                "expanded_url": "http://tim.mirror.xyz",
+                "url": "https://t.co/CSiafQ7Uer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 32132,
+        "followers_count": 137562,
+        "friends_count": 1002,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 1950,
+        "location": "🇨🇦",
+        "media_count": 885,
+        "name": "timbeiko.eth",
+        "normal_followers_count": 137562,
+        "pinned_tweet_ids_str": [
+          "1900646963286340013"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "TimBeiko",
+        "statuses_count": 19065,
+        "translator_type": "none",
+        "url": "https://t.co/CSiafQ7Uer",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "2025-03-13": [
+      10,
+      11,
+      12
+    ],
+    "2025-03-11": [
+      13
+    ]
+  }
+}

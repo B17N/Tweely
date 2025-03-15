@@ -1,0 +1,58 @@
+{
+  "username": "Alexander Urbelis",
+  "analyzedAt": "2025-03-15T18:29:32.115Z",
+  "tweetCount": 5,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 15:47:02 +0000 2025",
+    "latestTweet": "Mon Mar 10 15:47:03 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Alexander Urbelis and provide a summary of what they mainly talked about in the past week:\n\nWe know that Virgil's prosecution was unjust, his sentence was unfair, and this entire unprecedented affair was profoundly un-American.  We *will* right this wrong, but we need the support of the crypto community to continue to make progress towards the pardon Virgil deserves. https://t.co/LZEKBYQ3AR\n\nVirgil should be able to vote, to work, to obtain high office, and to help the country that he believed was exceptional in all respects.  For this reason, we have made significant headway towards a *pardon* but we continue to need your public support.  Stay tuned for updates. https://t.co/FHyB7aC2Qh\n\nThe struggle is not over.  Halfway houses are not fun places, onerous probation will extend for several years, and export restrictions that  Dep't of Commerce placed on Virgil treat him like he provided nuclear materials to a foreign adversary, not the scholar that he is. https://t.co/ZS9tXs4Q95\n\nOne month from today, on April 9, our colleague and our friend, Virgil, will be released from federal prison!  With his family, Virgil will head to a halfway house in Baltimore, Maryland.  This is great news and but certainly not the end of Virgil's arduous journey. https://t.co/KWFf2Tpjzg\n\nAn important and positive update about our friend Virgil.  👇(If you're wondering about the imagery, Virgil loves koalas.) https://t.co/sR4I3GFOTo"
+  },
+  "summary": "The tweets from @Alexander Urbelis mainly focused on advocating for the pardon of Virgil Griffith, expressing dissatisfaction with the prosecution and sentence, and seeking support from the crypto community. The sentiment is supportive of Virgil, highlighting the unjust treatment he received and the progress made towards securing a pardon. There is also mention of upcoming milestones in Virgil's journey, like his release from federal prison and transition to a halfway house. Overall, the tone is positive and hopeful, emphasizing the need for continued public support.",
+  "keyTopics": [
+    "Urbelis",
+    "Griffith,",
+    "Virgil,",
+    "There",
+    "Virgil's"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1899124854240190472",
+      "createdAt": "Mon Mar 10 15:47:03 +0000 2025",
+      "text": "We know that Virgil's prosecution was unjust, his sentence was unfair, and this entire unprecedented..."
+    },
+    {
+      "index": 1,
+      "id": "1899124852646396335",
+      "createdAt": "Mon Mar 10 15:47:03 +0000 2025",
+      "text": "Virgil should be able to vote, to work, to obtain high office, and to help the country that he belie..."
+    },
+    {
+      "index": 2,
+      "id": "1899124851123851288",
+      "createdAt": "Mon Mar 10 15:47:03 +0000 2025",
+      "text": "The struggle is not over.  Halfway houses are not fun places, onerous probation will extend for seve..."
+    },
+    {
+      "index": 3,
+      "id": "1899124849290952705",
+      "createdAt": "Mon Mar 10 15:47:02 +0000 2025",
+      "text": "One month from today, on April 9, our colleague and our friend, Virgil, will be released from federa..."
+    },
+    {
+      "index": 4,
+      "id": "1899124847051190594",
+      "createdAt": "Mon Mar 10 15:47:02 +0000 2025",
+      "text": "An important and positive update about our friend Virgil.  👇(If you're wondering about the imagery,..."
+    }
+  ]
+}

@@ -1,0 +1,2882 @@
+{
+  "username": "Dan Hendrycks",
+  "fetchedAt": "2025-03-15T15:55:31.359Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 15:20:44 +0000 2025",
+      "conversation_id_str": "1900251672527417787",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1151681226",
+            "name": "Lennart Heim",
+            "screen_name": "ohlennart",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "48008938",
+            "name": "Yann LeCun",
+            "screen_name": "ylecun",
+            "indices": [
+              11,
+              18
+            ]
+          },
+          {
+            "id_str": "232294292",
+            "name": "Gary Marcus",
+            "screen_name": "GaryMarcus",
+            "indices": [
+              19,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "We do suggest clarifying an escalation ladder right in the beginning of the Maintaining MAIM section; states can clarify an intelligence recursion is intolerable and do not need to define what \"AGI\" is. Clarification can be unilateral and ladders can evolve and be supplemented with communication.\n\nThat's quite different from saying \"we need a clear agreed upon AGI definition set in stone that everyone agrees upon for deterrence to work.\"",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1900567781898432841",
+      "url": "https://x.com/DanHendrycks/status/1900567781898432841",
+      "views_count": "198",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 15:08:55 +0000 2025",
+      "conversation_id_str": "1900251672527417787",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "920308045036576768",
+            "name": "JMBollenbacher",
+            "screen_name": "jmbollenbacher_",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "1151681226",
+            "name": "Lennart Heim",
+            "screen_name": "ohlennart",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "id_str": "48008938",
+            "name": "Yann LeCun",
+            "screen_name": "ylecun",
+            "indices": [
+              28,
+              35
+            ]
+          },
+          {
+            "id_str": "232294292",
+            "name": "Gary Marcus",
+            "screen_name": "GaryMarcus",
+            "indices": [
+              36,
+              47
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Yes you can communicate and do more confidence building measures as time goes on. They will need to start to talk about this when AI becomes more salient. I do think a full-throttle intelligence recursion isn't that ambiguous. You can define risky mechanisms instead of defining superintelligence.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1900564808489226672",
+      "url": "https://x.com/DanHendrycks/status/1900564808489226672",
+      "views_count": "30",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 14:55:25 +0000 2025",
+      "conversation_id_str": "1900251672527417787",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "920308045036576768",
+            "name": "JMBollenbacher",
+            "screen_name": "jmbollenbacher_",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "1151681226",
+            "name": "Lennart Heim",
+            "screen_name": "ohlennart",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "id_str": "48008938",
+            "name": "Yann LeCun",
+            "screen_name": "ylecun",
+            "indices": [
+              28,
+              35
+            ]
+          },
+          {
+            "id_str": "232294292",
+            "name": "Gary Marcus",
+            "screen_name": "GaryMarcus",
+            "indices": [
+              36,
+              47
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "We do suggest clarifying an escalation ladder right in the beginning of the Maintaining MAIM section. Clarification can be unilateral and ladders can evolve and be supplemented with communication.\n\nThat's quite different from saying \"we need a clear agreed upon superintelligence definition set in stone that everyone agrees upon for deterrence to work.\"",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1900561410138185745",
+      "url": "https://x.com/DanHendrycks/status/1900561410138185745",
+      "views_count": "35",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Thu Mar 13 22:08:39 +0000 2025",
+      "conversation_id_str": "1900251672527417787",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1151681226",
+            "name": "Lennart Heim",
+            "screen_name": "ohlennart",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "48008938",
+            "name": "Yann LeCun",
+            "screen_name": "ylecun",
+            "indices": [
+              11,
+              18
+            ]
+          },
+          {
+            "id_str": "232294292",
+            "name": "Gary Marcus",
+            "screen_name": "GaryMarcus",
+            "indices": [
+              19,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "If the risk is beyond a state’s own threshold for what is acceptable, then they will deter. It’s nice if this can be drawn in the sand and articulated beforehand, but it is not necessary.\nWe mention redlines not for deterrence but for nonproliferation in the paper.\nOther policies like if-then commitments, on the other hand, are strongly dependent on prearticulation.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1900308050860478928",
+      "url": "https://x.com/DanHendrycks/status/1900308050860478928",
+      "views_count": "386",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38519,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38519,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 02:30:02 +0000 2025",
+      "conversation_id_str": "1899933241437724729",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1706770561903497216",
+            "name": "METR",
+            "screen_name": "METR_Evals",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@METR_Evals They will be given up once they lead to a nice performance boost or inference speed up.\nI would not channel energy on requests that AI companies will predictably not keep.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1900011441576399121",
+      "url": "https://x.com/DanHendrycks/status/1900011441576399121",
+      "views_count": "326",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38519,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38519,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 23:41:48 +0000 2025",
+      "conversation_id_str": "1898411018029805838",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1562351508142067712",
+            "name": "jsd",
+            "screen_name": "datagenproc",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "@datagenproc There's a bounty program for finding dataset bugs wrapping up in about a week.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898519549810729354",
+      "url": "https://x.com/DanHendrycks/status/1898519549810729354",
+      "views_count": "208",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38519,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38519,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 18:41:00 +0000 2025",
+      "conversation_id_str": "1898319254874628130",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "127100323",
+            "name": "Perry E. Metzger",
+            "screen_name": "perrymetzger",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "633549366",
+            "name": "Daniel Jeffries",
+            "screen_name": "Dan_Jeffries1",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "> Your recent personal reinvention is not convincing.\nThat image is consistent with prior statements. You said it's inaccurate and didn't give an example. I'm sorry I'm not living up to the boogeyman image you're wanting me to be.\n\n> You are a Doomer.\nI'd probably be putting chance of this going horribly wrong in the double digits, say 50/50. I'm not fatalistic about it though.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898443851444220269",
+      "url": "https://x.com/DanHendrycks/status/1898443851444220269",
+      "views_count": "119",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 08 18:36:12 +0000 2025",
+      "conversation_id_str": "1898319254874628130",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "633549366",
+            "name": "Daniel Jeffries",
+            "screen_name": "Dan_Jeffries1",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "Many of my positions in the image contradict how you were painting me in your post above.\n\n> global surveillance state\nExport controls do not imply a global surveillance state. We've done this for many technologies for many decades (Australia Group, Blue Lantern monitoring program, IAEA, etc.) and it hasn't necessitated a global surveillance state.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898442643945980043",
+      "url": "https://x.com/DanHendrycks/status/1898442643945980043",
+      "views_count": "241",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 18:27:23 +0000 2025",
+      "conversation_id_str": "1898319254874628130",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "127100323",
+            "name": "Perry E. Metzger",
+            "screen_name": "perrymetzger",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "633549366",
+            "name": "Daniel Jeffries",
+            "screen_name": "Dan_Jeffries1",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "* Pause AI -> did not sign Pause statement\n* Manhattan Project -> never supported that\n* Nationalization -> only have written about taxes, windfall clauses, etc.\n* InfoSec -> I've been advocating for this but not at the SCIF level; mainly been focused on critical infrastructure\n* AI autonomy -> never said to never consider them; I've been very careful not to imply that\n* Behavior restrictions -> xAI risk management framework focuses on big risks not offensive statements",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898440425201144154",
+      "url": "https://x.com/DanHendrycks/status/1898440425201144154",
+      "views_count": "111",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 18:16:20 +0000 2025",
+      "conversation_id_str": "1898319254874628130",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/qlFyzY4X7b",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898437645086450041/photo/1",
+            "id_str": "1898437300905971712",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898437300905971712",
+            "media_url_https": "https://pbs.twimg.com/media/GliaqrTaEAAnwNo.jpg",
+            "type": "photo",
+            "url": "https://t.co/qlFyzY4X7b",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1055,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 618,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 350,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1128,
+              "width": 2190,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2014,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1128,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 564,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2190,
+                  "h": 1128
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898437300905971712"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "633549366",
+            "name": "Daniel Jeffries",
+            "screen_name": "Dan_Jeffries1",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/qlFyzY4X7b",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898437645086450041/photo/1",
+            "id_str": "1898437300905971712",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898437300905971712",
+            "media_url_https": "https://pbs.twimg.com/media/GliaqrTaEAAnwNo.jpg",
+            "type": "photo",
+            "url": "https://t.co/qlFyzY4X7b",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1055,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 618,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 350,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1128,
+              "width": 2190,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2014,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1128,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 564,
+                  "h": 1128
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2190,
+                  "h": 1128
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898437300905971712"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@Dan_Jeffries1 I'm usually recommending more medium control options https://t.co/qlFyzY4X7b",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898437645086450041",
+      "url": "https://x.com/DanHendrycks/status/1898437645086450041",
+      "views_count": "392",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 17:45:48 +0000 2025",
+      "conversation_id_str": "1898078424171782277",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1460283925",
+            "name": "roon",
+            "screen_name": "tszzl",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "3419028987",
+            "name": "Steven Godofsky",
+            "screen_name": "sgodofsk",
+            "indices": [
+              7,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@tszzl @sgodofsk I think a refined formulation of Chesteron's fence is \"the willingness to intervene should be inversely proportional to the optimization pressure behind the current state of the system\"",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898429961780040103",
+      "url": "https://x.com/DanHendrycks/status/1898429961780040103",
+      "views_count": "862",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 6,
+      "created_at": "Sat Mar 08 17:31:29 +0000 2025",
+      "conversation_id_str": "1898319254874628130",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/yqP9UTABYV",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898426357685870906/photo/1",
+            "id_str": "1898425068851707904",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898425068851707904",
+            "media_url_https": "https://pbs.twimg.com/media/GliPirWaQAAUu0A.jpg",
+            "type": "photo",
+            "url": "https://t.co/yqP9UTABYV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1667,
+                    "y": 67,
+                    "h": 201,
+                    "w": 201
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 977,
+                    "y": 39,
+                    "h": 118,
+                    "w": 118
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 553,
+                    "y": 22,
+                    "h": 66,
+                    "w": 66
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 2277,
+                    "y": 92,
+                    "h": 275,
+                    "w": 275
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1021,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 598,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 339,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1394,
+              "width": 2796,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2489,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1394,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1223,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 697,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2796,
+                  "h": 1394
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898425068851707904"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/yqP9UTABYV",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898426357685870906/photo/1",
+            "id_str": "1898425154835021825",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898425154835021825",
+            "media_url_https": "https://pbs.twimg.com/media/GliPnrqbgAE4VVC.jpg",
+            "type": "photo",
+            "url": "https://t.co/yqP9UTABYV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1679,
+                    "y": 69,
+                    "h": 215,
+                    "w": 215
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 984,
+                    "y": 40,
+                    "h": 126,
+                    "w": 126
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 557,
+                    "y": 23,
+                    "h": 71,
+                    "w": 71
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 2293,
+                    "y": 95,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1021,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 598,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 339,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1394,
+              "width": 2796,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2489,
+                  "h": 1394
+                },
+                {
+                  "x": 209,
+                  "y": 0,
+                  "w": 1394,
+                  "h": 1394
+                },
+                {
+                  "x": 295,
+                  "y": 0,
+                  "w": 1223,
+                  "h": 1394
+                },
+                {
+                  "x": 558,
+                  "y": 0,
+                  "w": 697,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2796,
+                  "h": 1394
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898425154835021825"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/yqP9UTABYV",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898426357685870906/photo/1",
+            "id_str": "1898426299171110912",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898426299171110912",
+            "media_url_https": "https://pbs.twimg.com/media/GliQqSpagAAgdfZ.jpg",
+            "type": "photo",
+            "url": "https://t.co/yqP9UTABYV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1199,
+                    "y": 59,
+                    "h": 137,
+                    "w": 137
+                  },
+                  {
+                    "x": 1689,
+                    "y": 25,
+                    "h": 201,
+                    "w": 201
+                  },
+                  {
+                    "x": 583,
+                    "y": 519,
+                    "h": 177,
+                    "w": 177
+                  },
+                  {
+                    "x": 149,
+                    "y": 512,
+                    "h": 197,
+                    "w": 197
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 703,
+                    "y": 34,
+                    "h": 80,
+                    "w": 80
+                  },
+                  {
+                    "x": 990,
+                    "y": 15,
+                    "h": 118,
+                    "w": 118
+                  },
+                  {
+                    "x": 342,
+                    "y": 304,
+                    "h": 104,
+                    "w": 104
+                  },
+                  {
+                    "x": 87,
+                    "y": 300,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 398,
+                    "y": 19,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 561,
+                    "y": 8,
+                    "h": 66,
+                    "w": 66
+                  },
+                  {
+                    "x": 193,
+                    "y": 172,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 49,
+                    "y": 170,
+                    "h": 65,
+                    "w": 65
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1638,
+                    "y": 81,
+                    "h": 188,
+                    "w": 188
+                  },
+                  {
+                    "x": 2307,
+                    "y": 35,
+                    "h": 275,
+                    "w": 275
+                  },
+                  {
+                    "x": 797,
+                    "y": 709,
+                    "h": 243,
+                    "w": 243
+                  },
+                  {
+                    "x": 204,
+                    "y": 699,
+                    "h": 270,
+                    "w": 270
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1021,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 598,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 339,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1394,
+              "width": 2796,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2489,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1394,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1223,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 697,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2796,
+                  "h": 1394
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898426299171110912"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/watch?v=NgHFMo…",
+            "expanded_url": "https://www.youtube.com/watch?v=NgHFMolXs3U",
+            "url": "https://t.co/v7OURnGNaG",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "633549366",
+            "name": "Daniel Jeffries",
+            "screen_name": "Dan_Jeffries1",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/yqP9UTABYV",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898426357685870906/photo/1",
+            "id_str": "1898425068851707904",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898425068851707904",
+            "media_url_https": "https://pbs.twimg.com/media/GliPirWaQAAUu0A.jpg",
+            "type": "photo",
+            "url": "https://t.co/yqP9UTABYV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1667,
+                    "y": 67,
+                    "h": 201,
+                    "w": 201
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 977,
+                    "y": 39,
+                    "h": 118,
+                    "w": 118
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 553,
+                    "y": 22,
+                    "h": 66,
+                    "w": 66
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 2277,
+                    "y": 92,
+                    "h": 275,
+                    "w": 275
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1021,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 598,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 339,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1394,
+              "width": 2796,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2489,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1394,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1223,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 697,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2796,
+                  "h": 1394
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898425068851707904"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/yqP9UTABYV",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898426357685870906/photo/1",
+            "id_str": "1898425154835021825",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898425154835021825",
+            "media_url_https": "https://pbs.twimg.com/media/GliPnrqbgAE4VVC.jpg",
+            "type": "photo",
+            "url": "https://t.co/yqP9UTABYV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1679,
+                    "y": 69,
+                    "h": 215,
+                    "w": 215
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 984,
+                    "y": 40,
+                    "h": 126,
+                    "w": 126
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 557,
+                    "y": 23,
+                    "h": 71,
+                    "w": 71
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 2293,
+                    "y": 95,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1021,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 598,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 339,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1394,
+              "width": 2796,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2489,
+                  "h": 1394
+                },
+                {
+                  "x": 209,
+                  "y": 0,
+                  "w": 1394,
+                  "h": 1394
+                },
+                {
+                  "x": 295,
+                  "y": 0,
+                  "w": 1223,
+                  "h": 1394
+                },
+                {
+                  "x": 558,
+                  "y": 0,
+                  "w": 697,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2796,
+                  "h": 1394
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898425154835021825"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/yqP9UTABYV",
+            "expanded_url": "https://x.com/DanHendrycks/status/1898426357685870906/photo/1",
+            "id_str": "1898426299171110912",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1898426299171110912",
+            "media_url_https": "https://pbs.twimg.com/media/GliQqSpagAAgdfZ.jpg",
+            "type": "photo",
+            "url": "https://t.co/yqP9UTABYV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1199,
+                    "y": 59,
+                    "h": 137,
+                    "w": 137
+                  },
+                  {
+                    "x": 1689,
+                    "y": 25,
+                    "h": 201,
+                    "w": 201
+                  },
+                  {
+                    "x": 583,
+                    "y": 519,
+                    "h": 177,
+                    "w": 177
+                  },
+                  {
+                    "x": 149,
+                    "y": 512,
+                    "h": 197,
+                    "w": 197
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 703,
+                    "y": 34,
+                    "h": 80,
+                    "w": 80
+                  },
+                  {
+                    "x": 990,
+                    "y": 15,
+                    "h": 118,
+                    "w": 118
+                  },
+                  {
+                    "x": 342,
+                    "y": 304,
+                    "h": 104,
+                    "w": 104
+                  },
+                  {
+                    "x": 87,
+                    "y": 300,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 398,
+                    "y": 19,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 561,
+                    "y": 8,
+                    "h": 66,
+                    "w": 66
+                  },
+                  {
+                    "x": 193,
+                    "y": 172,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 49,
+                    "y": 170,
+                    "h": 65,
+                    "w": 65
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1638,
+                    "y": 81,
+                    "h": 188,
+                    "w": 188
+                  },
+                  {
+                    "x": 2307,
+                    "y": 35,
+                    "h": 275,
+                    "w": 275
+                  },
+                  {
+                    "x": 797,
+                    "y": 709,
+                    "h": 243,
+                    "w": 243
+                  },
+                  {
+                    "x": 204,
+                    "y": 699,
+                    "h": 270,
+                    "w": 270
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1021,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 598,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 339,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1394,
+              "width": 2796,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2489,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1394,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1223,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 697,
+                  "h": 1394
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2796,
+                  "h": 1394
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898426299171110912"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 27,
+      "favorited": false,
+      "full_text": "More slides from Rich Sutton\nhttps://t.co/N6NtxM3L1T",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898426357685870906",
+      "url": "https://x.com/DanHendrycks/status/1898426357685870906",
+      "views_count": "3349",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 16:40:57 +0000 2025",
+      "conversation_id_str": "1898003823098224784",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/DanHendrycks/s…",
+            "expanded_url": "https://x.com/DanHendrycks/status/1728564429728674127",
+            "url": "https://t.co/gFEAf8EvwR",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "166138615",
+            "name": "Amjad Masad",
+            "screen_name": "amasad",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@amasad https://t.co/gFEAf8EvwR",
+      "is_quote_status": true,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898413639171965306",
+      "url": "https://x.com/DanHendrycks/status/1898413639171965306",
+      "views_count": "543",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38520,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38520,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 05:40:38 +0000 2025",
+      "conversation_id_str": "1898003823098224784",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "en.m.wikipedia.org/wiki/Australia…",
+            "expanded_url": "https://en.m.wikipedia.org/wiki/Australia_Group",
+            "url": "https://t.co/ShA466MqA5",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "166138615",
+            "name": "Amjad Masad",
+            "screen_name": "amasad",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@amasad https://t.co/ShA466MqA5",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898247467571069168",
+      "url": "https://x.com/DanHendrycks/status/1898247467571069168",
+      "views_count": "825",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38519,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38519,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 04:09:24 +0000 2025",
+      "conversation_id_str": "1898182636457410678",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "30557408",
+            "name": "Dean W. Ball",
+            "screen_name": "deanwball",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 35,
+      "favorited": false,
+      "full_text": "@deanwball Original version would have included it but you were a fan of watering that down to cover less and less.\nAlso, SB 1047's timing for nearly high CBRN risks was almost perfect.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "68538286",
+      "id_str": "1898224507913187664",
+      "url": "https://x.com/DanHendrycks/status/1898224507913187664",
+      "views_count": "1815",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Aug 24 23:08:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "• Center for AI Safety Director\n• xAI and Scale AI advisor\n• GELU/MMLU/MATH/HLE\n• PhD in AI from UC Berkeley\nhttps://t.co/rgXHAnYAsQ\nhttps://t.co/nPSyQMaY9b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "newsletter.safe.ai",
+                "expanded_url": "http://newsletter.safe.ai",
+                "url": "https://t.co/rgXHAnYAsQ",
+                "indices": [
+                  109,
+                  132
+                ]
+              },
+              {
+                "display_url": "aisafetybook.com",
+                "expanded_url": "http://aisafetybook.com",
+                "url": "https://t.co/nPSyQMaY9b",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danhendrycks.com",
+                "expanded_url": "http://danhendrycks.com",
+                "url": "https://t.co/R55lcd0jtZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1548,
+        "followers_count": 38519,
+        "friends_count": 100,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 802,
+        "location": "San Francisco",
+        "media_count": 228,
+        "name": "Dan Hendrycks",
+        "normal_followers_count": 38519,
+        "pinned_tweet_ids_str": [
+          "1897308828284412226"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68538286/1738467620",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884117842699902978/EklOGf5d_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DanHendrycks",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/R55lcd0jtZ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1,
+      2
+    ],
+    "2025-03-13": [
+      3,
+      4
+    ],
+    "2025-03-08": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  }
+}

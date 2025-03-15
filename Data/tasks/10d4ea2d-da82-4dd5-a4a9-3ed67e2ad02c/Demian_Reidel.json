@@ -1,0 +1,4458 @@
+{
+  "username": "Demian Reidel",
+  "fetchedAt": "2025-03-15T16:01:50.815Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 2,
+      "created_at": "Sat Mar 15 11:55:37 +0000 2025",
+      "conversation_id_str": "1900878550737023451",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/article/1900…",
+            "expanded_url": "http://x.com/i/article/1900875881704550402",
+            "url": "https://t.co/PMmvAGfEfa",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 32,
+      "favorited": false,
+      "full_text": "https://t.co/PMmvAGfEfa",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 6,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1900878550737023451",
+      "url": "https://x.com/dreidel1/status/1900878550737023451",
+      "views_count": "2587",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 21:54:39 +0000 2025",
+      "conversation_id_str": "1900289430448959771",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "201923100",
+            "name": "Ana Crónica🐍🍋🦁",
+            "screen_name": "Ana_montesdeoca",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 31,
+      "favorited": false,
+      "full_text": "@Ana_montesdeoca El plan es que ser quienes les vendamos los reactores a ellos y al resto del mundo.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1900304527422812382",
+      "url": "https://x.com/dreidel1/status/1900304527422812382",
+      "views_count": "394",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 14:01:52 +0000 2025",
+      "conversation_id_str": "1899933955404816800",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/dreidel1/statu…",
+            "expanded_url": "https://x.com/dreidel1/status/1898374838298828969",
+            "url": "https://t.co/i5e30T2OCs",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "159899911",
+            "name": "Patricio Giusto (帕西奥)",
+            "screen_name": "patriciogiusto",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@patriciogiusto https://t.co/i5e30T2OCs",
+      "is_quote_status": true,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1900185547739390025",
+      "url": "https://x.com/dreidel1/status/1900185547739390025",
+      "views_count": "110",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 21:42:33 +0000 2025",
+      "conversation_id_str": "1899933955404816800",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "17026527",
+            "name": "Federico Jack",
+            "screen_name": "fedejack",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@fedejack Fede, I am considering that fact. 😎",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899939092508660008",
+      "url": "https://x.com/dreidel1/status/1899939092508660008",
+      "views_count": "250",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 13,
+      "created_at": "Wed Mar 12 21:22:08 +0000 2025",
+      "conversation_id_str": "1899933955404816800",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "cnbc.com/amp/2025/03/12…",
+            "expanded_url": "https://www.cnbc.com/amp/2025/03/12/amazon-google-and-meta-support-tripling-nuclear-power-by-2050.html",
+            "url": "https://t.co/Y4Uac6eTjy",
+            "indices": [
+              217,
+              240
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 897,
+      "favorited": false,
+      "full_text": "Amazon, Google y Meta anunciaron su apoyo  a los esfuerzos para al menos triplicar la energía nuclear en todo el mundo para 2050.\n\nTenemos los recursos y tenemos un plan. Ahora a ejecutarlo. \n\nEl futuro es nuclear. \n\nhttps://t.co/Y4Uac6eTjy",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 34,
+      "retweet_count": 170,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899933955404816800",
+      "url": "https://x.com/dreidel1/status/1899933955404816800",
+      "views_count": "27827",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 02:46:43 +0000 2025",
+      "conversation_id_str": "1899649591127003291",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1873198505621168128",
+            "name": "Adolfo",
+            "screen_name": "AdolfoLede55881",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "1726746420508585984",
+            "name": "Florr 🇦🇷",
+            "screen_name": "ministrocaputo",
+            "indices": [
+              17,
+              32
+            ]
+          },
+          {
+            "id_str": "90644942",
+            "name": "Pablo Quirno",
+            "screen_name": "pabloquirno",
+            "indices": [
+              33,
+              45
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@AdolfoLede55881 @ministrocaputo @pabloquirno 😎",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899653251584114701",
+      "url": "https://x.com/dreidel1/status/1899653251584114701",
+      "views_count": "35",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 6,
+      "created_at": "Wed Mar 12 00:07:23 +0000 2025",
+      "conversation_id_str": "1899581962190569616",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 339,
+      "favorited": false,
+      "full_text": "Thank you for looking into our nuclear plan. \nArgentina has a strong history in nuclear technology, and we are ready to take the next step. Our goal is to leverage our human capital and resources to position Argentina as a leader in Small Modular Reactor (SMR) development, providing the world with cleaner, more efficient energy solutions for the future.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 8,
+      "retweet_count": 24,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899613155120054500",
+      "url": "https://x.com/dreidel1/status/1899613155120054500",
+      "views_count": "7274",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 21:57:32 +0000 2025",
+      "conversation_id_str": "1899577373227434256",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "56818132",
+            "name": "Miguel A Boggiano del 55,6%",
+            "screen_name": "Miguel_Boggiano",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 87,
+      "favorited": false,
+      "full_text": "@Miguel_Boggiano Noooooooo!!! Steve Austin, astronauta. Su vida está en peligro…\n\nDe chiquito me encantaba el hombre nuclear. Nunca pensé en serlo. 😂😂😂",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899580475515265242",
+      "url": "https://x.com/dreidel1/status/1899580475515265242",
+      "views_count": "1550",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 19:42:35 +0000 2025",
+      "conversation_id_str": "1899546513220718808",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 106,
+      "favorited": false,
+      "full_text": "We sincerely appreciate the UAE’s solidarity and condolences during this challenging time.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 5,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899546513220718808",
+      "url": "https://x.com/dreidel1/status/1899546513220718808",
+      "views_count": "4428",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 18:50:07 +0000 2025",
+      "conversation_id_str": "1898374838298828969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "109326253",
+            "name": "Martín Perazzoli",
+            "screen_name": "mperazzo",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1319169969272332295",
+            "name": "Ronald Mc Richter",
+            "screen_name": "RonaldMcRichter",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@mperazzo @RonaldMcRichter No había visto esto!! Por lejos la mejor respuesta a todo lo que salió del plan nuclear. Doc Brown estaría orgulloso. \n\nGracias, me hicieron el día! ❤️",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899533311451574280",
+      "url": "https://x.com/dreidel1/status/1899533311451574280",
+      "views_count": "121",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 23:22:48 +0000 2025",
+      "conversation_id_str": "1899238043564876085",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lanacion.com.ar/videos/entrevi…",
+            "expanded_url": "https://www.lanacion.com.ar/videos/entrevista-a-rafael-grossi-el-argentino-que-puede-evitar-una-guerra-nuclear-nid06032025/",
+            "url": "https://t.co/sJpZSb4eOO",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 17,
+      "favorited": false,
+      "full_text": "Y al artículo en la nación \n\nhttps://t.co/sJpZSb4eOO",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899239545008243097",
+      "url": "https://x.com/dreidel1/status/1899239545008243097",
+      "views_count": "1944",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 23:22:47 +0000 2025",
+      "conversation_id_str": "1899238043564876085",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/reel/DHBlc05tI…",
+            "expanded_url": "https://www.instagram.com/reel/DHBlc05tItZ/?igsh=MXNra2FpZjhmc2h2cw==",
+            "url": "https://t.co/ZPbzj3YCrZ",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 18,
+      "favorited": false,
+      "full_text": "El link al video \n\nhttps://t.co/ZPbzj3YCrZ",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899239542030512545",
+      "url": "https://x.com/dreidel1/status/1899239542030512545",
+      "views_count": "1973",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Mon Mar 10 23:16:50 +0000 2025",
+      "conversation_id_str": "1899238043564876085",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/sD6xIDOzC3",
+            "expanded_url": "https://x.com/dreidel1/status/1899238043564876085/photo/1",
+            "id_str": "1899238037143400448",
+            "indices": [
+              277,
+              300
+            ],
+            "media_key": "3_1899238037143400448",
+            "media_url_https": "https://pbs.twimg.com/media/Glty7qPXsAASdla.jpg",
+            "type": "photo",
+            "url": "https://t.co/sD6xIDOzC3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 590,
+                    "y": 284,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 80,
+                    "y": 518,
+                    "h": 224,
+                    "w": 224
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 345,
+                    "y": 166,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 46,
+                    "y": 303,
+                    "h": 131,
+                    "w": 131
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 195,
+                    "y": 94,
+                    "h": 38,
+                    "w": 38
+                  },
+                  {
+                    "x": 26,
+                    "y": 171,
+                    "h": 74,
+                    "w": 74
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 590,
+                    "y": 284,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 80,
+                    "y": 518,
+                    "h": 224,
+                    "w": 224
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1166,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 683,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 387,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1166,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1158,
+                  "w": 1166,
+                  "h": 653
+                },
+                {
+                  "x": 0,
+                  "y": 882,
+                  "w": 1166,
+                  "h": 1166
+                },
+                {
+                  "x": 0,
+                  "y": 719,
+                  "w": 1166,
+                  "h": 1329
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1166,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899238037143400448"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/sD6xIDOzC3",
+            "expanded_url": "https://x.com/dreidel1/status/1899238043564876085/photo/1",
+            "id_str": "1899238037143400448",
+            "indices": [
+              277,
+              300
+            ],
+            "media_key": "3_1899238037143400448",
+            "media_url_https": "https://pbs.twimg.com/media/Glty7qPXsAASdla.jpg",
+            "type": "photo",
+            "url": "https://t.co/sD6xIDOzC3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 590,
+                    "y": 284,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 80,
+                    "y": 518,
+                    "h": 224,
+                    "w": 224
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 345,
+                    "y": 166,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 46,
+                    "y": 303,
+                    "h": 131,
+                    "w": 131
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 195,
+                    "y": 94,
+                    "h": 38,
+                    "w": 38
+                  },
+                  {
+                    "x": 26,
+                    "y": 171,
+                    "h": 74,
+                    "w": 74
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 590,
+                    "y": 284,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 80,
+                    "y": 518,
+                    "h": 224,
+                    "w": 224
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1166,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 683,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 387,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1166,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1158,
+                  "w": 1166,
+                  "h": 653
+                },
+                {
+                  "x": 0,
+                  "y": 882,
+                  "w": 1166,
+                  "h": 1166
+                },
+                {
+                  "x": 0,
+                  "y": 719,
+                  "w": 1166,
+                  "h": 1329
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1166,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899238037143400448"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 288,
+      "favorited": false,
+      "full_text": "“El Argentino que puede evitar una guerra mundial”\n\nRafael Grossi, director general de la IAEA y gran apoyo y ayuda para nuestro Plan Nuclear Argentino. \n\nParte de su tarea es garantizar el uso de la energía exclusivamente para objetivos pacíficos. \n\nEs un crack y yo tengo el privilegio de que sea mi amigo. @rafaelmgrossi \n\nhttps://t.co/h4LXU3G4aZ",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 11,
+      "retweet_count": 59,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1899238043564876085",
+      "url": "https://x.com/dreidel1/status/1899238043564876085",
+      "views_count": "8235",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Sun Mar 09 22:34:20 +0000 2025",
+      "conversation_id_str": "1898512312383782995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "164350783",
+            "name": "Alejandro",
+            "screen_name": "alejandroferron",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 87,
+      "favorited": false,
+      "full_text": "Este plan no depende de la secretaría de CyT. El capital es extranjero y esto no es obra pública. \nEntiendo que vos queres discutir sobre la política de ciencia en general, CONICET, etc. \n\nSon temas válidos de conversación que no tienen relación con el plan nuclear. O no una relación directa. \n\nEntonces yo quiero mantener la discusión enfocada en esto. \n\nCómo ahora el tono es buena onda, te contesto buena onda. \n\nEn serio esta oportunidad es única. Si le ponemos máximo esfuerzo podemos implementar las distintas fases (lo explico en la entrevista. Estos tweets eran para aclarar algunos puntos)\n\nCuando haces algo, saltan todos”por qué no haces esto, o lo otro”. Esos son los que no hacen nada. Yo elegí esto porque es un proyecto acotado que puede tener un retorno gigante. Y todos lo entienden. \n\nY por último, si me barreas no vas a esperar que te conteste cómo lord inglés. \nCon buena onda y respeto te contesto igual. \n\nEl salame que me dijo tarado y me dio clase sobre el Balseiro es más norma que excepción. \n\nAhora mejor? Abrazo (posta con onda)",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 6,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898864958978318583",
+      "url": "https://x.com/dreidel1/status/1898864958978318583",
+      "views_count": "1973",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 21:47:40 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "51731435",
+            "name": "Marcelo Yanovsky",
+            "screen_name": "mjyanovsky",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "243323185",
+            "name": "Ludwig von Pato",
+            "screen_name": "22xTJuan",
+            "indices": [
+              12,
+              21
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@mjyanovsky @22xTJuan Yo creo que tenes evidencia que sugiere  que este proyecto es muy bueno. \n\nMi punto es que las quejas no son que el\nProyecto es malo. \n\nPero insisto, el punto que hacen es válido. No lo había visto.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898853214650343660",
+      "url": "https://x.com/dreidel1/status/1898853214650343660",
+      "views_count": "469",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 21:43:05 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "51731435",
+            "name": "Marcelo Yanovsky",
+            "screen_name": "mjyanovsky",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "243323185",
+            "name": "Ludwig von Pato",
+            "screen_name": "22xTJuan",
+            "indices": [
+              12,
+              21
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "@mjyanovsky @22xTJuan Hmmm tenes razón. Me quejo de las puteadas pero digo eso al final. \nTe lo tomo 100% \nPero la puteada? \n\nPero de nuevo, tienen razón.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898852064341504080",
+      "url": "https://x.com/dreidel1/status/1898852064341504080",
+      "views_count": "747",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Sun Mar 09 13:37:16 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "243323185",
+            "name": "Ludwig von Pato",
+            "screen_name": "22xTJuan",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 90,
+      "favorited": false,
+      "full_text": "Me gusta tu actitud, así que te voy a contestar igual. \nNo es que estoy pidiendo apoyo, sino que me sorprende la virulencia de los ataques. Si no tenes info, no podes concluir que es automáticamente malo. De hecho, yo te diría que tener tech nuclear cuando se viene un aumento fuerte de la demanda es muy muy bueno. Nadie sabe que va a pasar en 50 años. Mucha de la info está en la entrevista. Abrazo. (Y bien por la buena onda)",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898729803181634050",
+      "url": "https://x.com/dreidel1/status/1898729803181634050",
+      "views_count": "9299",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Sun Mar 09 05:22:50 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/1NIeXB04Zt",
+            "expanded_url": "https://x.com/dreidel1/status/1898605375038857726/photo/1",
+            "id_str": "1898605368608993280",
+            "indices": [
+              108,
+              131
+            ],
+            "media_key": "3_1898605368608993280",
+            "media_url_https": "https://pbs.twimg.com/media/GlkzhgSWsAAa2up.jpg",
+            "type": "photo",
+            "url": "https://t.co/1NIeXB04Zt",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1964,
+                "w": 1320,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 807,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 457,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1964,
+              "width": 1320,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 662,
+                  "w": 1320,
+                  "h": 739
+                },
+                {
+                  "x": 0,
+                  "y": 371,
+                  "w": 1320,
+                  "h": 1320
+                },
+                {
+                  "x": 0,
+                  "y": 279,
+                  "w": 1320,
+                  "h": 1505
+                },
+                {
+                  "x": 49,
+                  "y": 0,
+                  "w": 982,
+                  "h": 1964
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1320,
+                  "h": 1964
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898605368608993280"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/1NIeXB04Zt",
+            "expanded_url": "https://x.com/dreidel1/status/1898605375038857726/photo/1",
+            "id_str": "1898605368608993280",
+            "indices": [
+              108,
+              131
+            ],
+            "media_key": "3_1898605368608993280",
+            "media_url_https": "https://pbs.twimg.com/media/GlkzhgSWsAAa2up.jpg",
+            "type": "photo",
+            "url": "https://t.co/1NIeXB04Zt",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1964,
+                "w": 1320,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 807,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 457,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1964,
+              "width": 1320,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 662,
+                  "w": 1320,
+                  "h": 739
+                },
+                {
+                  "x": 0,
+                  "y": 371,
+                  "w": 1320,
+                  "h": 1320
+                },
+                {
+                  "x": 0,
+                  "y": 279,
+                  "w": 1320,
+                  "h": 1505
+                },
+                {
+                  "x": 49,
+                  "y": 0,
+                  "w": 982,
+                  "h": 1964
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1320,
+                  "h": 1964
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898605368608993280"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 524,
+      "favorited": false,
+      "full_text": "Acá tienen un ejemplo perfecto. 😂 \nEs demasiado bueno. 😂😂😂\n\nNo se de que se trata pero me opongo. Y bueh. 😂 https://t.co/1NIeXB04Zt",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 3,
+      "reply_count": 14,
+      "retweet_count": 36,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898605375038857726",
+      "url": "https://x.com/dreidel1/status/1898605375038857726",
+      "views_count": "15308",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 05:07:22 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "155887437",
+            "name": "HERNAN SANCHEZ",
+            "screen_name": "HERNANBOCA",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "96795710",
+            "name": "Lilia Lemoine 🍋",
+            "screen_name": "lilialemoine",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 205,
+      "favorited": false,
+      "full_text": "@HERNANBOCA @lilialemoine Soy físico del Balseiro. Y ahora? Cómo se siente ser un salame?",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 9,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898601481604886924",
+      "url": "https://x.com/dreidel1/status/1898601481604886924",
+      "views_count": "4833",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 03:56:35 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1342067071",
+            "name": "Netochka Nezvanova, Narnia state-affiliated media",
+            "screen_name": "NetNezva",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@NetNezva Dijiste que no había info del ACR-300. Hay. \nPero ok. Si queres pensar que es humo estás en tu derecho. Saludos.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898583671231201491",
+      "url": "https://x.com/dreidel1/status/1898583671231201491",
+      "views_count": "584",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 03:48:37 +0000 2025",
+      "conversation_id_str": "1898577316227272892",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "715476691460558848",
+            "name": "Operador Nuclear",
+            "screen_name": "OperadorNuclear",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@OperadorNuclear Jajajajaj yo 54. Estamos en el horno. 😂",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898581663111696571",
+      "url": "https://x.com/dreidel1/status/1898581663111696571",
+      "views_count": "94",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 03:46:44 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1342067071",
+            "name": "Netochka Nezvanova, Narnia state-affiliated media",
+            "screen_name": "NetNezva",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@NetNezva Yo también vengo de la ciencia: soy físico del Balseiro. Más huemul no hay. 😱\n\nEl ACR-300 está patentado",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898581190421954948",
+      "url": "https://x.com/dreidel1/status/1898581190421954948",
+      "views_count": "597",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sun Mar 09 03:38:00 +0000 2025",
+      "conversation_id_str": "1898577316227272892",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "715476691460558848",
+            "name": "Operador Nuclear",
+            "screen_name": "OperadorNuclear",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@OperadorNuclear 40 años el\nOperador o el reactor? 😜",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898578993814647166",
+      "url": "https://x.com/dreidel1/status/1898578993814647166",
+      "views_count": "92",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 03:02:56 +0000 2025",
+      "conversation_id_str": "1898569709966209349",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "15540222",
+            "name": "Guillermo Rauch",
+            "screen_name": "rauchg",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "@rauchg Thank you Guille! ❤️",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898570169129001289",
+      "url": "https://x.com/dreidel1/status/1898570169129001289",
+      "views_count": "1002",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sun Mar 09 02:19:32 +0000 2025",
+      "conversation_id_str": "1898552103380844547",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "33189599",
+            "name": "Ivan Werning",
+            "screen_name": "IvanWerning",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 34,
+      "favorited": false,
+      "full_text": "@IvanWerning That dude is your friend so don’t pretend you don’t know me now. Too late. 😜",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898559247631147163",
+      "url": "https://x.com/dreidel1/status/1898559247631147163",
+      "views_count": "2215",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Sun Mar 09 02:04:04 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1342067071",
+            "name": "Netochka Nezvanova, Narnia state-affiliated media",
+            "screen_name": "NetNezva",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 118,
+      "favorited": false,
+      "full_text": "@NetNezva No se por qué pensas eso. Pero además para que querría venir a mentir y arruinar mi reputación? No tiene sentido. 🤷🏻‍♂️ \n\nNo entiendo por qué no creer en lo obvio: si estamos haciéndolo. \nBueno, cuando pase vas a estar feliz. Espero.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898555351982547387",
+      "url": "https://x.com/dreidel1/status/1898555351982547387",
+      "views_count": "5266",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 01:10:31 +0000 2025",
+      "conversation_id_str": "1898422368395309350",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1342067071",
+            "name": "Netochka Nezvanova, Narnia state-affiliated media",
+            "screen_name": "NetNezva",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "16492551",
+            "name": "Fede Sturzenegger",
+            "screen_name": "fedesturze",
+            "indices": [
+              10,
+              21
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@NetNezva @fedesturze Por qué haría eso? Que gano arruinando mi reputación? No puede ser que sea verdad?\nTe lo digo con onda eh. No bardo.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898541878963790260",
+      "url": "https://x.com/dreidel1/status/1898541878963790260",
+      "views_count": "94",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 22:55:46 +0000 2025",
+      "conversation_id_str": "1898505915046797616",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "781293",
+            "name": "Martin Varsavsky",
+            "screen_name": "martinvars",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 56,
+      "favorited": false,
+      "full_text": "@martinvars Gracias Martín! ❤️",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898507964811526199",
+      "url": "https://x.com/dreidel1/status/1898507964811526199",
+      "views_count": "2887",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 08 22:23:46 +0000 2025",
+      "conversation_id_str": "1898374838298828969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1440179839810433027",
+            "name": "Marcelo",
+            "screen_name": "marcelo4ok",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "4020276615",
+            "name": "Javier Milei",
+            "screen_name": "JMilei",
+            "indices": [
+              12,
+              19
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 31,
+      "favorited": false,
+      "full_text": "@marcelo4ok @JMilei Es verdad esto que decís? Te preguntaste?\nEl diseño es de 1986 o por ahí. \n\nSabes cuantos se hicieron? CERO. \n\nYa que somos cipayos, por qué no lo hicieron los gobiernos no cipayos? 🤔",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898499913161273571",
+      "url": "https://x.com/dreidel1/status/1898499913161273571",
+      "views_count": "1325",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 84,
+      "created_at": "Sat Mar 08 22:11:17 +0000 2025",
+      "conversation_id_str": "1898496770545770991",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 3984,
+      "favorited": false,
+      "full_text": "Otra cosa que me sorprende es la cantidad de gente que sale a putear por el plan nuclear.\n\nAlguien está en contra de que Argentina desarrolle su tecnología nuclear? Que al país le vaya bien?\n\nAlgunas de las quejas:\n“Ah no pero no hicieron x”\n“Ah pero esto otro no funciona”\n“Todavía hay gente pobre y haces esto” (justamente para ayudar a que no haya más)\n“Este Reidel es un pelotudo” (esta puede ser 😜)\n\nSi no teníamos este plan no íbamos a aprovechar esta oportunidad historica. Ahora si. \nNo íbamos a producir esta nueva tecnología. \n\nA los que se quejan \n\nAlguno realmente no quiere que Argentina sea líder en la tecnología que necesita el mundo?\n\nY además estamos a tiempo. Estamos empezando este proyecto cuando todavía podemos ganar esta carrera \n\nNo vi NI UNA QUEJA “esto es malo para el país”\n\nEntonces si son tan patriotas apoyen este proyecto. Es infantil estar en contra de todo. \n\nPD. Si apoyan el plan igual pueden seguir diciendo que soy un pelotudo. Trato hecho? 😂\n\nEl futuro es nuclear.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 21,
+      "reply_count": 349,
+      "retweet_count": 443,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898496770545770991",
+      "url": "https://x.com/dreidel1/status/1898496770545770991",
+      "views_count": "207035",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 19:31:47 +0000 2025",
+      "conversation_id_str": "1898374838298828969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "864206090854166531",
+            "name": "Esteban Mercol Echeverría",
+            "screen_name": "tebumercol",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "1744433040196026369",
+            "name": "livermoreargento",
+            "screen_name": "livermoreplus",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@tebumercol @livermoreplus Es exactamente así. 😍",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898456633014923370",
+      "url": "https://x.com/dreidel1/status/1898456633014923370",
+      "views_count": "107",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 19:15:09 +0000 2025",
+      "conversation_id_str": "1898433641631334526",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "164350783",
+            "name": "Alejandro",
+            "screen_name": "alejandroferron",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 240,
+      "favorited": false,
+      "full_text": "@alejandroferron Ok. Respondo a tu comentario. Eso que decís es una gansada y además ni siquiera se refiere al proyecto este. Por eso no contesto en general. \nSi tenes ganas de preguntar en serio sin chicanas boludas y falsas ahí vemos. Abrazo.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 9,
+      "retweet_count": 13,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898452447070138686",
+      "url": "https://x.com/dreidel1/status/1898452447070138686",
+      "views_count": "3500",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 19:13:14 +0000 2025",
+      "conversation_id_str": "1898433641631334526",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "185700126",
+            "name": "Ziva Kaiser",
+            "screen_name": "zivakaiser",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "82668138",
+            "name": "Patricia Rolon",
+            "screen_name": "patricia_rolon",
+            "indices": [
+              12,
+              27
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 20,
+      "favorited": false,
+      "full_text": "@zivakaiser @patricia_rolon No. Pero estudié en el Balseiro que nació gracias a Richter.\n😱",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898451964599681144",
+      "url": "https://x.com/dreidel1/status/1898451964599681144",
+      "views_count": "453",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 18:20:07 +0000 2025",
+      "conversation_id_str": "1898040234778010097",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "27011234",
+            "name": "Alejandro Rozitchner",
+            "screen_name": "AlejRozitchner",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 105,
+      "favorited": false,
+      "full_text": "Coincido: es un placer laburar con gente super capaz y con la camiseta puesta para sacar el país adelante. \n\nTe agrego un detalle que no es tan visible: son todos macanudos y hay la mejor onda en los equipos. Es un montón eso. \n\nEste el laburo más estimulante que tuve en mi vida. Estoy feliz.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898438597990064495",
+      "url": "https://x.com/dreidel1/status/1898438597990064495",
+      "views_count": "1956",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 18:14:41 +0000 2025",
+      "conversation_id_str": "1898433641631334526",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "82668138",
+            "name": "Patricia Rolon",
+            "screen_name": "patricia_rolon",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 63,
+      "favorited": false,
+      "full_text": "@patricia_rolon Los dos con R. Casualidad? 😜",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898437229552505222",
+      "url": "https://x.com/dreidel1/status/1898437229552505222",
+      "views_count": "2456",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 15,
+      "created_at": "Sat Mar 08 18:00:26 +0000 2025",
+      "conversation_id_str": "1898433641631334526",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1468,
+      "favorited": false,
+      "full_text": "He visto mucho comentario estilo “ya van a ver que en X no van a poder sacar Uranio! Ja!” (Son varios lugares X, pero el mensaje es el mismo)\n\nNo vamos a obligar a nadie. Si el lugar X no quiere minar Uranio, no minará Uranio. Facil. \n\nEso si, yo no entiendo por qué la población de X no querría beneficiarse enormemente por la explotación de un recurso que se está haciendo muchísimo más valioso. \n\nYo si fuera residente de X, mostraría mi apoyo ferviente. No conozco mucha gente a la que no le guste ganar la lotería. Pero si quieren destruir el billete ganador del premio por tener el mineral que todo el mundo va a querer… 🤷🏻‍♂️ \n\nPero esa es la lógica que hace que la Argentina no progrese. Mejor cambiar no?",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 14,
+      "reply_count": 79,
+      "retweet_count": 203,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898433641631334526",
+      "url": "https://x.com/dreidel1/status/1898433641631334526",
+      "views_count": "49069",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 17:42:23 +0000 2025",
+      "conversation_id_str": "1898422368395309350",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "16492551",
+            "name": "Fede Sturzenegger",
+            "screen_name": "fedesturze",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 34,
+      "favorited": false,
+      "full_text": "@fedesturze Gracias Fede!! ❤️",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898429099632206023",
+      "url": "https://x.com/dreidel1/status/1898429099632206023",
+      "views_count": "1788",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 17:30:53 +0000 2025",
+      "conversation_id_str": "1898425013067255981",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1067040987938258944",
+            "name": "totocaputo",
+            "screen_name": "LuisCaputoAR",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 72,
+      "favorited": false,
+      "full_text": "@LuisCaputoAR Gracias Toto!! ❤️",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898426209026908364",
+      "url": "https://x.com/dreidel1/status/1898426209026908364",
+      "views_count": "2680",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48800,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48800,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 8,
+      "created_at": "Sat Mar 08 16:31:47 +0000 2025",
+      "conversation_id_str": "1898374838298828969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 749,
+      "favorited": false,
+      "full_text": "Y le dedico este esfuerzo personal a mi papá. Estaría orgulloso y me mata que no esté aca para verlo. ❤️",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 28,
+      "retweet_count": 61,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898411334976639138",
+      "url": "https://x.com/dreidel1/status/1898411334976639138",
+      "views_count": "20003",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 8,
+      "created_at": "Sat Mar 08 16:31:01 +0000 2025",
+      "conversation_id_str": "1898374838298828969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 613,
+      "favorited": false,
+      "full_text": "La construcción del reactor empezará en dos años. Esto es parte del proceso estándar de desarrollo de una planta nuclear. \n\nSeguiremos todos los procesos con máximo rigor para que este proyecto sea un orgullo nacional para todos los Argentinos.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 11,
+      "retweet_count": 69,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898411141623161221",
+      "url": "https://x.com/dreidel1/status/1898411141623161221",
+      "views_count": "23185",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 26,
+      "created_at": "Sat Mar 08 15:58:41 +0000 2025",
+      "conversation_id_str": "1898374838298828969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1481,
+      "favorited": false,
+      "full_text": "El plan YA ESTÁ EN ACCIÓN \n\nLa primera fase del plan ya está en marcha: la instalación de cuatro módulos ACR-300 en el sitio de Atucha. Esta planta generará 1.2 GW de energía limpia y confiable, con la tecnología más moderna. El objetivo es que el primer reactor entre en funcionamiento en 2030.\n\nConstruir el primer reactor con esta tecnología de vanguardia en apenas cinco años es un desafío titánico.\n\nEste proyecto avanzará con la eficiencia del mejor sector privado internacional y la coordinación del Consejo Nuclear para que todos los participantes de este proceso entiendan que es máxima prioridad nacional.\n\nEl Estado elefante blanco quedó atrás. Aquí no hay burocracia asfixiante sino máximo esfuerzo. El proyecto estará 100% financiado con capital privado. \n\nIMPORTANTE: el proyecto YA ESTÁ EN MARCHA. Los ingenieros están trabajando y pronto vamos a comenzar con procesos tangibles (preparación del sitio, etc). La construcción comenzará inmediatamente después de completar esta fase. \n\nMenos discursos. Más acciones \n\nEl futuro es nuclear.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 16,
+      "reply_count": 65,
+      "retweet_count": 248,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898403005755449443",
+      "url": "https://x.com/dreidel1/status/1898403005755449443",
+      "views_count": "90675",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 379,
+      "created_at": "Sat Mar 08 14:06:46 +0000 2025",
+      "conversation_id_str": "1898374838298828969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "4020276615",
+            "name": "Javier Milei",
+            "screen_name": "JMilei",
+            "indices": [
+              104,
+              111
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4007,
+      "favorited": false,
+      "full_text": "*** Plan Nuclear Argentino ***\n\nEn este entrevista hablo sobre el Plan Nuclear Argentino. El presidente @JMilei me ha honrado con esta tarea que tendrá un gran impacto sobre el futuro del país.\n\nEl plan tiene muchas partes (desarrollo de nueva tecnología nuclear, exportación de reactores, minería de Uranio, etc). Acá hago un resumen de los puntos más importantes.\n\nQueremos que Argentina se convierta en un líder en tecnología nuclear. Tenemos un capital humano de excelencia. Vamos a aprovecharlo al máximo.\n\nEl futuro es nuclear.\n\nhttps://t.co/AmG2fkFgAZ",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 59,
+      "reply_count": 211,
+      "retweet_count": 770,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898374838298828969",
+      "url": "https://x.com/dreidel1/status/1898374838298828969",
+      "views_count": "681375",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 7,
+      "created_at": "Sat Mar 08 13:09:31 +0000 2025",
+      "conversation_id_str": "1898360430545846544",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "4020276615",
+            "name": "Javier Milei",
+            "screen_name": "JMilei",
+            "indices": [
+              24,
+              31
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1052,
+      "favorited": false,
+      "full_text": "Artículo del presidente @JMilei sobre el acuerdo con el FMI. \nMi entusiasmo con el rumbo del país aumenta cada día. \n\nLes recuerdo algo a todos: pasó poco más de un año y ya se han logrado varias cosas que eran “imposibles”\nSe viene ese país “imposible” que soñamos.",
+      "is_quote_status": true,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 5,
+      "reply_count": 86,
+      "retweet_count": 179,
+      "retweeted": false,
+      "user_id_str": "33620515",
+      "id_str": "1898360430545846544",
+      "url": "https://x.com/dreidel1/status/1898360430545846544",
+      "views_count": "53089",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Apr 20 18:59:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jefe del Consejo de Asesores del Presidente de Argentina /// Presidente del Consejo Nuclear Argentino",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/demianreidel",
+                "expanded_url": "http://linkedin.com/in/demianreidel",
+                "url": "https://t.co/5iLjIfNZud",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3582,
+        "followers_count": 48801,
+        "friends_count": 1607,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 193,
+        "location": "Argentina",
+        "media_count": 211,
+        "name": "Demian Reidel",
+        "normal_followers_count": 48801,
+        "pinned_tweet_ids_str": [
+          "1870257906702028978"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33620515/1737788175",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882850031050297344/akLGBRoR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dreidel1",
+        "statuses_count": 2238,
+        "translator_type": "none",
+        "url": "https://t.co/5iLjIfNZud",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0
+    ],
+    "2025-03-13": [
+      1,
+      2
+    ],
+    "2025-03-12": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "2025-03-11": [
+      7,
+      8,
+      9
+    ],
+    "2025-03-10": [
+      10,
+      11,
+      12
+    ],
+    "2025-03-09": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "2025-03-08": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ]
+  }
+}

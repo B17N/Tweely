@@ -1,0 +1,34 @@
+{
+  "username": "EIP Fun",
+  "analyzedAt": "2025-03-15T18:29:27.188Z",
+  "tweetCount": 1,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 03:10:29 +0000 2025",
+    "latestTweet": "Tue Mar 11 03:10:29 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @EIP Fun and provide a summary of what they mainly talked about in the past week:\n\n📰 EIP Fun Weekly #88: Social SBT, On-Chain Function Encoding, Gas Cost Repricing\n\nERC-7894: Introduces SocialSBT, a non-transferable ERC-721 token that assigns DAO voting power based on social contributions instead of wealth.\n\nEIP-7899: Introduces on-chain encoding for Solidity function return types, allowing contracts to dynamically determine return data structure for better interoperability.\n\nEIP-7901: Proposes adjusting Ethereum's gas costs to better reflect the computational effort required by smart contracts, rather than network-related costs.\n\nRead More: https://t.co/S5CaiZ1fN1"
+  },
+  "summary": "The main topics discussed in the tweets from @EIP Fun in the past week revolve around Ethereum Improvement Proposals (EIPs). Specifically, EIP-7894 introduces SocialSBT, a non-transferable ERC-721 token for assigning DAO voting power based on social contributions. EIP-7899 introduces on-chain encoding for Solidity function return types, enhancing interoperability. EIP-7901 proposes adjusting Ethereum's gas costs to accurately reflect smart contract computational efforts. Overall, the tweets focus on advancements in Ethereum technology and proposals for enhancing its functionality and efficiency.",
+  "keyTopics": [
+    "Proposals",
+    "EIP-7894",
+    "SocialSBT,",
+    "ERC-721",
+    "EIP-7899"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1899296845769347182",
+      "createdAt": "Tue Mar 11 03:10:29 +0000 2025",
+      "text": "📰 EIP Fun Weekly #88: Social SBT, On-Chain Function Encoding, Gas Cost Repricing\n\nERC-7894: Introdu..."
+    }
+  ]
+}

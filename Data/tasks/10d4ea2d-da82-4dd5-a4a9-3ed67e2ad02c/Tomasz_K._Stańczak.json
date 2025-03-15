@@ -1,0 +1,1564 @@
+{
+  "username": "Tomasz K. Stańczak",
+  "fetchedAt": "2025-03-15T15:55:31.360Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 13:59:36 +0000 2025",
+      "conversation_id_str": "1900324899299942454",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "775617331749724160",
+            "name": "PETER d/acc",
+            "screen_name": "0xpeternguyen",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@0xpeternguyen after the official start date",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1900547364164612253",
+      "url": "https://x.com/tkstanczak/status/1900547364164612253",
+      "views_count": "68",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13746,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13746,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:49:07 +0000 2025",
+      "conversation_id_str": "1900363531591303648",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 89,
+      "favorited": false,
+      "full_text": "After the whole day talking about agents on Ethereum during the d/acc day. Continue by building.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 9,
+      "retweet_count": 9,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1900363531591303648",
+      "url": "https://x.com/tkstanczak/status/1900363531591303648",
+      "views_count": "7408",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13746,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13746,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 24,
+      "created_at": "Thu Mar 13 23:18:21 +0000 2025",
+      "conversation_id_str": "1900325589573341692",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 601,
+      "favorited": false,
+      "full_text": "Execution layer client teams - do you think it would be all fine to target 100 Mgas blocks on L1 by the end of year?\n\nConsensus layer client teams - any challenges with reorgs?\n\nCommunity - bad or good idea?\n\nL2s - what are your Mgas/s (or equivalent) targets",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 11,
+      "reply_count": 55,
+      "retweet_count": 62,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1900325589573341692",
+      "url": "https://x.com/tkstanczak/status/1900325589573341692",
+      "views_count": "66329",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 16,
+      "created_at": "Thu Mar 13 23:15:36 +0000 2025",
+      "conversation_id_str": "1900324899299942454",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 201,
+      "favorited": false,
+      "full_text": "Many people want to hear more about the future, trade-offs, work being done around the L1 - L2 relarionship. Reading all the comments (calmly with open mind) under the Dankrad's tweet and the nested discussion will bring you some answers and some more questions.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 15,
+      "retweet_count": 12,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1900324899299942454",
+      "url": "https://x.com/tkstanczak/status/1900324899299942454",
+      "views_count": "13420",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 20:09:28 +0000 2025",
+      "conversation_id_str": "1900278057359024496",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lu.ma/g8suyqn9",
+            "expanded_url": "https://lu.ma/g8suyqn9",
+            "url": "https://t.co/gHn8nm19FK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "https://t.co/gHn8nm19FK",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1900278057359024496",
+      "url": "https://x.com/tkstanczak/status/1900278057359024496",
+      "views_count": "1590",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13746,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13746,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Tue Mar 11 16:03:15 +0000 2025",
+      "conversation_id_str": "1899491316448600398",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 102,
+      "favorited": false,
+      "full_text": "There is a lot of work related to institutional adoption but there is also lots of play and experimentation on ethereum. We build financial systems, we build governance systems, and we also build the world's Factorios - gardens, factories, space exploration, labs. Join teams building worlds with ethereum.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 8,
+      "retweet_count": 7,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1899491316448600398",
+      "url": "https://x.com/tkstanczak/status/1899491316448600398",
+      "views_count": "8603",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13746,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13746,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 15:08:15 +0000 2025",
+      "conversation_id_str": "1899468249672364340",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1814220920476856320",
+            "name": "Yeevolution",
+            "screen_name": "Yeethereum_",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Yeethereum_ Interop it back.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1899477475840921742",
+      "url": "https://x.com/tkstanczak/status/1899477475840921742",
+      "views_count": "68",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 14:31:35 +0000 2025",
+      "conversation_id_str": "1899468249672364340",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 77,
+      "favorited": false,
+      "full_text": "Strength of all L2s combined. Ethereum economy.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 7,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1899468249672364340",
+      "url": "https://x.com/tkstanczak/status/1899468249672364340",
+      "views_count": "4557",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Tue Mar 11 14:13:04 +0000 2025",
+      "conversation_id_str": "1899463590421360851",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1463071986515599362",
+            "name": "Starknet 🐺🐱",
+            "screen_name": "Starknet",
+            "indices": [
+              77,
+              86
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 195,
+      "favorited": false,
+      "full_text": "Building networks, building bridges. Ethereum Economy, innovations from L2s. @Starknet",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 12,
+      "retweet_count": 31,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1899463590421360851",
+      "url": "https://x.com/tkstanczak/status/1899463590421360851",
+      "views_count": "8309",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 13:30:11 +0000 2025",
+      "conversation_id_str": "1898593197120479648",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1004878081687891970",
+            "name": "Bullish Adam Jonas",
+            "screen_name": "BullAdamJonas",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "indices": [
+              15,
+              24
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@BullAdamJonas @elonmusk Should organize Olympics there",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898728022275940498",
+      "url": "https://x.com/tkstanczak/status/1898728022275940498",
+      "views_count": "78",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 13:26:36 +0000 2025",
+      "conversation_id_str": "1898691205937987907",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "186028018",
+            "name": "Péter Szilágyi",
+            "screen_name": "peter_szilagyi",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "@peter_szilagyi Because you made it too famous",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898727118143410366",
+      "url": "https://x.com/tkstanczak/status/1898727118143410366",
+      "views_count": "1014",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sun Mar 09 13:10:56 +0000 2025",
+      "conversation_id_str": "1898723175652831545",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1550614449144221696",
+            "name": "INFINITEYAY✨",
+            "screen_name": "infiniteyay",
+            "indices": [
+              50,
+              62
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 33,
+      "favorited": false,
+      "full_text": "Totally personal, not holding any, I did speak to @infiniteyay about projects together but have not even started yet as it is all explorations. Really like these. Onchain, AI, NFTs. Ethereum made it all possible.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898723175652831545",
+      "url": "https://x.com/tkstanczak/status/1898723175652831545",
+      "views_count": "5460",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 7,
+      "created_at": "Sun Mar 09 11:03:54 +0000 2025",
+      "conversation_id_str": "1898691205937987907",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 133,
+      "favorited": false,
+      "full_text": "How to build your local Ethereum community",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 11,
+      "retweet_count": 15,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898691205937987907",
+      "url": "https://x.com/tkstanczak/status/1898691205937987907",
+      "views_count": "35263",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 05:47:19 +0000 2025",
+      "conversation_id_str": "1898085467829977184",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "965587754208899072",
+            "name": "Taran",
+            "screen_name": "Taran_ss",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@Taran_ss It has a lot of great stories that have the favour aspect central to the character interactions.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898611535167045676",
+      "url": "https://x.com/tkstanczak/status/1898611535167045676",
+      "views_count": "383",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 05:46:01 +0000 2025",
+      "conversation_id_str": "1898085467829977184",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "en.m.wikipedia.org/wiki/Water_Mar…",
+            "expanded_url": "https://en.m.wikipedia.org/wiki/Water_Margin",
+            "url": "https://t.co/heoTBmG2VZ",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "965587754208899072",
+            "name": "Taran",
+            "screen_name": "Taran_ss",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@Taran_ss https://t.co/heoTBmG2VZ",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898611210817351996",
+      "url": "https://x.com/tkstanczak/status/1898611210817351996",
+      "views_count": "488",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 05:32:29 +0000 2025",
+      "conversation_id_str": "1898457400031474167",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1374707147506814984",
+            "name": "goyatty STONE🐦‍⬛🪨",
+            "screen_name": "goyatty",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "2329730512",
+            "name": "Tomasz K. Stańczak",
+            "screen_name": "tkstanczak",
+            "indices": [
+              9,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@goyatty @tkstanczak",
+      "is_quote_status": false,
+      "lang": "qam",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898607804329382051",
+      "url": "https://x.com/tkstanczak/status/1898607804329382051",
+      "views_count": "131",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 20:01:28 +0000 2025",
+      "conversation_id_str": "1898457400031474167",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1500664662169296896",
+            "name": "Weifarer.eth (🌎,💻)",
+            "screen_name": "theweifarer",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@theweifarer I haven't started yet, 17th or 24th",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898464104496468248",
+      "url": "https://x.com/tkstanczak/status/1898464104496468248",
+      "views_count": "242",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13746,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13746,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Sat Mar 08 19:34:50 +0000 2025",
+      "conversation_id_str": "1898457400031474167",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 237,
+      "favorited": false,
+      "full_text": "Me responding to your Telegram messages",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 9,
+      "retweet_count": 9,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898457400031474167",
+      "url": "https://x.com/tkstanczak/status/1898457400031474167",
+      "views_count": "13877",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13746,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13746,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 08 14:01:40 +0000 2025",
+      "conversation_id_str": "1892620439199088763",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "804029200315334656",
+            "name": "Georgios Konstantopoulos",
+            "screen_name": "gakonst",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "37930649",
+            "name": "yoav.eth",
+            "screen_name": "yoavw",
+            "indices": [
+              9,
+              15
+            ]
+          },
+          {
+            "id_str": "234558212",
+            "name": "frangio",
+            "screen_name": "frangio_",
+            "indices": [
+              16,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 24,
+      "favorited": false,
+      "full_text": "@gakonst @yoavw @frangio_ Public mempool is needed for CR (censorship resistance) and protection against traceability as well as provision of deniable source of origin. Public mempool is part of the CR tooling on Ethereum. It does not have to deliver any substantial part of the blockspace.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898373555319972092",
+      "url": "https://x.com/tkstanczak/status/1898373555319972092",
+      "views_count": "1015",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 11:33:14 +0000 2025",
+      "conversation_id_str": "1898334632187166790",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1749436785699028992",
+            "name": "Máté Henye",
+            "screen_name": "MtHenye",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@MtHenye Spontaneous",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898336202702369199",
+      "url": "https://x.com/tkstanczak/status/1898336202702369199",
+      "views_count": "281",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 5,
+      "created_at": "Sat Mar 08 11:27:00 +0000 2025",
+      "conversation_id_str": "1898334632187166790",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 204,
+      "favorited": false,
+      "full_text": "I will be in London this evening only if somehow someone wants to waste their Saturday evening for work.\n\nHappy to meet around 8 / 9 pm in Canary Wharf.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 14,
+      "retweet_count": 6,
+      "retweeted": false,
+      "user_id_str": "2329730512",
+      "id_str": "1898334632187166790",
+      "url": "https://x.com/tkstanczak/status/1898334632187166790",
+      "views_count": "12055",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Feb 07 08:36:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@nethermindeth, #Flashbots ⚡🤖, @OilerNetwork 🛢, Twinstake 👬🥞, @FortaNetwork Council, #Starknet Foundation",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5700,
+        "followers_count": 13745,
+        "friends_count": 1310,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 181,
+        "location": "",
+        "media_count": 104,
+        "name": "Tomasz K. Stańczak",
+        "normal_followers_count": 13745,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329730512/1626009517",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085263128521293827/yA7Jc_5u_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "tkstanczak",
+        "statuses_count": 3138,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1
+    ],
+    "2025-03-13": [
+      2,
+      3,
+      4
+    ],
+    "2025-03-11": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "2025-03-09": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "2025-03-08": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "username": "Ethereum Daily",
+  "analyzedAt": "2025-03-15T18:27:48.627Z",
+  "tweetCount": 130,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 19:46:03 +0000 2025",
+    "latestTweet": "Sat Mar 15 15:38:20 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Ethereum Daily and provide a summary of what they mainly talked about in the past week:\n\n@CupOJoseph @shannonewing Wild. This is why we ethereum\n\n@DeFi_Dad @ethereum @edge_pod @Etherealize_io Thanks! I saw the Vivek clip you shared recently and it was awesome. Will definitely check this one out too\n\n@Obol_Collective Dope video\n\n@mteamisloading Twas a banger and informative\n\n@archie0x @AdrianoFeria https://t.co/EeO7zPmIIS\n\n@BobbyThakkar @BrennerSpear That’s wild\n\n@arturoboracay @ethereum Thanks! 🙏🏻\n\n@mteamisloading @5dayoldburrito Fantastic thread ser 🙏\n\n@5dayoldburrito @fede_intern @therollupco @TrustlessState @thedailygwei +1\n\n@mteamisloading @tkstanczak @hwwonx 🐂\n\n@ASvanevik Bingo\n\n@real_philogy @big_tech_sux @lightclients Same tbh\n\n@colludingnode Preach ser 🗣️\n\n@econoar @ethdaily https://t.co/Hss13yxYOx\n\n@r_krasiuk ❤️‍🔥\n\n@pumatheuma @tkstanczak @hwwonx Love it ❤️‍🔥\n\nToday’s Ethereum Daily is available via a @ethereum guest thread!! Go check it out in the link below 👇 \n\nI’m INCREDIBLY hyped and grateful for the opportunity ❤️‍🔥\n\nI have something new cooking up for tomorrow’s issue as well…stay tuned👨🏻‍🍳\n\n@kyleArojas @AvailProject Lfg\n\n@BTCorGems This is phenomenal ❤️‍🔥\n\n@TimBeiko @notnotstorm 🙌\n\n💳 Wallets 💳\n\n@rainbowdotme \n\nhttps://t.co/mutYpkOW0w\n\n@Scroll_ZKP \n\nhttps://t.co/Zac6vTeBrH\n\n🗞️ L2's &amp; Rollups 🗞️\n\n@LineaBuild @1inch \n\nhttps://t.co/uPBWXwBSEc\n\n@zkp2p \n\nhttps://t.co/QwlqYUKoUL\n\n@gitcoin \n\nhttps://t.co/PTEK6PLxYw\n\n@Securitize @BlackRock \n\nhttps://t.co/w0eqhqVs6Q\n\n@MorphoLabs @compoundfinance @0xPolygon \n\nhttps://t.co/LD5ZKtuHb2\n\n@aave @defisebs \n\nhttps://t.co/vI2hBUfvWS\n\n📱 Apps  📱\n\n@SkyEcosystem @RuneKek \n\nhttps://t.co/saQjHFLsgS\n\n@fund_defi \n\nhttps://t.co/YeSvUaGPRI\n\n@EF_ESP \n\nhttps://t.co/1s8lLD0lp8\n\n@ETHGlobal \n\nhttps://t.co/ujMSJX9TVf\n\n@tkstanczak \n\nhttps://t.co/Wq3eF1DDiO\n\n🧱 L1 &amp; Core Development 🧱\n\n@TimBeiko @EthMagicians \n\nhttps://t.co/RmQNZCvaed\n\n🗣️ Take of the Day 🗣️\n\n@ethcoredevs_ \n\nhttps://t.co/v6S4XzHl0y\n\n~ Ethereum Daily ~ \nMarch 13th, 2025\n\n📅   Pectra Scheduled for 30 Days After New Hoodi Testnet Fork\n⛽️   100 Mgas Blocks on L1 Proposed by EF Director @tkstanczak \n🌤️   @SkyEcosystem Agent Framework Announced\n🏦   @aave Introduces Institutional DeFi Project, Horizon \n\nPlus Much More! \n🧵\n\nSame \n\nBut the good news is CT is all out of money and the next marginal buyer aren’t  all these concernooors. It’s institutions, stablecoins, and people plugging into defi directly via Coinbase and Robinhood. \n\nEthereum dominates in all those areas. We’re gunna graduate, kick ass, and leave CT in the trenches.\n\n@binji_x Fug yeah. \n\nWay to take action ser\n\n@binji_x Preach 🙌\n\n@terencechain @ethdaily This is the gwei\n\n@wagmiAlexander https://t.co/UfCRKYOGuZ\n\n💳 Wallets 💳\n\n@CoinbaseWallet @YieldNestFi \n\nhttps://t.co/IEYJVq7WFz\n\n@base \n\nhttps://t.co/KO27R22NuF\n\n@arbitrum \n\nhttps://t.co/vltnZMH0IX\n\n@zksync \n\nhttps://t.co/U2Db3kyOBh\n\n@0xPolygon @MercadoBitcoin \n\nhttps://t.co/sjpf5wWAba\n\n🗞️ Rollups &amp; L2's 🗞️\n\n@soneium \n\nhttps://t.co/JCjOUp202o\n\n@gizatechxyz @eigenlayer \n\nhttps://t.co/HboyTLx8jI\n\n@lagrangedev @eigenlayer \n\nhttps://t.co/0olOLcBAjM\n\n🌉 Infra 🌉\n\n@witnesschain @0xPredicate @eigenlayer \n\nhttps://t.co/Yi8FF5QeoJ\n\n@Securitize @redstone_defi \n\nhttps://t.co/qKoJTRibW1\n\n@veerabrowser @base \n\nhttps://t.co/akYfrOTSCl\n\n@ether_fi @CurveFinance \n\nhttps://t.co/v6D7p8uyFf\n\n@Cooopahtroopa @base \n\nhttps://t.co/aOkmwW9LnJ\n\n@Balancer @MorphoLabs \n\nhttps://t.co/k18kHH9HWf\n\n@zkp2p \n\nhttps://t.co/ER9FMZSHKe\n\n@gauntlet_xyz @MidasRWA @MorphoLabs \n\nhttps://t.co/DhxlhtllRU\n\n@sparkdotfi \n\nhttps://t.co/YTO0YiZ2Bb\n\n@Obol_Collective @swellnetworkio \n\nhttps://t.co/HuheBQv7ZI\n\n📱 Apps 📱\n\n@circle @aave @base \n\nhttps://t.co/qG78IG2vCS\n\n💰 $ETH 💰\n\n@solidintel_x @Fidelity @DigitalAssets \n\nhttps://t.co/IHr2tQeKk5\n\n@shahafn @drortirosh \n\nhttps://t.co/0PuqLCW2dF\n\n@kisaguncan @t1protocol @ethereumfndn \n\nhttps://t.co/bjagruCvHD\n\n@superstatefunds \n\nhttps://t.co/5b4IqwgU5V\n\n🧱 L1 &amp; Core Development 🧱\n\n@jih2nn @soispoke \n\nhttps://t.co/YGRTU746US\n\n~ Ethereum Daily ~\nMarch 12th, 2025\n\n💶   @circle 's EURC Live on @aave's @base Market\n💿   LINE mini-apps (200m MAU) Coming to @soneium \n🤝   @Obol_Collective integrated into @swellnetworkio \n🦸   @superstatefunds Industry Council Cohort #3 members announced\n\nAnd much more 🧵\n\n@ak47ink ❤️‍🔥\n\n@0xferg @Immutable @cz_binance Preach 🙌\n\n@crypto_condom God bless man 🫶\n\n@Awawat_Trades https://t.co/PsY0KCAxdu\n\n@matthuang 💯\n\n@HadickM 💯\n\n@VivekVentures @BowTiedBull Phenomenal post ser. Keep up the great work 🫡\n\n@aave @blockchainox \n\nhttps://t.co/eXSBM361w7\n\n@base @factcheckdotfun \n\nhttps://t.co/emcB63yPpy\n\n@arbitrum @Factor_fi \n\nhttps://t.co/yLRUyOIFiZ\n\n@AbstractChain @kabuxyz \n\nhttps://t.co/ytsRtGW1Kg\n\n@unichain \n\nhttps://t.co/sPbUHr3LM4\n\n🗞️ L2 &amp; Rollups 🗞️\n\n@base @PropyInc \n\nhttps://t.co/ZXKEjUSJlW\n\n@eigenlayer @hellomother_ai\n\nhttps://t.co/7zzZLI5g3B\n\n@SuccinctLabs \n\nhttps://t.co/IuTnj7q3gv\n\n🌉 Infra 🌉\n\n@SuccinctLabs @cantinaxyz \n https://t.co/4ovi4R9KDm\n\n@AerodromeFi @VelodromeFi \n\nhttps://t.co/Gfh2snAnSE\n\nhttps://t.co/CRgniL7gQI\n\n@apoorveth @swissknifexyz \n\nhttps://t.co/JkfVRf6x28\n\n@PancakeSwap \n\nhttps://t.co/CCWm5uinTV\n\n@gitcoin \n\nhttps://t.co/QoNIbscZOt\n\n📱 Apps 📱\n\n@circle \n\nhttps://t.co/iG9tEdPFyP\n\n@Etherealize_io \n\nhttps://t.co/lDXSZQ3TbM\n\n@cheekygorilla0x @ProtocolGuild @EthPrague \n\nhttps://t.co/hLWL6wPFio\n\n@remy_roy \n\nhttps://t.co/36014JBFyF\n\n@EF_ESP \n\nhttps://t.co/GV5RaUHKu9\n\n@vyperlang @Verifereum \n\nhttps://t.co/YDEtqUIwS3\n\n@fund_defi \n\nhttps://t.co/qOEkVILlUh\n\n@nixorokish \n\nhttps://t.co/SYSndlGted\n\n🧱 L1 &amp; Core Development 🧱\n\n@Fidelity @DigitalAssets \n\nhttps://t.co/r5bZQRIPn8\n\n~ Ethereum Daily ~\nMarch 11th, 2025\n\n🥩   @Fidelity Files To Add Staking to ETH ETF\n📜   IRS Defi Broker Rule Overturned\n🔵   @circle launches CCTP V2 \n🐍   Fully Verified Vyper Compiler by @vyperlang &amp; @Verifereum announced\n\nAnd much more 🧵\n\n@daddysether @arbitrum Congrats Ser\n\nMuch deserved!\n\n@Truemarketsorg @base Congrats! Available in the U.S? 🤓\n\n@ljxie @EthereumFilm Let’s goooo\n\nWhere the watch parties at 🥂\n\n@evabeylin @thehouseofweb3 @1stNoL @yanivgraph @theklineventure @graphprotocol @geobrowser @edgeandnode It really is such a great space. So glad they got to host Day 1 of ETHSF\n\n@AnnikaSays This is the gwei\n\n@hosseeb @qthomp\n\n💳 Wallets 💳\n\n@safe \n\nhttps://t.co/ddTwKw70C1\n\n@unichain @SubQueryNetwork \n\nhttps://t.co/k2xRJFdBiP\n\n@EclipseFND \n\nhttps://t.co/UyYJtJL2Yh\n\n@arbitrum @getrabbitapp \n\nhttps://t.co/QCic9TUyzy\n\n@fuel_network \n\nhttps://t.co/i3F79oxhgD\n\n@aztecnetwork \n\nhttps://t.co/tv8AAYAtav\n\nhttps://t.co/zBQM1asXDg\n\n@aztecnetwork @arbitrum @blocksense_ \n\nhttps://t.co/6AcJDWGMHH\n\n@Optimism \n\nhttps://t.co/8PChe7qJOm\n\n@base \n\nhttps://t.co/qhHTVga7UF\n\nhttps://t.co/leBg1zO6g5\n\n@base @bedrockonchain @CryptoEternalAI \n\nhttps://t.co/pdW54nQ7kc\n\nhttps://t.co/YLmD5MRj9R\n\n@LidoFinance @LiskHQ \n\nhttps://t.co/UnFQq96MBr\n\n@0xPolygon \n\nhttps://t.co/x8zmTNubOy\n\n@inkonchain \n\nhttps://t.co/fpNfKuTI2U\n\nhttps://t.co/Ri7g7KFrbh\n\n🗞️ Layer 2s and Rollups 🗞️\n\n@arbitrum @rarible \n\nhttps://t.co/Vq1FE6SC0j\n\n@PancakeSwap \n\nhttps://t.co/645cjG6o5O\n\n@gitcoin \n\nhttps://t.co/SM3T4FN7iE\n\n@AerodromeFi @coinbase \n\nhttps://t.co/rygOdZEQK1\n\n@LidoFinance \n\nhttps://t.co/8NAnhzJxeF\n\n@CoWSwap \n\nhttps://t.co/l9KJzKO3bX\n\n@EspressoSys \n\nhttps://t.co/J8VjJXKaEN\n\n@t2wrld\n\nhttps://t.co/6ZRVqUmEba\n\n📱 Apps &amp; Infra 🏗️\n\n@Immutable @GodsUnchained\n\nhttps://t.co/IlHzV063nj\n\n@ethismoneyHQ \n\nhttps://t.co/L8uRpQlVja\n\n🧱 L1 and Core Development 🧱\n\n@ethereum @ethPandaOps \n\nhttps://t.co/eDI6nR8be0\n\n~ Ethereum Daily ~\nMarch 10th, 2025\n\n🏁   Holesky Finalized\n⚔️   Ether Guild Announced\n🔴   @Optimism's OP Futarchy Contest Goes Live\n⛓️   Gods Unchained moves to @Immutable zkEVM\n\nAnd much more!\n\nEnjoy, Ethereans 🧵\n\n@1stNoL @thehouseofweb3 @VitalikButerin @tkstanczak @coinbase @base @geobrowser @graphprotocol @eigenfoundation @Etherealize_io @Calderaxyz @ElectricCapital @PanteraCapital @NexusLabs So cool! Congrats\n\n@ethismoneyHQ Heads up I got a 500 server error when I clicked on the blog post link.\n\n@ethismoneyHQ Love it ❤️‍🔥"
+  },
+  "summary": "The tweets from @Ethereum Daily in the past week mainly focused on discussions and updates related to Ethereum and its ecosystem. The topics included mentions of various projects, apps, wallets, L1 and core developments, L2s, rollups, infrastructure, and takeaways from the Ethereum community. The sentiment in the tweets is overwhelmingly positive, with users expressing excitement, appreciation, and support for the Ethereum community and its advancements. There is also a strong sense of collaboration and encouragement among users towards various projects and individuals within the Ethereum ecosystem.",
+  "keyTopics": [
+    "Daily",
+    "Ethereum",
+    "L2s,",
+    "There"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900934599141978593",
+      "createdAt": "Sat Mar 15 15:38:20 +0000 2025",
+      "text": "@CupOJoseph @shannonewing Wild. This is why we ethereum"
+    },
+    {
+      "index": 1,
+      "id": "1900926651913101440",
+      "createdAt": "Sat Mar 15 15:06:45 +0000 2025",
+      "text": "@DeFi_Dad @ethereum @edge_pod @Etherealize_io Thanks! I saw the Vivek clip you shared recently and i..."
+    },
+    {
+      "index": 2,
+      "id": "1900821677971587302",
+      "createdAt": "Sat Mar 15 08:09:38 +0000 2025",
+      "text": "@Obol_Collective Dope video"
+    },
+    {
+      "index": 3,
+      "id": "1900820831564919236",
+      "createdAt": "Sat Mar 15 08:06:16 +0000 2025",
+      "text": "@mteamisloading Twas a banger and informative"
+    },
+    {
+      "index": 4,
+      "id": "1900819209166483790",
+      "createdAt": "Sat Mar 15 07:59:49 +0000 2025",
+      "text": "@archie0x @AdrianoFeria https://t.co/EeO7zPmIIS"
+    },
+    {
+      "index": 5,
+      "id": "1900817610264244622",
+      "createdAt": "Sat Mar 15 07:53:28 +0000 2025",
+      "text": "@BobbyThakkar @BrennerSpear That’s wild"
+    },
+    {
+      "index": 6,
+      "id": "1900806639336489077",
+      "createdAt": "Sat Mar 15 07:09:52 +0000 2025",
+      "text": "@arturoboracay @ethereum Thanks! 🙏🏻"
+    },
+    {
+      "index": 7,
+      "id": "1900787195272708576",
+      "createdAt": "Sat Mar 15 05:52:36 +0000 2025",
+      "text": "@mteamisloading @5dayoldburrito Fantastic thread ser 🙏"
+    },
+    {
+      "index": 8,
+      "id": "1900786974887473622",
+      "createdAt": "Sat Mar 15 05:51:44 +0000 2025",
+      "text": "@5dayoldburrito @fede_intern @therollupco @TrustlessState @thedailygwei +1"
+    },
+    {
+      "index": 9,
+      "id": "1900774947665907902",
+      "createdAt": "Sat Mar 15 05:03:56 +0000 2025",
+      "text": "@mteamisloading @tkstanczak @hwwonx 🐂"
+    },
+    {
+      "index": 10,
+      "id": "1900773852260823336",
+      "createdAt": "Sat Mar 15 04:59:35 +0000 2025",
+      "text": "@ASvanevik Bingo"
+    },
+    {
+      "index": 11,
+      "id": "1900773196682400113",
+      "createdAt": "Sat Mar 15 04:56:59 +0000 2025",
+      "text": "@real_philogy @big_tech_sux @lightclients Same tbh"
+    },
+    {
+      "index": 12,
+      "id": "1900734831614742763",
+      "createdAt": "Sat Mar 15 02:24:32 +0000 2025",
+      "text": "@colludingnode Preach ser 🗣️"
+    },
+    {
+      "index": 13,
+      "id": "1900730307889995799",
+      "createdAt": "Sat Mar 15 02:06:33 +0000 2025",
+      "text": "@econoar @ethdaily https://t.co/Hss13yxYOx"
+    },
+    {
+      "index": 14,
+      "id": "1900725442476470680",
+      "createdAt": "Sat Mar 15 01:47:13 +0000 2025",
+      "text": "@r_krasiuk ❤️‍🔥"
+    },
+    {
+      "index": 15,
+      "id": "1900718569454960978",
+      "createdAt": "Sat Mar 15 01:19:55 +0000 2025",
+      "text": "@pumatheuma @tkstanczak @hwwonx Love it ❤️‍🔥"
+    },
+    {
+      "index": 16,
+      "id": "1900714523142877660",
+      "createdAt": "Sat Mar 15 01:03:50 +0000 2025",
+      "text": "Today’s Ethereum Daily is available via a @ethereum guest thread!! Go check it out in the link below..."
+    },
+    {
+      "index": 17,
+      "id": "1900546713871671416",
+      "createdAt": "Fri Mar 14 13:57:01 +0000 2025",
+      "text": "@kyleArojas @AvailProject Lfg"
+    },
+    {
+      "index": 18,
+      "id": "1900545084002877582",
+      "createdAt": "Fri Mar 14 13:50:33 +0000 2025",
+      "text": "@BTCorGems This is phenomenal ❤️‍🔥"
+    },
+    {
+      "index": 19,
+      "id": "1900431492846936112",
+      "createdAt": "Fri Mar 14 06:19:10 +0000 2025",
+      "text": "@TimBeiko @notnotstorm 🙌"
+    },
+    {
+      "index": 20,
+      "id": "1900428978978250796",
+      "createdAt": "Fri Mar 14 06:09:11 +0000 2025",
+      "text": "💳 Wallets 💳\n\n@rainbowdotme \n\nhttps://t.co/mutYpkOW0w"
+    },
+    {
+      "index": 21,
+      "id": "1900428977334084054",
+      "createdAt": "Fri Mar 14 06:09:11 +0000 2025",
+      "text": "@Scroll_ZKP \n\nhttps://t.co/Zac6vTeBrH"
+    },
+    {
+      "index": 22,
+      "id": "1900428975266009215",
+      "createdAt": "Fri Mar 14 06:09:10 +0000 2025",
+      "text": "🗞️ L2's &amp; Rollups 🗞️\n\n@LineaBuild @1inch \n\nhttps://t.co/uPBWXwBSEc"
+    },
+    {
+      "index": 23,
+      "id": "1900428973168873593",
+      "createdAt": "Fri Mar 14 06:09:10 +0000 2025",
+      "text": "@zkp2p \n\nhttps://t.co/QwlqYUKoUL"
+    },
+    {
+      "index": 24,
+      "id": "1900428971117822452",
+      "createdAt": "Fri Mar 14 06:09:09 +0000 2025",
+      "text": "@gitcoin \n\nhttps://t.co/PTEK6PLxYw"
+    },
+    {
+      "index": 25,
+      "id": "1900428969310367746",
+      "createdAt": "Fri Mar 14 06:09:09 +0000 2025",
+      "text": "@Securitize @BlackRock \n\nhttps://t.co/w0eqhqVs6Q"
+    },
+    {
+      "index": 26,
+      "id": "1900428967586455615",
+      "createdAt": "Fri Mar 14 06:09:08 +0000 2025",
+      "text": "@MorphoLabs @compoundfinance @0xPolygon \n\nhttps://t.co/LD5ZKtuHb2"
+    },
+    {
+      "index": 27,
+      "id": "1900428965782970502",
+      "createdAt": "Fri Mar 14 06:09:08 +0000 2025",
+      "text": "@aave @defisebs \n\nhttps://t.co/vI2hBUfvWS"
+    },
+    {
+      "index": 28,
+      "id": "1900428963912310861",
+      "createdAt": "Fri Mar 14 06:09:07 +0000 2025",
+      "text": "📱 Apps  📱\n\n@SkyEcosystem @RuneKek \n\nhttps://t.co/saQjHFLsgS"
+    },
+    {
+      "index": 29,
+      "id": "1900428962045874589",
+      "createdAt": "Fri Mar 14 06:09:07 +0000 2025",
+      "text": "@fund_defi \n\nhttps://t.co/YeSvUaGPRI"
+    },
+    {
+      "index": 30,
+      "id": "1900428960174833860",
+      "createdAt": "Fri Mar 14 06:09:07 +0000 2025",
+      "text": "@EF_ESP \n\nhttps://t.co/1s8lLD0lp8"
+    },
+    {
+      "index": 31,
+      "id": "1900428958212252062",
+      "createdAt": "Fri Mar 14 06:09:06 +0000 2025",
+      "text": "@ETHGlobal \n\nhttps://t.co/ujMSJX9TVf"
+    },
+    {
+      "index": 32,
+      "id": "1900428956408701021",
+      "createdAt": "Fri Mar 14 06:09:06 +0000 2025",
+      "text": "@tkstanczak \n\nhttps://t.co/Wq3eF1DDiO"
+    },
+    {
+      "index": 33,
+      "id": "1900428954634510498",
+      "createdAt": "Fri Mar 14 06:09:05 +0000 2025",
+      "text": "🧱 L1 &amp; Core Development 🧱\n\n@TimBeiko @EthMagicians \n\nhttps://t.co/RmQNZCvaed"
+    },
+    {
+      "index": 34,
+      "id": "1900428952667124134",
+      "createdAt": "Fri Mar 14 06:09:05 +0000 2025",
+      "text": "🗣️ Take of the Day 🗣️\n\n@ethcoredevs_ \n\nhttps://t.co/v6S4XzHl0y"
+    },
+    {
+      "index": 35,
+      "id": "1900428950893191649",
+      "createdAt": "Fri Mar 14 06:09:04 +0000 2025",
+      "text": "~ Ethereum Daily ~ \nMarch 13th, 2025\n\n📅   Pectra Scheduled for 30 Days After New Hoodi Testnet Fork..."
+    },
+    {
+      "index": 36,
+      "id": "1900417522798866530",
+      "createdAt": "Fri Mar 14 05:23:40 +0000 2025",
+      "text": "Same \n\nBut the good news is CT is all out of money and the next marginal buyer aren’t  all these con..."
+    },
+    {
+      "index": 37,
+      "id": "1900414676808429865",
+      "createdAt": "Fri Mar 14 05:12:21 +0000 2025",
+      "text": "@binji_x Fug yeah. \n\nWay to take action ser"
+    },
+    {
+      "index": 38,
+      "id": "1900414463213461616",
+      "createdAt": "Fri Mar 14 05:11:30 +0000 2025",
+      "text": "@binji_x Preach 🙌"
+    },
+    {
+      "index": 39,
+      "id": "1900410040135410189",
+      "createdAt": "Fri Mar 14 04:53:56 +0000 2025",
+      "text": "@terencechain @ethdaily This is the gwei"
+    },
+    {
+      "index": 40,
+      "id": "1900215617845973412",
+      "createdAt": "Thu Mar 13 16:01:22 +0000 2025",
+      "text": "@wagmiAlexander https://t.co/UfCRKYOGuZ"
+    },
+    {
+      "index": 41,
+      "id": "1899997212287131663",
+      "createdAt": "Thu Mar 13 01:33:30 +0000 2025",
+      "text": "💳 Wallets 💳\n\n@CoinbaseWallet @YieldNestFi \n\nhttps://t.co/IEYJVq7WFz"
+    },
+    {
+      "index": 42,
+      "id": "1899997209774657979",
+      "createdAt": "Thu Mar 13 01:33:29 +0000 2025",
+      "text": "@base \n\nhttps://t.co/KO27R22NuF"
+    },
+    {
+      "index": 43,
+      "id": "1899997207874724068",
+      "createdAt": "Thu Mar 13 01:33:29 +0000 2025",
+      "text": "@arbitrum \n\nhttps://t.co/vltnZMH0IX"
+    },
+    {
+      "index": 44,
+      "id": "1899997205995675765",
+      "createdAt": "Thu Mar 13 01:33:28 +0000 2025",
+      "text": "@zksync \n\nhttps://t.co/U2Db3kyOBh"
+    },
+    {
+      "index": 45,
+      "id": "1899997204028559717",
+      "createdAt": "Thu Mar 13 01:33:28 +0000 2025",
+      "text": "@0xPolygon @MercadoBitcoin \n\nhttps://t.co/sjpf5wWAba"
+    },
+    {
+      "index": 46,
+      "id": "1899997202094981600",
+      "createdAt": "Thu Mar 13 01:33:27 +0000 2025",
+      "text": "🗞️ Rollups &amp; L2's 🗞️\n\n@soneium \n\nhttps://t.co/JCjOUp202o"
+    },
+    {
+      "index": 47,
+      "id": "1899997200161341893",
+      "createdAt": "Thu Mar 13 01:33:27 +0000 2025",
+      "text": "@gizatechxyz @eigenlayer \n\nhttps://t.co/HboyTLx8jI"
+    },
+    {
+      "index": 48,
+      "id": "1899997198093607229",
+      "createdAt": "Thu Mar 13 01:33:26 +0000 2025",
+      "text": "@lagrangedev @eigenlayer \n\nhttps://t.co/0olOLcBAjM"
+    },
+    {
+      "index": 49,
+      "id": "1899997196076077065",
+      "createdAt": "Thu Mar 13 01:33:26 +0000 2025",
+      "text": "🌉 Infra 🌉\n\n@witnesschain @0xPredicate @eigenlayer \n\nhttps://t.co/Yi8FF5QeoJ"
+    },
+    {
+      "index": 50,
+      "id": "1899997191839850498",
+      "createdAt": "Thu Mar 13 01:33:25 +0000 2025",
+      "text": "@Securitize @redstone_defi \n\nhttps://t.co/qKoJTRibW1"
+    },
+    {
+      "index": 51,
+      "id": "1899997189600112970",
+      "createdAt": "Thu Mar 13 01:33:24 +0000 2025",
+      "text": "@veerabrowser @base \n\nhttps://t.co/akYfrOTSCl"
+    },
+    {
+      "index": 52,
+      "id": "1899997187469373849",
+      "createdAt": "Thu Mar 13 01:33:24 +0000 2025",
+      "text": "@ether_fi @CurveFinance \n\nhttps://t.co/v6D7p8uyFf"
+    },
+    {
+      "index": 53,
+      "id": "1899997185489703188",
+      "createdAt": "Thu Mar 13 01:33:23 +0000 2025",
+      "text": "@Cooopahtroopa @base \n\nhttps://t.co/aOkmwW9LnJ"
+    },
+    {
+      "index": 54,
+      "id": "1899997183522594822",
+      "createdAt": "Thu Mar 13 01:33:23 +0000 2025",
+      "text": "@Balancer @MorphoLabs \n\nhttps://t.co/k18kHH9HWf"
+    },
+    {
+      "index": 55,
+      "id": "1899997181521842233",
+      "createdAt": "Thu Mar 13 01:33:22 +0000 2025",
+      "text": "@zkp2p \n\nhttps://t.co/ER9FMZSHKe"
+    },
+    {
+      "index": 56,
+      "id": "1899997179600834857",
+      "createdAt": "Thu Mar 13 01:33:22 +0000 2025",
+      "text": "@gauntlet_xyz @MidasRWA @MorphoLabs \n\nhttps://t.co/DhxlhtllRU"
+    },
+    {
+      "index": 57,
+      "id": "1899997177608626421",
+      "createdAt": "Thu Mar 13 01:33:22 +0000 2025",
+      "text": "@sparkdotfi \n\nhttps://t.co/YTO0YiZ2Bb"
+    },
+    {
+      "index": 58,
+      "id": "1899997175490486484",
+      "createdAt": "Thu Mar 13 01:33:21 +0000 2025",
+      "text": "@Obol_Collective @swellnetworkio \n\nhttps://t.co/HuheBQv7ZI"
+    },
+    {
+      "index": 59,
+      "id": "1899997173502411260",
+      "createdAt": "Thu Mar 13 01:33:21 +0000 2025",
+      "text": "📱 Apps 📱\n\n@circle @aave @base \n\nhttps://t.co/qG78IG2vCS"
+    },
+    {
+      "index": 60,
+      "id": "1899997171438805096",
+      "createdAt": "Thu Mar 13 01:33:20 +0000 2025",
+      "text": "💰 $ETH 💰\n\n@solidintel_x @Fidelity @DigitalAssets \n\nhttps://t.co/IHr2tQeKk5"
+    },
+    {
+      "index": 61,
+      "id": "1899997169517814072",
+      "createdAt": "Thu Mar 13 01:33:20 +0000 2025",
+      "text": "@shahafn @drortirosh \n\nhttps://t.co/0PuqLCW2dF"
+    },
+    {
+      "index": 62,
+      "id": "1899997167584239678",
+      "createdAt": "Thu Mar 13 01:33:19 +0000 2025",
+      "text": "@kisaguncan @t1protocol @ethereumfndn \n\nhttps://t.co/bjagruCvHD"
+    },
+    {
+      "index": 63,
+      "id": "1899997165499584547",
+      "createdAt": "Thu Mar 13 01:33:19 +0000 2025",
+      "text": "@superstatefunds \n\nhttps://t.co/5b4IqwgU5V"
+    },
+    {
+      "index": 64,
+      "id": "1899997163473821742",
+      "createdAt": "Thu Mar 13 01:33:18 +0000 2025",
+      "text": "🧱 L1 &amp; Core Development 🧱\n\n@jih2nn @soispoke \n\nhttps://t.co/YGRTU746US"
+    },
+    {
+      "index": 65,
+      "id": "1899997161766703225",
+      "createdAt": "Thu Mar 13 01:33:18 +0000 2025",
+      "text": "~ Ethereum Daily ~\nMarch 12th, 2025\n\n💶   @circle 's EURC Live on @aave's @base Market\n💿   LINE min..."
+    },
+    {
+      "index": 66,
+      "id": "1899993866583097772",
+      "createdAt": "Thu Mar 13 01:20:12 +0000 2025",
+      "text": "@ak47ink ❤️‍🔥"
+    },
+    {
+      "index": 67,
+      "id": "1899962896828031258",
+      "createdAt": "Wed Mar 12 23:17:08 +0000 2025",
+      "text": "@0xferg @Immutable @cz_binance Preach 🙌"
+    },
+    {
+      "index": 68,
+      "id": "1899944958012121488",
+      "createdAt": "Wed Mar 12 22:05:51 +0000 2025",
+      "text": "@crypto_condom God bless man 🫶"
+    },
+    {
+      "index": 69,
+      "id": "1899734079651910086",
+      "createdAt": "Wed Mar 12 08:07:54 +0000 2025",
+      "text": "@Awawat_Trades https://t.co/PsY0KCAxdu"
+    },
+    {
+      "index": 70,
+      "id": "1899726073132396820",
+      "createdAt": "Wed Mar 12 07:36:05 +0000 2025",
+      "text": "@matthuang 💯"
+    },
+    {
+      "index": 71,
+      "id": "1899723900830843002",
+      "createdAt": "Wed Mar 12 07:27:27 +0000 2025",
+      "text": "@HadickM 💯"
+    },
+    {
+      "index": 72,
+      "id": "1899688983917187229",
+      "createdAt": "Wed Mar 12 05:08:42 +0000 2025",
+      "text": "@VivekVentures @BowTiedBull Phenomenal post ser. Keep up the great work 🫡"
+    },
+    {
+      "index": 73,
+      "id": "1899677978629751266",
+      "createdAt": "Wed Mar 12 04:24:59 +0000 2025",
+      "text": "@aave @blockchainox \n\nhttps://t.co/eXSBM361w7"
+    },
+    {
+      "index": 74,
+      "id": "1899677976561611146",
+      "createdAt": "Wed Mar 12 04:24:58 +0000 2025",
+      "text": "@base @factcheckdotfun \n\nhttps://t.co/emcB63yPpy"
+    },
+    {
+      "index": 75,
+      "id": "1899677974066082235",
+      "createdAt": "Wed Mar 12 04:24:57 +0000 2025",
+      "text": "@arbitrum @Factor_fi \n\nhttps://t.co/yLRUyOIFiZ"
+    },
+    {
+      "index": 76,
+      "id": "1899677971809751287",
+      "createdAt": "Wed Mar 12 04:24:57 +0000 2025",
+      "text": "@AbstractChain @kabuxyz \n\nhttps://t.co/ytsRtGW1Kg"
+    },
+    {
+      "index": 77,
+      "id": "1899677969624481972",
+      "createdAt": "Wed Mar 12 04:24:56 +0000 2025",
+      "text": "@unichain \n\nhttps://t.co/sPbUHr3LM4"
+    },
+    {
+      "index": 78,
+      "id": "1899677967485469061",
+      "createdAt": "Wed Mar 12 04:24:56 +0000 2025",
+      "text": "🗞️ L2 &amp; Rollups 🗞️\n\n@base @PropyInc \n\nhttps://t.co/ZXKEjUSJlW"
+    },
+    {
+      "index": 79,
+      "id": "1899677965337891023",
+      "createdAt": "Wed Mar 12 04:24:55 +0000 2025",
+      "text": "@eigenlayer @hellomother_ai\n\nhttps://t.co/7zzZLI5g3B"
+    },
+    {
+      "index": 80,
+      "id": "1899677963236585847",
+      "createdAt": "Wed Mar 12 04:24:55 +0000 2025",
+      "text": "@SuccinctLabs \n\nhttps://t.co/IuTnj7q3gv"
+    },
+    {
+      "index": 81,
+      "id": "1899677960468156530",
+      "createdAt": "Wed Mar 12 04:24:54 +0000 2025",
+      "text": "🌉 Infra 🌉\n\n@SuccinctLabs @cantinaxyz \n https://t.co/4ovi4R9KDm"
+    },
+    {
+      "index": 82,
+      "id": "1899677958111187277",
+      "createdAt": "Wed Mar 12 04:24:54 +0000 2025",
+      "text": "@AerodromeFi @VelodromeFi \n\nhttps://t.co/Gfh2snAnSE\n\nhttps://t.co/CRgniL7gQI"
+    },
+    {
+      "index": 83,
+      "id": "1899677955972051169",
+      "createdAt": "Wed Mar 12 04:24:53 +0000 2025",
+      "text": "@apoorveth @swissknifexyz \n\nhttps://t.co/JkfVRf6x28"
+    },
+    {
+      "index": 84,
+      "id": "1899677953522278574",
+      "createdAt": "Wed Mar 12 04:24:53 +0000 2025",
+      "text": "@PancakeSwap \n\nhttps://t.co/CCWm5uinTV"
+    },
+    {
+      "index": 85,
+      "id": "1899677951450636781",
+      "createdAt": "Wed Mar 12 04:24:52 +0000 2025",
+      "text": "@gitcoin \n\nhttps://t.co/QoNIbscZOt"
+    },
+    {
+      "index": 86,
+      "id": "1899677949290233880",
+      "createdAt": "Wed Mar 12 04:24:52 +0000 2025",
+      "text": "📱 Apps 📱\n\n@circle \n\nhttps://t.co/iG9tEdPFyP"
+    },
+    {
+      "index": 87,
+      "id": "1899677946086150437",
+      "createdAt": "Wed Mar 12 04:24:51 +0000 2025",
+      "text": "@Etherealize_io \n\nhttps://t.co/lDXSZQ3TbM"
+    },
+    {
+      "index": 88,
+      "id": "1899677944014131708",
+      "createdAt": "Wed Mar 12 04:24:50 +0000 2025",
+      "text": "@cheekygorilla0x @ProtocolGuild @EthPrague \n\nhttps://t.co/hLWL6wPFio"
+    },
+    {
+      "index": 89,
+      "id": "1899677941866660197",
+      "createdAt": "Wed Mar 12 04:24:50 +0000 2025",
+      "text": "@remy_roy \n\nhttps://t.co/36014JBFyF"
+    },
+    {
+      "index": 90,
+      "id": "1899677939702341712",
+      "createdAt": "Wed Mar 12 04:24:49 +0000 2025",
+      "text": "@EF_ESP \n\nhttps://t.co/GV5RaUHKu9"
+    },
+    {
+      "index": 91,
+      "id": "1899677937399734327",
+      "createdAt": "Wed Mar 12 04:24:49 +0000 2025",
+      "text": "@vyperlang @Verifereum \n\nhttps://t.co/YDEtqUIwS3"
+    },
+    {
+      "index": 92,
+      "id": "1899677935319285829",
+      "createdAt": "Wed Mar 12 04:24:48 +0000 2025",
+      "text": "@fund_defi \n\nhttps://t.co/qOEkVILlUh"
+    },
+    {
+      "index": 93,
+      "id": "1899677933205402031",
+      "createdAt": "Wed Mar 12 04:24:48 +0000 2025",
+      "text": "@nixorokish \n\nhttps://t.co/SYSndlGted"
+    },
+    {
+      "index": 94,
+      "id": "1899677931238211813",
+      "createdAt": "Wed Mar 12 04:24:47 +0000 2025",
+      "text": "🧱 L1 &amp; Core Development 🧱\n\n@Fidelity @DigitalAssets \n\nhttps://t.co/r5bZQRIPn8"
+    },
+    {
+      "index": 95,
+      "id": "1899677928709124305",
+      "createdAt": "Wed Mar 12 04:24:47 +0000 2025",
+      "text": "~ Ethereum Daily ~\nMarch 11th, 2025\n\n🥩   @Fidelity Files To Add Staking to ETH ETF\n📜   IRS Defi Br..."
+    },
+    {
+      "index": 96,
+      "id": "1899654689043657082",
+      "createdAt": "Wed Mar 12 02:52:26 +0000 2025",
+      "text": "@daddysether @arbitrum Congrats Ser\n\nMuch deserved!"
+    },
+    {
+      "index": 97,
+      "id": "1899458268113539354",
+      "createdAt": "Tue Mar 11 13:51:56 +0000 2025",
+      "text": "@Truemarketsorg @base Congrats! Available in the U.S? 🤓"
+    },
+    {
+      "index": 98,
+      "id": "1899457212483014980",
+      "createdAt": "Tue Mar 11 13:47:44 +0000 2025",
+      "text": "@ljxie @EthereumFilm Let’s goooo\n\nWhere the watch parties at 🥂"
+    },
+    {
+      "index": 99,
+      "id": "1899455551219945734",
+      "createdAt": "Tue Mar 11 13:41:08 +0000 2025",
+      "text": "@evabeylin @thehouseofweb3 @1stNoL @yanivgraph @theklineventure @graphprotocol @geobrowser @edgeandn..."
+    },
+    {
+      "index": 100,
+      "id": "1899339145983533424",
+      "createdAt": "Tue Mar 11 05:58:35 +0000 2025",
+      "text": "@AnnikaSays This is the gwei"
+    },
+    {
+      "index": 101,
+      "id": "1899338258817138749",
+      "createdAt": "Tue Mar 11 05:55:03 +0000 2025",
+      "text": "@hosseeb @qthomp"
+    },
+    {
+      "index": 102,
+      "id": "1899327965852574002",
+      "createdAt": "Tue Mar 11 05:14:09 +0000 2025",
+      "text": "💳 Wallets 💳\n\n@safe \n\nhttps://t.co/ddTwKw70C1"
+    },
+    {
+      "index": 103,
+      "id": "1899327963440529438",
+      "createdAt": "Tue Mar 11 05:14:08 +0000 2025",
+      "text": "@unichain @SubQueryNetwork \n\nhttps://t.co/k2xRJFdBiP"
+    },
+    {
+      "index": 104,
+      "id": "1899327960903307482",
+      "createdAt": "Tue Mar 11 05:14:08 +0000 2025",
+      "text": "@EclipseFND \n\nhttps://t.co/UyYJtJL2Yh"
+    },
+    {
+      "index": 105,
+      "id": "1899327958759973149",
+      "createdAt": "Tue Mar 11 05:14:07 +0000 2025",
+      "text": "@arbitrum @getrabbitapp \n\nhttps://t.co/QCic9TUyzy"
+    },
+    {
+      "index": 106,
+      "id": "1899327956251472272",
+      "createdAt": "Tue Mar 11 05:14:07 +0000 2025",
+      "text": "@fuel_network \n\nhttps://t.co/i3F79oxhgD"
+    },
+    {
+      "index": 107,
+      "id": "1899327954116870210",
+      "createdAt": "Tue Mar 11 05:14:06 +0000 2025",
+      "text": "@aztecnetwork \n\nhttps://t.co/tv8AAYAtav\n\nhttps://t.co/zBQM1asXDg"
+    },
+    {
+      "index": 108,
+      "id": "1899327951893881255",
+      "createdAt": "Tue Mar 11 05:14:06 +0000 2025",
+      "text": "@aztecnetwork @arbitrum @blocksense_ \n\nhttps://t.co/6AcJDWGMHH"
+    },
+    {
+      "index": 109,
+      "id": "1899327949729591408",
+      "createdAt": "Tue Mar 11 05:14:05 +0000 2025",
+      "text": "@Optimism \n\nhttps://t.co/8PChe7qJOm"
+    },
+    {
+      "index": 110,
+      "id": "1899327947581857881",
+      "createdAt": "Tue Mar 11 05:14:05 +0000 2025",
+      "text": "@base \n\nhttps://t.co/qhHTVga7UF\n\nhttps://t.co/leBg1zO6g5"
+    },
+    {
+      "index": 111,
+      "id": "1899327945430446469",
+      "createdAt": "Tue Mar 11 05:14:04 +0000 2025",
+      "text": "@base @bedrockonchain @CryptoEternalAI \n\nhttps://t.co/pdW54nQ7kc\n\nhttps://t.co/YLmD5MRj9R"
+    },
+    {
+      "index": 112,
+      "id": "1899327943341641952",
+      "createdAt": "Tue Mar 11 05:14:04 +0000 2025",
+      "text": "@LidoFinance @LiskHQ \n\nhttps://t.co/UnFQq96MBr"
+    },
+    {
+      "index": 113,
+      "id": "1899327940833292768",
+      "createdAt": "Tue Mar 11 05:14:03 +0000 2025",
+      "text": "@0xPolygon \n\nhttps://t.co/x8zmTNubOy"
+    },
+    {
+      "index": 114,
+      "id": "1899327938530779561",
+      "createdAt": "Tue Mar 11 05:14:03 +0000 2025",
+      "text": "@inkonchain \n\nhttps://t.co/fpNfKuTI2U\n\nhttps://t.co/Ri7g7KFrbh"
+    },
+    {
+      "index": 115,
+      "id": "1899327936416899205",
+      "createdAt": "Tue Mar 11 05:14:02 +0000 2025",
+      "text": "🗞️ Layer 2s and Rollups 🗞️\n\n@arbitrum @rarible \n\nhttps://t.co/Vq1FE6SC0j"
+    },
+    {
+      "index": 116,
+      "id": "1899327934244237523",
+      "createdAt": "Tue Mar 11 05:14:01 +0000 2025",
+      "text": "@PancakeSwap \n\nhttps://t.co/645cjG6o5O"
+    },
+    {
+      "index": 117,
+      "id": "1899327931891187884",
+      "createdAt": "Tue Mar 11 05:14:01 +0000 2025",
+      "text": "@gitcoin \n\nhttps://t.co/SM3T4FN7iE"
+    },
+    {
+      "index": 118,
+      "id": "1899327929630245083",
+      "createdAt": "Tue Mar 11 05:14:00 +0000 2025",
+      "text": "@AerodromeFi @coinbase \n\nhttps://t.co/rygOdZEQK1"
+    },
+    {
+      "index": 119,
+      "id": "1899327927352996214",
+      "createdAt": "Tue Mar 11 05:14:00 +0000 2025",
+      "text": "@LidoFinance \n\nhttps://t.co/8NAnhzJxeF"
+    },
+    {
+      "index": 120,
+      "id": "1899327925276860638",
+      "createdAt": "Tue Mar 11 05:13:59 +0000 2025",
+      "text": "@CoWSwap \n\nhttps://t.co/l9KJzKO3bX"
+    },
+    {
+      "index": 121,
+      "id": "1899327923070636518",
+      "createdAt": "Tue Mar 11 05:13:59 +0000 2025",
+      "text": "@EspressoSys \n\nhttps://t.co/J8VjJXKaEN"
+    },
+    {
+      "index": 122,
+      "id": "1899327920818344190",
+      "createdAt": "Tue Mar 11 05:13:58 +0000 2025",
+      "text": "@t2wrld\n\nhttps://t.co/6ZRVqUmEba"
+    },
+    {
+      "index": 123,
+      "id": "1899327918825959533",
+      "createdAt": "Tue Mar 11 05:13:58 +0000 2025",
+      "text": "📱 Apps &amp; Infra 🏗️\n\n@Immutable @GodsUnchained\n\nhttps://t.co/IlHzV063nj"
+    },
+    {
+      "index": 124,
+      "id": "1899327916367810694",
+      "createdAt": "Tue Mar 11 05:13:57 +0000 2025",
+      "text": "@ethismoneyHQ \n\nhttps://t.co/L8uRpQlVja"
+    },
+    {
+      "index": 125,
+      "id": "1899327912979132707",
+      "createdAt": "Tue Mar 11 05:13:56 +0000 2025",
+      "text": "🧱 L1 and Core Development 🧱\n\n@ethereum @ethPandaOps \n\nhttps://t.co/eDI6nR8be0"
+    },
+    {
+      "index": 126,
+      "id": "1899327910181519401",
+      "createdAt": "Tue Mar 11 05:13:56 +0000 2025",
+      "text": "~ Ethereum Daily ~\nMarch 10th, 2025\n\n🏁   Holesky Finalized\n⚔️   Ether Guild Announced\n🔴   @Optimis..."
+    },
+    {
+      "index": 127,
+      "id": "1899187723413655846",
+      "createdAt": "Mon Mar 10 19:56:53 +0000 2025",
+      "text": "@1stNoL @thehouseofweb3 @VitalikButerin @tkstanczak @coinbase @base @geobrowser @graphprotocol @eige..."
+    },
+    {
+      "index": 128,
+      "id": "1899185339358708037",
+      "createdAt": "Mon Mar 10 19:47:24 +0000 2025",
+      "text": "@ethismoneyHQ Heads up I got a 500 server error when I clicked on the blog post link."
+    },
+    {
+      "index": 129,
+      "id": "1899184999171264870",
+      "createdAt": "Mon Mar 10 19:46:03 +0000 2025",
+      "text": "@ethismoneyHQ Love it ❤️‍🔥"
+    }
+  ]
+}

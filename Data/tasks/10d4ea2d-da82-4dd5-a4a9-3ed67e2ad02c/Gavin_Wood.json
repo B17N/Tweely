@@ -1,0 +1,561 @@
+{
+  "username": "Gavin Wood",
+  "fetchedAt": "2025-03-15T15:55:31.361Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 18,
+      "created_at": "Fri Mar 14 09:08:47 +0000 2025",
+      "conversation_id_str": "1900474178706288796",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/5y39ETO687",
+            "expanded_url": "https://x.com/gavofyork/status/1900474178706288796/video/1",
+            "id_str": "1900474153288728576",
+            "indices": [
+              25,
+              48
+            ],
+            "media_key": "7_1900474153288728576",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1900474153288728576/pu/img/JqPLfOOgUm_EbCUw.jpg",
+            "type": "video",
+            "url": "https://t.co/5y39ETO687",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 720,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 6500,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/pl/uzTu8Sjp8LiViLEK.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/vid/avc1/320x568/HnfWRkaDjw8jFzdq.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/vid/avc1/480x852/NsVCRopBGtGg-25_.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/vid/avc1/720x1280/VlZaJ7NByk1dBllT.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1900474153288728576"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/5y39ETO687",
+            "expanded_url": "https://x.com/gavofyork/status/1900474178706288796/video/1",
+            "id_str": "1900474153288728576",
+            "indices": [
+              25,
+              48
+            ],
+            "media_key": "7_1900474153288728576",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1900474153288728576/pu/img/JqPLfOOgUm_EbCUw.jpg",
+            "type": "video",
+            "url": "https://t.co/5y39ETO687",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 720,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 6500,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/pl/uzTu8Sjp8LiViLEK.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/vid/avc1/320x568/HnfWRkaDjw8jFzdq.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/vid/avc1/480x852/NsVCRopBGtGg-25_.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900474153288728576/pu/vid/avc1/720x1280/VlZaJ7NByk1dBllT.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1900474153288728576"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 738,
+      "favorited": false,
+      "full_text": "A trip down memory lane… https://t.co/5y39ETO687",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 13,
+      "reply_count": 66,
+      "retweet_count": 93,
+      "retweeted": false,
+      "user_id_str": "33962758",
+      "id_str": "1900474178706288796",
+      "url": "https://x.com/gavofyork/status/1900474178706288796",
+      "views_count": "41082",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Apr 21 16:55:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founded Polkadot, Kusama, Ethereum, Parity, Web3 Foundation. Building Polkadot. All things Web 3.0",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gavwood.com",
+                "expanded_url": "http://gavwood.com",
+                "url": "https://t.co/Krat6tKuFj",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1948,
+        "followers_count": 434485,
+        "friends_count": 169,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 4514,
+        "location": "Zurich, Switzerland",
+        "media_count": 122,
+        "name": "Gavin Wood",
+        "normal_followers_count": 434485,
+        "pinned_tweet_ids_str": [
+          "1871595404355354727"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33962758/1443792478",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981390758870683656/RxA_8cyN_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gavofyork",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/Krat6tKuFj",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Fri Mar 14 07:46:37 +0000 2025",
+      "conversation_id_str": "1899896794831859802",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1373422662203084813",
+            "name": "goku",
+            "screen_name": "0xgoku_",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "3315008426",
+            "name": "Kian Paimani",
+            "screen_name": "kianenigma",
+            "indices": [
+              9,
+              20
+            ]
+          },
+          {
+            "id_str": "1595615893",
+            "name": "Polkadot",
+            "screen_name": "Polkadot",
+            "indices": [
+              21,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 103,
+      "favorited": false,
+      "full_text": "A number of points here are wrong. It is not especially helpful to misrepresent a sophisticated protocol like Elves.\n\nElves uses cryptographically-secure random verifiable sampling together with escalation-by-default. Basically, all nodes execute everything *unless* it can be proven statistically impossible that the work report is incorrect. Because we have a closed system with clear probabilities we can model this accurately, and in practice nodes only need to execute about 1/30th of the total work most of the time. Finality happens only when >2/3 of validators agree that there is no chance of any historical work reports being invalid.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 4,
+      "retweet_count": 9,
+      "retweeted": false,
+      "user_id_str": "33962758",
+      "id_str": "1900453500733079811",
+      "url": "https://x.com/gavofyork/status/1900453500733079811",
+      "views_count": "3111",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Apr 21 16:55:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founded Polkadot, Kusama, Ethereum, Parity, Web3 Foundation. Building Polkadot. All things Web 3.0",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gavwood.com",
+                "expanded_url": "http://gavwood.com",
+                "url": "https://t.co/Krat6tKuFj",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1948,
+        "followers_count": 434485,
+        "friends_count": 169,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 4514,
+        "location": "Zurich, Switzerland",
+        "media_count": 122,
+        "name": "Gavin Wood",
+        "normal_followers_count": 434485,
+        "pinned_tweet_ids_str": [
+          "1871595404355354727"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33962758/1443792478",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981390758870683656/RxA_8cyN_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gavofyork",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/Krat6tKuFj",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Mon Mar 10 17:41:52 +0000 2025",
+      "conversation_id_str": "1899146639434035471",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "34559547",
+            "name": "ET ⚡️",
+            "screen_name": "ET90266",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "1405113174911766529",
+            "name": "Alice und Bob",
+            "screen_name": "alice_und_bob",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 170,
+      "favorited": false,
+      "full_text": "@ET90266 @alice_und_bob I would not. We need missionaries, not mercenaries.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 25,
+      "retweet_count": 15,
+      "retweeted": false,
+      "user_id_str": "33962758",
+      "id_str": "1899153748963815605",
+      "url": "https://x.com/gavofyork/status/1899153748963815605",
+      "views_count": "6059",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Apr 21 16:55:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founded Polkadot, Kusama, Ethereum, Parity, Web3 Foundation. Building Polkadot. All things Web 3.0",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gavwood.com",
+                "expanded_url": "http://gavwood.com",
+                "url": "https://t.co/Krat6tKuFj",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1948,
+        "followers_count": 434476,
+        "friends_count": 169,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 4514,
+        "location": "Zurich, Switzerland",
+        "media_count": 122,
+        "name": "Gavin Wood",
+        "normal_followers_count": 434476,
+        "pinned_tweet_ids_str": [
+          "1871595404355354727"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33962758/1443792478",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981390758870683656/RxA_8cyN_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gavofyork",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/Krat6tKuFj",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 21,
+      "created_at": "Mon Mar 10 07:31:39 +0000 2025",
+      "conversation_id_str": "1898481340506329098",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1144806629566746626",
+            "name": "phil",
+            "screen_name": "phil_uplc",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 557,
+      "favorited": false,
+      "full_text": "@phil_uplc All computation done for DOOM was run on JAM. If you’re still unsure after reading the Gray Paper, feel free to ask in the JAM Chat room on Matrix or come to any one of my presentations on JAM and I’d be happy to explain in greater detail.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 15,
+      "reply_count": 39,
+      "retweet_count": 121,
+      "retweeted": false,
+      "user_id_str": "33962758",
+      "id_str": "1899000178884899101",
+      "url": "https://x.com/gavofyork/status/1899000178884899101",
+      "views_count": "30574",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Apr 21 16:55:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founded Polkadot, Kusama, Ethereum, Parity, Web3 Foundation. Building Polkadot. All things Web 3.0",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gavwood.com",
+                "expanded_url": "http://gavwood.com",
+                "url": "https://t.co/Krat6tKuFj",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1948,
+        "followers_count": 434485,
+        "friends_count": 169,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 4514,
+        "location": "Zurich, Switzerland",
+        "media_count": 122,
+        "name": "Gavin Wood",
+        "normal_followers_count": 434485,
+        "pinned_tweet_ids_str": [
+          "1871595404355354727"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33962758/1443792478",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981390758870683656/RxA_8cyN_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "gavofyork",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/Krat6tKuFj",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1
+    ],
+    "2025-03-10": [
+      2,
+      3
+    ]
+  }
+}

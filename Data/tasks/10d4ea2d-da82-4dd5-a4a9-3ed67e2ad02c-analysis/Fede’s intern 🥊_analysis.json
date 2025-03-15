@@ -1,0 +1,1036 @@
+{
+  "username": "Fede’s intern 🥊",
+  "analyzedAt": "2025-03-15T18:29:01.569Z",
+  "tweetCount": 168,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 07 11:13:59 +0000 2025",
+    "latestTweet": "Sat Mar 15 14:25:24 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Fede’s intern 🥊 and provide a summary of what they mainly talked about in the past week:\n\nThis is great. At last george is gonna invade our land.\n\n@kean00reeves @__tinygrad__ this is great\n\n@potuz_eth disagree.\n\na) sui, aptos and solana are way better in every measurement\nb) the comparison shouldn’t be with most blockchains. outside of 5/6 of them, the other ones are not even really maintained. the comparison should be with engineering in the kernel of linux or llvm.\n\nPasskeys already working in Ethrex L2. Validium next. Performance is also looking good.\n\nTalking with @ameensol and @fran_aligned about Ethrex and privacy. https://t.co/vAMX4GOahh\n\n@arixoneth disagree. this comes from the fact that the roots of ethereum are more academic that product or engineering related.\n\nlinux development is even more decentralize than ethereum and it doesn’t have this issue.\nl\n\n@alexanderlhicks @ethereumfndn amazing! I was rushing to the university to ask professors to work together to submit a few things today that we're already working on. thanks!!!\n\nThe research of Ethereum is top notch, the implementations and coordination aren't. We just need to organize things better and get better at execution.\n\nurl: https://t.co/hG20zGATAI\n\nWe didn't have time to check this academic grand round for 2025 by @ethereumfndn. Everything on this list is super interesting. We could work on many of these topics but we only could see it today 😅. I hope next time we can be submit a few grants! Great work EF. https://t.co/FSy9zgrTaO\n\nAmazing @udiWertheimer and @ercwl. I love everything you guys do. \n\nNext week I'm gonna fix my Taproot Wizard tattoo!\n\n@udiWertheimer @Odin_GodOfRunes you guys are amazing\n\nWelcome brothers to the new reality.\n\nCows, Gold, Bitcoin, Ethereum and Rogue. https://t.co/gkZch1ykys\n\n@Oeufly my comment is about a particular project, not the general market. 300m or 400m are reasonable valuations in any market but for sure the market went down from that moment, long term I think it's gonna be fine.\n\nThe level of complexity in Ethereum is nonsense and completely unnecessary. There is a complete lack of coordination. These things are normal in engineering. The difference is that Ethereum normalizes them instead of doing a root cause analysis of why it happened, how it can be avoided again.\n\nWe need to simplify the design of Ethereum and its development process.\n\nI’m having a lot of fun watching the market realize that what we said is true.\n\nGive it some time and the price will show it too. Good chance of bigger drama too.\n\nthis is great. the market is staring to fully appreciate the power of STARKs. never bet against @StarkWareLtd\n\nI agree with most of what Dankrad wrote. I have some small comments. Gonna write something today.\n\n@LucidSamuel_ @NoirLang @aztecnetwork noir is very cool\n\nThis is great. Congrats @twinexyz and @rachinkalakheti and @solana!\n\nWe didn’t learn a thing since FTX.\n\n@MikeIppolito_ @cobie @JasonYanowitz @functi0nZer0 i’m happy to see that we improved at lot as an industry since FTX\n\n@JasonYanowitz @RichardPtardio @cobie @functi0nZer0 this industry is a joke\n\n@lightclients @0xCH1MPER5 agree. we should push harder against it.\n\nI can’t agree more. I highly dislike EOF. Ethereum is becoming even more complicated without winning much.\n\ngold and cows\n\n@0xMaxSoul @Starknet it’s one of the things I don’t fully understand. from my point of view it will come bitcoin since there can always be a reorg. ethereum finalizes. i will research and answer\n\nEvery zk EVM stack will be replaced by Reth or Ethrex proven by an RISC-V prover.\n\nBased rollups will be crucial for interoperability between L2s. \n\nTech has been completely commoditized. Everything moving to customer acquisition.\n\n@sam_battenally I went from vim to emacs back to vim in the last 20 years. not a maxi but big fan of vim.\n\nI am more bullish on any solution that will be used by multiple teams.\n\nAny ZK EVM stack will prove an L1 client with a RISC-V zkVM. All the zk EVM teams that raised money will compete between each other for customer acquisition. Tech has been completely commoditized. \n\nI'm not too worried about competing in customer acquisition.\n\nI know you have been streaming about it. \n\nMy question is why do you guys keep on using an old proving system in production that is expensive, slow and where you have to support a different VM? Long term is obvious you're going to ditch all this and use a RISC-V prover and an L1 client.\n \nWe can do a stream about this whenever you want. We will be writing reports shortly. I've not been a fan of some of Alex latests replies so I will change my tone towards zkSync. Nothing personal against your Porter.\n\n1. Rogue is not a stack. Rogue is a blockchain that uses Ethrex stack\n2. Comparisons between Ethrex stack and zk stack will be shared in the upcoming months.\n3. Only a few institutions have used the ZK Stack in testnets. This is cool and great. Fiat is also adopted by everyone, and here we are now with bitcoin ATH at 100k and presidents talking about it. The game is still on, anything can happened tech and adoption wise. It's very early.\n\nnever said it wouldn't. I highly recommend you guys check out braviss sp1 and nexus, you will be surprised of how fast and cheap it is. We didn't do the benchmark against zksync yet but I'm sure it's many times cheaper and faster. a 4090 proves 35m gas in 3 minutes. 50 transfer or a million of gas for $0.001 USD. The only cost is the settlement once per hour or every day. this kills any zk stack that is not using reth or ethrex.\n\n1. Rogue is not a stack. Rogue is a blockchain that uses Ethrex stack\n2. Comparisons between Ethrex stack and zk stack will be shared in the upcoming months. \n3. Only a few institutions have used the ZK Stack in testnets. This is cool and great.\n\nFiat is also adopted by everyone, and here we are now with bitcoin ATH at 100k and presidents talking about it. The game is still on, anything can happened tech and adoption wise. It's very early.\n\n@LibraryDefi we now need a wallet for the people. this is good for clave\n\nThis is crazy. The good thing is that P2P in Turkey is going to grow.\n\nI correct myself. Probably with a one time investment less than 50k dollars you can already prove Ethereum real time. Without any improvements in the software or the mathematics, in 4 years it should cost less than 15k to buy hardware to be able to keep up proving current Ethereum average blocks of 18 million gas.\n\nThe last few years blockchains created too much blockspace. ZK is about to make  blockspace virtually free. This will make tokens of multiple projects go lower in the short term. Long term it will enable to have applications that can't be built right now on top of blockchains since they are too slow. It's also about to make interoperability a easy and cheap.\n\nPerformance for ZK is already good enough. We need to focus on security now more than ever.\n\nethrex: https://t.co/iiDdQkmSYF\n\n@fakedev9999 @alignedlayer lol good meme\n\nIf you're going to break compatibility with the L1, you should offer new, interesting features like @Starknet and @0xPolygonMiden does.\n\n@Ismael_H_R @alignedlayer congrats for the zkML results too, they look impressive. I didn't have time to check them yet but I will do so tomorrow.\n\nEthrex already doing 1 gigagas as an L2. We need to fix a few things to make it sustainable. When 5 gigagas?\n\n@pumatheuma congrats, the results are impressive and they get better by the week.\n\nurl: https://t.co/CRNOSWkql7\n\nurl: https://t.co/jDnZ69roMs\n\nMy partners at @alignedlayer have created a webpage called ZK Benchmarks. A few days ago, I shared it, but now we've added several more results, and the results are fully reproducible with a Jupyter Notebook.\n\nWe are adding every RISC-V zkVM, proving different examples, and comparing them. We already have @brevis_zk Pico, @SuccinctLabs SP1, and @RiscZero proving Fibonacci, Keccak, and Reth. In the short term, we will be adding @NexusLabs, @0xPolygon's Zisk, and hopefully @0xLita.\n\nHere, you can see that with more or less 30 A6000 GPUs, which cost a total of 150k or 5k each, you can prove the current average block of @ethereum that has 18 million gas. This equates to Ethereum consistently doing above 50 TPS. So, with just one payment equal to less than the yearly salary of an engineer in San Francisco, you can keep up proving Ethereum. If, instead of buying the equipment, you prefer to rent it, you have to pay 2 dollars per hour for an A6000, or about 500k per year for 30 A6000s to prove the average gas of Ethereum. These costs will keep going down every week.\n\nWith Lambda, we're close to also adding Ethrex, our L1 and L2 client, to the benchmark. Ethrex is working very well right now. We're currently 3 to 5 times slower than Reth, but we just started doing performance work on the codebase. It should become fast very soon. The codebase is only 40k lines of code, and it can be proven by any of the RISC-V provers. We're also adding support to run the sequencer in a TEE to make everything more secure, along with based sequencing. We will also integrate Ethrex with OP Stack. We have 30 engineers working on it. Rogue will use Ethrex too.\n\nIn a matter of weeks, we should have a simple stack that is fully compatible with the L1, has a minimal codebase with no external dependencies, and is proven by any of these provers.\nLong term, every rollup will surely be an L1 client proven by a RISC-V prover. It's way easier and cheaper to maintain, and you can provide even more features than the current L2 EVM stacks offer.\nI also believe that interoperability, thanks to based rollups, will become the default, but this isn't obvious to the market yet. The first part is already becoming clear to everyone. There are teams that raised hundreds of millions of dollars that will get disrupted by this. We're currently buying multiple GPUs to prove some of the L2s we will be powering. You only need to settle the proof in Ethereum a few times per day, so the cost is minimal.\nThose teams that keep doubling down on using old and hard-to-maintain tech are finished. If you're going to break compatibility with the L1, you should offer new, interesting features like @Starknet does.\n\nReth by @paradigm, Ethrex by @class_lambda, and RISC-V zkVMs are commoditizing the full Ethereum stack. The game will completely shift from tech to customer acquisition and wallets. Time to play that game.\n\n@ayyyeandy I wished.\n\nI’m just gonna leave this here as a public commitment. https://t.co/rsPGNkq8VA\n\n@NicolasRamsrud no, writing it.\n\n@NicolasRamsrud we have a few solutions. check the whitepaper.\n\n1. I would take this opportunity to talk about based rollups too that don’t need a hard fork\n2. I would talk about the fact that multiple ZK systems had soundness and security bugs. how can this be mitigated? when these systems will be mature? what efforts are being done?\n3. what will happen with the EVM is RISC-V is supported in native?\n\n@ayyyeandy once you have an ETF, decentralization doesn’t matter. that’s what investors told me.\n\n@sam_battenally indeed\n\n@nixorokish my point is that they make things more complicated than needed, not that I don't understand what's written. thanks anyways!\n\n@bkase_ congrats Brandon. this is good for Mina.\n\nWe're gonna mine Rogue in Paraguay. Who is in?\n\nJust read this by @taikoxyz. Great thread.\n\nI want to see Cairo Native working in production of @Starknet. Incoming cheapest L2 of Bitcoin and Ethereum.\n\n@sergitosergito @hosseeb @BanklessHQ most of the jobs people have are shitty and many dream to go back in time.\n\n@iwantlamboape Yes\n\nRogue will be the first usecase for prover networks.\n\nI finally solved Rogue design problems. Whitepaper incoming. Mainnet in a few months.\n\n@ETazou congrats! any performance metrics?\n\nI tend to forget but when I listen to @EliBenSasson I remember why he brings me joy. He gives me hope. He is llong term focused and he always trying to push things forward. It's easy to see that he cares about what he is doing. We need more Eli s in the industry. I feel proud to be part of @Starknet under his command.\n\n@mikojava @rjdrost and kind in an industry of crazy people\n\n@SuccinctLabs 👋\n\nI really like this space for different reasons:\n1. It shows @Starknet and @starkware are always pushing the boundaries of this industry\n2. It shows @VitalikButerin is a very open minded person. Many people in Ethereum are too angry with Bitcoin. Bitcoin is amazing. Ethereum is amazing too!\n\nGreat to see the friends @JeremyRubin @avihu28 @EliBenSasson @dimahledba and @VitalikButerin pushing what's possible in the two of the most interesting projects humanity has every created: Bitcoin and Ethereum.\n\nI tend to agree but I think there are some projects doing well in the engineering sense or at least improving in comparison to the academic projects. I've been and still iI am a strong critic of many things of @SuccinctLabs SP1 but it's one of the easiest provers to run if not the easiest one. It has good UX and whenever we asked for a change they improved things very fast.\n\n@0xLita was pretty easy to use too. With @RiscZero we had quite a few issues many times with @MauroAligned but it's improving.\n\nHopefully we can all improve this. One of the reasons @Optimism is doing so well is because it's super easy to launch a chain with their stack. It's very difficult to do so with other L2s.\n\nWith Ethrex we're trying to commoditize everything for anybody to be able to launch a based zk L2 in Ethereum.\n\n@StanfordSBA @swillinger @elkun_peng @gilswrld @StanfordCrypto @theBBFund KUN BOTON\n\nI didn't watch the talk yet, gonna do so now. I had a few deep conversations with @rjdrost that were very rewarding. He has a deep understanding of the space and great ideas. Time to listen to the talk!\n\none of the strangest tweets I've seen this week and I've seen many. https://t.co/utN76OPrJe\n\nI ate too much sugar 😅\n\n@0xBalloonLover He didn't say this is the best example of a product using Eigen.\n\nEven if he did, that wouldn't be something bad per se. Anything good or real takes time to be built.\n\npeople were too pessimistic and now too optimistic. it’s gonna take a year and a half or two to see real profound changes, if they ever happens, in ethereum land.\n\n@pumatheuma @pumatheuma i just realized that we might be talking about different things.\n\nwith 20 gpus you can keep up with ethereum block production, you can’t generate a proof in less than 12 seconds. with only a few gpus or cpus you can keep proving ethereum but with latency.\n\n@pumatheuma from changes and measurements we have been doing with circle STARKs.\n\nCPU is already public: 100 computers with pico (15m block).\n\n@0xAbix @pumatheuma no\n\nI agree with everything but one thing: you only need 20 gamer GPUs to prove Ethereum real time. Less than 100k dollars per year to maintain things working. \n\n10% CPU (to run ethereum) versus 20 GPUs is a few thousand times slower but it’s not very expensive.\n\n@tarrenceva @cartridge_gg @getclave it’s crazy nobody is referencing this\n\n@mikojava I am big fan of redundancy. I am not a big fan of making things more complicated to look smarter in engineering and science. It actually makes things less resilient since less people understand what's going on.\n\n@fabgenovese @oliverbeige could you explain why the protocol would become shit with execution tickets?\n\n@fabgenovese @oliverbeige what do you think are the repercussions?\n\n@Narodism I agree. I don't believe things will change in any way. They didn't change till now, they won't change now because we appeared out of nowhere. We will just build our own fortress and try to make it resistant to BS.\n\nit's incredible. our solution will be to add more engineers to it with decades of experience delivering products to millions of users. in the upcoming months we will release many things in ethereum.\n\nwe also hired and bought companies with PhDs in math. we have I believe more than 30 right now in the group. we will use them to fire to fight the fire while we deliver concrete things.\n\nthe more I read ethresearch posts the more I think ethereum loves complexity for the sake of it. things are explained as if they were rocket science and they are way easier than it seems.\n\n@dimahledba what is this. tell me!\n\nurl: https://t.co/q8AI6s0Mn2\n\nGood post to understand the history of MEV and Execution tickets.\n\nSome day I will try to write an even easier to understand version of all this. https://t.co/xlyyiOkUqH\n\nWho were the first ones to use passkeys @cartridge_gg @getclave and then ithaca?\n\nI'm sick with a strong cold. Sorry for missing messages and notifications. As soon as I get back on track I will try to check your messages.\n\n@ekang426 @ilblackdragon @VitalikButerin FOMO\n\nWhenever you have a winner take all these are two great strategies: tickets or auctions. https://t.co/lxMXRlCgJ8\n\n@doganeth_en @class_lambda prepare yourself to read rogue whitepaper dogan!\n\n@dohpe_ disagree\n\n@heavenlypulse agree\n\nurl: https://t.co/NQcg9mFSU7\n\nIncoming Rogue whitepaper. Join the community. https://t.co/CHE5KnCfSR\n\nThere is no reason why testnets in Ethereum need to be different to mainnet. \n\nThe reason I keep hearing is that there are no economic incentives to run a node in a testnet so some of the testiest are permissioned and have different configurations.\n\nWe do have an incentive: we have billions of dollars in Ethereum. If the testnet goes down we lose time and money. We have more than 200 core devs working on this. Let's run exact copies of mainnet in testnet.\n\n@sam_battenally @gluk64 @zksync exactly, that's what I told Alex. I am open to debate this publicly whenever you want @gluk64 in the upcoming months.\n\nBitcoin and Ethereum solve this. https://t.co/6uqhesblBA\n\n@RuneKek bullish Sky\n\nThe market will realise with time that @eigenlayer has amazing teams building on top of it.\n\nOne of the many reasons why Proof of Work is successful is because it's the easiest way to burn energy in a currency in exchange for an asset that you can change for another currency of another country. It's a way to jump capital controls by burning energy.\n\nNeptune mining and checking the price in this strange exchange.\nPablo is playing some music meanwhile. https://t.co/8tCwR09LWG\n\nThis is the most interesting crypto chat I’ve been in a few years. Real price action and organic community growing. Neptune is the only recent experiment I like with Rogue related to token economics. https://t.co/9wMU3eXrC6\n\ntell me you live in europe or US:\n\nre read my tweet and forgot the verb in the first sentence lol\n\nI can't agree more with @_weidai. The more he writes the more I realize we think similarly in many ways.\n\n@_weidai I agree with almost everything you write Wei, lol\n\ntelegram: https://t.co/RSLUVUpSXp\n\nurl: https://t.co/iiDdQkml97\n\n🚀Ethrex Ethereum Client: Big Moves Incoming \n\n🔥Preparing for Performance Improvement\nIn the coming weeks, we’ll focus heavily on addressing performance issues. We’re integrating observability tools, testing proofs of concept, and refining the codebase with targeted fixes. Recent changes include:\n- Resolved unlinked reorg issues.\n- Implemented getPayloadV4, completing Pectra endpoint support.\n- Refactored LEVM and rEVM for better separation, maintaining compatibility with both.\n- Applied several CI enhancements for stability.\n\n🌎L2\nWe’ve begun state diff reconstruction, using a new tool to monitor L1 blobs and reconstruct L2 state. A pull request is live to optimize L2 performance by consolidating block building and execution into a single function—eliminating redundant Engine API calls. Work has also started on the Secp256r1 precompile (RIP 7212) to enable WebAuthn-based account abstraction.\n\n⚡️Performance: Benchmarking and Optimization\nA new CI workflow now benchmarks block execution against main, providing data for our performance efforts. We’re exploring database improvements, adjusting libmdbx settings (growth_step, sync_mode) and minimizing blocking during transaction commits. Collaboration with the L1 performance team is underway to validate these changes during sync operations.\n\n🛠️LEVM: Final Steps\nWe’re resolving Hive test regressions from the past week. Once complete, Ethrex will transition to using LEVM as the default configuration.\n\nurl: https://t.co/FirVFgDcmC\n\nLambdaworks keeps on improving. 660 Stars already! https://t.co/1UNVFPyxIb\n\nurl: https://t.co/GvoReYwCnA\n\nI really like what Neptune is doing for the proving. https://t.co/MMPVW14whj\n\nI plan on going with my team on hours stream to show this.\n\nhttps://t.co/GvoReYwCnA\n\nPreimage search is stateless, and therefore this step is a Poisson process allocating the expectation of success to searchers in proportion to their hash rate. It is also embarrassingly parallelizable, meaning that the searcher with the cheaper electricity bill (whether due to energy-efficient hardware or availability of cheap electricity) has a marginal advantage over the searcher with the more expensive one. All other things equal, preimage search favors searchers with access to cheap electricity. The geographical distribution of cheap power is the physical decentralization that underpins the virtual decentralization of the cryptocurrency that utilizes it.\n\nurl: https://t.co/Q94Qs8fcOC\n\nI've just learnt that Neptune Cash, a privacy oriented L1 with programability thanks to proving via STARKs. It only has 1.98% pre-mined and the rest needs to be mined by provers of the network.\n\nCongrats to the founders Alan Szepieniec and Thorkil Værg. I've met Alan a few years ago. One of the nicest and smartest persons I've met. Would back anything Alan does.\n\nRogue took some inspiration from Alan's work on Neptune.\n\nhard disagree. geth codebase is written with good engineer practices. reth actually is way more complicated and what \"crypto devs\" do.\n\n@lostbutlucky @ameensol @Optimism hard disagree. geth codebase is written with good engineer practices. reth actually is way more complicated and what \"crypto devs\" do.\n\n@ameensol @RandomCTGuy @Optimism they are going to use it\n\nOP_ethrex.\n\nCheck in 2-3 months. It's gonna be obvious while looking back.\n\n@ameensol @Optimism OP_ethrex. check in a few weeks!\n\nbitcoin\n\n@0xMarcB lol wtf\n\nOur wheelchair company is doing more revenue than 99% of the crypto industry.\n\nWould you buy a tokenized version of this business?\n\nI’m joking by the way, not selling our lovely Warren Buffet style type of company. https://t.co/bKueNm65nK\n\nI really like this initiative by @SuccinctLabs. Trace generation is the big bottleneck long term. This can be fun and useful for many teams. If we have some spare time we will participate. Good work Succinct.\n\nfundamentals will win.\n\nNever compromise. Not even in the face of armageddon.\n\nValida is doing great work!\n\n@DCbuild3r @LucidSamuel_ @portport255 i agree. if there are no insults for me it’s more than enough to see debate as something useful.\n\nEthereum needs to embrace open debate. Every time there is a debate people from the community wants to shut it down as if debating and arguing publicly was bad. It’s not. If debate is done respectfully it’s very useful.\n\n@LucidSamuel_ @DCbuild3r @portport255 called\n\n@LucidSamuel_ @DCbuild3r @portport255 why it isn’t good? it’s good. it’s call debate. accept it. ethereum needs to embrace open debate. the two are making good arguments.\n\n@l2beat we will need your help to make sure we’re doing things correctly\n\nWe just closed a deal where multiple million people will get payed over an @ethereum L2 that will be powered by Ethrex! \n\nCheck announcements in the upcoming weeks. Many more coming.\n\n2025 and 2026 are gonna be interesting.\n\nSilent moves, loud results. https://t.co/YrnwDC8uay\n\nManus is pretty cool. Learnt about it yesterday.\n\nPolitics aside, it’s undeniable: China has amazing talent in every industry.\n\n@Chiro8x @alignedlayer yes\n\nThis is exactly what’s gonna happen with most zkvm prover networks.\n\n@sjors_lemniscap @PranitGarg agree the tech is top notch\n\n@PranitGarg 1. amount of forks in this period of time\n2. amount of starks\n3. check the usernames and the creation date\n\n@TrustlessState you were right. i didn’t know that in the US you have to ask for permission to do an interview.\n\n@ameensol welcome to argentina\n\n@hotpot_dao @nima_vaziri fully agree\n\n@calilyliu @aeyakovenko @KyleSamani haha nice to see toly in a suit\n\nAmazing results by @NousResearch. Incredible team.\n\nOptimism doesn't make money with the OP Stack. The OP Stack is just distribution. The connection to Optimism via a shared bridge with chains launched via the OP Stack is what generates money, not the open source stack. It's a network, not a piece of software than can be easily replaced. It's the ecosystem, not the technology. Hopefully I'm wrong, I'm happy there are multiple teams building zkVMs and prover networks but I don't think it's sustainable long term. If it was big infra players would disrupt things.\n\nrepo: https://t.co/CRNOSWjSvz\nweb: https://t.co/jDnZ69qQWU\n\nWith @alignedlayer we're working on a RISC-V zkVM reproducible benchmark. Every team will be able to submit PRs and the benchmarks are going to be run every week with the updates of every codebase. We are going to use docker (hopefully we can use nix in the future) and Jupyter notebook. We still need to do many improvements.\n\nWe will add @NexusLabs with @StarkWareLtd Stwo prover in the upcoming days.\n\nRogue: 0%\n\n@diego_aligned @alignedlayer cadore is the best place to go\n\n@super_projects @ethereumfndn @Commit_Boost @peter_szilagyi @martin_holst we will start by doing that, wanted to give a heads up and find ways of working together. we would always work under the command of the current team, not tying to do anything strange. just learn and give back.\n\nQuick question @ethereumfndn: we want to add 3 full time good engineers to the development of geth. We have done so to multiple projects, for example @Commit_Boost.\n\nWho should we contact? We can start by working on small tickets and showing our capabilities.\n\nfor sure, we will stream for hours examples in streams and explain things in blog posts as we always do. the good thing is that multiple teams that were building on top of it are realizing it. they called us and we will be working together in the future. could tag them here but i dont want to breach their trust.\n\nbefore doing so we want to have a working alternative. we’re very close to it. in a matter of weeks we should have it.\n\nI agree with @lightclients.\n\nThe biggest issue I have with the take over of every part of the @ethereum pipeline by @paradigm is that they are selling their technical work in infra as if it was good when it’s really bad.\n\nwe will have to provide an alternative and explain to the market why it’s bad and what are the concrete advantages of doing things correctly.\n\nAgree, there are only a few exceptions.\n\n414 forks with a new VM. why this industry is so retarded\n\n@LucidSamuel_ yes\n\nthis is a story told by Charly García, my favorite musician. Love you Charly.\n\nPeople who take a chance might get knocked down hard, but they also have a shot at standing tall and looking down from above.\n\nThere’s a short story about success, it’s silly, but you’ll get it.\n\nA guy’s walking along and meets a guru. He asks, 'Guru, where’s success?' The guru points ahead. So the guy starts walking, keeps going, and then, out of nowhere, five guys jump him and beat him up bad. Hurting and confused, he thinks, 'I must’ve messed this up.'\n\nHe goes back to the guru and asks again, 'Where’s success?' The guru points ahead like before. The guy walks down the same path, and—yep—gets beat up again. Mad as hell, he storms back and says, 'Guru, tell me for real: where’s success?'\n\nThe guru looks at him and says, 'It’s right there, just past the punches.'\n\n@adam_winnick @hosseeb @ondo @ethena_labs we wanted to do what @hosseeb proposed but regulatory wise we got told it might be a bad idea. now probably it’s a better time to ask again.\n\n@donnoh_eth it is, there a few projects doing it.\n\n@mikojava I read it and I was thinking the same. This industry is a joke.\n\n@0xBalloonLover you should try ethrex, about to be much faster and clean."
+  },
+  "summary": "The tweets from @Fede's intern 🥊 over the past week cover various topics related to Ethereum, blockchain technology, and cryptocurrency. Some of the main themes include discussions on Ethereum's development, performance improvements, privacy considerations, comparisons with other blockchains like Solana, and the importance of simplifying the design and development process. There are also mentions of specific projects and individuals in the crypto space, debates on technical aspects, and plans for future projects like Rogue and Ethrex. Overall, the sentiment in the tweets ranges from excitement about technological advancements to calls for better coordination and clarity within the industry.",
+  "keyTopics": [
+    "Ethereum,",
+    "Some",
+    "Ethereum's",
+    "Solana,",
+    "There"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900916242828902699",
+      "createdAt": "Sat Mar 15 14:25:24 +0000 2025",
+      "text": "This is great. At last george is gonna invade our land."
+    },
+    {
+      "index": 1,
+      "id": "1900916018668540336",
+      "createdAt": "Sat Mar 15 14:24:30 +0000 2025",
+      "text": "@kean00reeves @__tinygrad__ this is great"
+    },
+    {
+      "index": 2,
+      "id": "1900814054953726005",
+      "createdAt": "Sat Mar 15 07:39:20 +0000 2025",
+      "text": "@potuz_eth disagree.\n\na) sui, aptos and solana are way better in every measurement\nb) the comparison..."
+    },
+    {
+      "index": 3,
+      "id": "1900694489364140518",
+      "createdAt": "Fri Mar 14 23:44:14 +0000 2025",
+      "text": "Passkeys already working in Ethrex L2. Validium next. Performance is also looking good."
+    },
+    {
+      "index": 4,
+      "id": "1900654540321431656",
+      "createdAt": "Fri Mar 14 21:05:29 +0000 2025",
+      "text": "Talking with @ameensol and @fran_aligned about Ethrex and privacy. https://t.co/vAMX4GOahh"
+    },
+    {
+      "index": 5,
+      "id": "1900574439118434448",
+      "createdAt": "Fri Mar 14 15:47:11 +0000 2025",
+      "text": "@arixoneth disagree. this comes from the fact that the roots of ethereum are more academic that prod..."
+    },
+    {
+      "index": 6,
+      "id": "1900563388595368154",
+      "createdAt": "Fri Mar 14 15:03:17 +0000 2025",
+      "text": "@alexanderlhicks @ethereumfndn amazing! I was rushing to the university to ask professors to work to..."
+    },
+    {
+      "index": 7,
+      "id": "1900561012031381996",
+      "createdAt": "Fri Mar 14 14:53:50 +0000 2025",
+      "text": "The research of Ethereum is top notch, the implementations and coordination aren't. We just need to ..."
+    },
+    {
+      "index": 8,
+      "id": "1900558041029722532",
+      "createdAt": "Fri Mar 14 14:42:02 +0000 2025",
+      "text": "url: https://t.co/hG20zGATAI"
+    },
+    {
+      "index": 9,
+      "id": "1900558038223962545",
+      "createdAt": "Fri Mar 14 14:42:01 +0000 2025",
+      "text": "We didn't have time to check this academic grand round for 2025 by @ethereumfndn. Everything on this..."
+    },
+    {
+      "index": 10,
+      "id": "1900546061640352155",
+      "createdAt": "Fri Mar 14 13:54:26 +0000 2025",
+      "text": "Amazing @udiWertheimer and @ercwl. I love everything you guys do. \n\nNext week I'm gonna fix my Tapro..."
+    },
+    {
+      "index": 11,
+      "id": "1900545940894695739",
+      "createdAt": "Fri Mar 14 13:53:57 +0000 2025",
+      "text": "@udiWertheimer @Odin_GodOfRunes you guys are amazing"
+    },
+    {
+      "index": 12,
+      "id": "1900545722652492152",
+      "createdAt": "Fri Mar 14 13:53:05 +0000 2025",
+      "text": "Welcome brothers to the new reality.\n\nCows, Gold, Bitcoin, Ethereum and Rogue. https://t.co/gkZch1yk..."
+    },
+    {
+      "index": 13,
+      "id": "1900523948829261850",
+      "createdAt": "Fri Mar 14 12:26:34 +0000 2025",
+      "text": "@Oeufly my comment is about a particular project, not the general market. 300m or 400m are reasonabl..."
+    },
+    {
+      "index": 14,
+      "id": "1900521997295120713",
+      "createdAt": "Fri Mar 14 12:18:48 +0000 2025",
+      "text": "The level of complexity in Ethereum is nonsense and completely unnecessary. There is a complete lack..."
+    },
+    {
+      "index": 15,
+      "id": "1900514411036455310",
+      "createdAt": "Fri Mar 14 11:48:40 +0000 2025",
+      "text": "I’m having a lot of fun watching the market realize that what we said is true.\n\nGive it some time an..."
+    },
+    {
+      "index": 16,
+      "id": "1900503419250507969",
+      "createdAt": "Fri Mar 14 11:04:59 +0000 2025",
+      "text": "this is great. the market is staring to fully appreciate the power of STARKs. never bet against @Sta..."
+    },
+    {
+      "index": 17,
+      "id": "1900488455995506861",
+      "createdAt": "Fri Mar 14 10:05:31 +0000 2025",
+      "text": "I agree with most of what Dankrad wrote. I have some small comments. Gonna write something today."
+    },
+    {
+      "index": 18,
+      "id": "1900255966748184925",
+      "createdAt": "Thu Mar 13 18:41:42 +0000 2025",
+      "text": "@LucidSamuel_ @NoirLang @aztecnetwork noir is very cool"
+    },
+    {
+      "index": 19,
+      "id": "1900255885110251954",
+      "createdAt": "Thu Mar 13 18:41:22 +0000 2025",
+      "text": "This is great. Congrats @twinexyz and @rachinkalakheti and @solana!"
+    },
+    {
+      "index": 20,
+      "id": "1900235337089380683",
+      "createdAt": "Thu Mar 13 17:19:43 +0000 2025",
+      "text": "We didn’t learn a thing since FTX."
+    },
+    {
+      "index": 21,
+      "id": "1900233784647192803",
+      "createdAt": "Thu Mar 13 17:13:33 +0000 2025",
+      "text": "@MikeIppolito_ @cobie @JasonYanowitz @functi0nZer0 i’m happy to see that we improved at lot as an in..."
+    },
+    {
+      "index": 22,
+      "id": "1900233558628675779",
+      "createdAt": "Thu Mar 13 17:12:39 +0000 2025",
+      "text": "@JasonYanowitz @RichardPtardio @cobie @functi0nZer0 this industry is a joke"
+    },
+    {
+      "index": 23,
+      "id": "1900230141327888502",
+      "createdAt": "Thu Mar 13 16:59:04 +0000 2025",
+      "text": "@lightclients @0xCH1MPER5 agree. we should push harder against it."
+    },
+    {
+      "index": 24,
+      "id": "1900230062894415877",
+      "createdAt": "Thu Mar 13 16:58:46 +0000 2025",
+      "text": "I can’t agree more. I highly dislike EOF. Ethereum is becoming even more complicated without winning..."
+    },
+    {
+      "index": 25,
+      "id": "1900143761033740320",
+      "createdAt": "Thu Mar 13 11:15:50 +0000 2025",
+      "text": "gold and cows"
+    },
+    {
+      "index": 26,
+      "id": "1900139436291109273",
+      "createdAt": "Thu Mar 13 10:58:39 +0000 2025",
+      "text": "@0xMaxSoul @Starknet it’s one of the things I don’t fully understand. from my point of view it will ..."
+    },
+    {
+      "index": 27,
+      "id": "1899983497621889425",
+      "createdAt": "Thu Mar 13 00:39:00 +0000 2025",
+      "text": "Every zk EVM stack will be replaced by Reth or Ethrex proven by an RISC-V prover.\n\nBased rollups wil..."
+    },
+    {
+      "index": 28,
+      "id": "1899983380428869817",
+      "createdAt": "Thu Mar 13 00:38:32 +0000 2025",
+      "text": "@sam_battenally I went from vim to emacs back to vim in the last 20 years. not a maxi but big fan of..."
+    },
+    {
+      "index": 29,
+      "id": "1899982956070134100",
+      "createdAt": "Thu Mar 13 00:36:51 +0000 2025",
+      "text": "I am more bullish on any solution that will be used by multiple teams.\n\nAny ZK EVM stack will prove ..."
+    },
+    {
+      "index": 30,
+      "id": "1899980662154916032",
+      "createdAt": "Thu Mar 13 00:27:44 +0000 2025",
+      "text": "I know you have been streaming about it. \n\nMy question is why do you guys keep on using an old provi..."
+    },
+    {
+      "index": 31,
+      "id": "1899979213731750315",
+      "createdAt": "Thu Mar 13 00:21:59 +0000 2025",
+      "text": "1. Rogue is not a stack. Rogue is a blockchain that uses Ethrex stack\n2. Comparisons between Ethrex ..."
+    },
+    {
+      "index": 32,
+      "id": "1899977713273934276",
+      "createdAt": "Thu Mar 13 00:16:01 +0000 2025",
+      "text": "never said it wouldn't. I highly recommend you guys check out braviss sp1 and nexus, you will be sur..."
+    },
+    {
+      "index": 33,
+      "id": "1899973091536888285",
+      "createdAt": "Wed Mar 12 23:57:39 +0000 2025",
+      "text": "1. Rogue is not a stack. Rogue is a blockchain that uses Ethrex stack\n2. Comparisons between Ethrex ..."
+    },
+    {
+      "index": 34,
+      "id": "1899969763864174909",
+      "createdAt": "Wed Mar 12 23:44:26 +0000 2025",
+      "text": "@LibraryDefi we now need a wallet for the people. this is good for clave"
+    },
+    {
+      "index": 35,
+      "id": "1899968679397515501",
+      "createdAt": "Wed Mar 12 23:40:07 +0000 2025",
+      "text": "This is crazy. The good thing is that P2P in Turkey is going to grow."
+    },
+    {
+      "index": 36,
+      "id": "1899968018438119684",
+      "createdAt": "Wed Mar 12 23:37:29 +0000 2025",
+      "text": "I correct myself. Probably with a one time investment less than 50k dollars you can already prove Et..."
+    },
+    {
+      "index": 37,
+      "id": "1899962724295336275",
+      "createdAt": "Wed Mar 12 23:16:27 +0000 2025",
+      "text": "ethrex: https://t.co/iiDdQkmSYF"
+    },
+    {
+      "index": 38,
+      "id": "1899960524995285128",
+      "createdAt": "Wed Mar 12 23:07:43 +0000 2025",
+      "text": "@fakedev9999 @alignedlayer lol good meme"
+    },
+    {
+      "index": 39,
+      "id": "1899955995964793191",
+      "createdAt": "Wed Mar 12 22:49:43 +0000 2025",
+      "text": "If you're going to break compatibility with the L1, you should offer new, interesting features like ..."
+    },
+    {
+      "index": 40,
+      "id": "1899955774111330509",
+      "createdAt": "Wed Mar 12 22:48:50 +0000 2025",
+      "text": "@Ismael_H_R @alignedlayer congrats for the zkML results too, they look impressive. I didn't have tim..."
+    },
+    {
+      "index": 41,
+      "id": "1899954270860165469",
+      "createdAt": "Wed Mar 12 22:42:52 +0000 2025",
+      "text": "Ethrex already doing 1 gigagas as an L2. We need to fix a few things to make it sustainable. When 5 ..."
+    },
+    {
+      "index": 42,
+      "id": "1899953922120573164",
+      "createdAt": "Wed Mar 12 22:41:29 +0000 2025",
+      "text": "@pumatheuma congrats, the results are impressive and they get better by the week."
+    },
+    {
+      "index": 43,
+      "id": "1899951274424230124",
+      "createdAt": "Wed Mar 12 22:30:57 +0000 2025",
+      "text": "url: https://t.co/CRNOSWkql7"
+    },
+    {
+      "index": 44,
+      "id": "1899951269714026946",
+      "createdAt": "Wed Mar 12 22:30:56 +0000 2025",
+      "text": "url: https://t.co/jDnZ69roMs"
+    },
+    {
+      "index": 45,
+      "id": "1899951264542449820",
+      "createdAt": "Wed Mar 12 22:30:55 +0000 2025",
+      "text": "My partners at @alignedlayer have created a webpage called ZK Benchmarks. A few days ago, I shared i..."
+    },
+    {
+      "index": 46,
+      "id": "1899948467096871298",
+      "createdAt": "Wed Mar 12 22:19:48 +0000 2025",
+      "text": "@ayyyeandy I wished."
+    },
+    {
+      "index": 47,
+      "id": "1899919022470422612",
+      "createdAt": "Wed Mar 12 20:22:48 +0000 2025",
+      "text": "I’m just gonna leave this here as a public commitment. https://t.co/rsPGNkq8VA"
+    },
+    {
+      "index": 48,
+      "id": "1899911447934591239",
+      "createdAt": "Wed Mar 12 19:52:42 +0000 2025",
+      "text": "@NicolasRamsrud no, writing it."
+    },
+    {
+      "index": 49,
+      "id": "1899909791775944917",
+      "createdAt": "Wed Mar 12 19:46:07 +0000 2025",
+      "text": "@NicolasRamsrud we have a few solutions. check the whitepaper."
+    },
+    {
+      "index": 50,
+      "id": "1899844252886245412",
+      "createdAt": "Wed Mar 12 15:25:41 +0000 2025",
+      "text": "1. I would take this opportunity to talk about based rollups too that don’t need a hard fork\n2. I wo..."
+    },
+    {
+      "index": 51,
+      "id": "1899798446971769191",
+      "createdAt": "Wed Mar 12 12:23:40 +0000 2025",
+      "text": "@ayyyeandy once you have an ETF, decentralization doesn’t matter. that’s what investors told me."
+    },
+    {
+      "index": 52,
+      "id": "1899796464575869016",
+      "createdAt": "Wed Mar 12 12:15:48 +0000 2025",
+      "text": "@sam_battenally indeed"
+    },
+    {
+      "index": 53,
+      "id": "1899788949557481703",
+      "createdAt": "Wed Mar 12 11:45:56 +0000 2025",
+      "text": "@nixorokish my point is that they make things more complicated than needed, not that I don't underst..."
+    },
+    {
+      "index": 54,
+      "id": "1899618524735086753",
+      "createdAt": "Wed Mar 12 00:28:44 +0000 2025",
+      "text": "@bkase_ congrats Brandon. this is good for Mina."
+    },
+    {
+      "index": 55,
+      "id": "1899618327674184155",
+      "createdAt": "Wed Mar 12 00:27:57 +0000 2025",
+      "text": "We're gonna mine Rogue in Paraguay. Who is in?"
+    },
+    {
+      "index": 56,
+      "id": "1899605623613886480",
+      "createdAt": "Tue Mar 11 23:37:28 +0000 2025",
+      "text": "Just read this by @taikoxyz. Great thread."
+    },
+    {
+      "index": 57,
+      "id": "1899604667673292855",
+      "createdAt": "Tue Mar 11 23:33:40 +0000 2025",
+      "text": "I want to see Cairo Native working in production of @Starknet. Incoming cheapest L2 of Bitcoin and E..."
+    },
+    {
+      "index": 58,
+      "id": "1899573371001610365",
+      "createdAt": "Tue Mar 11 21:29:18 +0000 2025",
+      "text": "@sergitosergito @hosseeb @BanklessHQ most of the jobs people have are shitty and many dream to go ba..."
+    },
+    {
+      "index": 59,
+      "id": "1899573002238394790",
+      "createdAt": "Tue Mar 11 21:27:50 +0000 2025",
+      "text": "@iwantlamboape Yes"
+    },
+    {
+      "index": 60,
+      "id": "1899570556493607203",
+      "createdAt": "Tue Mar 11 21:18:07 +0000 2025",
+      "text": "Rogue will be the first usecase for prover networks."
+    },
+    {
+      "index": 61,
+      "id": "1899570320358416768",
+      "createdAt": "Tue Mar 11 21:17:11 +0000 2025",
+      "text": "I finally solved Rogue design problems. Whitepaper incoming. Mainnet in a few months."
+    },
+    {
+      "index": 62,
+      "id": "1899559652922151132",
+      "createdAt": "Tue Mar 11 20:34:48 +0000 2025",
+      "text": "@ETazou congrats! any performance metrics?"
+    },
+    {
+      "index": 63,
+      "id": "1899559483744874738",
+      "createdAt": "Tue Mar 11 20:34:07 +0000 2025",
+      "text": "I tend to forget but when I listen to @EliBenSasson I remember why he brings me joy. He gives me hop..."
+    },
+    {
+      "index": 64,
+      "id": "1899558790367773076",
+      "createdAt": "Tue Mar 11 20:31:22 +0000 2025",
+      "text": "@mikojava @rjdrost and kind in an industry of crazy people"
+    },
+    {
+      "index": 65,
+      "id": "1899558511085764718",
+      "createdAt": "Tue Mar 11 20:30:15 +0000 2025",
+      "text": "@SuccinctLabs 👋"
+    },
+    {
+      "index": 66,
+      "id": "1899557994687570097",
+      "createdAt": "Tue Mar 11 20:28:12 +0000 2025",
+      "text": "I really like this space for different reasons:\n1. It shows @Starknet and @starkware are always push..."
+    },
+    {
+      "index": 67,
+      "id": "1899557702738559029",
+      "createdAt": "Tue Mar 11 20:27:03 +0000 2025",
+      "text": "I tend to agree but I think there are some projects doing well in the engineering sense or at least ..."
+    },
+    {
+      "index": 68,
+      "id": "1899557381341643222",
+      "createdAt": "Tue Mar 11 20:25:46 +0000 2025",
+      "text": "@StanfordSBA @swillinger @elkun_peng @gilswrld @StanfordCrypto @theBBFund KUN BOTON"
+    },
+    {
+      "index": 69,
+      "id": "1899557342691094764",
+      "createdAt": "Tue Mar 11 20:25:37 +0000 2025",
+      "text": "I didn't watch the talk yet, gonna do so now. I had a few deep conversations with @rjdrost that were..."
+    },
+    {
+      "index": 70,
+      "id": "1899555703624229142",
+      "createdAt": "Tue Mar 11 20:19:06 +0000 2025",
+      "text": "one of the strangest tweets I've seen this week and I've seen many. https://t.co/utN76OPrJe"
+    },
+    {
+      "index": 71,
+      "id": "1899548440696148373",
+      "createdAt": "Tue Mar 11 19:50:14 +0000 2025",
+      "text": "I ate too much sugar 😅"
+    },
+    {
+      "index": 72,
+      "id": "1899547922011770960",
+      "createdAt": "Tue Mar 11 19:48:11 +0000 2025",
+      "text": "@0xBalloonLover He didn't say this is the best example of a product using Eigen.\n\nEven if he did, th..."
+    },
+    {
+      "index": 73,
+      "id": "1899525352424382480",
+      "createdAt": "Tue Mar 11 18:18:30 +0000 2025",
+      "text": "people were too pessimistic and now too optimistic. it’s gonna take a year and a half or two to see ..."
+    },
+    {
+      "index": 74,
+      "id": "1899523779761475696",
+      "createdAt": "Tue Mar 11 18:12:15 +0000 2025",
+      "text": "@pumatheuma @pumatheuma i just realized that we might be talking about different things.\n\nwith 20 gp..."
+    },
+    {
+      "index": 75,
+      "id": "1899504023352275445",
+      "createdAt": "Tue Mar 11 16:53:44 +0000 2025",
+      "text": "@pumatheuma from changes and measurements we have been doing with circle STARKs.\n\nCPU is already pub..."
+    },
+    {
+      "index": 76,
+      "id": "1899502491819028576",
+      "createdAt": "Tue Mar 11 16:47:39 +0000 2025",
+      "text": "@0xAbix @pumatheuma no"
+    },
+    {
+      "index": 77,
+      "id": "1899476307919905145",
+      "createdAt": "Tue Mar 11 15:03:37 +0000 2025",
+      "text": "I agree with everything but one thing: you only need 20 gamer GPUs to prove Ethereum real time. Less..."
+    },
+    {
+      "index": 78,
+      "id": "1899461658545721733",
+      "createdAt": "Tue Mar 11 14:05:24 +0000 2025",
+      "text": "@tarrenceva @cartridge_gg @getclave it’s crazy nobody is referencing this"
+    },
+    {
+      "index": 79,
+      "id": "1899457135282360349",
+      "createdAt": "Tue Mar 11 13:47:25 +0000 2025",
+      "text": "@mikojava I am big fan of redundancy. I am not a big fan of making things more complicated to look s..."
+    },
+    {
+      "index": 80,
+      "id": "1899456949369848014",
+      "createdAt": "Tue Mar 11 13:46:41 +0000 2025",
+      "text": "@fabgenovese @oliverbeige could you explain why the protocol would become shit with execution ticket..."
+    },
+    {
+      "index": 81,
+      "id": "1899456750761238996",
+      "createdAt": "Tue Mar 11 13:45:54 +0000 2025",
+      "text": "@fabgenovese @oliverbeige what do you think are the repercussions?"
+    },
+    {
+      "index": 82,
+      "id": "1899448799942066245",
+      "createdAt": "Tue Mar 11 13:14:18 +0000 2025",
+      "text": "@Narodism I agree. I don't believe things will change in any way. They didn't change till now, they ..."
+    },
+    {
+      "index": 83,
+      "id": "1899447374524658102",
+      "createdAt": "Tue Mar 11 13:08:38 +0000 2025",
+      "text": "it's incredible. our solution will be to add more engineers to it with decades of experience deliver..."
+    },
+    {
+      "index": 84,
+      "id": "1899444055202730333",
+      "createdAt": "Tue Mar 11 12:55:27 +0000 2025",
+      "text": "the more I read ethresearch posts the more I think ethereum loves complexity for the sake of it. thi..."
+    },
+    {
+      "index": 85,
+      "id": "1899443295815618928",
+      "createdAt": "Tue Mar 11 12:52:26 +0000 2025",
+      "text": "@dimahledba what is this. tell me!"
+    },
+    {
+      "index": 86,
+      "id": "1899442442559963426",
+      "createdAt": "Tue Mar 11 12:49:02 +0000 2025",
+      "text": "url: https://t.co/q8AI6s0Mn2"
+    },
+    {
+      "index": 87,
+      "id": "1899442439460450755",
+      "createdAt": "Tue Mar 11 12:49:02 +0000 2025",
+      "text": "Good post to understand the history of MEV and Execution tickets.\n\nSome day I will try to write an e..."
+    },
+    {
+      "index": 88,
+      "id": "1899440243415097760",
+      "createdAt": "Tue Mar 11 12:40:18 +0000 2025",
+      "text": "Who were the first ones to use passkeys @cartridge_gg @getclave and then ithaca?"
+    },
+    {
+      "index": 89,
+      "id": "1899421579953439043",
+      "createdAt": "Tue Mar 11 11:26:08 +0000 2025",
+      "text": "I'm sick with a strong cold. Sorry for missing messages and notifications. As soon as I get back on ..."
+    },
+    {
+      "index": 90,
+      "id": "1899264169351811285",
+      "createdAt": "Tue Mar 11 01:00:39 +0000 2025",
+      "text": "@ekang426 @ilblackdragon @VitalikButerin FOMO"
+    },
+    {
+      "index": 91,
+      "id": "1899212879951483118",
+      "createdAt": "Mon Mar 10 21:36:50 +0000 2025",
+      "text": "Whenever you have a winner take all these are two great strategies: tickets or auctions. https://t.c..."
+    },
+    {
+      "index": 92,
+      "id": "1899205288982384936",
+      "createdAt": "Mon Mar 10 21:06:41 +0000 2025",
+      "text": "@doganeth_en @class_lambda prepare yourself to read rogue whitepaper dogan!"
+    },
+    {
+      "index": 93,
+      "id": "1899188349702688806",
+      "createdAt": "Mon Mar 10 19:59:22 +0000 2025",
+      "text": "@dohpe_ disagree"
+    },
+    {
+      "index": 94,
+      "id": "1899152293569626123",
+      "createdAt": "Mon Mar 10 17:36:05 +0000 2025",
+      "text": "@heavenlypulse agree"
+    },
+    {
+      "index": 95,
+      "id": "1899147570544329124",
+      "createdAt": "Mon Mar 10 17:17:19 +0000 2025",
+      "text": "url: https://t.co/NQcg9mFSU7"
+    },
+    {
+      "index": 96,
+      "id": "1899147567272743269",
+      "createdAt": "Mon Mar 10 17:17:19 +0000 2025",
+      "text": "Incoming Rogue whitepaper. Join the community. https://t.co/CHE5KnCfSR"
+    },
+    {
+      "index": 97,
+      "id": "1899147043165131191",
+      "createdAt": "Mon Mar 10 17:15:14 +0000 2025",
+      "text": "There is no reason why testnets in Ethereum need to be different to mainnet. \n\nThe reason I keep hea..."
+    },
+    {
+      "index": 98,
+      "id": "1899074012954697837",
+      "createdAt": "Mon Mar 10 12:25:02 +0000 2025",
+      "text": "@sam_battenally @gluk64 @zksync exactly, that's what I told Alex. I am open to debate this publicly ..."
+    },
+    {
+      "index": 99,
+      "id": "1899073799514997003",
+      "createdAt": "Mon Mar 10 12:24:11 +0000 2025",
+      "text": "Bitcoin and Ethereum solve this. https://t.co/6uqhesblBA"
+    },
+    {
+      "index": 100,
+      "id": "1899067871730262431",
+      "createdAt": "Mon Mar 10 12:00:38 +0000 2025",
+      "text": "@RuneKek bullish Sky"
+    },
+    {
+      "index": 101,
+      "id": "1899051717057970561",
+      "createdAt": "Mon Mar 10 10:56:26 +0000 2025",
+      "text": "The market will realise with time that @eigenlayer has amazing teams building on top of it."
+    },
+    {
+      "index": 102,
+      "id": "1898895335621112044",
+      "createdAt": "Mon Mar 10 00:35:02 +0000 2025",
+      "text": "One of the many reasons why Proof of Work is successful is because it's the easiest way to burn ener..."
+    },
+    {
+      "index": 103,
+      "id": "1898887354498285965",
+      "createdAt": "Mon Mar 10 00:03:19 +0000 2025",
+      "text": "Neptune mining and checking the price in this strange exchange.\nPablo is playing some music meanwhil..."
+    },
+    {
+      "index": 104,
+      "id": "1898852342746739108",
+      "createdAt": "Sun Mar 09 21:44:12 +0000 2025",
+      "text": "This is the most interesting crypto chat I’ve been in a few years. Real price action and organic com..."
+    },
+    {
+      "index": 105,
+      "id": "1898762405540176294",
+      "createdAt": "Sun Mar 09 15:46:49 +0000 2025",
+      "text": "tell me you live in europe or US:"
+    },
+    {
+      "index": 106,
+      "id": "1898736949273215125",
+      "createdAt": "Sun Mar 09 14:05:40 +0000 2025",
+      "text": "re read my tweet and forgot the verb in the first sentence lol"
+    },
+    {
+      "index": 107,
+      "id": "1898720019611046135",
+      "createdAt": "Sun Mar 09 12:58:23 +0000 2025",
+      "text": "I can't agree more with @_weidai. The more he writes the more I realize we think similarly in many w..."
+    },
+    {
+      "index": 108,
+      "id": "1898716822385406052",
+      "createdAt": "Sun Mar 09 12:45:41 +0000 2025",
+      "text": "@_weidai I agree with almost everything you write Wei, lol"
+    },
+    {
+      "index": 109,
+      "id": "1898715274284528102",
+      "createdAt": "Sun Mar 09 12:39:32 +0000 2025",
+      "text": "telegram: https://t.co/RSLUVUpSXp"
+    },
+    {
+      "index": 110,
+      "id": "1898714999092097470",
+      "createdAt": "Sun Mar 09 12:38:26 +0000 2025",
+      "text": "url: https://t.co/iiDdQkml97"
+    },
+    {
+      "index": 111,
+      "id": "1898714997573751020",
+      "createdAt": "Sun Mar 09 12:38:26 +0000 2025",
+      "text": "🚀Ethrex Ethereum Client: Big Moves Incoming \n\n🔥Preparing for Performance Improvement\nIn the coming..."
+    },
+    {
+      "index": 112,
+      "id": "1898702641254838502",
+      "createdAt": "Sun Mar 09 11:49:20 +0000 2025",
+      "text": "url: https://t.co/FirVFgDcmC"
+    },
+    {
+      "index": 113,
+      "id": "1898702639359049904",
+      "createdAt": "Sun Mar 09 11:49:20 +0000 2025",
+      "text": "Lambdaworks keeps on improving. 660 Stars already! https://t.co/1UNVFPyxIb"
+    },
+    {
+      "index": 114,
+      "id": "1898702012880961751",
+      "createdAt": "Sun Mar 09 11:46:50 +0000 2025",
+      "text": "url: https://t.co/GvoReYwCnA"
+    },
+    {
+      "index": 115,
+      "id": "1898702009915572615",
+      "createdAt": "Sun Mar 09 11:46:49 +0000 2025",
+      "text": "I really like what Neptune is doing for the proving. https://t.co/MMPVW14whj"
+    },
+    {
+      "index": 116,
+      "id": "1898700142779215953",
+      "createdAt": "Sun Mar 09 11:39:24 +0000 2025",
+      "text": "I plan on going with my team on hours stream to show this."
+    },
+    {
+      "index": 117,
+      "id": "1898700041977577923",
+      "createdAt": "Sun Mar 09 11:39:00 +0000 2025",
+      "text": "https://t.co/GvoReYwCnA"
+    },
+    {
+      "index": 118,
+      "id": "1898700040144605257",
+      "createdAt": "Sun Mar 09 11:39:00 +0000 2025",
+      "text": "Preimage search is stateless, and therefore this step is a Poisson process allocating the expectatio..."
+    },
+    {
+      "index": 119,
+      "id": "1898693808688140580",
+      "createdAt": "Sun Mar 09 11:14:14 +0000 2025",
+      "text": "url: https://t.co/Q94Qs8fcOC"
+    },
+    {
+      "index": 120,
+      "id": "1898693756473225579",
+      "createdAt": "Sun Mar 09 11:14:02 +0000 2025",
+      "text": "I've just learnt that Neptune Cash, a privacy oriented L1 with programability thanks to proving via ..."
+    },
+    {
+      "index": 121,
+      "id": "1898693221493936355",
+      "createdAt": "Sun Mar 09 11:11:54 +0000 2025",
+      "text": "hard disagree. geth codebase is written with good engineer practices. reth actually is way more comp..."
+    },
+    {
+      "index": 122,
+      "id": "1898693206344171796",
+      "createdAt": "Sun Mar 09 11:11:51 +0000 2025",
+      "text": "@lostbutlucky @ameensol @Optimism hard disagree. geth codebase is written with good engineer practic..."
+    },
+    {
+      "index": 123,
+      "id": "1898692995362230636",
+      "createdAt": "Sun Mar 09 11:11:00 +0000 2025",
+      "text": "@ameensol @RandomCTGuy @Optimism they are going to use it"
+    },
+    {
+      "index": 124,
+      "id": "1898690118409719974",
+      "createdAt": "Sun Mar 09 10:59:34 +0000 2025",
+      "text": "OP_ethrex.\n\nCheck in 2-3 months. It's gonna be obvious while looking back."
+    },
+    {
+      "index": 125,
+      "id": "1898690027745370138",
+      "createdAt": "Sun Mar 09 10:59:13 +0000 2025",
+      "text": "@ameensol @Optimism OP_ethrex. check in a few weeks!"
+    },
+    {
+      "index": 126,
+      "id": "1898552046971740628",
+      "createdAt": "Sun Mar 09 01:50:56 +0000 2025",
+      "text": "bitcoin"
+    },
+    {
+      "index": 127,
+      "id": "1898541371658756100",
+      "createdAt": "Sun Mar 09 01:08:30 +0000 2025",
+      "text": "@0xMarcB lol wtf"
+    },
+    {
+      "index": 128,
+      "id": "1898525396611600563",
+      "createdAt": "Sun Mar 09 00:05:02 +0000 2025",
+      "text": "Our wheelchair company is doing more revenue than 99% of the crypto industry.\n\nWould you buy a token..."
+    },
+    {
+      "index": 129,
+      "id": "1898500726805930305",
+      "createdAt": "Sat Mar 08 22:27:00 +0000 2025",
+      "text": "I really like this initiative by @SuccinctLabs. Trace generation is the big bottleneck long term. Th..."
+    },
+    {
+      "index": 130,
+      "id": "1898498269480698354",
+      "createdAt": "Sat Mar 08 22:17:14 +0000 2025",
+      "text": "fundamentals will win."
+    },
+    {
+      "index": 131,
+      "id": "1898450255881916779",
+      "createdAt": "Sat Mar 08 19:06:27 +0000 2025",
+      "text": "Never compromise. Not even in the face of armageddon."
+    },
+    {
+      "index": 132,
+      "id": "1898441014810947940",
+      "createdAt": "Sat Mar 08 18:29:43 +0000 2025",
+      "text": "Valida is doing great work!"
+    },
+    {
+      "index": 133,
+      "id": "1898422812873773316",
+      "createdAt": "Sat Mar 08 17:17:24 +0000 2025",
+      "text": "@DCbuild3r @LucidSamuel_ @portport255 i agree. if there are no insults for me it’s more than enough ..."
+    },
+    {
+      "index": 134,
+      "id": "1898422677276131595",
+      "createdAt": "Sat Mar 08 17:16:51 +0000 2025",
+      "text": "Ethereum needs to embrace open debate. Every time there is a debate people from the community wants ..."
+    },
+    {
+      "index": 135,
+      "id": "1898421284104802769",
+      "createdAt": "Sat Mar 08 17:11:19 +0000 2025",
+      "text": "@LucidSamuel_ @DCbuild3r @portport255 called"
+    },
+    {
+      "index": 136,
+      "id": "1898421241129640207",
+      "createdAt": "Sat Mar 08 17:11:09 +0000 2025",
+      "text": "@LucidSamuel_ @DCbuild3r @portport255 why it isn’t good? it’s good. it’s call debate. accept it. eth..."
+    },
+    {
+      "index": 137,
+      "id": "1898420907518878122",
+      "createdAt": "Sat Mar 08 17:09:49 +0000 2025",
+      "text": "@l2beat we will need your help to make sure we’re doing things correctly"
+    },
+    {
+      "index": 138,
+      "id": "1898420327064961347",
+      "createdAt": "Sat Mar 08 17:07:31 +0000 2025",
+      "text": "We just closed a deal where multiple million people will get payed over an @ethereum L2 that will be..."
+    },
+    {
+      "index": 139,
+      "id": "1898414691480707280",
+      "createdAt": "Sat Mar 08 16:45:07 +0000 2025",
+      "text": "Silent moves, loud results. https://t.co/YrnwDC8uay"
+    },
+    {
+      "index": 140,
+      "id": "1898345088897446337",
+      "createdAt": "Sat Mar 08 12:08:33 +0000 2025",
+      "text": "Manus is pretty cool. Learnt about it yesterday.\n\nPolitics aside, it’s undeniable: China has amazing..."
+    },
+    {
+      "index": 141,
+      "id": "1898300985463779519",
+      "createdAt": "Sat Mar 08 09:13:18 +0000 2025",
+      "text": "@Chiro8x @alignedlayer yes"
+    },
+    {
+      "index": 142,
+      "id": "1898186068836360419",
+      "createdAt": "Sat Mar 08 01:36:40 +0000 2025",
+      "text": "This is exactly what’s gonna happen with most zkvm prover networks."
+    },
+    {
+      "index": 143,
+      "id": "1898149778992603440",
+      "createdAt": "Fri Mar 07 23:12:27 +0000 2025",
+      "text": "@sjors_lemniscap @PranitGarg agree the tech is top notch"
+    },
+    {
+      "index": 144,
+      "id": "1898149733048500260",
+      "createdAt": "Fri Mar 07 23:12:16 +0000 2025",
+      "text": "@PranitGarg 1. amount of forks in this period of time\n2. amount of starks\n3. check the usernames and..."
+    },
+    {
+      "index": 145,
+      "id": "1898136597788241927",
+      "createdAt": "Fri Mar 07 22:20:05 +0000 2025",
+      "text": "@TrustlessState you were right. i didn’t know that in the US you have to ask for permission to do an..."
+    },
+    {
+      "index": 146,
+      "id": "1898116215903539488",
+      "createdAt": "Fri Mar 07 20:59:05 +0000 2025",
+      "text": "@ameensol welcome to argentina"
+    },
+    {
+      "index": 147,
+      "id": "1898111763675267131",
+      "createdAt": "Fri Mar 07 20:41:24 +0000 2025",
+      "text": "@hotpot_dao @nima_vaziri fully agree"
+    },
+    {
+      "index": 148,
+      "id": "1898107355985850768",
+      "createdAt": "Fri Mar 07 20:23:53 +0000 2025",
+      "text": "@calilyliu @aeyakovenko @KyleSamani haha nice to see toly in a suit"
+    },
+    {
+      "index": 149,
+      "id": "1898077378938536300",
+      "createdAt": "Fri Mar 07 18:24:46 +0000 2025",
+      "text": "Amazing results by @NousResearch. Incredible team."
+    },
+    {
+      "index": 150,
+      "id": "1898021893501780266",
+      "createdAt": "Fri Mar 07 14:44:17 +0000 2025",
+      "text": "Optimism doesn't make money with the OP Stack. The OP Stack is just distribution. The connection to ..."
+    },
+    {
+      "index": 151,
+      "id": "1898018512582406434",
+      "createdAt": "Fri Mar 07 14:30:51 +0000 2025",
+      "text": "repo: https://t.co/CRNOSWjSvz\nweb: https://t.co/jDnZ69qQWU"
+    },
+    {
+      "index": 152,
+      "id": "1898018509705105529",
+      "createdAt": "Fri Mar 07 14:30:50 +0000 2025",
+      "text": "With @alignedlayer we're working on a RISC-V zkVM reproducible benchmark. Every team will be able to..."
+    },
+    {
+      "index": 153,
+      "id": "1898012373685858805",
+      "createdAt": "Fri Mar 07 14:06:27 +0000 2025",
+      "text": "Rogue: 0%"
+    },
+    {
+      "index": 154,
+      "id": "1898011464901787716",
+      "createdAt": "Fri Mar 07 14:02:51 +0000 2025",
+      "text": "@diego_aligned @alignedlayer cadore is the best place to go"
+    },
+    {
+      "index": 155,
+      "id": "1898011338342895649",
+      "createdAt": "Fri Mar 07 14:02:21 +0000 2025",
+      "text": "@super_projects @ethereumfndn @Commit_Boost @peter_szilagyi @martin_holst we will start by doing tha..."
+    },
+    {
+      "index": 156,
+      "id": "1898002205292073301",
+      "createdAt": "Fri Mar 07 13:26:03 +0000 2025",
+      "text": "Quick question @ethereumfndn: we want to add 3 full time good engineers to the development of geth. ..."
+    },
+    {
+      "index": 157,
+      "id": "1898001566063374480",
+      "createdAt": "Fri Mar 07 13:23:31 +0000 2025",
+      "text": "for sure, we will stream for hours examples in streams and explain things in blog posts as we always..."
+    },
+    {
+      "index": 158,
+      "id": "1898000397953860044",
+      "createdAt": "Fri Mar 07 13:18:52 +0000 2025",
+      "text": "I agree with @lightclients.\n\nThe biggest issue I have with the take over of every part of the @ether..."
+    },
+    {
+      "index": 159,
+      "id": "1897997913436872978",
+      "createdAt": "Fri Mar 07 13:09:00 +0000 2025",
+      "text": "Agree, there are only a few exceptions."
+    },
+    {
+      "index": 160,
+      "id": "1897988108370522408",
+      "createdAt": "Fri Mar 07 12:30:02 +0000 2025",
+      "text": "414 forks with a new VM. why this industry is so retarded"
+    },
+    {
+      "index": 161,
+      "id": "1897987938027278838",
+      "createdAt": "Fri Mar 07 12:29:21 +0000 2025",
+      "text": "@LucidSamuel_ yes"
+    },
+    {
+      "index": 162,
+      "id": "1897978299399262335",
+      "createdAt": "Fri Mar 07 11:51:03 +0000 2025",
+      "text": "this is a story told by Charly García, my favorite musician. Love you Charly."
+    },
+    {
+      "index": 163,
+      "id": "1897978295582703642",
+      "createdAt": "Fri Mar 07 11:51:03 +0000 2025",
+      "text": "People who take a chance might get knocked down hard, but they also have a shot at standing tall and..."
+    },
+    {
+      "index": 164,
+      "id": "1897974704188600477",
+      "createdAt": "Fri Mar 07 11:36:46 +0000 2025",
+      "text": "@adam_winnick @hosseeb @ondo @ethena_labs we wanted to do what @hosseeb proposed but regulatory wise..."
+    },
+    {
+      "index": 165,
+      "id": "1897969780339961939",
+      "createdAt": "Fri Mar 07 11:17:12 +0000 2025",
+      "text": "@donnoh_eth it is, there a few projects doing it."
+    },
+    {
+      "index": 166,
+      "id": "1897969692989325581",
+      "createdAt": "Fri Mar 07 11:16:52 +0000 2025",
+      "text": "@mikojava I read it and I was thinking the same. This industry is a joke."
+    },
+    {
+      "index": 167,
+      "id": "1897968970960883839",
+      "createdAt": "Fri Mar 07 11:13:59 +0000 2025",
+      "text": "@0xBalloonLover you should try ethrex, about to be much faster and clean."
+    }
+  ]
+}

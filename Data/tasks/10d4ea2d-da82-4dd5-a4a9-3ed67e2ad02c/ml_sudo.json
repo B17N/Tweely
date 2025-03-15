@@ -1,0 +1,4230 @@
+{
+  "username": "ml_sudo",
+  "fetchedAt": "2025-03-15T15:55:31.356Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 01:07:00 +0000 2025",
+      "conversation_id_str": "1900715320542634177",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Yn0yF1Jvtc",
+            "expanded_url": "https://x.com/ml_sudo/status/1900715320542634177/photo/1",
+            "id_str": "1900715313123258369",
+            "indices": [
+              62,
+              85
+            ],
+            "media_key": "3_1900715313123258369",
+            "media_url_https": "https://pbs.twimg.com/media/GmCygcHbcAE0_Ah.jpg",
+            "type": "photo",
+            "url": "https://t.co/Yn0yF1Jvtc",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 415,
+                "w": 739,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 415,
+                "w": 739,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 382,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 415,
+              "width": 739,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 739,
+                  "h": 414
+                },
+                {
+                  "x": 162,
+                  "y": 0,
+                  "w": 415,
+                  "h": 415
+                },
+                {
+                  "x": 187,
+                  "y": 0,
+                  "w": 364,
+                  "h": 415
+                },
+                {
+                  "x": 265,
+                  "y": 0,
+                  "w": 208,
+                  "h": 415
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 739,
+                  "h": 415
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900715313123258369"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Yn0yF1Jvtc",
+            "expanded_url": "https://x.com/ml_sudo/status/1900715320542634177/photo/1",
+            "id_str": "1900715313123258369",
+            "indices": [
+              62,
+              85
+            ],
+            "media_key": "3_1900715313123258369",
+            "media_url_https": "https://pbs.twimg.com/media/GmCygcHbcAE0_Ah.jpg",
+            "type": "photo",
+            "url": "https://t.co/Yn0yF1Jvtc",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 415,
+                "w": 739,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 415,
+                "w": 739,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 382,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 415,
+              "width": 739,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 739,
+                  "h": 414
+                },
+                {
+                  "x": 162,
+                  "y": 0,
+                  "w": 415,
+                  "h": 415
+                },
+                {
+                  "x": 187,
+                  "y": 0,
+                  "w": 364,
+                  "h": 415
+                },
+                {
+                  "x": 265,
+                  "y": 0,
+                  "w": 208,
+                  "h": 415
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 739,
+                  "h": 415
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900715313123258369"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "Professionalize boards in crypto\n\nPlease. Or we’re all doomed https://t.co/Yn0yF1Jvtc",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900715320542634177",
+      "url": "https://x.com/ml_sudo/status/1900715320542634177",
+      "views_count": "758",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 00:51:32 +0000 2025",
+      "conversation_id_str": "1900711425984573926",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1413088055162978306",
+            "name": "L2BEAT 💗",
+            "screen_name": "l2beat",
+            "indices": [
+              101,
+              108
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "You know how we say “Uber for X” as shorthand for anything that is a marketplace that works well? \n\n“@l2beat for X” is totally a thing\n\nHat tip to the team",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900711425984573926",
+      "url": "https://x.com/ml_sudo/status/1900711425984573926",
+      "views_count": "586",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 00:02:13 +0000 2025",
+      "conversation_id_str": "1900393373812523509",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "767119245851459584",
+            "name": "danning.eth⚡️🤖",
+            "screen_name": "sui414",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@sui414 Same!!! Just a few days ago I gave up on MM",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900699015664050538",
+      "url": "https://x.com/ml_sudo/status/1900699015664050538",
+      "views_count": "59",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 23:39:31 +0000 2025",
+      "conversation_id_str": "1900693305404330183",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/wPNhJT4Exo",
+            "expanded_url": "https://x.com/ml_sudo/status/1900693305404330183/photo/1",
+            "id_str": "1900693287284977665",
+            "indices": [
+              44,
+              67
+            ],
+            "media_key": "3_1900693287284977665",
+            "media_url_https": "https://pbs.twimg.com/media/GmCeeXeXMAEx-F5.jpg",
+            "type": "photo",
+            "url": "https://t.co/wPNhJT4Exo",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 338,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 512,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900693287284977665"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/wPNhJT4Exo",
+            "expanded_url": "https://x.com/ml_sudo/status/1900693305404330183/photo/1",
+            "id_str": "1900693287284977665",
+            "indices": [
+              44,
+              67
+            ],
+            "media_key": "3_1900693287284977665",
+            "media_url_https": "https://pbs.twimg.com/media/GmCeeXeXMAEx-F5.jpg",
+            "type": "photo",
+            "url": "https://t.co/wPNhJT4Exo",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 338,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 512,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900693287284977665"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "fortune cookie parking, only in Chinatown 😆 https://t.co/wPNhJT4Exo",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900693305404330183",
+      "url": "https://x.com/ml_sudo/status/1900693305404330183",
+      "views_count": "171",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:11:39 +0000 2025",
+      "conversation_id_str": "1900610793424515201",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "“I want a team where the designer can critique marketing and everyone walks away thinking 'that was fun,' not political.\"\n\nMy kind of org\n\nNeed to select coworkers for thick skin tho",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900610793424515201",
+      "url": "https://x.com/ml_sudo/status/1900610793424515201",
+      "views_count": "236",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 15:36:54 +0000 2025",
+      "conversation_id_str": "1900571851560022342",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "Just watched a podcast where someone let manus create a locally deployed app which involved auto unzipping files and executing them. From a single prompt “create a DocuSign clone”\n\nAre y’all crazy or wat",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900571851560022342",
+      "url": "https://x.com/ml_sudo/status/1900571851560022342",
+      "views_count": "125",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 02:11:43 +0000 2025",
+      "conversation_id_str": "1900365997158146190",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1176313487984930816",
+            "name": "Patrick Collins",
+            "screen_name": "PatrickAlphaC",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "8467082",
+            "name": "Safe.eth",
+            "screen_name": "safe",
+            "indices": [
+              15,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@PatrickAlphaC @safe Yeah I did not understand that point",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900369218409029789",
+      "url": "https://x.com/ml_sudo/status/1900369218409029789",
+      "views_count": "424",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 00:19:24 +0000 2025",
+      "conversation_id_str": "1900340951157268973",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/rsCOfKhaKE",
+            "expanded_url": "https://x.com/ml_sudo/status/1900340951157268973/photo/1",
+            "id_str": "1900340941950701568",
+            "indices": [
+              281,
+              304
+            ],
+            "media_key": "3_1900340941950701568",
+            "media_url_https": "https://pbs.twimg.com/media/Gl9eBK0aUAACAiv.jpg",
+            "type": "photo",
+            "url": "https://t.co/rsCOfKhaKE",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1342,
+                    "y": 776,
+                    "h": 78,
+                    "w": 78
+                  },
+                  {
+                    "x": 628,
+                    "y": 794,
+                    "h": 90,
+                    "w": 90
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 786,
+                    "y": 454,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 367,
+                    "y": 465,
+                    "h": 52,
+                    "w": 52
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 445,
+                    "y": 257,
+                    "h": 25,
+                    "w": 25
+                  },
+                  {
+                    "x": 208,
+                    "y": 263,
+                    "h": 29,
+                    "w": 29
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1342,
+                    "y": 776,
+                    "h": 78,
+                    "w": 78
+                  },
+                  {
+                    "x": 628,
+                    "y": 794,
+                    "h": 90,
+                    "w": 90
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 389,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900340941950701568"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/rsCOfKhaKE",
+            "expanded_url": "https://x.com/ml_sudo/status/1900340951157268973/photo/1",
+            "id_str": "1900340941950701568",
+            "indices": [
+              281,
+              304
+            ],
+            "media_key": "3_1900340941950701568",
+            "media_url_https": "https://pbs.twimg.com/media/Gl9eBK0aUAACAiv.jpg",
+            "type": "photo",
+            "url": "https://t.co/rsCOfKhaKE",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1342,
+                    "y": 776,
+                    "h": 78,
+                    "w": 78
+                  },
+                  {
+                    "x": 628,
+                    "y": 794,
+                    "h": 90,
+                    "w": 90
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 786,
+                    "y": 454,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 367,
+                    "y": 465,
+                    "h": 52,
+                    "w": 52
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 445,
+                    "y": 257,
+                    "h": 25,
+                    "w": 25
+                  },
+                  {
+                    "x": 208,
+                    "y": 263,
+                    "h": 29,
+                    "w": 29
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1342,
+                    "y": 776,
+                    "h": 78,
+                    "w": 78
+                  },
+                  {
+                    "x": 628,
+                    "y": 794,
+                    "h": 90,
+                    "w": 90
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 389,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900340941950701568"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "V: how do you make open source work with your business model? \n\nPanelists:\n* it’s very hard, trying to figure it out \n* George hotz strategy of selling something for more than it costs\n* open source itself is not a moat. Need to figure it out\n* marine biology has the concept of a whale fall: when a fall passes, its carcass creates a massive beautiful ecosystem, catalyses things that couldn’t exist otherwise - my fav take \n\nVitalik makes a joke about “crypto whales” answering the call to fall 😆 \n\n@johnsonmxe @VitalikButerin @gaoist @microbeminded2",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900340951157268973",
+      "url": "https://x.com/ml_sudo/status/1900340951157268973",
+      "views_count": "227",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 21:51:14 +0000 2025",
+      "conversation_id_str": "1900200360666415182",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1054739762815234048",
+            "name": "Mikerah",
+            "screen_name": "badcryptobitch",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@badcryptobitch The girl on right is alive",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900303664969027694",
+      "url": "https://x.com/ml_sudo/status/1900303664969027694",
+      "views_count": "11",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 18:51:23 +0000 2025",
+      "conversation_id_str": "1900258403806814606",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "No matter how secure your custody… diversification matters",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900258403806814606",
+      "url": "https://x.com/ml_sudo/status/1900258403806814606",
+      "views_count": "168",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 18:38:59 +0000 2025",
+      "conversation_id_str": "1900255284976886174",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/GfW1UnR9Yk",
+            "expanded_url": "https://x.com/ml_sudo/status/1900255284976886174/photo/1",
+            "id_str": "1900255281059090433",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1900255281059090433",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8QHDIWUAE1vuL.jpg",
+            "type": "photo",
+            "url": "https://t.co/GfW1UnR9Yk",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 299,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900255281059090433"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1875939893429551104",
+            "name": "ETHSF",
+            "screen_name": "ethereumsf",
+            "indices": [
+              236,
+              247
+            ]
+          },
+          {
+            "id_str": "260394566",
+            "name": "Foresight Institute",
+            "screen_name": "foresightinst",
+            "indices": [
+              248,
+              262
+            ]
+          },
+          {
+            "id_str": "295218901",
+            "name": "vitalik.eth",
+            "screen_name": "VitalikButerin",
+            "indices": [
+              263,
+              278
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/GfW1UnR9Yk",
+            "expanded_url": "https://x.com/ml_sudo/status/1900255284976886174/photo/1",
+            "id_str": "1900255281059090433",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1900255281059090433",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8QHDIWUAE1vuL.jpg",
+            "type": "photo",
+            "url": "https://t.co/GfW1UnR9Yk",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 299,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900255281059090433"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "Credit to the d/acc day team who brought in 22 air filters into the auditorium. My kind of event! ❤️ \n\nAnd a table full of masks at registration. (If only the few ppl sniffling loudly would use them tho 🤔d/acc requires a social front)\n\n@ethereumsf @foresightinst @VitalikButerin https://t.co/GfW1UnR9Yk",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1900255284976886174",
+      "url": "https://x.com/ml_sudo/status/1900255284976886174",
+      "views_count": "639",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 04:14:21 +0000 2025",
+      "conversation_id_str": "1899560303370944598",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/rAAo6Wk5Cf",
+            "expanded_url": "https://x.com/ml_sudo/status/1899675305448505572/photo/1",
+            "id_str": "1899674488544935936",
+            "indices": [
+              272,
+              295
+            ],
+            "media_key": "3_1899674488544935936",
+            "media_url_https": "https://pbs.twimg.com/media/Glz_4eaXwAAhnOj.jpg",
+            "type": "photo",
+            "url": "https://t.co/rAAo6Wk5Cf",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 930,
+                "w": 1410,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 791,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 449,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 930,
+              "width": 1410,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1410,
+                  "h": 790
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 930,
+                  "h": 930
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 816,
+                  "h": 930
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 465,
+                  "h": 930
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1410,
+                  "h": 930
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899674488544935936"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/rAAo6Wk5Cf",
+            "expanded_url": "https://x.com/ml_sudo/status/1899675305448505572/photo/1",
+            "id_str": "1899674488544935936",
+            "indices": [
+              272,
+              295
+            ],
+            "media_key": "3_1899674488544935936",
+            "media_url_https": "https://pbs.twimg.com/media/Glz_4eaXwAAhnOj.jpg",
+            "type": "photo",
+            "url": "https://t.co/rAAo6Wk5Cf",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 930,
+                "w": 1410,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 791,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 449,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 930,
+              "width": 1410,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1410,
+                  "h": 790
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 930,
+                  "h": 930
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 816,
+                  "h": 930
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 465,
+                  "h": 930
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1410,
+                  "h": 930
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899674488544935936"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "meanwhile, this industry is a lovely mess\n\nI want to make pizza. I made the stone oven, but the pizza tray is too large to fit into the opening of the oven. I hack at the opening until the tray fits. Then I find out that I forgot to leave enough room for the fire.\n\nOkay. https://t.co/rAAo6Wk5Cf",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899675305448505572",
+      "url": "https://x.com/ml_sudo/status/1899675305448505572",
+      "views_count": "164",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 04:06:41 +0000 2025",
+      "conversation_id_str": "1899673377138233778",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "🤣 whoever this founder is, she is my hero hahahah",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899673377138233778",
+      "url": "https://x.com/ml_sudo/status/1899673377138233778",
+      "views_count": "161",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 03:48:58 +0000 2025",
+      "conversation_id_str": "1899283206152589506",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1041276721759043584",
+            "name": "Charles Guillemet",
+            "screen_name": "P3b7_",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "219797382",
+            "name": "ً",
+            "screen_name": "lightclients",
+            "indices": [
+              7,
+              20
+            ]
+          },
+          {
+            "id_str": "2652239532",
+            "name": "Ledger",
+            "screen_name": "Ledger",
+            "indices": [
+              21,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@P3b7_ @lightclients @Ledger One more question - is there a page that says which Dapps have registered for Clear Signing? \n\nI'd like to do a demo of the difference between apps that have and those that haven't",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899668914507747818",
+      "url": "https://x.com/ml_sudo/status/1899668914507747818",
+      "views_count": "42",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 03:48:00 +0000 2025",
+      "conversation_id_str": "1899283206152589506",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1041276721759043584",
+            "name": "Charles Guillemet",
+            "screen_name": "P3b7_",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "219797382",
+            "name": "ً",
+            "screen_name": "lightclients",
+            "indices": [
+              7,
+              20
+            ]
+          },
+          {
+            "id_str": "2652239532",
+            "name": "Ledger",
+            "screen_name": "Ledger",
+            "indices": [
+              21,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@P3b7_ @lightclients @Ledger Is there a video guide on Dapps would use this to register their contracts?\n\nI searched for Ledger Clear Signing and didn't find much more than announcement blogs.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899668675273040118",
+      "url": "https://x.com/ml_sudo/status/1899668675273040118",
+      "views_count": "35",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 21:27:53 +0000 2025",
+      "conversation_id_str": "1899573013621661705",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "if you abandon global competition and global leadership — you shut down American Empire, and with it the ability to print money. And then everyone in that empire has a very bad time.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899573013621661705",
+      "url": "https://x.com/ml_sudo/status/1899573013621661705",
+      "views_count": "455",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 20:48:55 +0000 2025",
+      "conversation_id_str": "1899283206152589506",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/ml_sudo/status…",
+            "expanded_url": "https://x.com/ml_sudo/status/1899560303370944598",
+            "url": "https://t.co/RNOBwHVSdM",
+            "indices": [
+              203,
+              226
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1041276721759043584",
+            "name": "Charles Guillemet",
+            "screen_name": "P3b7_",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "219797382",
+            "name": "ً",
+            "screen_name": "lightclients",
+            "indices": [
+              7,
+              20
+            ]
+          },
+          {
+            "id_str": "2652239532",
+            "name": "Ledger",
+            "screen_name": "Ledger",
+            "indices": [
+              21,
+              28
+            ]
+          },
+          {
+            "id_str": "1529875152460193794",
+            "name": "Ethereum Foundation",
+            "screen_name": "ethereumfndn",
+            "indices": [
+              29,
+              42
+            ]
+          },
+          {
+            "id_str": "2329730512",
+            "name": "Tomasz K. Stańczak",
+            "screen_name": "tkstanczak",
+            "indices": [
+              43,
+              54
+            ]
+          },
+          {
+            "id_str": "1034728853002903552",
+            "name": "Rabby Wallet",
+            "screen_name": "Rabby_io",
+            "indices": [
+              55,
+              64
+            ]
+          },
+          {
+            "id_str": "3278906401",
+            "name": "MetaMask.eth 🦊",
+            "screen_name": "MetaMask",
+            "indices": [
+              65,
+              74
+            ]
+          },
+          {
+            "id_str": "984188226826010624",
+            "name": "Uniswap Labs 🦄",
+            "screen_name": "Uniswap",
+            "indices": [
+              75,
+              83
+            ]
+          },
+          {
+            "id_str": "867100084248469505",
+            "name": "Aave",
+            "screen_name": "aave",
+            "indices": [
+              84,
+              89
+            ]
+          },
+          {
+            "id_str": "1756434947202748416",
+            "name": "Security Alliance",
+            "screen_name": "_SEAL_Org",
+            "indices": [
+              90,
+              100
+            ]
+          },
+          {
+            "id_str": "1041276721759043584",
+            "name": "Charles Guillemet",
+            "screen_name": "P3b7_",
+            "indices": [
+              112,
+              118
+            ]
+          },
+          {
+            "id_str": "1176313487984930816",
+            "name": "Patrick Collins",
+            "screen_name": "PatrickAlphaC",
+            "indices": [
+              172,
+              186
+            ]
+          },
+          {
+            "id_str": "1617698796716150784",
+            "name": "Cyfrin Audits",
+            "screen_name": "CyfrinAudits",
+            "indices": [
+              187,
+              200
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@P3b7_ @lightclients @Ledger @ethereumfndn @tkstanczak @Rabby_io @MetaMask @Uniswap @aave @_SEAL_Org Meanwhile, @P3b7_ please see this list of asks for hardware wallets by @PatrickAlphaC @CyfrinAudits \n\nhttps://t.co/RNOBwHVSdM",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899563209226367402",
+      "url": "https://x.com/ml_sudo/status/1899563209226367402",
+      "views_count": "98",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 20:39:51 +0000 2025",
+      "conversation_id_str": "1899560926887703005",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Exciting",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899560926887703005",
+      "url": "https://x.com/ml_sudo/status/1899560926887703005",
+      "views_count": "195",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 9,
+      "created_at": "Tue Mar 11 20:37:23 +0000 2025",
+      "conversation_id_str": "1899560303370944598",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "113203570",
+            "name": "sudo rm -rf --no-preserve-root /",
+            "screen_name": "pcaversaccio",
+            "indices": [
+              37,
+              50
+            ]
+          },
+          {
+            "id_str": "1176313487984930816",
+            "name": "Patrick Collins",
+            "screen_name": "PatrickAlphaC",
+            "indices": [
+              73,
+              87
+            ]
+          },
+          {
+            "id_str": "1617698796716150784",
+            "name": "Cyfrin Audits",
+            "screen_name": "CyfrinAudits",
+            "indices": [
+              88,
+              101
+            ]
+          },
+          {
+            "id_str": "1431204614",
+            "name": "Trezor",
+            "screen_name": "Trezor",
+            "indices": [
+              111,
+              118
+            ]
+          },
+          {
+            "id_str": "2652239532",
+            "name": "Ledger",
+            "screen_name": "Ledger",
+            "indices": [
+              119,
+              126
+            ]
+          },
+          {
+            "id_str": "106631384",
+            "name": "Keystone Hardware Wallet",
+            "screen_name": "KeystoneWallet",
+            "indices": [
+              127,
+              142
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "Loved this walk through of a fork of @pcaversaccio's safe hashes tool by @PatrickAlphaC @CyfrinAudits\n\nHe used @Trezor @Ledger @KeystoneWallet in the demo. I have listed the wallets in increasing order of ability to check what you are actually signing. \n\nBasically, don't use Trezor, Ledger may be acceptable if you don't mind doing more work, while Keystone leads the pack.\n\nI'd like to highlight his succinctly phrased request to hardware wallets below: \n\n===\n\nDear Hardware Wallets: I have a couple of asks for you. \n\n#1 you should all add clear \nsigning like what we saw with the \nKeystone wallet so that I can directly see what was \ngoing on with my transaction without having to\nintegrate with something like metamask\n\n#2 it would be cool if we could export the call data so that we could match it to the tools that we write e.g.  add a QR code that allows us to scan it so we can import into where we use our tools \n\n#3 [that being said,] scanning QR codes is very spooky so maybe there's something more clever that you can do\n\n#4 and if you do do a QR code have it be like a base 64 in code so you could work in offline mode\n\n#5 additionally it would be cool if you showed the hash of the call data because that would be much easier to spot check than the entire call data \n\nprivate key attacks are the number one attack Vector from last year and they're looking like they're going\nto be the number one attack vector going forward\n\nhttps://t.co/av2YbrRIe3",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899560303370944598",
+      "url": "https://x.com/ml_sudo/status/1899560303370944598",
+      "views_count": "2622",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:51:14 +0000 2025",
+      "conversation_id_str": "1899283206152589506",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1041276721759043584",
+            "name": "Charles Guillemet",
+            "screen_name": "P3b7_",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "219797382",
+            "name": "ً",
+            "screen_name": "lightclients",
+            "indices": [
+              7,
+              20
+            ]
+          },
+          {
+            "id_str": "2652239532",
+            "name": "Ledger",
+            "screen_name": "Ledger",
+            "indices": [
+              21,
+              28
+            ]
+          },
+          {
+            "id_str": "1529875152460193794",
+            "name": "Ethereum Foundation",
+            "screen_name": "ethereumfndn",
+            "indices": [
+              115,
+              128
+            ]
+          },
+          {
+            "id_str": "2329730512",
+            "name": "Tomasz K. Stańczak",
+            "screen_name": "tkstanczak",
+            "indices": [
+              129,
+              140
+            ]
+          },
+          {
+            "id_str": "1034728853002903552",
+            "name": "Rabby Wallet",
+            "screen_name": "Rabby_io",
+            "indices": [
+              141,
+              150
+            ]
+          },
+          {
+            "id_str": "3278906401",
+            "name": "MetaMask.eth 🦊",
+            "screen_name": "MetaMask",
+            "indices": [
+              151,
+              160
+            ]
+          },
+          {
+            "id_str": "984188226826010624",
+            "name": "Uniswap Labs 🦄",
+            "screen_name": "Uniswap",
+            "indices": [
+              161,
+              169
+            ]
+          },
+          {
+            "id_str": "867100084248469505",
+            "name": "Aave",
+            "screen_name": "aave",
+            "indices": [
+              170,
+              175
+            ]
+          },
+          {
+            "id_str": "1756434947202748416",
+            "name": "Security Alliance",
+            "screen_name": "_SEAL_Org",
+            "indices": [
+              176,
+              186
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@P3b7_ @lightclients @Ledger How does the industry as a whole apply pressure on dApps to integrate clear signing?\n\n@ethereumfndn @tkstanczak @Rabby_io @MetaMask @Uniswap @aave @_SEAL_Org\n\nI'm just tagging leading apps and wallets, no idea if they've already integrated clear signing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899518493235486945",
+      "url": "https://x.com/ml_sudo/status/1899518493235486945",
+      "views_count": "95",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 15:29:05 +0000 2025",
+      "conversation_id_str": "1899283206152589506",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "219797382",
+            "name": "ً",
+            "screen_name": "lightclients",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "2652239532",
+            "name": "Ledger",
+            "screen_name": "Ledger",
+            "indices": [
+              17,
+              24
+            ]
+          },
+          {
+            "id_str": "1041276721759043584",
+            "name": "Charles Guillemet",
+            "screen_name": "P3b7_",
+            "indices": [
+              25,
+              31
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@lightclients Hi @Ledger @P3b7_ what happened to the June 2024 no-blind signing goal, which you announced in December 2023? \n\nWhich parts of the industry do you need to cooperate with you to get it done?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899482717550440608",
+      "url": "https://x.com/ml_sudo/status/1899482717550440608",
+      "views_count": "50",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 02:53:20 +0000 2025",
+      "conversation_id_str": "1899283206152589506",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "219797382",
+            "name": "ً",
+            "screen_name": "lightclients",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@lightclients did they explain why? did something like a new EIP standard make it more difficult, or is it just the usual \"software delays\" reason?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899292528509149617",
+      "url": "https://x.com/ml_sudo/status/1899292528509149617",
+      "views_count": "64",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 02:16:17 +0000 2025",
+      "conversation_id_str": "1899283206152589506",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/lwCJD6Hm0v",
+            "expanded_url": "https://x.com/ml_sudo/status/1899283206152589506/photo/1",
+            "id_str": "1899283043602313216",
+            "indices": [
+              124,
+              147
+            ],
+            "media_key": "3_1899283043602313216",
+            "media_url_https": "https://pbs.twimg.com/media/Glub3YXWsAAZxUO.jpg",
+            "type": "photo",
+            "url": "https://t.co/lwCJD6Hm0v",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 342,
+                "w": 1482,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 277,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 157,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 342,
+              "width": 1482,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 611,
+                  "h": 342
+                },
+                {
+                  "x": 13,
+                  "y": 0,
+                  "w": 342,
+                  "h": 342
+                },
+                {
+                  "x": 34,
+                  "y": 0,
+                  "w": 300,
+                  "h": 342
+                },
+                {
+                  "x": 99,
+                  "y": 0,
+                  "w": 171,
+                  "h": 342
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1482,
+                  "h": 342
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899283043602313216"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "cryptobriefing.com/ledger-halt-bl…",
+            "expanded_url": "https://cryptobriefing.com/ledger-halt-blind-signing-dapps-encourages-clear-signing-security/",
+            "url": "https://t.co/LCYrLrZdh9",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/lwCJD6Hm0v",
+            "expanded_url": "https://x.com/ml_sudo/status/1899283206152589506/photo/1",
+            "id_str": "1899283043602313216",
+            "indices": [
+              124,
+              147
+            ],
+            "media_key": "3_1899283043602313216",
+            "media_url_https": "https://pbs.twimg.com/media/Glub3YXWsAAZxUO.jpg",
+            "type": "photo",
+            "url": "https://t.co/lwCJD6Hm0v",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 342,
+                "w": 1482,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 277,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 157,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 342,
+              "width": 1482,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 611,
+                  "h": 342
+                },
+                {
+                  "x": 13,
+                  "y": 0,
+                  "w": 342,
+                  "h": 342
+                },
+                {
+                  "x": 34,
+                  "y": 0,
+                  "w": 300,
+                  "h": 342
+                },
+                {
+                  "x": 99,
+                  "y": 0,
+                  "w": 171,
+                  "h": 342
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1482,
+                  "h": 342
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899283043602313216"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "Did Ledger \"end blind signing for Eth dApps\" by June 2024? \n\nThis was from a December 2023 article\n\nhttps://t.co/LCYrLrZdh9 https://t.co/lwCJD6Hm0v",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899283206152589506",
+      "url": "https://x.com/ml_sudo/status/1899283206152589506",
+      "views_count": "298",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 20:18:52 +0000 2025",
+      "conversation_id_str": "1899184345660682558",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1744057708410486784",
+            "name": "diro",
+            "screen_name": "diro_opinion",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "1043103959148359680",
+            "name": "CPerezz.eth ⟠ 🦀",
+            "screen_name": "CPerezz19",
+            "indices": [
+              14,
+              24
+            ]
+          },
+          {
+            "id_str": "1765078778475364352",
+            "name": "Zashi",
+            "screen_name": "zashi_app",
+            "indices": [
+              25,
+              35
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@diro_opinion @CPerezz19 @zashi_app Sorry yes, my bad, too much rapid finger typing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899193255310303385",
+      "url": "https://x.com/ml_sudo/status/1899193255310303385",
+      "views_count": "33",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:43:27 +0000 2025",
+      "conversation_id_str": "1899184345660682558",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/cperezz19/stat…",
+            "expanded_url": "https://x.com/cperezz19/status/1898678810268053691?s=46&t=sHuCYkWj6w1PiDEtbYu3Kg",
+            "url": "https://t.co/hfFgUuqsWC",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1043103959148359680",
+            "name": "CPerezz.eth ⟠ 🦀",
+            "screen_name": "CPerezz19",
+            "indices": [
+              1,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": ".@CPerezz19, u inspire me with your backbone and support \n\nZcash with only 1 year runway: https://t.co/hfFgUuqsWC",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899184345660682558",
+      "url": "https://x.com/ml_sudo/status/1899184345660682558",
+      "views_count": "697",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:34:51 +0000 2025",
+      "conversation_id_str": "1899182176630923445",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Aside: on the flip side, would be funny if zoomer crypto devs choose a proxy for real life needs and the proxy gets very confused at the constant barrage of instructions",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899182180443553858",
+      "url": "https://x.com/ml_sudo/status/1899182180443553858",
+      "views_count": "75",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:34:50 +0000 2025",
+      "conversation_id_str": "1899182176630923445",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "I struggled to understand upgradable contracts in Ethereum, and the word “proxy” was a big reason why.\n\nIn law, a proxy HAS agency—it makes decisions on someone’s behalf. If I \"appoint a proxy\" to vote on my behalf as a shareholder of a public company, I let them vote however they decide is best. If I “appoint a healthcare proxy,” I let them make decisions for me if I am unfit or unconscious.\n\nBut in Ethereum, a proxy contract HAS NO agency—it blindly forwards calls to an implementation contract using delegatecall.\n\nThis isn’t EVM devs’ fault. The term proxy comes from network computing, where a proxy server relays requests without modifying them. The same idea applies to EVM proxies—they forward calls but don’t execute logic.\n\nOnce I realized this, proxy/upgradable contracts finally clicked! Took too long. \n\nLet's be better about etymology, so we onboard as many ppl as quickly as possible",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1899182176630923445",
+      "url": "https://x.com/ml_sudo/status/1899182176630923445",
+      "views_count": "171",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 04:11:09 +0000 2025",
+      "conversation_id_str": "1898949721642926287",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "20536157",
+            "name": "Google",
+            "screen_name": "Google",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": ".@Google removed International Women's Day (8 March) from their cultural calendar\n\nI know they are trying to erase DEI\n\nBut IWD predates DEI by 100 years (first celebrated in 1911)\n\nhi Google, Sundar, are u okay?\n\nare you going to bind women's feet too (which officially ended in 1912)?\n\nhttps://t.co/ymBkyeOIpT\n\nhttps://t.co/EjfWY3inGl",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1898949721642926287",
+      "url": "https://x.com/ml_sudo/status/1898949721642926287",
+      "views_count": "190",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 23:55:56 +0000 2025",
+      "conversation_id_str": "1898477668607148143",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "28681790",
+            "name": "Lily Liu",
+            "screen_name": "calilyliu",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@calilyliu Women like you and I are loud and can challenge a guy toe to toe in business.\n\nI’ve started to have empathy for women who aren’t cursed/gifted with this force of personality so sometimes I like to speak out in the hopes of opening a wedge for them.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1898523106546758010",
+      "url": "https://x.com/ml_sudo/status/1898523106546758010",
+      "views_count": "496",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Sat Mar 08 02:16:58 +0000 2025",
+      "conversation_id_str": "1898196212290846889",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 26,
+      "favorited": false,
+      "full_text": "Zcash rebirthing…",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1007641141020225537",
+      "id_str": "1898196212290846889",
+      "url": "https://x.com/ml_sudo/status/1898196212290846889",
+      "views_count": "2106",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "created_at": "Fri Jun 15 15:09:03 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "❤️freedom privacy security robots consciousnes @explainagain | EF Silviculture Board @electriccoinco | gov @synthetix_io @Anchorage private equity | @wharton’07",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ml-sudo.com",
+                "expanded_url": "http://ml-sudo.com",
+                "url": "https://t.co/nU4NyVoto2",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 6055,
+        "followers_count": 2459,
+        "friends_count": 2185,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 59,
+        "location": "In the ether",
+        "media_count": 402,
+        "name": "ml_sudo",
+        "normal_followers_count": 2459,
+        "pinned_tweet_ids_str": [
+          "1886361799286792233"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007641141020225537/1665777386",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882204411067531264/Zej9ZyEP_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ml_sudo",
+        "statuses_count": 2672,
+        "translator_type": "none",
+        "url": "https://t.co/nU4NyVoto2",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1,
+      2
+    ],
+    "2025-03-14": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "2025-03-13": [
+      8,
+      9,
+      10
+    ],
+    "2025-03-12": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "2025-03-11": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "2025-03-10": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "2025-03-08": [
+      28,
+      29
+    ]
+  }
+}

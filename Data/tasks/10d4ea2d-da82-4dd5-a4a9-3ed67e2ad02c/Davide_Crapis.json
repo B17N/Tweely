@@ -1,0 +1,1491 @@
+{
+  "username": "Davide Crapis",
+  "fetchedAt": "2025-03-15T15:55:31.350Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 12:22:02 +0000 2025",
+      "conversation_id_str": "1900885198683992391",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "Cool new research from near ai\n\nThere is a race to create the new tcp/ip for agents and ai compute services. This seems one of the less meme-y and real attempts with cryptographic basis",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900885198683992391",
+      "url": "https://x.com/DavideCrapis/status/1900885198683992391",
+      "views_count": "412",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 06:40:19 +0000 2025",
+      "conversation_id_str": "1900520833480609899",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1531264539760672768",
+            "name": "Lisa Akselrod (🦑,🪐)",
+            "screen_name": "cryptobuilder_",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@cryptobuilder_ I thought you live 5x because of the higher intensity. Are you saying that working in crypto cuts your life span by a factor of 10? Better stop before it’s too late",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900799200671215723",
+      "url": "https://x.com/DavideCrapis/status/1900799200671215723",
+      "views_count": "65",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 06:35:14 +0000 2025",
+      "conversation_id_str": "1900691958785601884",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "81185431",
+            "name": "Illia (root.near) (🇺🇦, ⋈)",
+            "screen_name": "ilblackdragon",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "916067753009623040",
+            "name": "NEAR AI",
+            "screen_name": "near_ai",
+            "indices": [
+              15,
+              23
+            ]
+          },
+          {
+            "id_str": "1308911004407873537",
+            "name": "NVIDIA GTC",
+            "screen_name": "NVIDIAGTC",
+            "indices": [
+              24,
+              34
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@ilblackdragon @near_ai @NVIDIAGTC Thanks for leading the torch of privacy and verifiability into mainstream AI. We need more awareness in the industry to drive faster progress before doom :)\n\nWhere can we learn more about your recent work on proof of response?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900797920561021414",
+      "url": "https://x.com/DavideCrapis/status/1900797920561021414",
+      "views_count": "255",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 06:30:37 +0000 2025",
+      "conversation_id_str": "1900702360969580662",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "981208355115974656",
+            "name": "David Hoffman",
+            "screen_name": "TrustlessState",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@TrustlessState Very cool",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900796758642618421",
+      "url": "https://x.com/DavideCrapis/status/1900796758642618421",
+      "views_count": "202",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 06:26:09 +0000 2025",
+      "conversation_id_str": "1900795631524082171",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lu.ma/o99rcou9",
+            "expanded_url": "https://lu.ma/o99rcou9",
+            "url": "https://t.co/f4mq6hcXRH",
+            "indices": [
+              7,
+              30
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "Agenda https://t.co/f4mq6hcXRH",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900795636209119653",
+      "url": "https://x.com/DavideCrapis/status/1900795636209119653",
+      "views_count": "425",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 06:26:08 +0000 2025",
+      "conversation_id_str": "1900795631524082171",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/live/b45hakfN1…",
+            "expanded_url": "https://www.youtube.com/live/b45hakfN1cM?si=vb6dpywk98eFfRiq",
+            "url": "https://t.co/piSlHi1QuN",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "Video stream https://t.co/piSlHi1QuN",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900795633650520137",
+      "url": "https://x.com/DavideCrapis/status/1900795633650520137",
+      "views_count": "417",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Sat Mar 15 06:26:08 +0000 2025",
+      "conversation_id_str": "1900795631524082171",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "d/acc day was extremely inspiring\n\nHere is a personal summary as one of the speakers and a link to full video stream below\n\nI particularly liked the talks around programmable cryptography. From teams like Fabric and Zkemail. We need to break into more expressive protocols that expand the surface of what can be settled on-chain to create useful apps beyond DeFi. Both move the needle in this direction\n\nOpen source hardware is still at the tinkerer stage but it’s a fascinating endeavor and was cool to see progress\n\nAlso had an hallway chat with Jasper from Hyperbolic focused on how to get real PMF and build products that user love first, and then use the crypto superpowers to decentralize and scale. Excited by a new wave of crypto founders that builds products that are best in class and reaches users beyond crypto natives (eg Hyperbolic integration on HuggingFace)\n\nLove Vitalik’s approach to keep the discussion practical when talking about the risks of AI. It is too easy to throw out prophecies about how AI will change our role in the multiverse. Vitalik keeps it grounded on where the tech is in the near future, mostly at the assistant level with autonomy only in certain confined domain. With this perspective in mind, safety becomes an engineering problem akin to building bridges, cars, self driving systems\n\nBiodifense and Neurotech I knew very little about and the talks provide a good overview (see video stream)\n\nRobotics is very close to my work in AI and personal data and something I’m going to dig more and write more about. It’s one of the areas where blockchains can really shine in the upcoming years",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900795631524082171",
+      "url": "https://x.com/DavideCrapis/status/1900795631524082171",
+      "views_count": "4485",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 23:13:46 +0000 2025",
+      "conversation_id_str": "1900633184641188275",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1153589112651177985",
+            "name": "Thogard | Holistic Arc",
+            "screen_name": "ThogardPvP",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@ThogardPvP Curious when and how you got “converted” to monad",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900686823195898355",
+      "url": "https://x.com/DavideCrapis/status/1900686823195898355",
+      "views_count": "186",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 07:26:00 +0000 2025",
+      "conversation_id_str": "1900363531591303648",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2329730512",
+            "name": "Tomasz K. Stańczak",
+            "screen_name": "tkstanczak",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@tkstanczak Talking at day, building at night. That is the way 🫡",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1900448310760268263",
+      "url": "https://x.com/DavideCrapis/status/1900448310760268263",
+      "views_count": "137",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 04:53:51 +0000 2025",
+      "conversation_id_str": "1899685246712648127",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "295218901",
+            "name": "vitalik.eth",
+            "screen_name": "VitalikButerin",
+            "indices": [
+              116,
+              131
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 24,
+      "favorited": false,
+      "full_text": "From the Open Source AI Summit yesterday:\n\nWe are staring at a future that holds a lot of uncertainty for humanity. @VitalikButerin shared his timeline for achieving superhuman AGI at most tasks, which is very uncertain, something like between in 5 and in 100 years. @ilblackdragon's is much more aggressive, thinks that with the exponential progress we'll get there in a few years.\n\nOne thing is certain, there will be huge wealth generation and huge displacement in the economy. We must build system that counterbalance the centralization forces that are already monopolizing the industry. Open Source AI and verification on a decentralized blockchain with a decentralized community is one key ingredient for a more democratic and secure future.\n\nExciting to see many strong teams building towards this vision this week at ETHSF.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1899685246712648127",
+      "url": "https://x.com/DavideCrapis/status/1899685246712648127",
+      "views_count": "11552",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21057,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21057,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 04:34:23 +0000 2025",
+      "conversation_id_str": "1899680343365681217",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "platform.openai.com/docs/guides/ag…",
+            "expanded_url": "https://platform.openai.com/docs/guides/agents-sdk",
+            "url": "https://t.co/zGO9bW2cbO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "https://t.co/zGO9bW2cbO",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1899680346884731207",
+      "url": "https://x.com/DavideCrapis/status/1899680346884731207",
+      "views_count": "372",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21057,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21057,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 04:34:23 +0000 2025",
+      "conversation_id_str": "1899680343365681217",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/PIN-AI/pinai_a…",
+            "expanded_url": "https://github.com/PIN-AI/pinai_agent_sdk",
+            "url": "https://t.co/1H5WZOnIUE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "https://t.co/1H5WZOnIUE",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1899680344812744862",
+      "url": "https://x.com/DavideCrapis/status/1899680344812744862",
+      "views_count": "460",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21057,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21057,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 5,
+      "created_at": "Wed Mar 12 04:34:22 +0000 2025",
+      "conversation_id_str": "1899680343365681217",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 73,
+      "favorited": false,
+      "full_text": "Congrats to OpenAI for launching their Agents SDK only 4 days after PIN AI Agents SDK (both linked below)\n\nPIN AI launched the Agent SDK last Saturday at the AGI house and there are already 100s of agents that used it, including 5 finalist agents in the hackathon that will soon be available on PIN AI\n\nDespite the name similarity the two are actually quite complementary\n- OpenAI’s lowers the bar for developing an agent\n- PIN AI’s lowers the bart for launching it on a decentralized registry and start serving requests from the network\n\nBetter try them out together!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 4,
+      "reply_count": 4,
+      "retweet_count": 9,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1899680343365681217",
+      "url": "https://x.com/DavideCrapis/status/1899680343365681217",
+      "views_count": "11586",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21057,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21057,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:19:18 +0000 2025",
+      "conversation_id_str": "1899219360243458551",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "474876105",
+            "name": "ericakang.eth.near",
+            "screen_name": "ekang426",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "81185431",
+            "name": "Illia (root.near) (🇺🇦, ⋈)",
+            "screen_name": "ilblackdragon",
+            "indices": [
+              10,
+              24
+            ]
+          },
+          {
+            "id_str": "295218901",
+            "name": "vitalik.eth",
+            "screen_name": "VitalikButerin",
+            "indices": [
+              25,
+              40
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@ekang426 @ilblackdragon @VitalikButerin I’m doing the victory sign right there behind you because open source will win. It is increasingly clear after yesterday. Thanks for yet another high signal event!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1899495357232648613",
+      "url": "https://x.com/DavideCrapis/status/1899495357232648613",
+      "views_count": "188",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21037,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21037,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 01:28:02 +0000 2025",
+      "conversation_id_str": "1898129538808529168",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2992350224",
+            "name": "Himanshu Tyagi",
+            "screen_name": "hstyagi",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "1372537604369879041",
+            "name": "Miss Polygon 😈 🦇🔊",
+            "screen_name": "0xsachi",
+            "indices": [
+              9,
+              17
+            ]
+          },
+          {
+            "id_str": "695135699016642560",
+            "name": "Bill Sun",
+            "screen_name": "BillSun_AI",
+            "indices": [
+              18,
+              29
+            ]
+          },
+          {
+            "id_str": "477161213",
+            "name": "regan-PINAI",
+            "screen_name": "reganonearth",
+            "indices": [
+              30,
+              43
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@hstyagi @0xsachi @BillSun_AI @reganonearth Ping if you feel like stopping by! We’ll still be there",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1898183897588154437",
+      "url": "https://x.com/DavideCrapis/status/1898183897588154437",
+      "views_count": "91",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21057,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21057,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 01:19:12 +0000 2025",
+      "conversation_id_str": "1898129538808529168",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1372537604369879041",
+            "name": "Miss Polygon 😈 🦇🔊",
+            "screen_name": "0xsachi",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "695135699016642560",
+            "name": "Bill Sun",
+            "screen_name": "BillSun_AI",
+            "indices": [
+              9,
+              20
+            ]
+          },
+          {
+            "id_str": "477161213",
+            "name": "regan-PINAI",
+            "screen_name": "reganonearth",
+            "indices": [
+              21,
+              34
+            ]
+          },
+          {
+            "id_str": "2992350224",
+            "name": "Himanshu Tyagi",
+            "screen_name": "hstyagi",
+            "indices": [
+              59,
+              67
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@0xsachi @BillSun_AI @reganonearth Come build! Had invited @hstyagi to partner but we couldn’t connect in the end on this, I think he’s traveling but if you have any Sentient builders in the area they’re more than welcome!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "449325721",
+      "id_str": "1898181673684275272",
+      "url": "https://x.com/DavideCrapis/status/1898181673684275272",
+      "views_count": "92",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Dec 29 00:37:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum researcher, co-founder @pinai_io.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidecrapis.notion.site",
+                "expanded_url": "http://davidecrapis.notion.site",
+                "url": "https://t.co/r1IzR51N8A",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5753,
+        "followers_count": 21057,
+        "friends_count": 682,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 121,
+        "location": "",
+        "media_count": 57,
+        "name": "Davide Crapis",
+        "normal_followers_count": 21057,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527595600144764928/H8tlmgW8_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "DavideCrapis",
+        "statuses_count": 2300,
+        "translator_type": "none",
+        "url": "https://t.co/r1IzR51N8A",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2025-03-14": [
+      7,
+      8
+    ],
+    "2025-03-12": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "2025-03-11": [
+      13
+    ],
+    "2025-03-08": [
+      14,
+      15
+    ]
+  }
+}

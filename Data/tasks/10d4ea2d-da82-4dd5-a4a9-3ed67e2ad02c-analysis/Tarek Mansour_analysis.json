@@ -1,0 +1,57 @@
+{
+  "username": "Tarek Mansour",
+  "analyzedAt": "2025-03-15T18:29:16.107Z",
+  "tweetCount": 5,
+  "tweetDateRange": {
+    "earliestTweet": "Sat Mar 08 21:37:18 +0000 2025",
+    "latestTweet": "Fri Mar 14 19:50:09 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Tarek Mansour and provide a summary of what they mainly talked about in the past week:\n\n@rex_woodbury congrats!!\n\n@rahulxkm @stonksqween @Kalshi i like\n\n@brian_armstrong It's really hard to imagine how hard it must be to have 174 regulators... \n\nPretty awesome\n\n@FatScribe @profstonge @Kalshi \"n'est-ce pas\" haha\n\n@FatScribe @profstonge @Kalshi Thank you for looking at the facts fairly. \n\nI don't expect everyone to agree with what we're doing, but I have deep respect for people who are willing to update their views based on new information/data."
+  },
+  "summary": "Summary:\n- @Tarek Mansour congratulated someone (@rex_woodbury).\n- They expressed appreciation for a group of individuals (@rahulxkm, @stonksqween, @Kalshi).\n- @Tarek Mansour commented on the challenges faced by @brian_armstrong dealing with regulators.\n- They found something \"pretty awesome.\"\n- @Tarek Mansour engaged in a light-hearted conversation with @FatScribe, @profstonge, and @Kalshi, appreciating fair analysis and willingness to update views based on new information/data. \n\nSentiments:\n- The tweets convey positive sentiments like congratulations, appreciation, and respect.",
+  "keyTopics": [
+    "Summary:",
+    "Mansour",
+    "They",
+    "Sentiments:"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900635582235373864",
+      "createdAt": "Fri Mar 14 19:50:09 +0000 2025",
+      "text": "@rex_woodbury congrats!!"
+    },
+    {
+      "index": 1,
+      "id": "1900626236478812363",
+      "createdAt": "Fri Mar 14 19:13:01 +0000 2025",
+      "text": "@rahulxkm @stonksqween @Kalshi i like"
+    },
+    {
+      "index": 2,
+      "id": "1899959652197994625",
+      "createdAt": "Wed Mar 12 23:04:15 +0000 2025",
+      "text": "@brian_armstrong It's really hard to imagine how hard it must be to have 174 regulators... \n\nPretty ..."
+    },
+    {
+      "index": 3,
+      "id": "1898493203478667349",
+      "createdAt": "Sat Mar 08 21:57:06 +0000 2025",
+      "text": "@FatScribe @profstonge @Kalshi \"n'est-ce pas\" haha"
+    },
+    {
+      "index": 4,
+      "id": "1898488219483947226",
+      "createdAt": "Sat Mar 08 21:37:18 +0000 2025",
+      "text": "@FatScribe @profstonge @Kalshi Thank you for looking at the facts fairly. \n\nI don't expect everyone ..."
+    }
+  ]
+}

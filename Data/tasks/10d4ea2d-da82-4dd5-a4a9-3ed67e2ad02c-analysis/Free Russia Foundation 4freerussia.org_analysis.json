@@ -1,0 +1,34 @@
+{
+  "username": "Free Russia Foundation 4freerussia.org",
+  "analyzedAt": "2025-03-15T18:29:28.939Z",
+  "tweetCount": 1,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 03:00:24 +0000 2025",
+    "latestTweet": "Tue Mar 11 03:00:24 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Free Russia Foundation 4freerussia.org and provide a summary of what they mainly talked about in the past week:\n\n📉 Russia’s economy is under growing pressure: soaring inflation, a rising budget deficit, and a 21% interest rate choking investment. Meanwhile, the Trump administration has halted new U.S. sanctions, boosting Russian markets—but the crisis runs deeper.\n\n@v_milov breaks it down in his latest brief.\nhttps://t.co/HFTne7Ib6O"
+  },
+  "summary": "The main topics discussed in the tweets from @Free Russia Foundation in the past week include the economic challenges faced by Russia, such as soaring inflation, a rising budget deficit, high interest rates, and a lack of investment. The tweets also highlight the impact of the Trump administration halting new U.S. sanctions on Russian markets, which have seen a boost, but the underlying crisis in Russia's economy persists. Analyst @v_milov provides a breakdown of these issues in his latest brief. The overall sentiment appears to be concerned about the economic situation in Russia and the implications of U.S. sanctions and market dynamics on the country.",
+  "keyTopics": [
+    "Foundation",
+    "Russia,",
+    "Trump",
+    "U.S.",
+    "Russian"
+  ],
+  "sentiment": "Negative",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1899294306214490435",
+      "createdAt": "Tue Mar 11 03:00:24 +0000 2025",
+      "text": "📉 Russia’s economy is under growing pressure: soaring inflation, a rising budget deficit, and a 21%..."
+    }
+  ]
+}

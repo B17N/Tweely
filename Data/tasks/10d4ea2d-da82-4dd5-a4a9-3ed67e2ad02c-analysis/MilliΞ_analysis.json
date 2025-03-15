@@ -1,0 +1,308 @@
+{
+  "username": "MilliΞ",
+  "analyzedAt": "2025-03-15T18:27:50.361Z",
+  "tweetCount": 47,
+  "tweetDateRange": {
+    "earliestTweet": "Sat Mar 08 15:24:31 +0000 2025",
+    "latestTweet": "Sat Mar 15 15:50:53 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @MilliΞ and provide a summary of what they mainly talked about in the past week:\n\nKeep building.\n\nSo @GitBookIO censored our docs because some bot farm mass reported it or something. I had to contact their support to get it back up.\n\nThen it happened again. And again.\n\nThe fragility of web2 services can't be overstated tbh.\n\n@shazow Just another pivot like when MEV didn’t exist on solony and now it’s the primary value prop of the chain..\n\n@ethcoredevs_ 🫶\n\n@YourKaiCrypto @0xMert_ be the liquidity you wish to see in the world\n\n@0xMert_ https://t.co/cOx0DCq6mH\n\n@0xMert_ ayo?\n\nhttps://t.co/tsARWncFMv https://t.co/foALJdDWqU\n\nhttps://t.co/IG23KNsSxb\n\nNew Market Alert!\n\nWill Russia agree to a ceasefire before Easter?\n\nLink to market in the replies 👇\n\n@arixoneth yeah their only options would be to extract more or exit\n\nalso bandwidth costs have to be pretty non-trivial even if they are using data centres for cheap hardware\n\nSeeing a lot of misunderstandings about this SIMD.\n\nThe reason it was rejected was because validators made the right economic choice.\n\nAbsent SOL emissions, these validators would need to begin extracting a lot more  in order to be profitable, or simply operate at a loss.\n\nWhat we saw as a result of SIMD is that no matter how much IBRL is spammed on the timeline, the economics of running a validator can’t be ignored.\n\nThe cost to validate on sol is very very high. The cost to even run a full node is very very high.\n\nThat means you can’t just do minimal viable issuance like ethereum wants to, because on eth, validators have very modest hardware and bandwidth requirements, they do not operate at a loss the same way other chains do.\n\nEthereum also doesn’t have massive foundation based subsidies for validators either, these validators validate because it is profitable to do so!\n\nPpl often forget how mature and sound Ethereum’s are economics are, but you can be quickly reminded by just looking under the hood of other chains.\n\n>“but to do this we just need to extract less from the actual users/retail of the chain -- let's do what is best and grow the pie together, yay or nay?”\n\nYou read this wrong, it’s literally the opposite.\n\nThis SIMD would mean that the only way validators could sustain is by extracting MEV. They would literally need to extract more to make up for it.\n\n@_MouseDev @networkspirits &lt;3\n\nThis may not seem like much, but it means a lot to our team.\n\nTo the first of many thousands more to come 🫡\n\nFor real though all L1 designs eventually converge on the rollup-centric roadmap, just in different form factors.\n\nThrough that lens it's almost intuitive that the chain which acknowledges and build towards that reality is the one that's best positioned long term.\n\nRollups with small quorum or single sequencer designs were right. \n\nIykyk.\n\n@virotechnics is this real lol\n\n@Kira_sama @JasonYanowitz nah\n\nGuy(s) who's entire persona and success comes from easy access to seed round deals has an opinion about ETH sentiment. \n\n(Many such cases on the timeline rn)\n\n@litocoen @mteamisloading chads, the both of you. https://t.co/lPR10KDME4\n\n@AustinAdams10 @Truemarketsorg TRUE mentioned!! https://t.co/BuBXjNbPtu\n\n@Athio92 @JasonYanowitz those are rollups, go look at defi protocols, many of which have more TVL than rollups\n\nThis comes with the territory of \"passive LPing.\" \n\nTrying to create passive counterparty strategies to highly active liquidity venues will always lead to these sort of events.\n\nPpl like that Hyperliquid was always *liquid* even on longtail pairs, but it's a double edged sword.\n\nBtw @Truemarketsorg prediction market on HLP incoooming 😁\n\n@JasonYanowitz but state street and JPM can't magically get hacked for their AUM\n\nTVL is an important security-lindy metric, all of the highest TVL projects are also the most secure\n\nunless you think that transaction reversible custody is preferable\n\nPeak F*cking Performance.\n\n@smyyguy https://t.co/8UT4YdlbHc\n\n@GwartyGwart the ironic thing is that this is actually a *level up* from what the code is being primarily used for on solano right now lol  \n\nthey literally took all the opensource eth code, fitted it for the SVM, and built a memecoin landfill on top of lol\n\nHonestly this is such a useful feature for sorting the markets and categories you want to follow.\n\nSurprised Polymarket doesn't have something like it..\n\n@ABitWhaleish @AnteFinance https://t.co/6RknPGruP7\n\n@fabdarice 🫶\n\nIdc what anyone says, the pressure that crypto projects are under while deploying code to production is unlike anything else. I'm reminded of this every time I see it happen.\n\nTruemarekts is finally live, it took a bit longer than expected but hopefully the community will feel like it's worth it!\n\nWell I guess I don't need to tease yall any longer do I? Check it out for yourselves!!!\n\n(and if you don't, I will shill it to you everyday until you do 😁)\n\n@TruebieMarkets @GwartyGwart @Truemarketsorg gwart pod gud\n\n@TruebieMarkets @GwartyGwart @Truemarketsorg lol\n\n@smyyguy @Truemarketsorg any particularly recommended sources? (without shilling me a blockworks sub haha)\n\n@Impose_eth @Truemarketsorg 🫠\n\nDon't worry you'll be able to bet on Pumpfun revenue on @Truemarketsorg in a matter of hours\n\nNow that the final $TRUE snapshot has been taken, I just wanted to take a moment to thank all of our amazing Patrons, the earliest supporters of the project and the heart of our community 💙🫶💙🫶💙\n\nAfter months of secondary activity since the original mint, the Patron holder distribution became (impressively) decentralized imo.\n\nTo put things into perspective, Patrons represent close to the entire TRUE float at launch, and that \"Other Accounts\" portion in the chart below (>1/3rd of the pie), is made up over a thousand wallets!\n\nWe're grateful to have such an awesome community!\n\nLong Live @Truemarketsorg!! ✌️\n\n@zedweb3 honestly it's probably kraken wallet migration\n\n@coinmamba @kyledoops what makes you say that\n\nAnyone confirm this? Big if true.\n\nJust under 3 hours to go! \n\nsmol reminder to be mindful of this timestamp if you have open bids on the collection 🙏\n\n@networkspirits @Truemarketsorg hi\n\nSame vibes https://t.co/9TMu7lSfkd\n\nThe reason ppl have this extractive view of the chain is because the ecosystem has hardly produced anything new, has created little open source value, and has played deceptive narrative games for years.\n\nThe fact that “MEV” infra is the most funded thing on that chain right now is literal evidence of that.\n\nIn 2023, Ethereum was criticized by podcasters because there was too much focus on MEV and scaling infra by VCs.\n\nIn 2021, the solana narrative was that It didn’t have evil extractive MEV like ethereum does, that blocks were produced so fast that the demand for ordering preference just magically evaporates. \n\nThis was literally touted by sol leadership and others in crypto media.\n\nToday, the entire value prop and narrative for solana is that you stake SOL to earn MEV. \n\nThey went from saying MEV is evil and doesn’t exist on solana to building the entire ecosystem on top of it. They even try to rally behind a new (rather unoriginal) name for MEV as if it erases this history.\n\nIn 2020 Ethereum created a ton of net new use cases and open source protocols that are the basis and foundation of all onchain applications that exist today, on all chains, regardless of the VM being used.\n\nThere was a wealth effect that had legitimacy to it. Something legitimately new was being experimented with in real time.\n\nBut for the past year, nearly all the activity on Solana has been purely extractive, with little produced value for the industry. \n\nFor those who don’t know, MEV literally stands for Maximal Extractable Value. And this is now the basis of the sol ecosystem. Something which wasn’t supposed to exist.\n\nMEV.  It’s literally in the name.\n\n@fozzydiablo https://t.co/BdHFdHTTn9\n\n@0xdoug That’s basically what Arbitrum does right?\n\n@_ryanrconnor God you lose more credibility by the day"
+  },
+  "summary": "The main topics in the tweets from @MilliΞ over the past week include issues with censorship on a platform, discussions about web2 services, observations and opinions on various blockchain projects like Solana and Ethereum, commentary on market trends and predictions, insights into the economics of running validators on different chains, and updates on the launch of Truemarkets. The sentiments expressed range from frustration with censorship and technical challenges to critical analysis of blockchain ecosystems and their development. There is also a sense of excitement and engagement with the community around market activities and new project launches.",
+  "keyTopics": [
+    "Solana",
+    "Ethereum,",
+    "There"
+  ],
+  "sentiment": "Negative",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900937754525024608",
+      "createdAt": "Sat Mar 15 15:50:53 +0000 2025",
+      "text": "Keep building."
+    },
+    {
+      "index": 1,
+      "id": "1900725639126118529",
+      "createdAt": "Sat Mar 15 01:48:00 +0000 2025",
+      "text": "So @GitBookIO censored our docs because some bot farm mass reported it or something. I had to contac..."
+    },
+    {
+      "index": 2,
+      "id": "1900640195533566159",
+      "createdAt": "Fri Mar 14 20:08:29 +0000 2025",
+      "text": "@shazow Just another pivot like when MEV didn’t exist on solony and now it’s the primary value prop ..."
+    },
+    {
+      "index": 3,
+      "id": "1900610252929687944",
+      "createdAt": "Fri Mar 14 18:09:30 +0000 2025",
+      "text": "@ethcoredevs_ 🫶"
+    },
+    {
+      "index": 4,
+      "id": "1900597659045396680",
+      "createdAt": "Fri Mar 14 17:19:27 +0000 2025",
+      "text": "@YourKaiCrypto @0xMert_ be the liquidity you wish to see in the world"
+    },
+    {
+      "index": 5,
+      "id": "1900597441059021103",
+      "createdAt": "Fri Mar 14 17:18:35 +0000 2025",
+      "text": "@0xMert_ https://t.co/cOx0DCq6mH"
+    },
+    {
+      "index": 6,
+      "id": "1900596612218396971",
+      "createdAt": "Fri Mar 14 17:15:18 +0000 2025",
+      "text": "@0xMert_ ayo?\n\nhttps://t.co/tsARWncFMv https://t.co/foALJdDWqU"
+    },
+    {
+      "index": 7,
+      "id": "1900583649591848985",
+      "createdAt": "Fri Mar 14 16:23:47 +0000 2025",
+      "text": "https://t.co/IG23KNsSxb"
+    },
+    {
+      "index": 8,
+      "id": "1900583598861983811",
+      "createdAt": "Fri Mar 14 16:23:35 +0000 2025",
+      "text": "New Market Alert!\n\nWill Russia agree to a ceasefire before Easter?\n\nLink to market in the replies 👇"
+    },
+    {
+      "index": 9,
+      "id": "1900582048466620866",
+      "createdAt": "Fri Mar 14 16:17:26 +0000 2025",
+      "text": "@arixoneth yeah their only options would be to extract more or exit\n\nalso bandwidth costs have to be..."
+    },
+    {
+      "index": 10,
+      "id": "1900573842386399350",
+      "createdAt": "Fri Mar 14 15:44:49 +0000 2025",
+      "text": "Seeing a lot of misunderstandings about this SIMD.\n\nThe reason it was rejected was because validator..."
+    },
+    {
+      "index": 11,
+      "id": "1900570939164692738",
+      "createdAt": "Fri Mar 14 15:33:17 +0000 2025",
+      "text": ">“but to do this we just need to extract less from the actual users/retail of the chain -- let's do ..."
+    },
+    {
+      "index": 12,
+      "id": "1900319521321136335",
+      "createdAt": "Thu Mar 13 22:54:14 +0000 2025",
+      "text": "@_MouseDev @networkspirits &lt;3"
+    },
+    {
+      "index": 13,
+      "id": "1900263736151080973",
+      "createdAt": "Thu Mar 13 19:12:34 +0000 2025",
+      "text": "This may not seem like much, but it means a lot to our team.\n\nTo the first of many thousands more to..."
+    },
+    {
+      "index": 14,
+      "id": "1900253940966678926",
+      "createdAt": "Thu Mar 13 18:33:39 +0000 2025",
+      "text": "For real though all L1 designs eventually converge on the rollup-centric roadmap, just in different ..."
+    },
+    {
+      "index": 15,
+      "id": "1900246511897723056",
+      "createdAt": "Thu Mar 13 18:04:07 +0000 2025",
+      "text": "Rollups with small quorum or single sequencer designs were right. \n\nIykyk."
+    },
+    {
+      "index": 16,
+      "id": "1900233653969445236",
+      "createdAt": "Thu Mar 13 17:13:02 +0000 2025",
+      "text": "@virotechnics is this real lol"
+    },
+    {
+      "index": 17,
+      "id": "1900229695632810156",
+      "createdAt": "Thu Mar 13 16:57:18 +0000 2025",
+      "text": "@Kira_sama @JasonYanowitz nah"
+    },
+    {
+      "index": 18,
+      "id": "1900228966113288499",
+      "createdAt": "Thu Mar 13 16:54:24 +0000 2025",
+      "text": "Guy(s) who's entire persona and success comes from easy access to seed round deals has an opinion ab..."
+    },
+    {
+      "index": 19,
+      "id": "1899909243056029971",
+      "createdAt": "Wed Mar 12 19:43:56 +0000 2025",
+      "text": "@litocoen @mteamisloading chads, the both of you. https://t.co/lPR10KDME4"
+    },
+    {
+      "index": 20,
+      "id": "1899867295419425268",
+      "createdAt": "Wed Mar 12 16:57:15 +0000 2025",
+      "text": "@AustinAdams10 @Truemarketsorg TRUE mentioned!! https://t.co/BuBXjNbPtu"
+    },
+    {
+      "index": 21,
+      "id": "1899867109691187278",
+      "createdAt": "Wed Mar 12 16:56:31 +0000 2025",
+      "text": "@Athio92 @JasonYanowitz those are rollups, go look at defi protocols, many of which have more TVL th..."
+    },
+    {
+      "index": 22,
+      "id": "1899864704421339488",
+      "createdAt": "Wed Mar 12 16:46:57 +0000 2025",
+      "text": "This comes with the territory of \"passive LPing.\" \n\nTrying to create passive counterparty strategies..."
+    },
+    {
+      "index": 23,
+      "id": "1899863473380622402",
+      "createdAt": "Wed Mar 12 16:42:04 +0000 2025",
+      "text": "@JasonYanowitz but state street and JPM can't magically get hacked for their AUM\n\nTVL is an importan..."
+    },
+    {
+      "index": 24,
+      "id": "1899587202201338355",
+      "createdAt": "Tue Mar 11 22:24:16 +0000 2025",
+      "text": "Peak F*cking Performance."
+    },
+    {
+      "index": 25,
+      "id": "1899534980109242416",
+      "createdAt": "Tue Mar 11 18:56:45 +0000 2025",
+      "text": "@smyyguy https://t.co/8UT4YdlbHc"
+    },
+    {
+      "index": 26,
+      "id": "1899534861162992005",
+      "createdAt": "Tue Mar 11 18:56:17 +0000 2025",
+      "text": "@GwartyGwart the ironic thing is that this is actually a *level up* from what the code is being prim..."
+    },
+    {
+      "index": 27,
+      "id": "1899525829597577542",
+      "createdAt": "Tue Mar 11 18:20:23 +0000 2025",
+      "text": "Honestly this is such a useful feature for sorting the markets and categories you want to follow.\n\nS..."
+    },
+    {
+      "index": 28,
+      "id": "1899525362666684773",
+      "createdAt": "Tue Mar 11 18:18:32 +0000 2025",
+      "text": "@ABitWhaleish @AnteFinance https://t.co/6RknPGruP7"
+    },
+    {
+      "index": 29,
+      "id": "1899414590544289963",
+      "createdAt": "Tue Mar 11 10:58:22 +0000 2025",
+      "text": "@fabdarice 🫶"
+    },
+    {
+      "index": 30,
+      "id": "1899411389736751165",
+      "createdAt": "Tue Mar 11 10:45:39 +0000 2025",
+      "text": "Idc what anyone says, the pressure that crypto projects are under while deploying code to production..."
+    },
+    {
+      "index": 31,
+      "id": "1899221865148584074",
+      "createdAt": "Mon Mar 10 22:12:33 +0000 2025",
+      "text": "@TruebieMarkets @GwartyGwart @Truemarketsorg gwart pod gud"
+    },
+    {
+      "index": 32,
+      "id": "1899221244593033677",
+      "createdAt": "Mon Mar 10 22:10:05 +0000 2025",
+      "text": "@TruebieMarkets @GwartyGwart @Truemarketsorg lol"
+    },
+    {
+      "index": 33,
+      "id": "1899196150315700683",
+      "createdAt": "Mon Mar 10 20:30:22 +0000 2025",
+      "text": "@smyyguy @Truemarketsorg any particularly recommended sources? (without shilling me a blockworks sub..."
+    },
+    {
+      "index": 34,
+      "id": "1899173796843544737",
+      "createdAt": "Mon Mar 10 19:01:32 +0000 2025",
+      "text": "@Impose_eth @Truemarketsorg 🫠"
+    },
+    {
+      "index": 35,
+      "id": "1899173518828323307",
+      "createdAt": "Mon Mar 10 19:00:26 +0000 2025",
+      "text": "Don't worry you'll be able to bet on Pumpfun revenue on @Truemarketsorg in a matter of hours"
+    },
+    {
+      "index": 36,
+      "id": "1898893214293328043",
+      "createdAt": "Mon Mar 10 00:26:36 +0000 2025",
+      "text": "Now that the final $TRUE snapshot has been taken, I just wanted to take a moment to thank all of our..."
+    },
+    {
+      "index": 37,
+      "id": "1898858725999284417",
+      "createdAt": "Sun Mar 09 22:09:34 +0000 2025",
+      "text": "@zedweb3 honestly it's probably kraken wallet migration"
+    },
+    {
+      "index": 38,
+      "id": "1898856001182548381",
+      "createdAt": "Sun Mar 09 21:58:44 +0000 2025",
+      "text": "@coinmamba @kyledoops what makes you say that"
+    },
+    {
+      "index": 39,
+      "id": "1898845456223859047",
+      "createdAt": "Sun Mar 09 21:16:50 +0000 2025",
+      "text": "Anyone confirm this? Big if true."
+    },
+    {
+      "index": 40,
+      "id": "1898837178148368633",
+      "createdAt": "Sun Mar 09 20:43:56 +0000 2025",
+      "text": "Just under 3 hours to go! \n\nsmol reminder to be mindful of this timestamp if you have open bids on t..."
+    },
+    {
+      "index": 41,
+      "id": "1898827190780801333",
+      "createdAt": "Sun Mar 09 20:04:15 +0000 2025",
+      "text": "@networkspirits @Truemarketsorg hi"
+    },
+    {
+      "index": 42,
+      "id": "1898814965403783426",
+      "createdAt": "Sun Mar 09 19:15:40 +0000 2025",
+      "text": "Same vibes https://t.co/9TMu7lSfkd"
+    },
+    {
+      "index": 43,
+      "id": "1898803698395935184",
+      "createdAt": "Sun Mar 09 18:30:54 +0000 2025",
+      "text": "The reason ppl have this extractive view of the chain is because the ecosystem has hardly produced a..."
+    },
+    {
+      "index": 44,
+      "id": "1898501634616954954",
+      "createdAt": "Sat Mar 08 22:30:36 +0000 2025",
+      "text": "@fozzydiablo https://t.co/BdHFdHTTn9"
+    },
+    {
+      "index": 45,
+      "id": "1898478580113244335",
+      "createdAt": "Sat Mar 08 20:59:00 +0000 2025",
+      "text": "@0xdoug That’s basically what Arbitrum does right?"
+    },
+    {
+      "index": 46,
+      "id": "1898394406035538198",
+      "createdAt": "Sat Mar 08 15:24:31 +0000 2025",
+      "text": "@_ryanrconnor God you lose more credibility by the day"
+    }
+  ]
+}

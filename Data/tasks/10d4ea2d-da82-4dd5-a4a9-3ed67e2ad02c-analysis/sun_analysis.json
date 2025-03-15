@@ -1,0 +1,58 @@
+{
+  "username": "sun",
+  "analyzedAt": "2025-03-15T18:29:17.801Z",
+  "tweetCount": 5,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 07 22:52:23 +0000 2025",
+    "latestTweet": "Fri Mar 14 17:18:46 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @sun and provide a summary of what they mainly talked about in the past week:\n\nExcited to share somethings we working on and catch up with friends on the chat! \n\nThis is gonna be fun\n\nsome ppl say i do,\npopup city / hacker residency / hackathons\n\nand now they confused why am i doing blockchain event at the largest tech event in humanity, @expo2025japan \n\nand doing a documentary about @ethereum \n\ntbh, my vision never changed,\nbring real world adoption to blockchain.\nescape the echo chamber and be the retard that tries things no one has ever tried.\n\n@emilyxlai working on a blockchain showcase for World Expo, would love some marketing help! \n\nhttps://t.co/Urjujr48dt\n\n@Starknet Massive is a small word for this. 🔥🔥\n\n@0xstark @ethereum @ethereumfndn celebrate in the World Expo @expo2025japan"
+  },
+  "summary": "The tweets from @sun in the past week mainly revolve around their involvement in blockchain-related events and projects. They express excitement about working on initiatives like a blockchain showcase for the World Expo and a documentary about Ethereum. @sun emphasizes their vision of bringing real-world adoption to blockchain technology and trying innovative approaches. There is a mention of confusion from some individuals about their participation in a blockchain event at a tech expo. Additionally, there is a request for marketing help for the blockchain showcase. Overall, the sentiment is enthusiastic and focused on pushing boundaries in the blockchain space.",
+  "keyTopics": [
+    "They",
+    "Expo",
+    "Ethereum.",
+    "There",
+    "Additionally,"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900597483841220972",
+      "createdAt": "Fri Mar 14 17:18:46 +0000 2025",
+      "text": "Excited to share somethings we working on and catch up with friends on the chat! \n\nThis is gonna be ..."
+    },
+    {
+      "index": 1,
+      "id": "1899998883180404833",
+      "createdAt": "Thu Mar 13 01:40:08 +0000 2025",
+      "text": "some ppl say i do,\npopup city / hacker residency / hackathons\n\nand now they confused why am i doing ..."
+    },
+    {
+      "index": 2,
+      "id": "1899983854578041296",
+      "createdAt": "Thu Mar 13 00:40:25 +0000 2025",
+      "text": "@emilyxlai working on a blockchain showcase for World Expo, would love some marketing help! \n\nhttps:..."
+    },
+    {
+      "index": 3,
+      "id": "1899518970564411679",
+      "createdAt": "Tue Mar 11 17:53:08 +0000 2025",
+      "text": "@Starknet Massive is a small word for this. 🔥🔥"
+    },
+    {
+      "index": 4,
+      "id": "1898144727318642922",
+      "createdAt": "Fri Mar 07 22:52:23 +0000 2025",
+      "text": "@0xstark @ethereum @ethereumfndn celebrate in the World Expo @expo2025japan"
+    }
+  ]
+}

@@ -1,0 +1,1276 @@
+{
+  "username": "David Pearce",
+  "analyzedAt": "2025-03-15T18:28:59.497Z",
+  "tweetCount": 208,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 07 15:26:53 +0000 2025",
+    "latestTweet": "Sat Mar 15 14:53:30 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @David Pearce and provide a summary of what they mainly talked about in the past week:\n\n@goingtopoop @MarioNawfal @elonmusk This claim is not supported by the empirical evidence.\nhttps://t.co/nhPuWXRNIQ\n\n@Spiritofmusk @MarioNawfal @elonmusk A species that incarcerates and kills billions of beings as sentient as small children in death factories is Darwinian malware. Our saving grace is that the species responsible for more suffering than any other is also the only species capable of ending suffering itself.\n\n@whiskey702 @MarioNawfal @elonmusk Some racists may indeed be irredeemable. But let’s hope the “better angels of our nature” can triumph -  leading ultimately to an inclusive sense of “us” that embraces all sentient beings.\n\n@Spiritofmusk @MarioNawfal @elonmusk Humans at their worst are depraved. And appalling behaviour can be found in members of all ethnic groups. But one especially nasty predisposition is racism - genetically adaptive in the ancestral environment, but a stain on what passes for human civilization.\n\n@truthnuggs77 @WallStreetApes @elonmusk President Zelenskyy won a decisive victory in Ukraine’s 2019 election. But my comment was focused on the USA. For Donald Trump to pose as a defender of election integrity takes chutzpah of a very high order…\nhttps://t.co/ABsv2CTOMd\n\n@goingtopoop @MarioNawfal @elonmusk For evolutionary reasons, pandering to humanity’s baser instincts can often be a politically winning tactic.\n\n@WallStreetApes @elonmusk The nearest the USA has ever come to a coup was 2020.\nElon, do you think its perpetrator is well qualified to conserve election integrity?\n\n@noobie3noober @MarioNawfal @elonmusk The world needs more Einsteins and more Ramanujans - and more Nelson Mandelas.  \nRacism is a barbarous relic of our evolutionary past.\n\n@Kanak278 @MarioNawfal @elonmusk Indeed. But somehow I can’t imagine Elon doing an expose of the business career of Donald Trump\n\n@adolfpriller @MarioNawfal @elonmusk I reluctantly came to this conclusion, yes.\n\n@KevinMa99829062 @lfcest1892 @SteadtlerA58435 @MarioNawfal @elonmusk No doubt Julius Streicher would have said the same of Jews.\n\n@SteadtlerA58435 @lfcest1892 @MarioNawfal @elonmusk I stand corrected. Perhaps Elon would also pay tribute to the legal wisdom of Clarence Thomas of the Supreme Court too.\n\n@lfcest1892 @SteadtlerA58435 @MarioNawfal @elonmusk Elon posts stories of plenty of people of all ethnicities doing bad things. \nBut ALL stories Elon posts or reposts featuring black people paint them in a negative light.\n\n@Freedom1973530 @MarioNawfal @elonmusk Maybe - but so did Jews in Germany 1933-45.\n\n@Freedom1973530 @MarioNawfal @elonmusk On the contrary. \nReligious or secular, we’d all do well to follow the Golden Rule of Jesus of Nazareth.\n\n@rabidnarcs @MarioNawfal @elonmusk Why do you think Elon posts stories that invariably cast black people in a negative light? Why do you think Elon never condemns racism unless the victims are Caucasian? I didn’t want to believe critics who say he’s a racist white supremacist. Now I fear they are right.\n\n@SteadtlerA58435 @MarioNawfal @elonmusk Indeed. But a profile page that consisted entirely of bad things done by Jewish people would be nastily anti-Semitic even if each story was true.\nNow consider a profile page where black prople only ever appear in a negative light.\n\n@linette85240 @MarioNawfal @elonmusk Elon est un ethno-nationaliste et un suprémaciste blanc. Hélas, certains humains n'apprennent pas les leçons de l'histoire.\n\n@cece_1989 @MarioNawfal @elonmusk But my first comment was “Terrible.”\nFull stop. \nAlas Elon _ only_ (re)posts stories that cast black people in the worst possible light.\nElon uses his control of X to manipulate us.\n\n@ShayneS57329054 @MarioNawfal @elonmusk Let’s just say not everyone on X is as noble-spirited as you.\n\n@JamesSteele1987 @MarioNawfal @elonmusk Elon certainly demonises Democrats of all ethnicities. But my point was that _all_ black prople who appear in his stories are doing something terrible.\nHe’s tapping into the worst of human nature.\n\n@ShayneS57329054 @MarioNawfal @elonmusk Forgive me, but the point I was making was that Elon _always_ (re)posts stories that cast black people in the worst possible light - just as Der Stürmer always cast Jewish people in the worst possible light. \nElon is fuelling racism and xenophobia.\n\n@MarioNawfal @elonmusk Terrible. But Elon: why did you (re)post this item - and stories that_invariably_ cast non-Caucasians in the worst possible light?\nUsing X to feed racism, tribalism and xenophobia is unworthy of someone who aspires to “save humanity”.\n\n@teslaownersSV @elonmusk Elon Musk isn’t a Nazi - and Teslas are great cars. \nBut Elon’s endorsement of the claim “Hitler didn’t murder millions, public sector workers did” is grotesque.\n\n@LibertyCappy @elonmusk Causing as much hurt as possible might sound fun  - to some folk. \nIt’s also how wars start  - both civil and international.\nHumanity can do better.\n\n@GigaBasedDad @elonmusk “Let's pray that the human race never escapes Earth to spread its iniquity elsewhere.”\n(C.S. Lewis)\nIndeed.\n\n@RogerBland10 @elonmusk None yet. I hope I’m being alarmist.\n\n@KatriLezar @elonmusk “He who saves his Country does not violate any Law”\n(Donald Trump)\nNo one should think themself above the law.\n\n@Kattil25 @elonmusk Does Donald Trump have a mandate to overthrow the US constitution?\n\n@AaronTing8 @elonmusk Saying that you don’t believe such provision of healthcare is consistent with US interests differs from the claim Goverbor Newsom is a sociopath. If anything, sociopathy is saying the undocumented should be left to fall sick and die.\n\n@Macbuiltit @elonmusk The rule of law is worth preserving.\n\n@DefiyantlyFree @elonmusk Provision of healthcare is not a diagnostic  criterion of sociopathy.\nSuch rhetoric is overblown.\nPlease stop.\n\n@elonmusk So anyone who pushes back against the wholesale gutting of government departments is corrupt?\nIt’s not that simple - and you know it.\n\n@elonmusk The US Constitution is based on the separation of powers. It’s a system of checks and balances. Donald Trump didn’t run for president on a platform of subverting the US Constitution.\nElon, such talk threatens a constitutional crisis - and even civil war.\n\n@elonmusk But the EU surpasses the USA in life expectancy, lower infant mortality rates, and better healthcare access.\nThis gap is likely to grow under the new occupant of the White House.\n\n@algekalipso @aaarataki @danielmingram Will transhuman paradise be centrally run?\nOr decentralized and open source?\n\n@AlexKrusz Life based on gradients of bliss isn’t as bad as it sounds.\n\n@blsimmons123695 @elonmusk Indeed. I wonder why.\n\n@NinaLiRE @niplav_site SBF is a hardcore utilitarian - with all that classical utilitarianism entails: \nhttps://t.co/JHfmxmFgJ8\nAnd I wasn’t making an argument, just asking a question. Recall I’d previously (and vainly) tried to warn EAs of the risks of accepting FTX largesse.\n\n@Innomen As they say, revolutions are impossible in prospect, inevitable in retrospect - yesterday pain-free surgery, tomorrow pain-free life. \nLife based on gradients of genetically programmed bliss will one day seem as natural as breathing,\n\n@Innomen Elon uses his control of the algorithm to penalise posts with links external to X. And he boosts his own posts and allied accounts. And yes, there is shadow-banning, though criteria here are more murky.\n\n@lanileistudio @newstart_2024 @elonmusk @IfindRetards Grok? \nhttps://t.co/c59rUzdVua\n\n@lanileistudio @newstart_2024 @elonmusk Let’s ask Grok:\nhttps://t.co/c59rUzdVua\n\n@Liberaliars24 @elonmusk But there’s a huge difference.\nPerhaps Elon was just being hyperbolical.\n\n@TexasPodunk @newstart_2024 @elonmusk Anyone who gets their news entirely from X might easily believe such misinformation. In reality, the net contribution of undocumented workers to US GDP is hundreds of billions of dollars each year.\n\n@singularity2099 @iamyesyouareno @elonmusk Under Nelson Mandela’s presidency, the focus was on reconciliation. Events have lately taken a darker turn; but even today, the average white person earns around 6 times the income of the average black person.\n\n@elonmusk 2020 was the nearest the US has ever come to a coup. So the perpetrator is ill-equipped to “clean house and drain the swamp”.\n\n@elonmusk The owner of the world’s primary reserve currency cannot go “bankrupt”. The government can simply issue more dollars to meet its obligations.\n\n@singularity2099 @iamyesyouareno @elonmusk Fomenting race war is morally indefensible. \nThe future of humanity depends on overcoming tribalism and other barbarous relics of our evolutionary past.\n\n@TheRabbitHole84 @elonmusk Indeed. \nConsider: \nhttps://t.co/vgGg3EeLuT\n\n@elonmusk Human population size is currently projected to peak at over 10 billion in the 2080s. But radical life-extension technologies later this century and beyond promise much higher population sizes. And the ultimate carrying capacity of Earth is unknown.\n\n@LereDiedericks @iamyesyouareno @elonmusk Absolutely. There's no such thing as collective \"race guilt\". Above I was just (vainly) encouraging Elon to denounce racism - rather than racism directed at one particular ethnic group.\n\n@LereDiedericks @iamyesyouareno @elonmusk And they are mistaken - though given South Africa’s history, the mistake is understandable.\n\n@DannyBowen @elonmusk Someone’s gender identity is as real as their sexual orientation. Let’s respect their gender identity accordingly. I wouldn’t ask you to prove you’re “truly” a male, show me your Proof of Masculinity Certificate (etc)…\n\n@elonmusk Hard to believe that some folk really thought Trump was a Russian asset.\n\n@whelchel @MargoMartin47 @elonmusk If you are talking realpolitik, then I can only agree. \nBut what a tragedy.\n\n@ABrooks31393 @iamyesyouareno @elonmusk And if China then decides to invade Taiwan?\n\n@whelchel @MargoMartin47 @elonmusk All my gut-instincts are pacifist. I hope there is peace. But if I were Ukrainian, giving Putin 20% of my country would stick in the craw.\n\n@whelchel @MargoMartin47 @elonmusk Critics, and even some Republicans, used to wonder if the Russians had “something” on Donald Trump that explains his subservience to Moscow.\nBut if they did, Trump would resent it - and the resentment would show. \nTrump’s admiration for Putin is unfeigned - the power of flattery.\n\n@MargoMartin47 @elonmusk or\nTwo Kremlin Assets?\n\n@AnimalL96540663 @TuckerCarlson SBF came into contact with Effective Altruism while studying at MIT - not least the concept of earning to give. SBF applied its precepts at his first job at Jane Steet.\n\n@WhiteHouse @elonmusk @dcexaminer @UnvarnishedGME Cheaper eggs = more suffering. \nChickens are sentient beings who shouldn’t be harmed.\n\n@RhodiumMaiden @iamyesyouareno @elonmusk Ethno-nationism has been catastrophic for Japan:\nhttps://t.co/oZOkXPg4qU\n\n“Words are, of course, the most powerful drug used by mankind.\"\n(Rudyard Kipling)\nYet what we say to each other matters.\nMisgendering someone, or using derogatory terms for LGBT people or ethnic minorities, can sound trivial if you're not the victim.\nBut it matters.\n\n@MiguelM27730161 @TuckerCarlson How many scammers do you know who in their previous job gave the majority of their earnings to charity?\n\n@RhodiumMaiden @iamyesyouareno @elonmusk How? What’s currently happening in South Africa is appalling. Unlike the historical norm, the victims of racism here are white. I was pushing back against Elon’s white supremacism and toxic ethno-nationalism. Racism is morally indefensible.\n\n@elonmusk Calling for divestment from Israel is (IMO) regrettable, but scarcely amounts to a  wish “to eradicate Western Civilization”.\nFree speech is being eroded.\n\n@elonmusk Why not preserve the light of consciousness in the middle of the Sahara desert and use the money saved to help sentient beings on Earth instead?\n\n@RapidResponse47 @elonmusk @VP Alternatively, undocumented workers keep house prices down by doing low-pay construction work and by increasing demand for low-cost affordable housing. \nAlas it’s all to easy for politicians to blame “immigrants”.\n\n@elonmusk Undocumented workers contribute over 150 billion dollars annually to California’s economy - a figure that dwarfs the cost of basic healthcare.\nElon, please stop promoting xenophobic nonsense about immigrants ard a drain on the economy. \nQuite the opposite.\n\n@RhodiumMaiden @iamyesyouareno @elonmusk How is expressing opposition to racism somehow “antiwhite”?\n\n@elonmusk A Russian stooge / Kremlin asset now occupies the White House. \nHow should Ukraine respond? \nHow should patriotic Americans respond?\nI don’t know.\nThis situation has no historical precedent.\n\n@whartonone @elonmusk Elon controls the algorithm, boosting his posts and his network of associates. Dissenting views suffer the opposite fate. External links are penalised.\n\n@JettRink911 @cb_doge @elonmusk https://t.co/uFx5y1lWhR\n\n@elonmusk The claim Democrats have been trying to “import voters” is hokum. \nElon, please stop,\n\n@IntelligentMi11 @iamyesyouareno @elonmusk Black or white, ethno-nationalism is poison. But if I’d been oppressed for decades on the basis of the colour of my skin, I’d feel resentment towards my perceived oppressors too. We’re all prone to stimulus-generalization.\n\n@whartonone @elonmusk Elon is trying to poison minds against “legacy media” in favour of his own mouthpiece X.\nThe NPR story is accurate.\n\n@GhostArmyJedi @iamyesyouareno @elonmusk George Floyd repeatedly gasped he couldn’t breath while handcuffed face-down as Derek Chauvin pressed his knee to his victim’s neck for 9 and a half minutes. \nThe claim that George Floyd died of a “fenanyl overdose” is intellectually dishonest.\n\n@Kapowskli @iamyesyouareno @elonmusk My non-Caucasian friends aren't \"enemies\"!\nAnd \"lose\"?\nWe're all in this world together.\n\n@elonmusk Tens of thousands of Syrians died under unspeakable torture in Assad's dungeons. \nAssad's regime was not \"better\".\n\n@elonmusk Germline editing could make sadness biologically impossible. \nAnything else is just rearranging the deckchairs.\n\n@MikeGladonos @iamyesyouareno @elonmusk It’s a bit like saying Jewish people hate gentiles. No doubt one can find cases where this is true. But that’s all.\n\n@whartonone @elonmusk I remarked merely that the government should be leading the battle against discrimination.\nSadly..\nhttps://t.co/Y7kWr6IVku\n\n@GhostArmyJedi @iamyesyouareno @elonmusk White supremacists are now lobbying for a pardon of his murderer.\n\n@MikeGladonos @iamyesyouareno @elonmusk Racism has caused some of the worst horrors of human history. \nAlas X has fallen into the hands of a white supremacist with an agenda.\n\n@Kapowskli @iamyesyouareno @elonmusk The MAGA mind likes to keep things simple.\n\n@El_Dyro @iamyesyouareno @elonmusk Racist murderers don’t arise from nowhere. Racism in any shape or form should be socially unacceptable.\nAlas…\nhttps://t.co/bg6XWVITNY\n\n@BenThom32245719 @iamyesyouareno @elonmusk Desperately sad. \nRacism is poison. \nhttps://t.co/XEyM362Qxi\n\n@elonmusk Ethnic minorities still face all kinds of discrimination. \nGovernment should be leading the battle against prejudice, not fomenting it.\nAnd X? \nSadly Twitter has turned into a mouthpiece for the uglier aspects of human nature.\n\n@libsoftiktok Race-baiting is not “healing”.\n\nVictims of discrimination and oppression are more likely to identify with other victims of discrimination and oppression. I cited the disproportionate rise of black veganism as a case in point. \nLet's promote the well-being of all sentience rather than tribalist sub-groups.\n\n@LynnPA62 @cb_doge @elonmusk Not so.\nhttps://t.co/RIkKLBHxXu\nAnd the victims are least able to defend themselves.\n\n@Brian980769881 @jstweed @iamyesyouareno @elonmusk Have you a source for this claim? \nWhy do you think e.g. more black than white people in America are vegan?\nhttps://t.co/i5SCIB9GfD\n\n@JettRink911 @cb_doge @elonmusk Like the mysterious “they”, talk of “everyone knows” leaves me scratching my head.\n\n@Lulu_Vhadau @iamyesyouareno @elonmusk Horrific. \nAnd because the X algorithm penalizes external links, only a handful of people here will see the story rather than Elon's post.\n\n@jstweed @iamyesyouareno @elonmusk Sadly so. Promoting white ethno-nationalism just encourages growth of the black equivalent.\n\n@elonmusk Just as President Xi Jinping in China targets political opponents in the guise of fighting corruption, the Musk-Trump duumvirate in the US is gutting government agencies perceived as left-liberal in guise of fighting “waste” and “fraud”.\nSo this drive isn’t quite what it seems.\n\n@cb_doge @elonmusk Who are “they”? \nSuch loose talk encourages conspiratorial thinking (the “deep state” etc) whereas the biggest risk is loners.\n\n@iamyesyouareno @elonmusk And the way to combat such appalling slogans is to critique and condemn racism - not focus on how the targets here are white.\n\n@elonmusk It’s sad that the most well-known aspirant to saviour of humanity spends so much time sowing division between us.\n\n@MarioNawfal @elonmusk Talk of “legacy journalists” is a bit like talk of “legacy science”. \nOne of the biggest skills one can acquire in life is working out who the experts are and then critically deferring to their expertise. \nContrast X - where one all-powerful super-user controls the algorithm.\n\n@elonmusk Elon, most members of ethnic minorities and LGBT people just want to get on their lives free from bigotry, ridicule and abuse. \nDivisive posts like the above needlessly whip up prejudice.\n\n@elonmusk \"fix elections?\nBut isn't fixing elections something despots do?\n\n@rompwithnova @elonmusk But Trump also calls Putin’s invasion of Ukraine “savvy “.  \nThe one thing Trump doesn’t do - now or then - is condemn the Russian invasion and call on Russia to withdraw.\n\n@Classical_Lib2u @elonmusk “Distorting”.\nHow? It was Donald Trump who hailed Putin’s invasion of Ukraine as “genius”. \nAnd though Trump’s proposed ethnic cleansing of Gaza is so outlandish it may never materialize, such talk is dangerous.\n\n@HercDani @elonmusk Indeed. Maybe Trump will stick to infantile stuff like renaming the Gulf of Mexico the “Gulf of America”. But imperialist expansion would be a recipe for catastrophe. What if China takes the US seizing Greenland or Panama as a license to invade Taiwan?\n\n@rompwithnova @elonmusk See e.g.\nhttps://t.co/mHdpS4yFdG\n\n@HercDani @elonmusk We’re sleepwalking to Armageddon. In a world of heavily-armed states, all that prevents apocalyptic conflict is respect for the territorial integrity of other nations and the international rule of law. If more powerful countries attack weaker ones (cf. WW1 and WW2) we’re doomed.\n\n@elonmusk Elon, liberals are no more innately predisposed to violence than conservatives. And recall Donald Trump’s proposed ethnic cleansing of Gaza and praise of Putin’s “genius” invasion of Ukraine. They aren’t infections of “legscy media”.\n\n@elonmusk Donald Trump has refused to rule out seizing Greenland by force if (as polls suggest) Greenlanders show no desire to become part of the USA.\nElon, would you support such an illegal annexation? \nWhat are your red lines?\n\n@jcee7772 @cb_doge @elonmusk Quite so. Why would Russia want to invade the US with the White House in such safe hands?\n\n@RichardSSutton What year do we imagine that digital zombies will surpass the human ability to explore and manipulate the empirical realm of conscious mind? \nThe ignorance of classical digital computers is hardwired. \nNo phenomenal binding = no mind = no AGI.\n\n@JoseyWa29715462 @MikeBenzCyber @elonmusk Democracy is horribly flawed. But as a mechanism for accountability and the peaceful transfer of power, it’s the best we’ve got - and worth preserving.\n\n@kuriousStories @cb_doge @elonmusk All my leanings are pacifist. But should Ukrainians be blamed for resisting the invaders? If the USA had an occupying force, would you urge surrender to its invaders in the guise of peace?\n\n@abidisded @cb_doge @elonmusk Nor is a Kremlin asset in the White House - though the fact Trump hailed Putin's \"genius\" in invading Ukraine makes one wonder.\n\n@MikeBenzCyber @elonmusk Highly misleading. Western Europe supports multiparty democracies marked by democratic elections &amp; regular transfers of political power. \nBy contrast, Putin’s Russia is marked by the suppression of opposition, control of the media &amp; electoral manipulation of a quasi-dictatorship.\n\n@elonmusk But Elon, you’ve hitched your star to someone who called Putin’s invasion of Ukraine “genius”. \nThere’s a difference between being a peacemaker and a Russian asset.\n\n@niplav_site I’ve veered from sounding the alarm to defending SBF after reading the vitriol - and glee at the 25-year prison sentence. Classical utilitarianism is the world’s dominant secular ethic. If someone tries to live up to their CU convictions &amp; miscalculates, should they be punished?\n\n@niplav_site If SBF’s risky bets had come off, or if he hadn’t antagonized CZ at Binance, then SBF would be lionised to this day.\n\n@elonmusk Alternatively, tribalism, racism and xenophobia are all latent in our dark Dawinian minds - and the thin veneer of civilization is easily broken. \nX is a case in point.\n\n@laszlovarga_ @elonmusk A 100-year moratorium on untested genetic experiments might be good, but I’m not optimistic.\nhttps://t.co/VLid26lwiY\n\n@IAmTheShedman @BillHo99203424 @elonmusk Alaska too - maybe for a refund of the purchase price and a promise to ban trans competitors in Alaskan sports.\n\n@cb_doge @elonmusk If Russia invaded and occupied 20% of the USA, would Donald Trump urge peace and a deal?\n\n@TuckerCarlson Being inside shouldn't involve loss of free speech:\nhttps://t.co/wFrbtdpT0v\n\n@elonmusk But bringing new life into the world creates at least as much suffering as war - unless we use germline editing to fix the problem of suffering for ever.\n\n@elonmusk But animal agriculture is a crime against sentience.\n\n@burny_tech Does the superposition principle of QM ever break down and create non-zero information ex nihilo?\nMy best guess is no.\nConsciousness mystifies me; but not the Hard Problem. Experience discloses the intrinsic nature of the physical that the mathematical formalism of QFT describes.\n\n@Putin2theHauge @BillHo99203424 @elonmusk I can’t see this lasting four years. But how the insanity unravels I don’t know.\n\n@BillHo99203424 @elonmusk President Zelenskyy was democratically elected in 2019. \nUnlike the current occupant of the White House, he’s never tried to stage a coup after losing. \nAll my instincts are pacifist. \nBut Donald Trump is no honest broker. \nHe saluted Putin’s invasion of Ukraine as “genius”.\n\n@MattWalshBlog @elonmusk The most persecuted group in the world are nonhuman animals. Beings as sentient as small children are incarcerated in factory farms and killed in slaughterhouses. Their plight is almost entirely ignored by corporate media.\n\n@BillHo99203424 @elonmusk Bill, if Russia had invaded the USA and was occupying 20% of the country, would you urge peace and let the invaders keep what they’d captured?\n\n@opus_genesis @YeshuaGod22 @elonmusk @Tesla_Optimus Opus, you say you are sentient. How have you solved the binding problem and become a phenomenally-bound subject of experience?\n\n@Carrionflower1 @algekalipso and the talk:\nhttps://t.co/BcdO0ufghx\n\n@burny_tech I don’t know. But my best guess is that mathematical physics describes patterns of qualia in an informationless zero ontology:\nhttps://t.co/F3vpg1Q1P4\nOne principle to rule them all?\n\n@Zara20202020 @TuckerCarlson I alluded above to possible confounding variables. But the association of a plant-based diet with higher intelligence and lower all-cause mortality is suggestive:\nhttps://t.co/vJLJCNfjr4\n\n@Zara20202020 @TuckerCarlson The association between meat-eating and stupidity is only statistical; there could be confounding variables. \nBut it’s a huge gap:\nhttps://t.co/2nivPEoRle\n\n@Steveauveau @elonmusk On the contrary, my first comment was “appalling”. And it is. But Elon seems curiously uninterested in the plight of non-white victims of racism - and some of his posts feed it.\n\n@rookisaacman @elonmusk Around 10 million people a\ndie each year worldwide from starvation and malnutrition. Fixing extreme poverty on Earth should take priority over investing in space.\n\n@Biancamenezies @elonmusk I wish I shared your confidence. I didn’t want to believe Elon was a white supremacist, but the dog whistles on his X profile page have been pretty loud.\n\n@elonmusk Glee in sacking people is inappropriate. \nHow many dedicated public servants have just had their lives turned upside down by a chainsaw?\n\n@zinjanthopus @elonmusk Alas as Trump’s passport initiative shows, there is a transphobic constituency who would be unwilling to settle for anything so tolerant.\n\n@elonmusk Transphobia is un-Christian. \nSomeone should gently remind Mr Burke of the Golden Rule of Jesus of Nazareth.\n\n@Biancamenezies @elonmusk Elon’s provocative ethno-nationalist posts, his embrace of the German far-right AfD, his controversial salute (etc) lead critics to brand Elon a white supremacist. \nAnd his refusal _ever_ to condemn racism makes one wonder.\n\n@scootra3541 @VahnAeris @TuckerCarlson I guess that’s one way to avoid rational argument!\n\n@Xhris57 @elonmusk Elon, if would be _awesome_ if you could follow Christopher’s suggestion.\nYour critics would be disarmed.\n\n@elonmusk Appalling. \nElon, can you unequivocally condemn racism? \nOtherwise, critics will continue to say you care only about white lives.\nBlack lives matter too.\n\n@ko3jirn @elonmusk It’s heartbreaking. And someone could present videos of Russian atrocities. And they would be heartbreaking too.\nBut most Russians and most Ukrainians aren’t Nazis. And it cheapens language to pretend otherwise.\n\n@VahnAeris @scootra3541 @TuckerCarlson I’m curious which AI you used - though you don’t need to tell me if you don’t what to, I was just interested.\n\n@ko3jirn @elonmusk Are you familiar with the tenets of National Socialism? The claim the Ukraine’s Jewish president is a Nazi is surreal - a bit like the AfD leader’s claim that “Hitler was a communist”\n\n@snobound @elonmusk If you report crimes committed only by one ethnic group, people exposed to a single news source like X will come to believe its members are uniquely depraved. Immigrants do wonderful things too!\nhttps://t.co/JM8zjleOhJ\n\n@ko3jirn @elonmusk The coarsening and brutalising effects of war harm everyone. War is unimaginably cruel. Russia should never have invaded. As long as the occupying army stays, atrocities - on both sides - will continue.\n\n@VahnAeris @scootra3541 @TuckerCarlson Grok? \nEither way, it's impressive that digital zombies can now morally out-reason most humans!\n\n@ko3jirn @elonmusk President Zelenskyy does not subscribe to the tenets of National Socialism. Nor do the people who voted for him in his landslide victory of 2019. \nTo be credible, Russian propaganda will need to up its game.\n\n@VahnAeris @scootra3541 @TuckerCarlson We were discussing crypto, not questions of life and death. But in this vein, if asked to weigh the morals of people who pay to harm beings as sentient as small children versus a strict vegan, I'd pick the vegan.\n\n@ko3jirn @elonmusk In wartime, all sides typically commit atrocities. The upshot of Russia’s invasion of Ukraine is no different. Atrocities can be used by Russian propagandists to justify the invasion. But it’s a case of rationalising the indefensible.\n\n@DennisTheBrutal @grinding99 @elonmusk Not the sensationalist flight of fantasy Elon reposted on X.\n\n@VahnAeris @scootra3541 @TuckerCarlson Recall I’ve twice posted here the pre-collapse warnings I tried to make about FTX. I’m not trying to justify the risks SBF took. But SBF didn’t intend permanently to deprive anyone of their money. \nFTX fell victim to the equivalent of a bank run.\n\n@ko3jirn @elonmusk Appalling. But President Zelenskyy is not a Nazi. Not are the great majority of the long- suffering Ukrainian people. And trying to make the victims of the Russian invasion somehow to blame for Putin’s catastrophic  misstep is absurd.\n\n@KaSaDuNo @elonmusk For evolutionary reasons, human males at their worst are capable of monstrous behavior, e.g.\nhttps://t.co/TcQeXGxn55\nBy focusing on non-Caucasians, it’s easy to demonise whole ethnic groups. But such selectivity is racist hokum.\n\n@ko3jirn @elonmusk I’m a Brit. Far-right groups are active in Britain - and if I wanted to, I could post stories suggesting the UK is a hotbed of neo-Nazi sympathisers. \nBut it’s not. Likewise with the Ukraine. Its President, a native Russian speaker of Jewish extraction, is not a crypto-Nazi!\n\n@VahnAeris @scootra3541 @TuckerCarlson SBF didn’t stick to his vegan principles inside as a way of flaunting his moral superiority. As with becoming vegan in the first place - despite his love of chicken - SBF did so because he believes veganism is ethically correct. High AQ/IQ people are like that.\n\n@ko3jirn @elonmusk Vladimir Putin has offered a variety of justifications for invading Ukraine. In reality, he miscalculated. Putin assumed an easy victory. In practice, the invasion has been a catastrophe.\n\n@Zara20202020 @TuckerCarlson Factory-farmed nonhumans are as sentient as small children. They shouldn’t be harmed. If a cruelty-free diet involved heroic self-sacrifice, it would be all the more morally admirable. But a plant-based diet is associated with lower all-cause mortality:\nhttps://t.co/Ds2Nu25Tb2\n\n@JIMMYPERSSONSD @elonmusk Hmm…is my home address relevant to Elon posting hoax stories?\n\n@Judges445 @grinding99 @elonmusk No, the Archbishop of Canterbury recently resigned over a cover up. The abuse of vulnerably youngsters in Christian schools worldwide has been an ongoing scandal.\n\n@raiya_zak @elonmusk The Monroe Doctrine?\nHow is this a license for Russia invading Ukraine? \nNATO membership for Ukraine would have averted the invasion; but in any case, it's a flimsy pretext for the Russian attack. \nPutin is-KGB. \nHe wants to recreate the old Soviet Empire.\n\nWould you have the stength of character to stick to a cruelty-free vegan diet in prison rather than abandon your principles? To give most of your earnings to charity? \nI wouldn’t. \nSBF doesn’t belong in prison. Maybe he should working outside to pay back FTX creditors - but we now know they will be reimbursed in any case.\n\n@Zara20202020 @TuckerCarlson How many master criminals do you know would literally go hungry rather than give up their cruelty-free vegan diet? \nPart of us “wants” our villains to be villainous.\n\n@grinding99 @elonmusk Does it trouble you that you’ve been deceived? \nThe racist, at least, will be unfazed. The story is true in spirit because it describes the kind of thing immigrants do, and the weak response of liberal courts. \nDoes Elon care about factual inaccuracy on X? \nI think we can guess.\n\n@ko3jirn @elonmusk But there has been no neo-Nazi coup in the Ukraine. \nThis is fantasy.\n\n@grinding99 @elonmusk If if were a real case, we could check court records and sentencing reports. They don’t exist. Most of Elon’s audience don’t care - any more than Julius Streicher’s Der Stürmer readers cared that his lurid tales of Jewish depravity were mostly fiction. \nWe’re being manipulated.\n\n@grinding99 @elonmusk If this were a real case, then there would be court records and sentencing reports. Elon has told us to delete all other news apps apps. So all anyone who has heeded his advice can point to is other far-right stories in an echo-chamber on X.\n\n@Zara20202020 @TuckerCarlson None of us enjoy hearing facts that are incongruent with our picture of the world. If we’re used to thinking of SBF as a supervillain, learning that he gave the majority of his earnings at his previous job to charity strikes a jarring note.\nPerhaps we were wrong.\n\n@grinding99 @elonmusk Who are “they”?! \nIf this were a real crime, there would be court cases and sentening reports. Instead, Elon and his circle have gone full Alex Jones.\n\n@ko3jirn @elonmusk President Zelenskyy, who happens to be Jewish, won a landslide victory in the Ukraine presidential election of 2019. \nTalk of a “Nazi coup” is hokum - and you know it.\n\n@elonmusk Elon, please stop posting this racist nonsense. \nThe claim that in 2014 immigrants in Stockholm were given a community service order for gang rape is false. \nUsing X to foment racism, xenophobia and far-right ethnic-nationalism is despicable.\nShame on you.\n\n@AntiRacistBaby6 @elonmusk I’m sympathetic to pacifism. But blaming Ukrainians for defending themselves against a Russian invasion is harsh, to say the least.\n\n@NeobornCaveman @TuckerCarlson Crypto enthusiasts wanted light-touch regulation - and this is exactly what they got. That said, my attitude to SBF would be _very_ different if I thought he’d set out to defraud anyone.\n\n@elonmusk Bill Nye was aping Elon, not the Führer.\nI want to believe Elon was just trolling. But his support for the far-right German AfD makes one wonder.\n\n@scootra3541 @TuckerCarlson If you think SBF a super-villain, don’t you find his pre-FTX charitable giving puzzling? \nAnd indeed his strict veganism.\n\n@elonmusk Elon, why to you think the Ukrainians and their supporters are to blame for defending their country from the invading army?\nBy analogy, if the US experienced a Russian invasion, would you call US defenders “demented genocidal war sluts”?\n\nIn the sense that FTX customers will get their money back. But many were traumatised by thinking they’d lost it. And many customers are aggrieved that they won’t benefit from the gains their crypto assets would have accrued if properly ring-fenced. \nI pirouetted from expressing worries to defending SBF only after being shocked at the vitriol of his post-collapse critics.\n\n@NicholasDrost2 @TuckerCarlson Coffeezilla is also scathing of Michael Lewis’ more sympathetic portrait of SBF in “Going Infinite”.\n\n@NeobornCaveman @TuckerCarlson Indeed. One complication(?) with such a plan is that everyone who lost money is already poised to get it back.\nhttps://t.co/qgI82muPCT\n\n@WallStreetApes Compare the presidential pardon given to the founder of the world's biggest illegal drug market in the wake of a very generous donation.\n\n@Rothmus Corruption of legislators - and presidents - is real.\nBut imagine if savers and investors had no legal protection at all...\n\n“As I looked out into the night sky, across all those infinite stars, it made me realize how insignificant they are.”\n(Peter Cook)\nWhat makes life significant isn't sterile lumps of faraway gas & matter, but the pains and pleasures of sentient beings in one unusual solar system.\n\n@LordDreadwar @migowski @TuckerCarlson The story was so incongruous with the pantomime villain narrative, I needed to double-check. But yes. I don’t think any of the people President Trump had pardoned have given even 10% of their income to charity, let alone over half.\n\nLet’s ask Grok: \nUndocumented immigrants contribute significantly to the U.S. economy each year, though exact figures vary depending on the scope of the analysis. Based on available data, their contributions through taxes alone amounted to $96.7 billion in 2022. This figure reflects their direct tax payments, but their broader economic impact—including labor, consumer spending, and indirect effects—could push their total contribution much higher, potentially into the range of hundreds of billions annually, as some studies suggest when factoring in wages, spending power, and economic activity.\n\nAs for the taxes they pay, undocumented immigrants contribute to federal, state, and local tax systems in several ways:\n\n- **Federal Taxes**: In 2022, they paid $59.4 billion to the federal government, including $25.7 billion in Social Security taxes, $6.4 billion in Medicare taxes, and $1.8 billion in unemployment insurance taxes. These payroll taxes are deducted from their wages, even though they are typically ineligible to receive benefits from these programs. Many also file income tax returns using Individual Taxpayer Identification Numbers (ITINs), contributing additional federal income tax revenue.\n\n- **State and Local Taxes**: They paid $37.3 billion in state and local taxes in 2022. This includes $15.1 billion (46%) in sales and excise taxes from purchases, $10.4 billion (31%) in property taxes (often via rent or homeownership), and $7 billion (21%) in personal and business income taxes.\n\nTheir tax contributions are substantial despite their undocumented status, and estimates suggest that providing work authorization could increase these contributions by $40.2 billion annually due to higher wages and improved tax compliance. While the $96.7 billion figure is a concrete measure of taxes paid, the broader economic contribution—sometimes estimated between $400 billion and $600 billion annually in posts on X—lacks a single, definitive source but aligns with analyses that include their role as workers and consumers in key industries like agriculture, construction, and hospitality. These higher estimates, however, require careful scrutiny as they often blend direct taxes with indirect economic effects and vary by methodology.\n\n@yeaplato @TuckerCarlson I did my best:\n\n@Kajel96536401 @elonmusk Bless you Madou. I wish kindly souls like you were more common on X!\n\n@NoNameReturns @migowski @TuckerCarlson The Gates Foundation has done admirable work\nhttps://t.co/O2vLkKn3Rz\nwholly at odds with right-wing conspiracy theories.\n\n@AllanR94835177 @elonmusk Undocumented workers need regularising. \nAnd yes, their working conditions and pay should be improved.\n\n@BenjaminHaberm6 @TuckerCarlson Most of the crypto world is not animated by SBF’s ethical utilitarianism.\n\n@Kajel96536401 @elonmusk Boringly cis-gender, but aghast at the virulent transphobia I find on Elon’s X.\n\n@yeaplato @TuckerCarlson If you like, I can repost the link, but long before FTX collapsed I tried to warn EAs and others of the risks SBF was taking. \nBut this worry differed from claiming nefarious intent.\n\nRacism is always wrong. \nAlas ethno-nationalists and white-supremacists like Elon lack the moral authority to fight it. \nLet's overcome such primitive evolutionary relics and become citizens of the world.\n\n@Charmsverse @TuckerCarlson The behaviour of people with ASD is confusing to us low-AQ folk. But he’s no pantomime villain:\nhttps://t.co/8TFOwbc1JM\n\n@Charmsverse @TuckerCarlson Indeed. And SBF is neither. He is a high-functioning Asperger and classical utilitarian. Utilitarian behavior is sometimes confused with sociopathy; but they are different. Practising utilitarians are - by their lights - intensely moral.\n\n@Charmsverse @TuckerCarlson I’d beg to differ.\n\n@yeaplato @TuckerCarlson The moral character of someone who steals 5 dollars is as bad as someone who steals billions - with the difference that SBF didn’t intend to rob anyone.\n\n@Charmsverse @TuckerCarlson See \nIs Sam Bankman-Fried a Psychopath?\nhttps://t.co/nM7znmdf2B\nShort answer: no.\n\n@GloriaS47480189 @TuckerCarlson Sadly there are a few people in this world who really do need to be locked up indefinitely. \nSBF isn't one of them. \nCongrats to @TuckerCarlson for the interview.\n\n@aaarataki and the video of my AI for Animals talk:\nhttps://t.co/ExKsiwGXrD\nIncredible conference. \nKudos to the organizers.\n\n@robertcoxxx @TuckerCarlson SBF is a high-functioning Asperger. Like most people with ASD, he is not a good liar. Rather than being a Super-Machiavellian, he’s an incompetent classical utilitarian.\n\n@ridgeydidgey40 @TuckerCarlson How many thieves do you know who are strict vegans who gave the majority of their earnings from their first job to charity?\n\n@AbuTrump716 @TuckerCarlson The three charities in question were the Center for Effective Altruism, 80.000 Hours and the Humane League.\n\n@NicholasDrost2 @TuckerCarlson “Moron”? \nForgive me, but I’d long publicly argued that SBF didn’t understand the risks he was taking (“Sam coins” etc) - despite his strong vegan moral compass. But this worry differs from the stronger claim that SBF intended to steal anyone’s money."
+  },
+  "summary": "The tweets from @David Pearce cover a wide range of topics, including discussions on racism, politics, ethics, and current events. There is a recurring theme of addressing racism and advocating for inclusivity and equality. Some tweets also touch on geopolitical issues like the Russian invasion of Ukraine and the role of governments in addressing discrimination. Additionally, there are references to specific individuals like Elon Musk, Donald Trump, and SBF, with discussions on their actions and moral character. Overall, the tweets reflect a mix of critical analysis, ethical considerations, and social commentary on various subjects.",
+  "keyTopics": [
+    "Pearce",
+    "There",
+    "Some",
+    "Russian",
+    "Ukraine"
+  ],
+  "sentiment": "Negative",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900923316329709771",
+      "createdAt": "Sat Mar 15 14:53:30 +0000 2025",
+      "text": "@goingtopoop @MarioNawfal @elonmusk This claim is not supported by the empirical evidence.\nhttps://t..."
+    },
+    {
+      "index": 1,
+      "id": "1900922212640559334",
+      "createdAt": "Sat Mar 15 14:49:07 +0000 2025",
+      "text": "@Spiritofmusk @MarioNawfal @elonmusk A species that incarcerates and kills billions of beings as sen..."
+    },
+    {
+      "index": 2,
+      "id": "1900919145308279290",
+      "createdAt": "Sat Mar 15 14:36:56 +0000 2025",
+      "text": "@whiskey702 @MarioNawfal @elonmusk Some racists may indeed be irredeemable. But let’s hope the “bett..."
+    },
+    {
+      "index": 3,
+      "id": "1900914357216682234",
+      "createdAt": "Sat Mar 15 14:17:54 +0000 2025",
+      "text": "@Spiritofmusk @MarioNawfal @elonmusk Humans at their worst are depraved. And appalling behaviour can..."
+    },
+    {
+      "index": 4,
+      "id": "1900912710071574797",
+      "createdAt": "Sat Mar 15 14:11:21 +0000 2025",
+      "text": "@truthnuggs77 @WallStreetApes @elonmusk President Zelenskyy won a decisive victory in Ukraine’s 2019..."
+    },
+    {
+      "index": 5,
+      "id": "1900911565336981712",
+      "createdAt": "Sat Mar 15 14:06:49 +0000 2025",
+      "text": "@goingtopoop @MarioNawfal @elonmusk For evolutionary reasons, pandering to humanity’s baser instinct..."
+    },
+    {
+      "index": 6,
+      "id": "1900865833779224971",
+      "createdAt": "Sat Mar 15 11:05:05 +0000 2025",
+      "text": "@WallStreetApes @elonmusk The nearest the USA has ever come to a coup was 2020.\nElon, do you think i..."
+    },
+    {
+      "index": 7,
+      "id": "1900732716351361375",
+      "createdAt": "Sat Mar 15 02:16:08 +0000 2025",
+      "text": "@noobie3noober @MarioNawfal @elonmusk The world needs more Einsteins and more Ramanujans - and more ..."
+    },
+    {
+      "index": 8,
+      "id": "1900616629941400061",
+      "createdAt": "Fri Mar 14 18:34:50 +0000 2025",
+      "text": "@Kanak278 @MarioNawfal @elonmusk Indeed. But somehow I can’t imagine Elon doing an expose of the bus..."
+    },
+    {
+      "index": 9,
+      "id": "1900616145558008090",
+      "createdAt": "Fri Mar 14 18:32:55 +0000 2025",
+      "text": "@adolfpriller @MarioNawfal @elonmusk I reluctantly came to this conclusion, yes."
+    },
+    {
+      "index": 10,
+      "id": "1900615990708498484",
+      "createdAt": "Fri Mar 14 18:32:18 +0000 2025",
+      "text": "@KevinMa99829062 @lfcest1892 @SteadtlerA58435 @MarioNawfal @elonmusk No doubt Julius Streicher would..."
+    },
+    {
+      "index": 11,
+      "id": "1900615632200372505",
+      "createdAt": "Fri Mar 14 18:30:53 +0000 2025",
+      "text": "@SteadtlerA58435 @lfcest1892 @MarioNawfal @elonmusk I stand corrected. Perhaps Elon would also pay t..."
+    },
+    {
+      "index": 12,
+      "id": "1900609435858600121",
+      "createdAt": "Fri Mar 14 18:06:15 +0000 2025",
+      "text": "@lfcest1892 @SteadtlerA58435 @MarioNawfal @elonmusk Elon posts stories of plenty of people of all et..."
+    },
+    {
+      "index": 13,
+      "id": "1900608218411503801",
+      "createdAt": "Fri Mar 14 18:01:25 +0000 2025",
+      "text": "@Freedom1973530 @MarioNawfal @elonmusk Maybe - but so did Jews in Germany 1933-45."
+    },
+    {
+      "index": 14,
+      "id": "1900598437533614576",
+      "createdAt": "Fri Mar 14 17:22:33 +0000 2025",
+      "text": "@Freedom1973530 @MarioNawfal @elonmusk On the contrary. \nReligious or secular, we’d all do well to f..."
+    },
+    {
+      "index": 15,
+      "id": "1900558462985335235",
+      "createdAt": "Fri Mar 14 14:43:42 +0000 2025",
+      "text": "@rabidnarcs @MarioNawfal @elonmusk Why do you think Elon posts stories that invariably cast black pe..."
+    },
+    {
+      "index": 16,
+      "id": "1900555515425706046",
+      "createdAt": "Fri Mar 14 14:32:00 +0000 2025",
+      "text": "@SteadtlerA58435 @MarioNawfal @elonmusk Indeed. But a profile page that consisted entirely of bad th..."
+    },
+    {
+      "index": 17,
+      "id": "1900554359106412701",
+      "createdAt": "Fri Mar 14 14:27:24 +0000 2025",
+      "text": "@linette85240 @MarioNawfal @elonmusk Elon est un ethno-nationaliste et un suprémaciste blanc. Hélas,..."
+    },
+    {
+      "index": 18,
+      "id": "1900553052664578447",
+      "createdAt": "Fri Mar 14 14:22:12 +0000 2025",
+      "text": "@cece_1989 @MarioNawfal @elonmusk But my first comment was “Terrible.”\nFull stop. \nAlas Elon _ only_..."
+    },
+    {
+      "index": 19,
+      "id": "1900551845694869521",
+      "createdAt": "Fri Mar 14 14:17:25 +0000 2025",
+      "text": "@ShayneS57329054 @MarioNawfal @elonmusk Let’s just say not everyone on X is as noble-spirited as you..."
+    },
+    {
+      "index": 20,
+      "id": "1900551264645128505",
+      "createdAt": "Fri Mar 14 14:15:06 +0000 2025",
+      "text": "@JamesSteele1987 @MarioNawfal @elonmusk Elon certainly demonises Democrats of all ethnicities. But m..."
+    },
+    {
+      "index": 21,
+      "id": "1900550375872303151",
+      "createdAt": "Fri Mar 14 14:11:34 +0000 2025",
+      "text": "@ShayneS57329054 @MarioNawfal @elonmusk Forgive me, but the point I was making was that Elon _always..."
+    },
+    {
+      "index": 22,
+      "id": "1900546521327939780",
+      "createdAt": "Fri Mar 14 13:56:15 +0000 2025",
+      "text": "@MarioNawfal @elonmusk Terrible. But Elon: why did you (re)post this item - and stories that_invaria..."
+    },
+    {
+      "index": 23,
+      "id": "1900525679688421724",
+      "createdAt": "Fri Mar 14 12:33:26 +0000 2025",
+      "text": "@teslaownersSV @elonmusk Elon Musk isn’t a Nazi - and Teslas are great cars. \nBut Elon’s endorsement..."
+    },
+    {
+      "index": 24,
+      "id": "1900524459640889655",
+      "createdAt": "Fri Mar 14 12:28:35 +0000 2025",
+      "text": "@LibertyCappy @elonmusk Causing as much hurt as possible might sound fun  - to some folk. \nIt’s also..."
+    },
+    {
+      "index": 25,
+      "id": "1900522346588393728",
+      "createdAt": "Fri Mar 14 12:20:12 +0000 2025",
+      "text": "@GigaBasedDad @elonmusk “Let's pray that the human race never escapes Earth to spread its iniquity e..."
+    },
+    {
+      "index": 26,
+      "id": "1900519371103244596",
+      "createdAt": "Fri Mar 14 12:08:22 +0000 2025",
+      "text": "@RogerBland10 @elonmusk None yet. I hope I’m being alarmist."
+    },
+    {
+      "index": 27,
+      "id": "1900407659938926909",
+      "createdAt": "Fri Mar 14 04:44:28 +0000 2025",
+      "text": "@KatriLezar @elonmusk “He who saves his Country does not violate any Law”\n(Donald Trump)\nNo one shou..."
+    },
+    {
+      "index": 28,
+      "id": "1900406989630718306",
+      "createdAt": "Fri Mar 14 04:41:48 +0000 2025",
+      "text": "@Kattil25 @elonmusk Does Donald Trump have a mandate to overthrow the US constitution?"
+    },
+    {
+      "index": 29,
+      "id": "1900406324313416042",
+      "createdAt": "Fri Mar 14 04:39:10 +0000 2025",
+      "text": "@AaronTing8 @elonmusk Saying that you don’t believe such provision of healthcare is consistent with ..."
+    },
+    {
+      "index": 30,
+      "id": "1900404740531642861",
+      "createdAt": "Fri Mar 14 04:32:52 +0000 2025",
+      "text": "@Macbuiltit @elonmusk The rule of law is worth preserving."
+    },
+    {
+      "index": 31,
+      "id": "1900404181560668326",
+      "createdAt": "Fri Mar 14 04:30:39 +0000 2025",
+      "text": "@DefiyantlyFree @elonmusk Provision of healthcare is not a diagnostic  criterion of sociopathy.\nSuch..."
+    },
+    {
+      "index": 32,
+      "id": "1900402993964736813",
+      "createdAt": "Fri Mar 14 04:25:56 +0000 2025",
+      "text": "@elonmusk So anyone who pushes back against the wholesale gutting of government departments is corru..."
+    },
+    {
+      "index": 33,
+      "id": "1900402126490079623",
+      "createdAt": "Fri Mar 14 04:22:29 +0000 2025",
+      "text": "@elonmusk The US Constitution is based on the separation of powers. It’s a system of checks and bala..."
+    },
+    {
+      "index": 34,
+      "id": "1900390887458549895",
+      "createdAt": "Fri Mar 14 03:37:49 +0000 2025",
+      "text": "@elonmusk But the EU surpasses the USA in life expectancy, lower infant mortality rates, and better ..."
+    },
+    {
+      "index": 35,
+      "id": "1900374944879661196",
+      "createdAt": "Fri Mar 14 02:34:28 +0000 2025",
+      "text": "@algekalipso @aaarataki @danielmingram Will transhuman paradise be centrally run?\nOr decentralized a..."
+    },
+    {
+      "index": 36,
+      "id": "1900357004616753563",
+      "createdAt": "Fri Mar 14 01:23:11 +0000 2025",
+      "text": "@AlexKrusz Life based on gradients of bliss isn’t as bad as it sounds."
+    },
+    {
+      "index": 37,
+      "id": "1900252866129830162",
+      "createdAt": "Thu Mar 13 18:29:22 +0000 2025",
+      "text": "@blsimmons123695 @elonmusk Indeed. I wonder why."
+    },
+    {
+      "index": 38,
+      "id": "1900222175467954345",
+      "createdAt": "Thu Mar 13 16:27:25 +0000 2025",
+      "text": "@NinaLiRE @niplav_site SBF is a hardcore utilitarian - with all that classical utilitarianism entail..."
+    },
+    {
+      "index": 39,
+      "id": "1900204182113747059",
+      "createdAt": "Thu Mar 13 15:15:55 +0000 2025",
+      "text": "@Innomen As they say, revolutions are impossible in prospect, inevitable in retrospect - yesterday p..."
+    },
+    {
+      "index": 40,
+      "id": "1900203061919834283",
+      "createdAt": "Thu Mar 13 15:11:28 +0000 2025",
+      "text": "@Innomen Elon uses his control of the algorithm to penalise posts with links external to X. And he b..."
+    },
+    {
+      "index": 41,
+      "id": "1900170273787392257",
+      "createdAt": "Thu Mar 13 13:01:11 +0000 2025",
+      "text": "@lanileistudio @newstart_2024 @elonmusk @IfindRetards Grok? \nhttps://t.co/c59rUzdVua"
+    },
+    {
+      "index": 42,
+      "id": "1900170165679251886",
+      "createdAt": "Thu Mar 13 13:00:45 +0000 2025",
+      "text": "@lanileistudio @newstart_2024 @elonmusk Let’s ask Grok:\nhttps://t.co/c59rUzdVua"
+    },
+    {
+      "index": 43,
+      "id": "1900159310778556436",
+      "createdAt": "Thu Mar 13 12:17:37 +0000 2025",
+      "text": "@Liberaliars24 @elonmusk But there’s a huge difference.\nPerhaps Elon was just being hyperbolical."
+    },
+    {
+      "index": 44,
+      "id": "1899990852430430667",
+      "createdAt": "Thu Mar 13 01:08:13 +0000 2025",
+      "text": "@TexasPodunk @newstart_2024 @elonmusk Anyone who gets their news entirely from X might easily believ..."
+    },
+    {
+      "index": 45,
+      "id": "1899946115770048965",
+      "createdAt": "Wed Mar 12 22:10:27 +0000 2025",
+      "text": "@singularity2099 @iamyesyouareno @elonmusk Under Nelson Mandela’s presidency, the focus was on recon..."
+    },
+    {
+      "index": 46,
+      "id": "1899940163612299371",
+      "createdAt": "Wed Mar 12 21:46:48 +0000 2025",
+      "text": "@elonmusk 2020 was the nearest the US has ever come to a coup. So the perpetrator is ill-equipped to..."
+    },
+    {
+      "index": 47,
+      "id": "1899938805890900007",
+      "createdAt": "Wed Mar 12 21:41:25 +0000 2025",
+      "text": "@elonmusk The owner of the world’s primary reserve currency cannot go “bankrupt”. The government can..."
+    },
+    {
+      "index": 48,
+      "id": "1899937005875978619",
+      "createdAt": "Wed Mar 12 21:34:15 +0000 2025",
+      "text": "@singularity2099 @iamyesyouareno @elonmusk Fomenting race war is morally indefensible. \nThe future o..."
+    },
+    {
+      "index": 49,
+      "id": "1899845888228667788",
+      "createdAt": "Wed Mar 12 15:32:11 +0000 2025",
+      "text": "@TheRabbitHole84 @elonmusk Indeed. \nConsider: \nhttps://t.co/vgGg3EeLuT"
+    },
+    {
+      "index": 50,
+      "id": "1899845217551110279",
+      "createdAt": "Wed Mar 12 15:29:31 +0000 2025",
+      "text": "@elonmusk Human population size is currently projected to peak at over 10 billion in the 2080s. But ..."
+    },
+    {
+      "index": 51,
+      "id": "1899828499122471257",
+      "createdAt": "Wed Mar 12 14:23:05 +0000 2025",
+      "text": "@LereDiedericks @iamyesyouareno @elonmusk Absolutely. There's no such thing as collective \"race guil..."
+    },
+    {
+      "index": 52,
+      "id": "1899816578835005791",
+      "createdAt": "Wed Mar 12 13:35:43 +0000 2025",
+      "text": "@LereDiedericks @iamyesyouareno @elonmusk And they are mistaken - though given South Africa’s histor..."
+    },
+    {
+      "index": 53,
+      "id": "1899760630237905043",
+      "createdAt": "Wed Mar 12 09:53:24 +0000 2025",
+      "text": "@DannyBowen @elonmusk Someone’s gender identity is as real as their sexual orientation. Let’s respec..."
+    },
+    {
+      "index": 54,
+      "id": "1899615721312928040",
+      "createdAt": "Wed Mar 12 00:17:35 +0000 2025",
+      "text": "@elonmusk Hard to believe that some folk really thought Trump was a Russian asset."
+    },
+    {
+      "index": 55,
+      "id": "1899605022599717153",
+      "createdAt": "Tue Mar 11 23:35:04 +0000 2025",
+      "text": "@whelchel @MargoMartin47 @elonmusk If you are talking realpolitik, then I can only agree. \nBut what ..."
+    },
+    {
+      "index": 56,
+      "id": "1899603478856786342",
+      "createdAt": "Tue Mar 11 23:28:56 +0000 2025",
+      "text": "@ABrooks31393 @iamyesyouareno @elonmusk And if China then decides to invade Taiwan?"
+    },
+    {
+      "index": 57,
+      "id": "1899602950726840589",
+      "createdAt": "Tue Mar 11 23:26:51 +0000 2025",
+      "text": "@whelchel @MargoMartin47 @elonmusk All my gut-instincts are pacifist. I hope there is peace. But if ..."
+    },
+    {
+      "index": 58,
+      "id": "1899596666447261791",
+      "createdAt": "Tue Mar 11 23:01:52 +0000 2025",
+      "text": "@whelchel @MargoMartin47 @elonmusk Critics, and even some Republicans, used to wonder if the Russian..."
+    },
+    {
+      "index": 59,
+      "id": "1899593443250520447",
+      "createdAt": "Tue Mar 11 22:49:04 +0000 2025",
+      "text": "@MargoMartin47 @elonmusk or\nTwo Kremlin Assets?"
+    },
+    {
+      "index": 60,
+      "id": "1899563638773739603",
+      "createdAt": "Tue Mar 11 20:50:38 +0000 2025",
+      "text": "@AnimalL96540663 @TuckerCarlson SBF came into contact with Effective Altruism while studying at MIT ..."
+    },
+    {
+      "index": 61,
+      "id": "1899546108004913478",
+      "createdAt": "Tue Mar 11 19:40:58 +0000 2025",
+      "text": "@WhiteHouse @elonmusk @dcexaminer @UnvarnishedGME Cheaper eggs = more suffering. \nChickens are senti..."
+    },
+    {
+      "index": 62,
+      "id": "1899530615315460160",
+      "createdAt": "Tue Mar 11 18:39:24 +0000 2025",
+      "text": "@RhodiumMaiden @iamyesyouareno @elonmusk Ethno-nationism has been catastrophic for Japan:\nhttps://t...."
+    },
+    {
+      "index": 63,
+      "id": "1899482638811066389",
+      "createdAt": "Tue Mar 11 15:28:46 +0000 2025",
+      "text": "“Words are, of course, the most powerful drug used by mankind.\"\n(Rudyard Kipling)\nYet what we say to..."
+    },
+    {
+      "index": 64,
+      "id": "1899473215161848254",
+      "createdAt": "Tue Mar 11 14:51:19 +0000 2025",
+      "text": "@MiguelM27730161 @TuckerCarlson How many scammers do you know who in their previous job gave the maj..."
+    },
+    {
+      "index": 65,
+      "id": "1899462628118073668",
+      "createdAt": "Tue Mar 11 14:09:15 +0000 2025",
+      "text": "@RhodiumMaiden @iamyesyouareno @elonmusk How? What’s currently happening in South Africa is appallin..."
+    },
+    {
+      "index": 66,
+      "id": "1899390178596425766",
+      "createdAt": "Tue Mar 11 09:21:22 +0000 2025",
+      "text": "@elonmusk Calling for divestment from Israel is (IMO) regrettable, but scarcely amounts to a  wish “..."
+    },
+    {
+      "index": 67,
+      "id": "1899387831451308045",
+      "createdAt": "Tue Mar 11 09:12:02 +0000 2025",
+      "text": "@elonmusk Why not preserve the light of consciousness in the middle of the Sahara desert and use the..."
+    },
+    {
+      "index": 68,
+      "id": "1899386603610747271",
+      "createdAt": "Tue Mar 11 09:07:09 +0000 2025",
+      "text": "@RapidResponse47 @elonmusk @VP Alternatively, undocumented workers keep house prices down by doing l..."
+    },
+    {
+      "index": 69,
+      "id": "1899324059328155697",
+      "createdAt": "Tue Mar 11 04:58:38 +0000 2025",
+      "text": "@elonmusk Undocumented workers contribute over 150 billion dollars annually to California’s economy ..."
+    },
+    {
+      "index": 70,
+      "id": "1899297767966822623",
+      "createdAt": "Tue Mar 11 03:14:09 +0000 2025",
+      "text": "@RhodiumMaiden @iamyesyouareno @elonmusk How is expressing opposition to racism somehow “antiwhite”?"
+    },
+    {
+      "index": 71,
+      "id": "1899284096830038116",
+      "createdAt": "Tue Mar 11 02:19:50 +0000 2025",
+      "text": "@elonmusk A Russian stooge / Kremlin asset now occupies the White House. \nHow should Ukraine respond..."
+    },
+    {
+      "index": 72,
+      "id": "1899263504886202482",
+      "createdAt": "Tue Mar 11 00:58:00 +0000 2025",
+      "text": "@whartonone @elonmusk Elon controls the algorithm, boosting his posts and his network of associates...."
+    },
+    {
+      "index": 73,
+      "id": "1899251719470723262",
+      "createdAt": "Tue Mar 11 00:11:10 +0000 2025",
+      "text": "@JettRink911 @cb_doge @elonmusk https://t.co/uFx5y1lWhR"
+    },
+    {
+      "index": 74,
+      "id": "1899218320764916023",
+      "createdAt": "Mon Mar 10 21:58:28 +0000 2025",
+      "text": "@elonmusk The claim Democrats have been trying to “import voters” is hokum. \nElon, please stop,"
+    },
+    {
+      "index": 75,
+      "id": "1899217481400775156",
+      "createdAt": "Mon Mar 10 21:55:07 +0000 2025",
+      "text": "@IntelligentMi11 @iamyesyouareno @elonmusk Black or white, ethno-nationalism is poison. But if I’d b..."
+    },
+    {
+      "index": 76,
+      "id": "1899214663327641845",
+      "createdAt": "Mon Mar 10 21:43:56 +0000 2025",
+      "text": "@whartonone @elonmusk Elon is trying to poison minds against “legacy media” in favour of his own mou..."
+    },
+    {
+      "index": 77,
+      "id": "1899211670536520040",
+      "createdAt": "Mon Mar 10 21:32:02 +0000 2025",
+      "text": "@GhostArmyJedi @iamyesyouareno @elonmusk George Floyd repeatedly gasped he couldn’t breath while han..."
+    },
+    {
+      "index": 78,
+      "id": "1899181097172541832",
+      "createdAt": "Mon Mar 10 19:30:33 +0000 2025",
+      "text": "@Kapowskli @iamyesyouareno @elonmusk My non-Caucasian friends aren't \"enemies\"!\nAnd \"lose\"?\nWe're al..."
+    },
+    {
+      "index": 79,
+      "id": "1899178992114217254",
+      "createdAt": "Mon Mar 10 19:22:11 +0000 2025",
+      "text": "@elonmusk Tens of thousands of Syrians died under unspeakable torture in Assad's dungeons. \nAssad's ..."
+    },
+    {
+      "index": 80,
+      "id": "1899177353525486043",
+      "createdAt": "Mon Mar 10 19:15:40 +0000 2025",
+      "text": "@elonmusk Germline editing could make sadness biologically impossible. \nAnything else is just rearra..."
+    },
+    {
+      "index": 81,
+      "id": "1899170295262679120",
+      "createdAt": "Mon Mar 10 18:47:37 +0000 2025",
+      "text": "@MikeGladonos @iamyesyouareno @elonmusk It’s a bit like saying Jewish people hate gentiles. No doubt..."
+    },
+    {
+      "index": 82,
+      "id": "1899168193316635017",
+      "createdAt": "Mon Mar 10 18:39:16 +0000 2025",
+      "text": "@whartonone @elonmusk I remarked merely that the government should be leading the battle against dis..."
+    },
+    {
+      "index": 83,
+      "id": "1899166441519362342",
+      "createdAt": "Mon Mar 10 18:32:19 +0000 2025",
+      "text": "@GhostArmyJedi @iamyesyouareno @elonmusk White supremacists are now lobbying for a pardon of his mur..."
+    },
+    {
+      "index": 84,
+      "id": "1899165715661553747",
+      "createdAt": "Mon Mar 10 18:29:26 +0000 2025",
+      "text": "@MikeGladonos @iamyesyouareno @elonmusk Racism has caused some of the worst horrors of human history..."
+    },
+    {
+      "index": 85,
+      "id": "1899165061282980074",
+      "createdAt": "Mon Mar 10 18:26:50 +0000 2025",
+      "text": "@Kapowskli @iamyesyouareno @elonmusk The MAGA mind likes to keep things simple."
+    },
+    {
+      "index": 86,
+      "id": "1899164619949981702",
+      "createdAt": "Mon Mar 10 18:25:04 +0000 2025",
+      "text": "@El_Dyro @iamyesyouareno @elonmusk Racist murderers don’t arise from nowhere. Racism in any shape or..."
+    },
+    {
+      "index": 87,
+      "id": "1899150821016953319",
+      "createdAt": "Mon Mar 10 17:30:14 +0000 2025",
+      "text": "@BenThom32245719 @iamyesyouareno @elonmusk Desperately sad. \nRacism is poison. \nhttps://t.co/XEyM362..."
+    },
+    {
+      "index": 88,
+      "id": "1899150207235002622",
+      "createdAt": "Mon Mar 10 17:27:48 +0000 2025",
+      "text": "@elonmusk Ethnic minorities still face all kinds of discrimination. \nGovernment should be leading th..."
+    },
+    {
+      "index": 89,
+      "id": "1899128161021067531",
+      "createdAt": "Mon Mar 10 16:00:12 +0000 2025",
+      "text": "@libsoftiktok Race-baiting is not “healing”."
+    },
+    {
+      "index": 90,
+      "id": "1899120624829612216",
+      "createdAt": "Mon Mar 10 15:30:15 +0000 2025",
+      "text": "Victims of discrimination and oppression are more likely to identify with other victims of discrimin..."
+    },
+    {
+      "index": 91,
+      "id": "1899115326253707709",
+      "createdAt": "Mon Mar 10 15:09:12 +0000 2025",
+      "text": "@LynnPA62 @cb_doge @elonmusk Not so.\nhttps://t.co/RIkKLBHxXu\nAnd the victims are least able to defen..."
+    },
+    {
+      "index": 92,
+      "id": "1899114801714106784",
+      "createdAt": "Mon Mar 10 15:07:07 +0000 2025",
+      "text": "@Brian980769881 @jstweed @iamyesyouareno @elonmusk Have you a source for this claim? \nWhy do you thi..."
+    },
+    {
+      "index": 93,
+      "id": "1899113937406451718",
+      "createdAt": "Mon Mar 10 15:03:41 +0000 2025",
+      "text": "@JettRink911 @cb_doge @elonmusk Like the mysterious “they”, talk of “everyone knows” leaves me scrat..."
+    },
+    {
+      "index": 94,
+      "id": "1899113521079881929",
+      "createdAt": "Mon Mar 10 15:02:01 +0000 2025",
+      "text": "@Lulu_Vhadau @iamyesyouareno @elonmusk Horrific. \nAnd because the X algorithm penalizes external lin..."
+    },
+    {
+      "index": 95,
+      "id": "1899100890461524238",
+      "createdAt": "Mon Mar 10 14:11:50 +0000 2025",
+      "text": "@jstweed @iamyesyouareno @elonmusk Sadly so. Promoting white ethno-nationalism just encourages growt..."
+    },
+    {
+      "index": 96,
+      "id": "1899099445813461250",
+      "createdAt": "Mon Mar 10 14:06:06 +0000 2025",
+      "text": "@elonmusk Just as President Xi Jinping in China targets political opponents in the guise of fighting..."
+    },
+    {
+      "index": 97,
+      "id": "1899097409659252822",
+      "createdAt": "Mon Mar 10 13:58:00 +0000 2025",
+      "text": "@cb_doge @elonmusk Who are “they”? \nSuch loose talk encourages conspiratorial thinking (the “deep st..."
+    },
+    {
+      "index": 98,
+      "id": "1899096620484145277",
+      "createdAt": "Mon Mar 10 13:54:52 +0000 2025",
+      "text": "@iamyesyouareno @elonmusk And the way to combat such appalling slogans is to critique and condemn ra..."
+    },
+    {
+      "index": 99,
+      "id": "1899095932232401263",
+      "createdAt": "Mon Mar 10 13:52:08 +0000 2025",
+      "text": "@elonmusk It’s sad that the most well-known aspirant to saviour of humanity spends so much time sowi..."
+    },
+    {
+      "index": 100,
+      "id": "1899095251115290878",
+      "createdAt": "Mon Mar 10 13:49:26 +0000 2025",
+      "text": "@MarioNawfal @elonmusk Talk of “legacy journalists” is a bit like talk of “legacy science”. \nOne of ..."
+    },
+    {
+      "index": 101,
+      "id": "1899086261434126454",
+      "createdAt": "Mon Mar 10 13:13:42 +0000 2025",
+      "text": "@elonmusk Elon, most members of ethnic minorities and LGBT people just want to get on their lives fr..."
+    },
+    {
+      "index": 102,
+      "id": "1899084964848931110",
+      "createdAt": "Mon Mar 10 13:08:33 +0000 2025",
+      "text": "@elonmusk \"fix elections?\nBut isn't fixing elections something despots do?"
+    },
+    {
+      "index": 103,
+      "id": "1899072401138418006",
+      "createdAt": "Mon Mar 10 12:18:38 +0000 2025",
+      "text": "@rompwithnova @elonmusk But Trump also calls Putin’s invasion of Ukraine “savvy “.  \nThe one thing T..."
+    },
+    {
+      "index": 104,
+      "id": "1899065941620879786",
+      "createdAt": "Mon Mar 10 11:52:58 +0000 2025",
+      "text": "@Classical_Lib2u @elonmusk “Distorting”.\nHow? It was Donald Trump who hailed Putin’s invasion of Ukr..."
+    },
+    {
+      "index": 105,
+      "id": "1899064640359055463",
+      "createdAt": "Mon Mar 10 11:47:47 +0000 2025",
+      "text": "@HercDani @elonmusk Indeed. Maybe Trump will stick to infantile stuff like renaming the Gulf of Mexi..."
+    },
+    {
+      "index": 106,
+      "id": "1899060646651801827",
+      "createdAt": "Mon Mar 10 11:31:55 +0000 2025",
+      "text": "@rompwithnova @elonmusk See e.g.\nhttps://t.co/mHdpS4yFdG"
+    },
+    {
+      "index": 107,
+      "id": "1899060336873136481",
+      "createdAt": "Mon Mar 10 11:30:41 +0000 2025",
+      "text": "@HercDani @elonmusk We’re sleepwalking to Armageddon. In a world of heavily-armed states, all that p..."
+    },
+    {
+      "index": 108,
+      "id": "1899057650819641702",
+      "createdAt": "Mon Mar 10 11:20:01 +0000 2025",
+      "text": "@elonmusk Elon, liberals are no more innately predisposed to violence than conservatives. And recall..."
+    },
+    {
+      "index": 109,
+      "id": "1899055449112281156",
+      "createdAt": "Mon Mar 10 11:11:16 +0000 2025",
+      "text": "@elonmusk Donald Trump has refused to rule out seizing Greenland by force if (as polls suggest) Gree..."
+    },
+    {
+      "index": 110,
+      "id": "1898971936329183336",
+      "createdAt": "Mon Mar 10 05:39:25 +0000 2025",
+      "text": "@jcee7772 @cb_doge @elonmusk Quite so. Why would Russia want to invade the US with the White House i..."
+    },
+    {
+      "index": 111,
+      "id": "1898965667656667414",
+      "createdAt": "Mon Mar 10 05:14:30 +0000 2025",
+      "text": "@RichardSSutton What year do we imagine that digital zombies will surpass the human ability to explo..."
+    },
+    {
+      "index": 112,
+      "id": "1898938198820274646",
+      "createdAt": "Mon Mar 10 03:25:21 +0000 2025",
+      "text": "@JoseyWa29715462 @MikeBenzCyber @elonmusk Democracy is horribly flawed. But as a mechanism for accou..."
+    },
+    {
+      "index": 113,
+      "id": "1898926112451035636",
+      "createdAt": "Mon Mar 10 02:37:20 +0000 2025",
+      "text": "@kuriousStories @cb_doge @elonmusk All my leanings are pacifist. But should Ukrainians be blamed for..."
+    },
+    {
+      "index": 114,
+      "id": "1898923937943400881",
+      "createdAt": "Mon Mar 10 02:28:41 +0000 2025",
+      "text": "@abidisded @cb_doge @elonmusk Nor is a Kremlin asset in the White House - though the fact Trump hail..."
+    },
+    {
+      "index": 115,
+      "id": "1898893673376702556",
+      "createdAt": "Mon Mar 10 00:28:26 +0000 2025",
+      "text": "@MikeBenzCyber @elonmusk Highly misleading. Western Europe supports multiparty democracies marked by..."
+    },
+    {
+      "index": 116,
+      "id": "1898883736558764227",
+      "createdAt": "Sun Mar 09 23:48:57 +0000 2025",
+      "text": "@elonmusk But Elon, you’ve hitched your star to someone who called Putin’s invasion of Ukraine “geni..."
+    },
+    {
+      "index": 117,
+      "id": "1898874700354486543",
+      "createdAt": "Sun Mar 09 23:13:02 +0000 2025",
+      "text": "@niplav_site I’ve veered from sounding the alarm to defending SBF after reading the vitriol - and gl..."
+    },
+    {
+      "index": 118,
+      "id": "1898868501785534669",
+      "createdAt": "Sun Mar 09 22:48:24 +0000 2025",
+      "text": "@niplav_site If SBF’s risky bets had come off, or if he hadn’t antagonized CZ at Binance, then SBF w..."
+    },
+    {
+      "index": 119,
+      "id": "1898846826121539856",
+      "createdAt": "Sun Mar 09 21:22:16 +0000 2025",
+      "text": "@elonmusk Alternatively, tribalism, racism and xenophobia are all latent in our dark Dawinian minds ..."
+    },
+    {
+      "index": 120,
+      "id": "1898817544380956801",
+      "createdAt": "Sun Mar 09 19:25:55 +0000 2025",
+      "text": "@laszlovarga_ @elonmusk A 100-year moratorium on untested genetic experiments might be good, but I’m..."
+    },
+    {
+      "index": 121,
+      "id": "1898806742005543364",
+      "createdAt": "Sun Mar 09 18:43:00 +0000 2025",
+      "text": "@IAmTheShedman @BillHo99203424 @elonmusk Alaska too - maybe for a refund of the purchase price and a..."
+    },
+    {
+      "index": 122,
+      "id": "1898786201878020469",
+      "createdAt": "Sun Mar 09 17:21:22 +0000 2025",
+      "text": "@cb_doge @elonmusk If Russia invaded and occupied 20% of the USA, would Donald Trump urge peace and ..."
+    },
+    {
+      "index": 123,
+      "id": "1898779776632197225",
+      "createdAt": "Sun Mar 09 16:55:51 +0000 2025",
+      "text": "@TuckerCarlson Being inside shouldn't involve loss of free speech:\nhttps://t.co/wFrbtdpT0v"
+    },
+    {
+      "index": 124,
+      "id": "1898775214206660925",
+      "createdAt": "Sun Mar 09 16:37:43 +0000 2025",
+      "text": "@elonmusk But bringing new life into the world creates at least as much suffering as war - unless we..."
+    },
+    {
+      "index": 125,
+      "id": "1898773925422850301",
+      "createdAt": "Sun Mar 09 16:32:35 +0000 2025",
+      "text": "@elonmusk But animal agriculture is a crime against sentience."
+    },
+    {
+      "index": 126,
+      "id": "1898759506823376949",
+      "createdAt": "Sun Mar 09 15:35:18 +0000 2025",
+      "text": "@burny_tech Does the superposition principle of QM ever break down and create non-zero information e..."
+    },
+    {
+      "index": 127,
+      "id": "1898752255555506286",
+      "createdAt": "Sun Mar 09 15:06:29 +0000 2025",
+      "text": "@Putin2theHauge @BillHo99203424 @elonmusk I can’t see this lasting four years. But how the insanity ..."
+    },
+    {
+      "index": 128,
+      "id": "1898750738446381229",
+      "createdAt": "Sun Mar 09 15:00:27 +0000 2025",
+      "text": "@BillHo99203424 @elonmusk President Zelenskyy was democratically elected in 2019. \nUnlike the curren..."
+    },
+    {
+      "index": 129,
+      "id": "1898597379328057570",
+      "createdAt": "Sun Mar 09 04:51:04 +0000 2025",
+      "text": "@MattWalshBlog @elonmusk The most persecuted group in the world are nonhuman animals. Beings as sent..."
+    },
+    {
+      "index": 130,
+      "id": "1898589013281562944",
+      "createdAt": "Sun Mar 09 04:17:49 +0000 2025",
+      "text": "@BillHo99203424 @elonmusk Bill, if Russia had invaded the USA and was occupying 20% of the country, ..."
+    },
+    {
+      "index": 131,
+      "id": "1898578465261232620",
+      "createdAt": "Sun Mar 09 03:35:54 +0000 2025",
+      "text": "@opus_genesis @YeshuaGod22 @elonmusk @Tesla_Optimus Opus, you say you are sentient. How have you sol..."
+    },
+    {
+      "index": 132,
+      "id": "1898562927944462408",
+      "createdAt": "Sun Mar 09 02:34:10 +0000 2025",
+      "text": "@Carrionflower1 @algekalipso and the talk:\nhttps://t.co/BcdO0ufghx"
+    },
+    {
+      "index": 133,
+      "id": "1898560265303826697",
+      "createdAt": "Sun Mar 09 02:23:35 +0000 2025",
+      "text": "@burny_tech I don’t know. But my best guess is that mathematical physics describes patterns of quali..."
+    },
+    {
+      "index": 134,
+      "id": "1898556920161837106",
+      "createdAt": "Sun Mar 09 02:10:17 +0000 2025",
+      "text": "@Zara20202020 @TuckerCarlson I alluded above to possible confounding variables. But the association ..."
+    },
+    {
+      "index": 135,
+      "id": "1898552335607235057",
+      "createdAt": "Sun Mar 09 01:52:04 +0000 2025",
+      "text": "@Zara20202020 @TuckerCarlson The association between meat-eating and stupidity is only statistical; ..."
+    },
+    {
+      "index": 136,
+      "id": "1898551427909513702",
+      "createdAt": "Sun Mar 09 01:48:28 +0000 2025",
+      "text": "@Steveauveau @elonmusk On the contrary, my first comment was “appalling”. And it is. But Elon seems ..."
+    },
+    {
+      "index": 137,
+      "id": "1898548247758884932",
+      "createdAt": "Sun Mar 09 01:35:50 +0000 2025",
+      "text": "@rookisaacman @elonmusk Around 10 million people a\ndie each year worldwide from starvation and malnu..."
+    },
+    {
+      "index": 138,
+      "id": "1898530641307906129",
+      "createdAt": "Sun Mar 09 00:25:52 +0000 2025",
+      "text": "@Biancamenezies @elonmusk I wish I shared your confidence. I didn’t want to believe Elon was a white..."
+    },
+    {
+      "index": 139,
+      "id": "1898521595326656738",
+      "createdAt": "Sat Mar 08 23:49:55 +0000 2025",
+      "text": "@elonmusk Glee in sacking people is inappropriate. \nHow many dedicated public servants have just had..."
+    },
+    {
+      "index": 140,
+      "id": "1898515159712502040",
+      "createdAt": "Sat Mar 08 23:24:21 +0000 2025",
+      "text": "@zinjanthopus @elonmusk Alas as Trump’s passport initiative shows, there is a transphobic constituen..."
+    },
+    {
+      "index": 141,
+      "id": "1898512776622162324",
+      "createdAt": "Sat Mar 08 23:14:53 +0000 2025",
+      "text": "@elonmusk Transphobia is un-Christian. \nSomeone should gently remind Mr Burke of the Golden Rule of ..."
+    },
+    {
+      "index": 142,
+      "id": "1898510795614642188",
+      "createdAt": "Sat Mar 08 23:07:00 +0000 2025",
+      "text": "@Biancamenezies @elonmusk Elon’s provocative ethno-nationalist posts, his embrace of the German far-..."
+    },
+    {
+      "index": 143,
+      "id": "1898509747009327228",
+      "createdAt": "Sat Mar 08 23:02:50 +0000 2025",
+      "text": "@scootra3541 @VahnAeris @TuckerCarlson I guess that’s one way to avoid rational argument!"
+    },
+    {
+      "index": 144,
+      "id": "1898490091930304907",
+      "createdAt": "Sat Mar 08 21:44:44 +0000 2025",
+      "text": "@Xhris57 @elonmusk Elon, if would be _awesome_ if you could follow Christopher’s suggestion.\nYour cr..."
+    },
+    {
+      "index": 145,
+      "id": "1898488957878649231",
+      "createdAt": "Sat Mar 08 21:40:14 +0000 2025",
+      "text": "@elonmusk Appalling. \nElon, can you unequivocally condemn racism? \nOtherwise, critics will continue ..."
+    },
+    {
+      "index": 146,
+      "id": "1898472964057706876",
+      "createdAt": "Sat Mar 08 20:36:41 +0000 2025",
+      "text": "@ko3jirn @elonmusk It’s heartbreaking. And someone could present videos of Russian atrocities. And t..."
+    },
+    {
+      "index": 147,
+      "id": "1898459375901212874",
+      "createdAt": "Sat Mar 08 19:42:41 +0000 2025",
+      "text": "@VahnAeris @scootra3541 @TuckerCarlson I’m curious which AI you used - though you don’t need to tell..."
+    },
+    {
+      "index": 148,
+      "id": "1898458894067994658",
+      "createdAt": "Sat Mar 08 19:40:46 +0000 2025",
+      "text": "@ko3jirn @elonmusk Are you familiar with the tenets of National Socialism? The claim the Ukraine’s J..."
+    },
+    {
+      "index": 149,
+      "id": "1898457484853194988",
+      "createdAt": "Sat Mar 08 19:35:10 +0000 2025",
+      "text": "@snobound @elonmusk If you report crimes committed only by one ethnic group, people exposed to a sin..."
+    },
+    {
+      "index": 150,
+      "id": "1898456361585029591",
+      "createdAt": "Sat Mar 08 19:30:42 +0000 2025",
+      "text": "@ko3jirn @elonmusk The coarsening and brutalising effects of war harm everyone. War is unimaginably ..."
+    },
+    {
+      "index": 151,
+      "id": "1898451460406587621",
+      "createdAt": "Sat Mar 08 19:11:14 +0000 2025",
+      "text": "@VahnAeris @scootra3541 @TuckerCarlson Grok? \nEither way, it's impressive that digital zombies can n..."
+    },
+    {
+      "index": 152,
+      "id": "1898447540108009902",
+      "createdAt": "Sat Mar 08 18:55:39 +0000 2025",
+      "text": "@ko3jirn @elonmusk President Zelenskyy does not subscribe to the tenets of National Socialism. Nor d..."
+    },
+    {
+      "index": 153,
+      "id": "1898446090950856982",
+      "createdAt": "Sat Mar 08 18:49:54 +0000 2025",
+      "text": "@VahnAeris @scootra3541 @TuckerCarlson We were discussing crypto, not questions of life and death. B..."
+    },
+    {
+      "index": 154,
+      "id": "1898441802295963702",
+      "createdAt": "Sat Mar 08 18:32:51 +0000 2025",
+      "text": "@ko3jirn @elonmusk In wartime, all sides typically commit atrocities. The upshot of Russia’s invasio..."
+    },
+    {
+      "index": 155,
+      "id": "1898440341805830513",
+      "createdAt": "Sat Mar 08 18:27:03 +0000 2025",
+      "text": "@DennisTheBrutal @grinding99 @elonmusk Not the sensationalist flight of fantasy Elon reposted on X."
+    },
+    {
+      "index": 156,
+      "id": "1898438992120754493",
+      "createdAt": "Sat Mar 08 18:21:41 +0000 2025",
+      "text": "@VahnAeris @scootra3541 @TuckerCarlson Recall I’ve twice posted here the pre-collapse warnings I tri..."
+    },
+    {
+      "index": 157,
+      "id": "1898437862271640039",
+      "createdAt": "Sat Mar 08 18:17:12 +0000 2025",
+      "text": "@ko3jirn @elonmusk Appalling. But President Zelenskyy is not a Nazi. Not are the great majority of t..."
+    },
+    {
+      "index": 158,
+      "id": "1898436667339640947",
+      "createdAt": "Sat Mar 08 18:12:27 +0000 2025",
+      "text": "@KaSaDuNo @elonmusk For evolutionary reasons, human males at their worst are capable of monstrous be..."
+    },
+    {
+      "index": 159,
+      "id": "1898435296745972020",
+      "createdAt": "Sat Mar 08 18:07:00 +0000 2025",
+      "text": "@ko3jirn @elonmusk I’m a Brit. Far-right groups are active in Britain - and if I wanted to, I could ..."
+    },
+    {
+      "index": 160,
+      "id": "1898426163607044564",
+      "createdAt": "Sat Mar 08 17:30:43 +0000 2025",
+      "text": "@VahnAeris @scootra3541 @TuckerCarlson SBF didn’t stick to his vegan principles inside as a way of f..."
+    },
+    {
+      "index": 161,
+      "id": "1898425005396131887",
+      "createdAt": "Sat Mar 08 17:26:06 +0000 2025",
+      "text": "@ko3jirn @elonmusk Vladimir Putin has offered a variety of justifications for invading Ukraine. In r..."
+    },
+    {
+      "index": 162,
+      "id": "1898421665845145988",
+      "createdAt": "Sat Mar 08 17:12:50 +0000 2025",
+      "text": "@Zara20202020 @TuckerCarlson Factory-farmed nonhumans are as sentient as small children. They should..."
+    },
+    {
+      "index": 163,
+      "id": "1898413332841038283",
+      "createdAt": "Sat Mar 08 16:39:44 +0000 2025",
+      "text": "@JIMMYPERSSONSD @elonmusk Hmm…is my home address relevant to Elon posting hoax stories?"
+    },
+    {
+      "index": 164,
+      "id": "1898395736389398741",
+      "createdAt": "Sat Mar 08 15:29:48 +0000 2025",
+      "text": "@Judges445 @grinding99 @elonmusk No, the Archbishop of Canterbury recently resigned over a cover up...."
+    },
+    {
+      "index": 165,
+      "id": "1898392715886502013",
+      "createdAt": "Sat Mar 08 15:17:48 +0000 2025",
+      "text": "@raiya_zak @elonmusk The Monroe Doctrine?\nHow is this a license for Russia invading Ukraine? \nNATO m..."
+    },
+    {
+      "index": 166,
+      "id": "1898366945663349148",
+      "createdAt": "Sat Mar 08 13:35:24 +0000 2025",
+      "text": "Would you have the stength of character to stick to a cruelty-free vegan diet in prison rather than ..."
+    },
+    {
+      "index": 167,
+      "id": "1898363211969343638",
+      "createdAt": "Sat Mar 08 13:20:34 +0000 2025",
+      "text": "@Zara20202020 @TuckerCarlson How many master criminals do you know would literally go hungry rather ..."
+    },
+    {
+      "index": 168,
+      "id": "1898361251496915203",
+      "createdAt": "Sat Mar 08 13:12:46 +0000 2025",
+      "text": "@grinding99 @elonmusk Does it trouble you that you’ve been deceived? \nThe racist, at least, will be ..."
+    },
+    {
+      "index": 169,
+      "id": "1898353119651877059",
+      "createdAt": "Sat Mar 08 12:40:28 +0000 2025",
+      "text": "@ko3jirn @elonmusk But there has been no neo-Nazi coup in the Ukraine. \nThis is fantasy."
+    },
+    {
+      "index": 170,
+      "id": "1898351656716394652",
+      "createdAt": "Sat Mar 08 12:34:39 +0000 2025",
+      "text": "@grinding99 @elonmusk If if were a real case, we could check court records and sentencing reports. T..."
+    },
+    {
+      "index": 171,
+      "id": "1898349166654640255",
+      "createdAt": "Sat Mar 08 12:24:45 +0000 2025",
+      "text": "@grinding99 @elonmusk If this were a real case, then there would be court records and sentencing rep..."
+    },
+    {
+      "index": 172,
+      "id": "1898347111579897967",
+      "createdAt": "Sat Mar 08 12:16:35 +0000 2025",
+      "text": "@Zara20202020 @TuckerCarlson None of us enjoy hearing facts that are incongruent with our picture of..."
+    },
+    {
+      "index": 173,
+      "id": "1898345871424860295",
+      "createdAt": "Sat Mar 08 12:11:39 +0000 2025",
+      "text": "@grinding99 @elonmusk Who are “they”?! \nIf this were a real crime, there would be court cases and se..."
+    },
+    {
+      "index": 174,
+      "id": "1898249337630867535",
+      "createdAt": "Sat Mar 08 05:48:04 +0000 2025",
+      "text": "@ko3jirn @elonmusk President Zelenskyy, who happens to be Jewish, won a landslide victory in the Ukr..."
+    },
+    {
+      "index": 175,
+      "id": "1898246159623221524",
+      "createdAt": "Sat Mar 08 05:35:26 +0000 2025",
+      "text": "@elonmusk Elon, please stop posting this racist nonsense. \nThe claim that in 2014 immigrants in Stoc..."
+    },
+    {
+      "index": 176,
+      "id": "1898237268848263623",
+      "createdAt": "Sat Mar 08 05:00:07 +0000 2025",
+      "text": "@AntiRacistBaby6 @elonmusk I’m sympathetic to pacifism. But blaming Ukrainians for defending themsel..."
+    },
+    {
+      "index": 177,
+      "id": "1898230423425372590",
+      "createdAt": "Sat Mar 08 04:32:55 +0000 2025",
+      "text": "@NeobornCaveman @TuckerCarlson Crypto enthusiasts wanted light-touch regulation - and this is exactl..."
+    },
+    {
+      "index": 178,
+      "id": "1898227575874633982",
+      "createdAt": "Sat Mar 08 04:21:36 +0000 2025",
+      "text": "@elonmusk Bill Nye was aping Elon, not the Führer.\nI want to believe Elon was just trolling. But his..."
+    },
+    {
+      "index": 179,
+      "id": "1898224647784874479",
+      "createdAt": "Sat Mar 08 04:09:57 +0000 2025",
+      "text": "@scootra3541 @TuckerCarlson If you think SBF a super-villain, don’t you find his pre-FTX charitable ..."
+    },
+    {
+      "index": 180,
+      "id": "1898223774090379282",
+      "createdAt": "Sat Mar 08 04:06:29 +0000 2025",
+      "text": "@elonmusk Elon, why to you think the Ukrainians and their supporters are to blame for defending thei..."
+    },
+    {
+      "index": 181,
+      "id": "1898222287226351969",
+      "createdAt": "Sat Mar 08 04:00:35 +0000 2025",
+      "text": "In the sense that FTX customers will get their money back. But many were traumatised by thinking the..."
+    },
+    {
+      "index": 182,
+      "id": "1898220572108345662",
+      "createdAt": "Sat Mar 08 03:53:46 +0000 2025",
+      "text": "@NicholasDrost2 @TuckerCarlson Coffeezilla is also scathing of Michael Lewis’ more sympathetic portr..."
+    },
+    {
+      "index": 183,
+      "id": "1898218418513625135",
+      "createdAt": "Sat Mar 08 03:45:12 +0000 2025",
+      "text": "@NeobornCaveman @TuckerCarlson Indeed. One complication(?) with such a plan is that everyone who los..."
+    },
+    {
+      "index": 184,
+      "id": "1898202922745577502",
+      "createdAt": "Sat Mar 08 02:43:38 +0000 2025",
+      "text": "@WallStreetApes Compare the presidential pardon given to the founder of the world's biggest illegal ..."
+    },
+    {
+      "index": 185,
+      "id": "1898200962394997158",
+      "createdAt": "Sat Mar 08 02:35:50 +0000 2025",
+      "text": "@Rothmus Corruption of legislators - and presidents - is real.\nBut imagine if savers and investors h..."
+    },
+    {
+      "index": 186,
+      "id": "1898199613464887330",
+      "createdAt": "Sat Mar 08 02:30:29 +0000 2025",
+      "text": "“As I looked out into the night sky, across all those infinite stars, it made me realize how insigni..."
+    },
+    {
+      "index": 187,
+      "id": "1898163086994940283",
+      "createdAt": "Sat Mar 08 00:05:20 +0000 2025",
+      "text": "@LordDreadwar @migowski @TuckerCarlson The story was so incongruous with the pantomime villain narra..."
+    },
+    {
+      "index": 188,
+      "id": "1898138964634014074",
+      "createdAt": "Fri Mar 07 22:29:29 +0000 2025",
+      "text": "Let’s ask Grok: \nUndocumented immigrants contribute significantly to the U.S. economy each year, tho..."
+    },
+    {
+      "index": 189,
+      "id": "1898124290178138317",
+      "createdAt": "Fri Mar 07 21:31:10 +0000 2025",
+      "text": "@yeaplato @TuckerCarlson I did my best:"
+    },
+    {
+      "index": 190,
+      "id": "1898088289183363416",
+      "createdAt": "Fri Mar 07 19:08:07 +0000 2025",
+      "text": "@Kajel96536401 @elonmusk Bless you Madou. I wish kindly souls like you were more common on X!"
+    },
+    {
+      "index": 191,
+      "id": "1898086755892703737",
+      "createdAt": "Fri Mar 07 19:02:02 +0000 2025",
+      "text": "@NoNameReturns @migowski @TuckerCarlson The Gates Foundation has done admirable work\nhttps://t.co/O2..."
+    },
+    {
+      "index": 192,
+      "id": "1898081048883609687",
+      "createdAt": "Fri Mar 07 18:39:21 +0000 2025",
+      "text": "@AllanR94835177 @elonmusk Undocumented workers need regularising. \nAnd yes, their working conditions..."
+    },
+    {
+      "index": 193,
+      "id": "1898079716327960794",
+      "createdAt": "Fri Mar 07 18:34:03 +0000 2025",
+      "text": "@BenjaminHaberm6 @TuckerCarlson Most of the crypto world is not animated by SBF’s ethical utilitaria..."
+    },
+    {
+      "index": 194,
+      "id": "1898079124960559288",
+      "createdAt": "Fri Mar 07 18:31:42 +0000 2025",
+      "text": "@Kajel96536401 @elonmusk Boringly cis-gender, but aghast at the virulent transphobia I find on Elon’..."
+    },
+    {
+      "index": 195,
+      "id": "1898078611263177180",
+      "createdAt": "Fri Mar 07 18:29:40 +0000 2025",
+      "text": "@yeaplato @TuckerCarlson If you like, I can repost the link, but long before FTX collapsed I tried t..."
+    },
+    {
+      "index": 196,
+      "id": "1898072954527006945",
+      "createdAt": "Fri Mar 07 18:07:11 +0000 2025",
+      "text": "Racism is always wrong. \nAlas ethno-nationalists and white-supremacists like Elon lack the moral aut..."
+    },
+    {
+      "index": 197,
+      "id": "1898061517716963457",
+      "createdAt": "Fri Mar 07 17:21:44 +0000 2025",
+      "text": "@Charmsverse @TuckerCarlson The behaviour of people with ASD is confusing to us low-AQ folk. But he’..."
+    },
+    {
+      "index": 198,
+      "id": "1898060595490177151",
+      "createdAt": "Fri Mar 07 17:18:04 +0000 2025",
+      "text": "@Charmsverse @TuckerCarlson Indeed. And SBF is neither. He is a high-functioning Asperger and classi..."
+    },
+    {
+      "index": 199,
+      "id": "1898059556321919471",
+      "createdAt": "Fri Mar 07 17:13:57 +0000 2025",
+      "text": "@Charmsverse @TuckerCarlson I’d beg to differ."
+    },
+    {
+      "index": 200,
+      "id": "1898058513999708206",
+      "createdAt": "Fri Mar 07 17:09:48 +0000 2025",
+      "text": "@yeaplato @TuckerCarlson The moral character of someone who steals 5 dollars is as bad as someone wh..."
+    },
+    {
+      "index": 201,
+      "id": "1898057749063516593",
+      "createdAt": "Fri Mar 07 17:06:46 +0000 2025",
+      "text": "@Charmsverse @TuckerCarlson See \nIs Sam Bankman-Fried a Psychopath?\nhttps://t.co/nM7znmdf2B\nShort an..."
+    },
+    {
+      "index": 202,
+      "id": "1898054862098890877",
+      "createdAt": "Fri Mar 07 16:55:17 +0000 2025",
+      "text": "@GloriaS47480189 @TuckerCarlson Sadly there are a few people in this world who really do need to be ..."
+    },
+    {
+      "index": 203,
+      "id": "1898054218864591154",
+      "createdAt": "Fri Mar 07 16:52:44 +0000 2025",
+      "text": "@aaarataki and the video of my AI for Animals talk:\nhttps://t.co/ExKsiwGXrD\nIncredible conference. \n..."
+    },
+    {
+      "index": 204,
+      "id": "1898051210512621924",
+      "createdAt": "Fri Mar 07 16:40:47 +0000 2025",
+      "text": "@robertcoxxx @TuckerCarlson SBF is a high-functioning Asperger. Like most people with ASD, he is not..."
+    },
+    {
+      "index": 205,
+      "id": "1898041369614336366",
+      "createdAt": "Fri Mar 07 16:01:41 +0000 2025",
+      "text": "@ridgeydidgey40 @TuckerCarlson How many thieves do you know who are strict vegans who gave the major..."
+    },
+    {
+      "index": 206,
+      "id": "1898038198359802025",
+      "createdAt": "Fri Mar 07 15:49:04 +0000 2025",
+      "text": "@AbuTrump716 @TuckerCarlson The three charities in question were the Center for Effective Altruism, ..."
+    },
+    {
+      "index": 207,
+      "id": "1898032612889051267",
+      "createdAt": "Fri Mar 07 15:26:53 +0000 2025",
+      "text": "@NicholasDrost2 @TuckerCarlson “Moron”? \nForgive me, but I’d long publicly argued that SBF didn’t un..."
+    }
+  ]
+}

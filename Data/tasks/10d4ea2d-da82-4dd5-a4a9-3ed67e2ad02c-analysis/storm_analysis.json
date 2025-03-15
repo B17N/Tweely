@@ -1,0 +1,217 @@
+{
+  "username": "storm",
+  "analyzedAt": "2025-03-15T18:27:38.668Z",
+  "tweetCount": 32,
+  "tweetDateRange": {
+    "earliestTweet": "Sat Mar 08 01:09:03 +0000 2025",
+    "latestTweet": "Sat Mar 15 15:46:39 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @storm and provide a summary of what they mainly talked about in the past week:\n\n@gballet @GiulioRebuffo @adietrichs @fradamt please elaborate on this wall that you're seeing\n\n@big_tech_sux what is the issue with transient storage pricing?\n\n@GiulioRebuffo @gballet @adietrichs @fradamt do you know anyone running BSC nodes on twitter that can chime in? curious to hear about their experience and hardware reqs\n\n@toghrulmaharram 15 conferences a year is a guaranteed recipe for going insane\n\n@sina_mahmoodi you can update the state many times without growing it, or grow the state large while not updating frequently\n\nso I don't think it's good to intermingle the terms\n\nhttps://t.co/8uDmxSdsII\n\n@terencechain @adietrichs @fradamt yea I think that's right. I/O and bandwidth are two most important bottlenecks. also the hardest to measure. I'm not aware of good benchmarks, need much better data here. and it's going to be different for every client as you say\n\n@AFDudley0 execution state the ~300GB green line. it doesn't need to fit in memory, but it does benefit from a large memory for cache size. note that reads are not homogeneous, they are power law distributed across state, and so size of hot state grows sublinearly to the total state size\n\n@adietrichs @fradamt I think roughly accurate yea\n\nIve used this flowchart in the past but it can get even more detailed\n\nstorage IO breaks down into reads vs writes as you say, and is also inversely correlated with cache size (which itself is constrained by memory size) https://t.co/ONcToBOduw\n\n@EliBenSasson @tkstanczak true, but we are currently very distant from the gasrate being too large for decentralized verification\n\na good laptop can validate ~1 gigagas per second. mainnet is currently 1.5 megagas per second\n\navoiding scaling due to centralization concerns is itself an existential danger\n\n@fradamt it's not the growth rate that matters there, it's the update rate\n\nyou can update the state many times without growing it, or grow the state large while not updating frequently\n\nevery talks about \"size\"/\"growth\" which are the wrong concerns\n\nhttps://t.co/yv2dyaRZrn\n\nadditional pts:\n\n1. the rate of state **updates** is a concern because that uses storage IO, which is a tough hardware bottleneck. but this is different from state **growth** / **size**\n\n2. state growth is a concern on **L2's**, where growing the state is much cheaper than on L1\n\n⚠️ this is a common misconception that I see almost every day\n\nplease check the data to see that state size/growth is NOT a relevant concern for L1 scaling\n\neven with a 3x gas rate, ethereum state size will not become a concern for MANY years. worry about other bottlenecks! https://t.co/BmDoSCk9TT\n\n@keyneom @potuz_eth @TimBeiko yea maybe a miscommunication. I'm not talking about short-lived or long-lived. I'm talking about building a normal testnet with a performance focus rather than an EIP feature focus. I see this as the biggest way we can improve our current approach for pushing the gas limit\n\n@potuz_eth @keyneom @TimBeiko tbh I don't really understand the point you're making\n\n@potuz_eth @keyneom @TimBeiko the takeaway of that should be that we need much better tests and data\n\nthe takeaway should not be that collecting data is bad\n\n@potuz_eth @TimBeiko what data are you referring to? and how is it being mis-used?\n\nI dont think the data I would like to see currently exists. aka diagnostic stats of all ethereum components under realistic testnet with high gas limit\n\nthe point of pushing the system to failure is just to identify where the bottlenecks are, so that we can strengthen those bottlenecks and overprovision them\n\nwe don't want mainnet to be anywhere near these breaking points. and we accomplish that by making the system more robust at it's weakest points. but right now we don't know where those weak parts are, due to lack of data\n\nstate growth is not a relevant bottleneck on scaling. this is a common misconception. state size and state growth are both relatively small\n\nit's going to be either storage IO or bandwidth that bottleneck scaling. we need to understand both better\n\nwhen scaling up a system, it's very important to get empirical tests. you keep scaling until something breaks. you try to understand that thing better and optimize it. then some other part of system becomes the bottleneck and breaks. then you repeat the process. this approach to scaling has been absent/indirect/implicit in ethereum so far. time to make it an explicit focus\n\n@potuz_eth @TimBeiko what does that mean? what would be a nonlocal test?\n\n@potuz_eth @TimBeiko idk what you mean by \"local\" here. this is testing a distributed network of machines, not a single local machine\n\n@potuz_eth @TimBeiko could try forking mainnet, with a couple irregular state transitions to change the validator set\n\nit could be a new testnet or an existing testnet. the main distinction is the focus on performance and attempting to push the gas limit. for example, upping the gas limit until something breaks to learn where the limits are. also collecting performance statistics at different gas limits to determine which components in the system struggle or become bottlenecks\n\nforking an existing testnet is also an option if we think that is the best way to initialize a bunch of state\n\n@potuz_eth @TimBeiko how is that different from what I proposed? the fact that it's long running? that doesn't seem like a difficult barrier. we can give a testnet a lot of pre-existing state as an initial condition\n\n@potuz_eth @TimBeiko https://t.co/QYTCDslP4k\n\n@potuz_eth @TimBeiko what do you propose as a better way to determine gas limits?\n\nthe options are basically 1) theory 2) empiricism 3) intuition 4) do nothing. a performance testnet is (2)\n\n@potuz_eth @TimBeiko local execution only gets so far. a performance-focused devnet is more akin to a complex integration test. this is necessary because ethereum is a complex system\n\nwe could adapt an existing testnet, but it's a matter of focus. scaling itself should be the feature focus not EIP's\n\none of the most important steps to scaling eth L1 is \"performance-focused testnets\"\n\nsame featureset as mainnet, just a much higher gasrate\n\nthat's the only way to find all the things that will break. not sure why this approach hasn't been used so far but we really should start\n\nlocal llms 🤝 local data pipelines\n\ndetails:\nhttps://t.co/sNJZFByNd2\n\nuseful plugin for anyone using polars to process evm data:\n\npolars_evm just implemented binary_to_float()\n\nit uses native polars operations to convert u256/i256 to f64. 10x-20x faster than native python. this makes it trivial to decode most onchain events 🐻‍❄️🐻‍❄️ https://t.co/uEEzuCTV3Z\n\n@Data_Always @smyyguy all stablecoin transfer volumes, not just p2p, for comparison: https://t.co/rOZU34gbmQ\n\nthe most interesting part of tron stablecoin activity is that it's mostly P2P between EOAs (see screenshot). other networks are the opposite. so Id suspect that the transaction fees are mostly uniformly distributed since you arent competing for statespace\n\nalso, tron has two gas dimensions, each of which are subsidized in their own way, so you have to be really careful with REV computations"
+  },
+  "summary": "The tweets from @storm in the past week mainly discussed technical topics related to blockchain and Ethereum, such as storage IO, state growth, gas limits, performance-focused testnets, and data analysis. The conversations included discussions on bottlenecks in scaling, the importance of empirical testing to identify weaknesses, misunderstandings about state growth, and the need for better benchmarks and data to improve the Ethereum network. The sentiment in the tweets appears to be focused on addressing technical challenges and improving the efficiency and scalability of blockchain systems.",
+  "keyTopics": [
+    "Ethereum,",
+    "Ethereum"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900936689562120645",
+      "createdAt": "Sat Mar 15 15:46:39 +0000 2025",
+      "text": "@gballet @GiulioRebuffo @adietrichs @fradamt please elaborate on this wall that you're seeing"
+    },
+    {
+      "index": 1,
+      "id": "1900926346232295621",
+      "createdAt": "Sat Mar 15 15:05:33 +0000 2025",
+      "text": "@big_tech_sux what is the issue with transient storage pricing?"
+    },
+    {
+      "index": 2,
+      "id": "1900702648736837926",
+      "createdAt": "Sat Mar 15 00:16:39 +0000 2025",
+      "text": "@GiulioRebuffo @gballet @adietrichs @fradamt do you know anyone running BSC nodes on twitter that ca..."
+    },
+    {
+      "index": 3,
+      "id": "1900699526425624599",
+      "createdAt": "Sat Mar 15 00:04:15 +0000 2025",
+      "text": "@toghrulmaharram 15 conferences a year is a guaranteed recipe for going insane"
+    },
+    {
+      "index": 4,
+      "id": "1900694024979435613",
+      "createdAt": "Fri Mar 14 23:42:23 +0000 2025",
+      "text": "@sina_mahmoodi you can update the state many times without growing it, or grow the state large while..."
+    },
+    {
+      "index": 5,
+      "id": "1900670947042144354",
+      "createdAt": "Fri Mar 14 22:10:41 +0000 2025",
+      "text": "@terencechain @adietrichs @fradamt yea I think that's right. I/O and bandwidth are two most importan..."
+    },
+    {
+      "index": 6,
+      "id": "1900633618181157374",
+      "createdAt": "Fri Mar 14 19:42:21 +0000 2025",
+      "text": "@AFDudley0 execution state the ~300GB green line. it doesn't need to fit in memory, but it does bene..."
+    },
+    {
+      "index": 7,
+      "id": "1900613841245053134",
+      "createdAt": "Fri Mar 14 18:23:46 +0000 2025",
+      "text": "@adietrichs @fradamt I think roughly accurate yea\n\nIve used this flowchart in the past but it can ge..."
+    },
+    {
+      "index": 8,
+      "id": "1900610259833774342",
+      "createdAt": "Fri Mar 14 18:09:32 +0000 2025",
+      "text": "@EliBenSasson @tkstanczak true, but we are currently very distant from the gasrate being too large f..."
+    },
+    {
+      "index": 9,
+      "id": "1900597663873331266",
+      "createdAt": "Fri Mar 14 17:19:29 +0000 2025",
+      "text": "@fradamt it's not the growth rate that matters there, it's the update rate\n\nyou can update the state..."
+    },
+    {
+      "index": 10,
+      "id": "1900594568753795260",
+      "createdAt": "Fri Mar 14 17:07:11 +0000 2025",
+      "text": "additional pts:\n\n1. the rate of state **updates** is a concern because that uses storage IO, which i..."
+    },
+    {
+      "index": 11,
+      "id": "1900594565696155990",
+      "createdAt": "Fri Mar 14 17:07:10 +0000 2025",
+      "text": "⚠️ this is a common misconception that I see almost every day\n\nplease check the data to see that sta..."
+    },
+    {
+      "index": 12,
+      "id": "1900377676202074490",
+      "createdAt": "Fri Mar 14 02:45:19 +0000 2025",
+      "text": "@keyneom @potuz_eth @TimBeiko yea maybe a miscommunication. I'm not talking about short-lived or lon..."
+    },
+    {
+      "index": 13,
+      "id": "1900370821430075438",
+      "createdAt": "Fri Mar 14 02:18:05 +0000 2025",
+      "text": "@potuz_eth @keyneom @TimBeiko tbh I don't really understand the point you're making"
+    },
+    {
+      "index": 14,
+      "id": "1900369434671497304",
+      "createdAt": "Fri Mar 14 02:12:35 +0000 2025",
+      "text": "@potuz_eth @keyneom @TimBeiko the takeaway of that should be that we need much better tests and data..."
+    },
+    {
+      "index": 15,
+      "id": "1900359736060764485",
+      "createdAt": "Fri Mar 14 01:34:02 +0000 2025",
+      "text": "@potuz_eth @TimBeiko what data are you referring to? and how is it being mis-used?\n\nI dont think the..."
+    },
+    {
+      "index": 16,
+      "id": "1900358228263002334",
+      "createdAt": "Fri Mar 14 01:28:03 +0000 2025",
+      "text": "the point of pushing the system to failure is just to identify where the bottlenecks are, so that we..."
+    },
+    {
+      "index": 17,
+      "id": "1900356909372522967",
+      "createdAt": "Fri Mar 14 01:22:48 +0000 2025",
+      "text": "state growth is not a relevant bottleneck on scaling. this is a common misconception. state size and..."
+    },
+    {
+      "index": 18,
+      "id": "1900354673691001187",
+      "createdAt": "Fri Mar 14 01:13:55 +0000 2025",
+      "text": "@potuz_eth @TimBeiko what does that mean? what would be a nonlocal test?"
+    },
+    {
+      "index": 19,
+      "id": "1900354215933075628",
+      "createdAt": "Fri Mar 14 01:12:06 +0000 2025",
+      "text": "@potuz_eth @TimBeiko idk what you mean by \"local\" here. this is testing a distributed network of mac..."
+    },
+    {
+      "index": 20,
+      "id": "1900353828878508263",
+      "createdAt": "Fri Mar 14 01:10:34 +0000 2025",
+      "text": "@potuz_eth @TimBeiko could try forking mainnet, with a couple irregular state transitions to change ..."
+    },
+    {
+      "index": 21,
+      "id": "1900353448308334954",
+      "createdAt": "Fri Mar 14 01:09:03 +0000 2025",
+      "text": "it could be a new testnet or an existing testnet. the main distinction is the focus on performance a..."
+    },
+    {
+      "index": 22,
+      "id": "1900352290743345629",
+      "createdAt": "Fri Mar 14 01:04:27 +0000 2025",
+      "text": "@potuz_eth @TimBeiko how is that different from what I proposed? the fact that it's long running? th..."
+    },
+    {
+      "index": 23,
+      "id": "1900351551048393133",
+      "createdAt": "Fri Mar 14 01:01:31 +0000 2025",
+      "text": "@potuz_eth @TimBeiko https://t.co/QYTCDslP4k"
+    },
+    {
+      "index": 24,
+      "id": "1900351364380975364",
+      "createdAt": "Fri Mar 14 01:00:46 +0000 2025",
+      "text": "@potuz_eth @TimBeiko what do you propose as a better way to determine gas limits?\n\nthe options are b..."
+    },
+    {
+      "index": 25,
+      "id": "1900350871801921689",
+      "createdAt": "Fri Mar 14 00:58:49 +0000 2025",
+      "text": "@potuz_eth @TimBeiko local execution only gets so far. a performance-focused devnet is more akin to ..."
+    },
+    {
+      "index": 26,
+      "id": "1900329794778329523",
+      "createdAt": "Thu Mar 13 23:35:04 +0000 2025",
+      "text": "one of the most important steps to scaling eth L1 is \"performance-focused testnets\"\n\nsame featureset..."
+    },
+    {
+      "index": 27,
+      "id": "1898566537310539952",
+      "createdAt": "Sun Mar 09 02:48:30 +0000 2025",
+      "text": "local llms 🤝 local data pipelines"
+    },
+    {
+      "index": 28,
+      "id": "1898521137124126929",
+      "createdAt": "Sat Mar 08 23:48:06 +0000 2025",
+      "text": "details:\nhttps://t.co/sNJZFByNd2"
+    },
+    {
+      "index": 29,
+      "id": "1898521135115026474",
+      "createdAt": "Sat Mar 08 23:48:06 +0000 2025",
+      "text": "useful plugin for anyone using polars to process evm data:\n\npolars_evm just implemented binary_to_fl..."
+    },
+    {
+      "index": 30,
+      "id": "1898179809727156696",
+      "createdAt": "Sat Mar 08 01:11:47 +0000 2025",
+      "text": "@Data_Always @smyyguy all stablecoin transfer volumes, not just p2p, for comparison: https://t.co/rO..."
+    },
+    {
+      "index": 31,
+      "id": "1898179122016424312",
+      "createdAt": "Sat Mar 08 01:09:03 +0000 2025",
+      "text": "the most interesting part of tron stablecoin activity is that it's mostly P2P between EOAs (see scre..."
+    }
+  ]
+}

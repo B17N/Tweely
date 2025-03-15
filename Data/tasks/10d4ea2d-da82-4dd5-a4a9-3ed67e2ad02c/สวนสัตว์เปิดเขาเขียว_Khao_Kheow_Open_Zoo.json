@@ -1,0 +1,4761 @@
+{
+  "username": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+  "fetchedAt": "2025-03-15T15:58:08.309Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 16,
+      "created_at": "Sat Mar 15 04:27:36 +0000 2025",
+      "conversation_id_str": "1900765804540686795",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/XeWxkaVBd5",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900765804540686795/photo/1",
+            "id_str": "1900765795342577664",
+            "indices": [
+              89,
+              112
+            ],
+            "media_key": "3_1900765795342577664",
+            "media_url_https": "https://pbs.twimg.com/media/GmDga5CbcAAkslq.jpg",
+            "type": "photo",
+            "url": "https://t.co/XeWxkaVBd5",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 133,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 153,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900765795342577664"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1830865334594871297",
+            "name": "Khamoo.andthegang",
+            "screen_name": "and_khamoo",
+            "indices": [
+              20,
+              31
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/XeWxkaVBd5",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900765804540686795/photo/1",
+            "id_str": "1900765795342577664",
+            "indices": [
+              89,
+              112
+            ],
+            "media_key": "3_1900765795342577664",
+            "media_url_https": "https://pbs.twimg.com/media/GmDga5CbcAAkslq.jpg",
+            "type": "photo",
+            "url": "https://t.co/XeWxkaVBd5",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 133,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 153,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900765795342577664"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1111,
+      "favorited": false,
+      "full_text": "อ้อนใครได้บ้าง \n📸 : @and_khamoo\nทำแบบสำรวจด้านล่างกัน เพื่อปรับปรุงและพัฒนาสวนสัตว์ต่อไป https://t.co/XeWxkaVBd5",
+      "is_quote_status": true,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 15,
+      "retweet_count": 510,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900765804540686795",
+      "url": "https://x.com/KhaokheowZoo/status/1900765804540686795",
+      "views_count": "52149",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137779,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137779,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 12,
+      "created_at": "Sat Mar 15 03:58:52 +0000 2025",
+      "conversation_id_str": "1900758571035304071",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              65,
+              71
+            ],
+            "text": "รถถัง"
+          },
+          {
+            "indices": [
+              72,
+              82
+            ],
+            "text": "ลูกแรดขาว"
+          },
+          {
+            "indices": [
+              83,
+              104
+            ],
+            "text": "สวนสัตว์เปิดเขาเขียว"
+          },
+          {
+            "indices": [
+              105,
+              112
+            ],
+            "text": "ชลบุรี"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/PyvNiheNmi",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900758571035304071/video/1",
+            "id_str": "1900758285336408066",
+            "indices": [
+              113,
+              136
+            ],
+            "media_key": "7_1900758285336408066",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1900758285336408066/pu/img/0cC-zAXBulXQ51rK.jpg",
+            "type": "video",
+            "url": "https://t.co/PyvNiheNmi",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 78136,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/pl/U4HxhUXxaD47mupB.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/vid/avc1/480x270/tPYCckZ9GeaAc_46.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/vid/avc1/640x360/kHF0fyvraIbB0w5b.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/vid/avc1/1280x720/AVCyKn_RoBTWBtbk.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1900758285336408066"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1527457810820505600",
+            "name": "ดูอะไรดี",
+            "screen_name": "DuAraiDe",
+            "indices": [
+              53,
+              62
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/PyvNiheNmi",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900758571035304071/video/1",
+            "id_str": "1900758285336408066",
+            "indices": [
+              113,
+              136
+            ],
+            "media_key": "7_1900758285336408066",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1900758285336408066/pu/img/0cC-zAXBulXQ51rK.jpg",
+            "type": "video",
+            "url": "https://t.co/PyvNiheNmi",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 78136,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/pl/U4HxhUXxaD47mupB.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/vid/avc1/480x270/tPYCckZ9GeaAc_46.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/vid/avc1/640x360/kHF0fyvraIbB0w5b.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900758285336408066/pu/vid/avc1/1280x720/AVCyKn_RoBTWBtbk.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1900758285336408066"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1061,
+      "favorited": false,
+      "full_text": "น้องรถถัง อดีตตัวตึงโตแล้วก็ยังน่ารักเหมือนเดิม \nCr. @DuAraiDe \n\n#รถถัง #ลูกแรดขาว #สวนสัตว์เปิดเขาเขียว #ชลบุรี https://t.co/PyvNiheNmi",
+      "is_quote_status": false,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 9,
+      "reply_count": 7,
+      "retweet_count": 706,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900758571035304071",
+      "url": "https://x.com/KhaokheowZoo/status/1900758571035304071",
+      "views_count": "36640",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137783,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137783,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 38,
+      "created_at": "Fri Mar 14 09:21:17 +0000 2025",
+      "conversation_id_str": "1900477323864125783",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              31,
+              39
+            ],
+            "text": "หมูเด้ง"
+          },
+          {
+            "indices": [
+              40,
+              55
+            ],
+            "text": "ลูกฮิปโปโปแคระ"
+          },
+          {
+            "indices": [
+              57,
+              63
+            ],
+            "text": "ฮิปโป"
+          },
+          {
+            "indices": [
+              64,
+              71
+            ],
+            "text": "น่ารัก"
+          },
+          {
+            "indices": [
+              72,
+              82
+            ],
+            "text": "แม่โจวน่า"
+          },
+          {
+            "indices": [
+              83,
+              92
+            ],
+            "text": "พ่อโทนี่"
+          },
+          {
+            "indices": [
+              93,
+              101
+            ],
+            "text": "Moodeng"
+          },
+          {
+            "indices": [
+              102,
+              115
+            ],
+            "text": "khaokheowzoo"
+          },
+          {
+            "indices": [
+              116,
+              133
+            ],
+            "text": "khaokheowopenzoo"
+          },
+          {
+            "indices": [
+              134,
+              152
+            ],
+            "text": "PygmyHippopotamus"
+          },
+          {
+            "indices": [
+              153,
+              159
+            ],
+            "text": "Hippo"
+          },
+          {
+            "indices": [
+              161,
+              170
+            ],
+            "text": "ดูอะไรดี"
+          },
+          {
+            "indices": [
+              171,
+              181
+            ],
+            "text": "Duaraidee"
+          },
+          {
+            "indices": [
+              182,
+              203
+            ],
+            "text": "สวนสัตว์เปิดเขาเขียว"
+          },
+          {
+            "indices": [
+              204,
+              211
+            ],
+            "text": "ชลบุรี"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/Q52EAoRJw4",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900477323864125783/photo/1",
+            "id_str": "1900477313504215041",
+            "indices": [
+              217,
+              240
+            ],
+            "media_key": "3_1900477313504215041",
+            "media_url_https": "https://pbs.twimg.com/media/Gl_aDCcbgAE5Z8j.jpg",
+            "type": "photo",
+            "url": "https://t.co/Q52EAoRJw4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 519,
+                    "y": 515,
+                    "h": 53,
+                    "w": 53
+                  },
+                  {
+                    "x": 135,
+                    "y": 196,
+                    "h": 70,
+                    "w": 70
+                  },
+                  {
+                    "x": 260,
+                    "y": 405,
+                    "h": 80,
+                    "w": 80
+                  },
+                  {
+                    "x": 227,
+                    "y": 72,
+                    "h": 161,
+                    "w": 161
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 294,
+                    "y": 292,
+                    "h": 30,
+                    "w": 30
+                  },
+                  {
+                    "x": 77,
+                    "y": 111,
+                    "h": 39,
+                    "w": 39
+                  },
+                  {
+                    "x": 147,
+                    "y": 229,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 128,
+                    "y": 41,
+                    "h": 91,
+                    "w": 91
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 297,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 299,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900477313504215041"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Q52EAoRJw4",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900477323864125783/photo/1",
+            "id_str": "1900477313504215041",
+            "indices": [
+              217,
+              240
+            ],
+            "media_key": "3_1900477313504215041",
+            "media_url_https": "https://pbs.twimg.com/media/Gl_aDCcbgAE5Z8j.jpg",
+            "type": "photo",
+            "url": "https://t.co/Q52EAoRJw4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 519,
+                    "y": 515,
+                    "h": 53,
+                    "w": 53
+                  },
+                  {
+                    "x": 135,
+                    "y": 196,
+                    "h": 70,
+                    "w": 70
+                  },
+                  {
+                    "x": 260,
+                    "y": 405,
+                    "h": 80,
+                    "w": 80
+                  },
+                  {
+                    "x": 227,
+                    "y": 72,
+                    "h": 161,
+                    "w": 161
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 294,
+                    "y": 292,
+                    "h": 30,
+                    "w": 30
+                  },
+                  {
+                    "x": 77,
+                    "y": 111,
+                    "h": 39,
+                    "w": 39
+                  },
+                  {
+                    "x": 147,
+                    "y": 229,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 128,
+                    "y": 41,
+                    "h": 91,
+                    "w": 91
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 297,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 299,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900477313504215041"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2400,
+      "favorited": false,
+      "full_text": "นอนยังไงให้ได้น่ารักขนาดนี้😍🥰\n\n#หมูเด้ง #ลูกฮิปโปโปแคระ \n#ฮิปโป #น่ารัก\n#แม่โจวน่า #พ่อโทนี่\n#Moodeng #khaokheowzoo\n#khaokheowopenzoo\n#PygmyHippopotamus #Hippo \n#ดูอะไรดี #Duaraidee\n#สวนสัตว์เปิดเขาเขียว #ชลบุรี\n\nปล. ฮิปโปฯเป็นสัตว์ดุร้ายเข้าใกล้ได้เฉพาะเจ้าหน้าที่ผู้ดูแลเท่านั้น.",
+      "is_quote_status": false,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 6,
+      "reply_count": 24,
+      "retweet_count": 1143,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900477323864125783",
+      "url": "https://x.com/KhaokheowZoo/status/1900477323864125783",
+      "views_count": "45152",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137779,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137779,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 16,
+      "created_at": "Fri Mar 14 09:21:17 +0000 2025",
+      "conversation_id_str": "1900477323826315331",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              31,
+              39
+            ],
+            "text": "หมูเด้ง"
+          },
+          {
+            "indices": [
+              40,
+              55
+            ],
+            "text": "ลูกฮิปโปโปแคระ"
+          },
+          {
+            "indices": [
+              57,
+              63
+            ],
+            "text": "ฮิปโป"
+          },
+          {
+            "indices": [
+              64,
+              71
+            ],
+            "text": "น่ารัก"
+          },
+          {
+            "indices": [
+              72,
+              82
+            ],
+            "text": "แม่โจวน่า"
+          },
+          {
+            "indices": [
+              83,
+              92
+            ],
+            "text": "พ่อโทนี่"
+          },
+          {
+            "indices": [
+              93,
+              101
+            ],
+            "text": "Moodeng"
+          },
+          {
+            "indices": [
+              102,
+              115
+            ],
+            "text": "khaokheowzoo"
+          },
+          {
+            "indices": [
+              116,
+              133
+            ],
+            "text": "khaokheowopenzoo"
+          },
+          {
+            "indices": [
+              134,
+              152
+            ],
+            "text": "PygmyHippopotamus"
+          },
+          {
+            "indices": [
+              153,
+              159
+            ],
+            "text": "Hippo"
+          },
+          {
+            "indices": [
+              161,
+              170
+            ],
+            "text": "ดูอะไรดี"
+          },
+          {
+            "indices": [
+              171,
+              181
+            ],
+            "text": "Duaraidee"
+          },
+          {
+            "indices": [
+              182,
+              203
+            ],
+            "text": "สวนสัตว์เปิดเขาเขียว"
+          },
+          {
+            "indices": [
+              204,
+              211
+            ],
+            "text": "ชลบุรี"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/cj4nf4EPJl",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900477323826315331/photo/1",
+            "id_str": "1900477313504215041",
+            "indices": [
+              217,
+              240
+            ],
+            "media_key": "3_1900477313504215041",
+            "media_url_https": "https://pbs.twimg.com/media/Gl_aDCcbgAE5Z8j.jpg",
+            "type": "photo",
+            "url": "https://t.co/cj4nf4EPJl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 519,
+                    "y": 515,
+                    "h": 53,
+                    "w": 53
+                  },
+                  {
+                    "x": 135,
+                    "y": 196,
+                    "h": 70,
+                    "w": 70
+                  },
+                  {
+                    "x": 260,
+                    "y": 405,
+                    "h": 80,
+                    "w": 80
+                  },
+                  {
+                    "x": 227,
+                    "y": 72,
+                    "h": 161,
+                    "w": 161
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 294,
+                    "y": 292,
+                    "h": 30,
+                    "w": 30
+                  },
+                  {
+                    "x": 77,
+                    "y": 111,
+                    "h": 39,
+                    "w": 39
+                  },
+                  {
+                    "x": 147,
+                    "y": 229,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 128,
+                    "y": 41,
+                    "h": 91,
+                    "w": 91
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 297,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 299,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900477313504215041"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/cj4nf4EPJl",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900477323826315331/photo/1",
+            "id_str": "1900477313504215041",
+            "indices": [
+              217,
+              240
+            ],
+            "media_key": "3_1900477313504215041",
+            "media_url_https": "https://pbs.twimg.com/media/Gl_aDCcbgAE5Z8j.jpg",
+            "type": "photo",
+            "url": "https://t.co/cj4nf4EPJl",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 519,
+                    "y": 515,
+                    "h": 53,
+                    "w": 53
+                  },
+                  {
+                    "x": 135,
+                    "y": 196,
+                    "h": 70,
+                    "w": 70
+                  },
+                  {
+                    "x": 260,
+                    "y": 405,
+                    "h": 80,
+                    "w": 80
+                  },
+                  {
+                    "x": 227,
+                    "y": 72,
+                    "h": 161,
+                    "w": 161
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 294,
+                    "y": 292,
+                    "h": 30,
+                    "w": 30
+                  },
+                  {
+                    "x": 77,
+                    "y": 111,
+                    "h": 39,
+                    "w": 39
+                  },
+                  {
+                    "x": 147,
+                    "y": 229,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 128,
+                    "y": 41,
+                    "h": 91,
+                    "w": 91
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 886,
+                    "y": 880,
+                    "h": 92,
+                    "w": 92
+                  },
+                  {
+                    "x": 232,
+                    "y": 336,
+                    "h": 120,
+                    "w": 120
+                  },
+                  {
+                    "x": 444,
+                    "y": 692,
+                    "h": 138,
+                    "w": 138
+                  },
+                  {
+                    "x": 388,
+                    "y": 124,
+                    "h": 276,
+                    "w": 276
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 297,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 299,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900477313504215041"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 926,
+      "favorited": false,
+      "full_text": "นอนยังไงให้ได้น่ารักขนาดนี้😍🥰\n\n#หมูเด้ง #ลูกฮิปโปโปแคระ \n#ฮิปโป #น่ารัก\n#แม่โจวน่า #พ่อโทนี่\n#Moodeng #khaokheowzoo\n#khaokheowopenzoo\n#PygmyHippopotamus #Hippo \n#ดูอะไรดี #Duaraidee\n#สวนสัตว์เปิดเขาเขียว #ชลบุรี\n\nปล. ฮิปโปฯเป็นสัตว์ดุร้ายเข้าใกล้ได้เฉพาะเจ้าหน้าที่ผู้ดูแลเท่านั้น.",
+      "is_quote_status": false,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 9,
+      "retweet_count": 373,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900477323826315331",
+      "url": "https://x.com/KhaokheowZoo/status/1900477323826315331",
+      "views_count": "16698",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137779,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137779,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Fri Mar 14 08:29:58 +0000 2025",
+      "conversation_id_str": "1900464407962165470",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/FOTG5gsRBd",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900464407962165470/photo/1",
+            "id_str": "1900464397497335808",
+            "indices": [
+              251,
+              274
+            ],
+            "media_key": "3_1900464397497335808",
+            "media_url_https": "https://pbs.twimg.com/media/Gl_OTOkbAAAz1jA.jpg",
+            "type": "photo",
+            "url": "https://t.co/FOTG5gsRBd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 176,
+                    "y": 63,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 100,
+                    "y": 35,
+                    "h": 103,
+                    "w": 103
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1576,
+                "w": 1880,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1006,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 570,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1576,
+              "width": 1880,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 85,
+                  "w": 1880,
+                  "h": 1053
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1576,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1382,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 788,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1880,
+                  "h": 1576
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900464397497335808"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "forms.gle/QLRBKwpWArhCFu…",
+            "expanded_url": "https://forms.gle/QLRBKwpWArhCFuuZ6",
+            "url": "https://t.co/zhV9eI5MtK",
+            "indices": [
+              145,
+              168
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/FOTG5gsRBd",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900464407962165470/photo/1",
+            "id_str": "1900464397497335808",
+            "indices": [
+              251,
+              274
+            ],
+            "media_key": "3_1900464397497335808",
+            "media_url_https": "https://pbs.twimg.com/media/Gl_OTOkbAAAz1jA.jpg",
+            "type": "photo",
+            "url": "https://t.co/FOTG5gsRBd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 176,
+                    "y": 63,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 100,
+                    "y": 35,
+                    "h": 103,
+                    "w": 103
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1576,
+                "w": 1880,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1006,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 570,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1576,
+              "width": 1880,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 85,
+                  "w": 1880,
+                  "h": 1053
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1576,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1382,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 788,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1880,
+                  "h": 1576
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900464397497335808"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 47,
+      "favorited": false,
+      "full_text": "💚ขอเชิญทุกๆคนตอบแบบสำรวจความต้องการของผู้ใช้บริการสวนสัตว์เปิดเขาเขียว เพื่อประโยชน์ในการปรับปรุงพัฒนางานบริการให้เกิดประโยชน์สูงสุด 🙏🙏🙏\n\nกดลิ้ง https://t.co/XrBTR6H3mi\n\nแบบสอบถามฉบับนี้จัดทำขึ้นเพื่อเป็นข้อมูลในการออกแบบบริการของสวนสัตว์เปิดเขาเขียว ให้สอดคล้องกับความต้องการของผู้ใช้บริการโปรดกรอกข้อมูลให้ครบถ้วนเพื่อประโยชน์ในการปรับปรุงพัฒนางานบริการให้เกิดประโยชน์สูงสุด",
+      "is_quote_status": false,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 3,
+      "retweet_count": 55,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900464407962165470",
+      "url": "https://x.com/KhaokheowZoo/status/1900464407962165470",
+      "views_count": "57314",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137783,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137783,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Thu Mar 13 08:35:14 +0000 2025",
+      "conversation_id_str": "1900103344636780852",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103338974470144",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103338974470144",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F62wbYAAe-qp.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1200,
+                    "y": 232,
+                    "h": 132,
+                    "w": 132
+                  },
+                  {
+                    "x": 872,
+                    "y": 308,
+                    "h": 146,
+                    "w": 146
+                  },
+                  {
+                    "x": 942,
+                    "y": 680,
+                    "h": 106,
+                    "w": 106
+                  },
+                  {
+                    "x": 362,
+                    "y": 296,
+                    "h": 148,
+                    "w": 148
+                  },
+                  {
+                    "x": 1616,
+                    "y": 292,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 703,
+                    "y": 135,
+                    "h": 77,
+                    "w": 77
+                  },
+                  {
+                    "x": 510,
+                    "y": 180,
+                    "h": 85,
+                    "w": 85
+                  },
+                  {
+                    "x": 551,
+                    "y": 398,
+                    "h": 62,
+                    "w": 62
+                  },
+                  {
+                    "x": 212,
+                    "y": 173,
+                    "h": 86,
+                    "w": 86
+                  },
+                  {
+                    "x": 946,
+                    "y": 171,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 398,
+                    "y": 77,
+                    "h": 43,
+                    "w": 43
+                  },
+                  {
+                    "x": 289,
+                    "y": 102,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 312,
+                    "y": 225,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 120,
+                    "y": 98,
+                    "h": 49,
+                    "w": 49
+                  },
+                  {
+                    "x": 536,
+                    "y": 96,
+                    "h": 50,
+                    "w": 50
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1200,
+                    "y": 232,
+                    "h": 132,
+                    "w": 132
+                  },
+                  {
+                    "x": 872,
+                    "y": 308,
+                    "h": 146,
+                    "w": 146
+                  },
+                  {
+                    "x": 942,
+                    "y": 680,
+                    "h": 106,
+                    "w": 106
+                  },
+                  {
+                    "x": 362,
+                    "y": 296,
+                    "h": 148,
+                    "w": 148
+                  },
+                  {
+                    "x": 1616,
+                    "y": 292,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 298,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103338974470144"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103340387901440",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103340387901440",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F68BaoAAxWLI.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1118,
+                    "y": 1000,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 655,
+                    "y": 585,
+                    "h": 59,
+                    "w": 59
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 371,
+                    "y": 332,
+                    "h": 33,
+                    "w": 33
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1118,
+                    "y": 1000,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 390,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103340387901440"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103340857712641",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103340857712641",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F69xbYAEj9DL.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 536,
+                    "y": 626,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 328,
+                    "y": 592,
+                    "h": 172,
+                    "w": 172
+                  },
+                  {
+                    "x": 350,
+                    "y": 770,
+                    "h": 128,
+                    "w": 128
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 314,
+                    "y": 366,
+                    "h": 63,
+                    "w": 63
+                  },
+                  {
+                    "x": 192,
+                    "y": 346,
+                    "h": 100,
+                    "w": 100
+                  },
+                  {
+                    "x": 205,
+                    "y": 451,
+                    "h": 75,
+                    "w": 75
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 177,
+                    "y": 207,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 108,
+                    "y": 196,
+                    "h": 57,
+                    "w": 57
+                  },
+                  {
+                    "x": 116,
+                    "y": 255,
+                    "h": 42,
+                    "w": 42
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 536,
+                    "y": 626,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 328,
+                    "y": 592,
+                    "h": 172,
+                    "w": 172
+                  },
+                  {
+                    "x": 350,
+                    "y": 770,
+                    "h": 128,
+                    "w": 128
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 195,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103340857712641"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103339733651456",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103339733651456",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F65lbkAAW1Jx.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 195,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103339733651456"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103338974470144",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103338974470144",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F62wbYAAe-qp.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1200,
+                    "y": 232,
+                    "h": 132,
+                    "w": 132
+                  },
+                  {
+                    "x": 872,
+                    "y": 308,
+                    "h": 146,
+                    "w": 146
+                  },
+                  {
+                    "x": 942,
+                    "y": 680,
+                    "h": 106,
+                    "w": 106
+                  },
+                  {
+                    "x": 362,
+                    "y": 296,
+                    "h": 148,
+                    "w": 148
+                  },
+                  {
+                    "x": 1616,
+                    "y": 292,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 703,
+                    "y": 135,
+                    "h": 77,
+                    "w": 77
+                  },
+                  {
+                    "x": 510,
+                    "y": 180,
+                    "h": 85,
+                    "w": 85
+                  },
+                  {
+                    "x": 551,
+                    "y": 398,
+                    "h": 62,
+                    "w": 62
+                  },
+                  {
+                    "x": 212,
+                    "y": 173,
+                    "h": 86,
+                    "w": 86
+                  },
+                  {
+                    "x": 946,
+                    "y": 171,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 398,
+                    "y": 77,
+                    "h": 43,
+                    "w": 43
+                  },
+                  {
+                    "x": 289,
+                    "y": 102,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 312,
+                    "y": 225,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 120,
+                    "y": 98,
+                    "h": 49,
+                    "w": 49
+                  },
+                  {
+                    "x": 536,
+                    "y": 96,
+                    "h": 50,
+                    "w": 50
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1200,
+                    "y": 232,
+                    "h": 132,
+                    "w": 132
+                  },
+                  {
+                    "x": 872,
+                    "y": 308,
+                    "h": 146,
+                    "w": 146
+                  },
+                  {
+                    "x": 942,
+                    "y": 680,
+                    "h": 106,
+                    "w": 106
+                  },
+                  {
+                    "x": 362,
+                    "y": 296,
+                    "h": 148,
+                    "w": 148
+                  },
+                  {
+                    "x": 1616,
+                    "y": 292,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 204,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 298,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 588,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103338974470144"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103340387901440",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103340387901440",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F68BaoAAxWLI.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1118,
+                    "y": 1000,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 655,
+                    "y": 585,
+                    "h": 59,
+                    "w": 59
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 371,
+                    "y": 332,
+                    "h": 33,
+                    "w": 33
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1118,
+                    "y": 1000,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 390,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103340387901440"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103340857712641",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103340857712641",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F69xbYAEj9DL.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 536,
+                    "y": 626,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 328,
+                    "y": 592,
+                    "h": 172,
+                    "w": 172
+                  },
+                  {
+                    "x": 350,
+                    "y": 770,
+                    "h": 128,
+                    "w": 128
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 314,
+                    "y": 366,
+                    "h": 63,
+                    "w": 63
+                  },
+                  {
+                    "x": 192,
+                    "y": 346,
+                    "h": 100,
+                    "w": 100
+                  },
+                  {
+                    "x": 205,
+                    "y": 451,
+                    "h": 75,
+                    "w": 75
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 177,
+                    "y": 207,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 108,
+                    "y": 196,
+                    "h": 57,
+                    "w": 57
+                  },
+                  {
+                    "x": 116,
+                    "y": 255,
+                    "h": 42,
+                    "w": 42
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 536,
+                    "y": 626,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 328,
+                    "y": 592,
+                    "h": 172,
+                    "w": 172
+                  },
+                  {
+                    "x": 350,
+                    "y": 770,
+                    "h": 128,
+                    "w": 128
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 195,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103340857712641"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/a4JN3idzhq",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900103344636780852/photo/1",
+            "id_str": "1900103339733651456",
+            "indices": [
+              243,
+              266
+            ],
+            "media_key": "3_1900103339733651456",
+            "media_url_https": "https://pbs.twimg.com/media/Gl6F65lbkAAW1Jx.jpg",
+            "type": "photo",
+            "url": "https://t.co/a4JN3idzhq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1537,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 901,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1537,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 195,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1537,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1348,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 769,
+                  "h": 1537
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1537
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900103339733651456"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 394,
+      "favorited": false,
+      "full_text": "สวนสัตว์เปิดเขาเขียว จัดกิจกรรม “วันช้างไทย 13 มีนา 2568”\n\nวันนี้ 13 มีนาคม 2568 (เวลา 10.00 น.) นางสาวอุฬาริกา  กองพรม  ผู้ช่วยผู้อำนวยการสวนสัตว์เปิดเขาเขียว เป็นประธานเปิดงานวันช้างไทย พร้อมด้วยผู้บริหาร พนักงาน ลูกจ้างสวนสัตว์เปิดเขาเขียว คณะครูและนักเรียนจากโรงเรียนบางบ่อวิทยาคม จังหวัดสมุทรปราการ โดยทางสวนสัตว์เปิดเขาเขียว ได้จัดกิจกรรมเพื่อให้ทุกคนตระหนักถึงความสำคัญของช้างไทย ซึ่งเป็นสัตว์คู่บ้านคู่เมืองมานาน และได้นำช้างที่มีอายุมากที่สุดในสวนสัตว์เปิดเขาเขียว ชื่อพังแนท อายุ 99 ปี พังจันทร์เพ็ญ และพังจิ๋ม ออกมาร่วมกิจกรรมโดยจัดเลี้ยงบุฟเฟ่เค้กก้อนยักษ์มี ผัก ผลไม้นานาชนิดทั้งกล้วย อ้อย ข้าวโพด แตงโม ฝรั่ง แก้วมังกร แครอท ฟักทอง และหญ้าเนเปียร์ ให้นักเรียนและนักท่องเที่ยวที่มาร่วมงานได้ให้อาหารและถ่ายภาพกับโขลงช้างภายในสวนสัตว์อีกด้วย\n\nนางสาวอุฬาริกา กองพรหม กล่าวว่า ภายในงานยังจัดนิทรรศการความเป็นมาวันช้างไทย นิทรรศการความสามารถพิเศษของช้าง และวันช้างไทย 13 มีนาคมของทุกปี เพื่อกระตุ้นให้คนไทยหันมาสนใจช้าง รักช้าง หวงแหนช้าง ตลอดจนให้ความสำคัญต่อการอนุรักษ์ช้างมากขึ้น และนับเป็นการยกย่องให้เกียรติว่าเป็นสัตว์ที่มีความสำคัญ นอกเหนือจากเกียรติที่ช้างเคยได้รับในอดีต ไม่ว่าจะเป็นช้างเผือกในธงชาติ หรือช้างเผือกที่เป็นสัญลักษณ์ของประเทศ หรือสัตว์คู่พระบารมีของพระมหากษัตริย์ \n\nสอบถามรายละเอียด โทร : 038-318444 ต่อ 213",
+      "is_quote_status": false,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 5,
+      "reply_count": 15,
+      "retweet_count": 194,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900103344636780852",
+      "url": "https://x.com/KhaokheowZoo/status/1900103344636780852",
+      "views_count": "16362",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137779,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137779,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 9,
+      "created_at": "Thu Mar 13 04:53:32 +0000 2025",
+      "conversation_id_str": "1900047554026623246",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 270,
+      "favorited": false,
+      "full_text": "สวนสัตว์ต่างๆ ภายใต้องค์การสวนสัตว์ เข้าร่วมประชุม เพื่อร่วมกันปรับปรุง อัตลักษณ์ ให้กับองค์การสวนสัตว์",
+      "is_quote_status": true,
+      "lang": "th",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 33,
+      "retweet_count": 142,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900047554026623246",
+      "url": "https://x.com/KhaokheowZoo/status/1900047554026623246",
+      "views_count": "20404",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137783,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137783,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 27,
+      "created_at": "Thu Mar 13 02:13:22 +0000 2025",
+      "conversation_id_str": "1900007245687222506",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007088044335107",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007088044335107",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uYUGbYAMj1RG.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 600,
+                "w": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 600,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 600,
+                "w": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 600,
+              "width": 600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 237,
+                  "w": 600,
+                  "h": 336
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 600,
+                  "h": 600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 526,
+                  "h": 600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 300,
+                  "h": 600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 600,
+                  "h": 600
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007088044335107"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007097108209664",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007097108209664",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uY13bIAAgfci.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 348,
+                    "y": 605,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 1088,
+                    "y": 1035,
+                    "h": 123,
+                    "w": 123
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 326,
+                    "y": 567,
+                    "h": 105,
+                    "w": 105
+                  },
+                  {
+                    "x": 1020,
+                    "y": 970,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 184,
+                    "y": 321,
+                    "h": 60,
+                    "w": 60
+                  },
+                  {
+                    "x": 578,
+                    "y": 549,
+                    "h": 65,
+                    "w": 65
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 348,
+                    "y": 605,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 1088,
+                    "y": 1035,
+                    "h": 123,
+                    "w": 123
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 157,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 640,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007097108209664"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007105760768000",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007105760768000",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uZWGWsAALCNF.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 224,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007105760768000"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007113801523200",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007113801523200",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uZ0Da4AAR0Xv.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 563,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 79,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 320,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007113801523200"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007088044335107",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007088044335107",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uYUGbYAMj1RG.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 600,
+                "w": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 600,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 600,
+                "w": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 600,
+              "width": 600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 237,
+                  "w": 600,
+                  "h": 336
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 600,
+                  "h": 600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 526,
+                  "h": 600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 300,
+                  "h": 600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 600,
+                  "h": 600
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007088044335107"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007097108209664",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007097108209664",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uY13bIAAgfci.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 348,
+                    "y": 605,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 1088,
+                    "y": 1035,
+                    "h": 123,
+                    "w": 123
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 326,
+                    "y": 567,
+                    "h": 105,
+                    "w": 105
+                  },
+                  {
+                    "x": 1020,
+                    "y": 970,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 184,
+                    "y": 321,
+                    "h": 60,
+                    "w": 60
+                  },
+                  {
+                    "x": 578,
+                    "y": 549,
+                    "h": 65,
+                    "w": 65
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 348,
+                    "y": 605,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 1088,
+                    "y": 1035,
+                    "h": 123,
+                    "w": 123
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 157,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 640,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007097108209664"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007105760768000",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007105760768000",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uZWGWsAALCNF.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 224,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007105760768000"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/HDwhXGBjz3",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1900007245687222506/photo/1",
+            "id_str": "1900007113801523200",
+            "indices": [
+              17,
+              40
+            ],
+            "media_key": "3_1900007113801523200",
+            "media_url_https": "https://pbs.twimg.com/media/Gl4uZ0Da4AAR0Xv.jpg",
+            "type": "photo",
+            "url": "https://t.co/HDwhXGBjz3",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 563,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 79,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 320,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900007113801523200"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1000,
+      "favorited": false,
+      "full_text": "สวัสดีวันช้างไทย https://t.co/HDwhXGBjz3",
+      "is_quote_status": false,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 4,
+      "reply_count": 4,
+      "retweet_count": 1407,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1900007245687222506",
+      "url": "https://x.com/KhaokheowZoo/status/1900007245687222506",
+      "views_count": "45774",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137783,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137783,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Wed Mar 12 07:54:16 +0000 2025",
+      "conversation_id_str": "1899730646274289709",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/l1R0dx40lj",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1899730646274289709/photo/1",
+            "id_str": "1899730499137912833",
+            "indices": [
+              120,
+              143
+            ],
+            "media_key": "3_1899730499137912833",
+            "media_url_https": "https://pbs.twimg.com/media/Gl0y0uIXQAEuFZQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/l1R0dx40lj",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 176,
+                    "y": 63,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 100,
+                    "y": 35,
+                    "h": 103,
+                    "w": 103
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1576,
+                "w": 1880,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1006,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 570,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1576,
+              "width": 1880,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 85,
+                  "w": 1880,
+                  "h": 1053
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1576,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1382,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 788,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1880,
+                  "h": 1576
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899730499137912833"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "forms.gle/LzRyXhUoKcf4Dq…",
+            "expanded_url": "https://forms.gle/LzRyXhUoKcf4DqJo6",
+            "url": "https://t.co/5GnkoAO7mQ",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/l1R0dx40lj",
+            "expanded_url": "https://x.com/KhaokheowZoo/status/1899730646274289709/photo/1",
+            "id_str": "1899730499137912833",
+            "indices": [
+              120,
+              143
+            ],
+            "media_key": "3_1899730499137912833",
+            "media_url_https": "https://pbs.twimg.com/media/Gl0y0uIXQAEuFZQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/l1R0dx40lj",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 176,
+                    "y": 63,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 100,
+                    "y": 35,
+                    "h": 103,
+                    "w": 103
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 277,
+                    "y": 99,
+                    "h": 286,
+                    "w": 286
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1576,
+                "w": 1880,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1006,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 570,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1576,
+              "width": 1880,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 85,
+                  "w": 1880,
+                  "h": 1053
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1576,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1382,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 788,
+                  "h": 1576
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1880,
+                  "h": 1576
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899730499137912833"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 27,
+      "favorited": false,
+      "full_text": "ขอเชิญร่วมตอบแบบสอบถามความต้องการ ความพึงพอใจและความคิดเห็นต่อการให้บริการ สวนสัตว์เปิดเขาเขียว\nhttps://t.co/5GnkoAO7mQ https://t.co/l1R0dx40lj",
+      "is_quote_status": false,
+      "lang": "th",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12,
+      "retweeted": false,
+      "user_id_str": "4886662988",
+      "id_str": "1899730646274289709",
+      "url": "https://x.com/KhaokheowZoo/status/1899730646274289709",
+      "views_count": "5636",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Feb 10 06:21:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "เป็นสถานที่อนุรักษ์สัตว์ป่า เป็นสถานที่ศึกษาวิจัยและเก็บบันทึกข้อมูลธรรมชาติ เพื่ออนาคต เป็นสถานที่ศึกษาเรียนรู้ตลอดชีวิต เป็นสถานที่พักผ่อนสำหรับครอบครัว",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khaokheow.zoothailand.org",
+                "expanded_url": "http://www.khaokheow.zoothailand.org/",
+                "url": "https://t.co/sY62N1xWeo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5546,
+        "followers_count": 137783,
+        "friends_count": 11,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 258,
+        "location": "235 หมู่ 7 จ.ชลบุรี, ประเทศไทย",
+        "media_count": 2727,
+        "name": "สวนสัตว์เปิดเขาเขียว Khao Kheow Open Zoo",
+        "normal_followers_count": 137783,
+        "pinned_tweet_ids_str": [
+          "1898295210523988183"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4886662988/1741423916",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795299672476807168/V56Yuj7__normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "KhaokheowZoo",
+        "statuses_count": 3276,
+        "translator_type": "none",
+        "url": "https://t.co/sY62N1xWeo",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1
+    ],
+    "2025-03-14": [
+      2,
+      3,
+      4
+    ],
+    "2025-03-13": [
+      5,
+      6,
+      7
+    ],
+    "2025-03-12": [
+      8
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "username": "Julian Zawistowski",
+  "analyzedAt": "2025-03-15T18:28:02.381Z",
+  "tweetCount": 1,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 14 20:26:10 +0000 2025",
+    "latestTweet": "Fri Mar 14 20:26:10 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Julian Zawistowski and provide a summary of what they mainly talked about in the past week:\n\nI am so happy @vpabundance you are part of @OctantApp team. This is a great story, but I am sure everything that awaits us is even better! Good luck in your new role, WAGMI 🚀"
+  },
+  "summary": "Julian Zawistowski's tweet mainly focuses on expressing happiness about @vpabundance joining the @OctantApp team and wishing them luck in their new role. The sentiment is positive and optimistic about the future.",
+  "keyTopics": [
+    "Zawistowski's"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900644645341667691",
+      "createdAt": "Fri Mar 14 20:26:10 +0000 2025",
+      "text": "I am so happy @vpabundance you are part of @OctantApp team. This is a great story, but I am sure eve..."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "username": "dnkta.eth",
+  "analyzedAt": "2025-03-15T18:28:47.450Z",
+  "tweetCount": 7,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 13:06:35 +0000 2025",
+    "latestTweet": "Thu Mar 13 09:45:52 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @dnkta.eth and provide a summary of what they mainly talked about in the past week:\n\n@kaiynne @zhusu @functi0nZer0 @WildcatFi 😂😂😂\n\nSam?\n\nSentiment on $ETH is as negative as it was 4 years ago, could only mean one thing 🤫\n\n@krugermacro If still stuck on BTC likely a good time to dump it and buy ETH\n\nNFA but $PSY seems undervalued af\n\n@functi0nZer0 @shardverse Who wants to give me an undercollateralized loan against my governance token bags?\n\nThis app is unusable again"
+  },
+  "summary": "The tweets from @dnkta.eth in the past week mainly revolved around various topics such as humor with emojis, sentiment analysis on Ethereum ($ETH) being negative, suggesting to dump BTC and buy ETH, mentioning an undervalued asset ($PSY), seeking undercollateralized loans against governance tokens, and expressing frustration with an app's usability issues. Overall, the sentiment seems to range from light-hearted to serious financial discussions and some frustration with technology.",
+  "keyTopics": [
+    "Ethereum",
+    "ETH,",
+    "Overall,"
+  ],
+  "sentiment": "Negative",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900121122491781608",
+      "createdAt": "Thu Mar 13 09:45:52 +0000 2025",
+      "text": "@kaiynne @zhusu @functi0nZer0 @WildcatFi 😂😂😂"
+    },
+    {
+      "index": 1,
+      "id": "1899922841186771266",
+      "createdAt": "Wed Mar 12 20:37:58 +0000 2025",
+      "text": "Sam?"
+    },
+    {
+      "index": 2,
+      "id": "1899920298754887837",
+      "createdAt": "Wed Mar 12 20:27:52 +0000 2025",
+      "text": "Sentiment on $ETH is as negative as it was 4 years ago, could only mean one thing 🤫"
+    },
+    {
+      "index": 3,
+      "id": "1899881371650118005",
+      "createdAt": "Wed Mar 12 17:53:11 +0000 2025",
+      "text": "@krugermacro If still stuck on BTC likely a good time to dump it and buy ETH"
+    },
+    {
+      "index": 4,
+      "id": "1899862904771399844",
+      "createdAt": "Wed Mar 12 16:39:48 +0000 2025",
+      "text": "NFA but $PSY seems undervalued af"
+    },
+    {
+      "index": 5,
+      "id": "1899478974419312779",
+      "createdAt": "Tue Mar 11 15:14:12 +0000 2025",
+      "text": "@functi0nZer0 @shardverse Who wants to give me an undercollateralized loan against my governance tok..."
+    },
+    {
+      "index": 6,
+      "id": "1899446858944008290",
+      "createdAt": "Tue Mar 11 13:06:35 +0000 2025",
+      "text": "This app is unusable again"
+    }
+  ]
+}

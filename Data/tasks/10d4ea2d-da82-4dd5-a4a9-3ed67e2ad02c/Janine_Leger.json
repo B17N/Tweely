@@ -1,0 +1,1513 @@
+{
+  "username": "Janine Leger",
+  "fetchedAt": "2025-03-15T15:55:31.361Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 04:51:19 +0000 2025",
+      "conversation_id_str": "1900409382502097130",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Great spot to hack in Argentina!",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "623741630",
+      "id_str": "1900409382502097130",
+      "url": "https://x.com/JanineLeger/status/1900409382502097130",
+      "views_count": "229",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Jul 01 13:24:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @joinedgecity and Zuzalu, Emergent Ventures grantee, previously @gitcoin PGF, Social innovation #1 hobby, grounded in fun & adventure",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3958,
+        "followers_count": 2406,
+        "friends_count": 1379,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 46,
+        "location": "Austin, TX",
+        "media_count": 69,
+        "name": "Janine Leger",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623741630/1715187306",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486850554810798082/91gElLQX_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JanineLeger",
+        "statuses_count": 1325,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 16:11:47 +0000 2025",
+      "conversation_id_str": "1899855850820534719",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1612275917140951042",
+            "name": "Edge City",
+            "screen_name": "JoinEdgeCity",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@joinedgecity in Austin was a fun way to bring what we're building to my home city. Each one has been different and has helped build a movement around learning, building and living differently.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "623741630",
+      "id_str": "1899855850820534719",
+      "url": "https://x.com/JanineLeger/status/1899855850820534719",
+      "views_count": "103",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Jul 01 13:24:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @joinedgecity and Zuzalu, Emergent Ventures grantee, previously @gitcoin PGF, Social innovation #1 hobby, grounded in fun & adventure",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3958,
+        "followers_count": 2406,
+        "friends_count": 1379,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 46,
+        "location": "Austin, TX",
+        "media_count": 69,
+        "name": "Janine Leger",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623741630/1715187306",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486850554810798082/91gElLQX_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JanineLeger",
+        "statuses_count": 1325,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 05:09:22 +0000 2025",
+      "conversation_id_str": "1899312171588227391",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "903437147134455810",
+            "name": "binji",
+            "screen_name": "binji_x",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@binji_x Find a 16 year old to fund who is doing something valuable",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "623741630",
+      "id_str": "1899326762615468075",
+      "url": "https://x.com/JanineLeger/status/1899326762615468075",
+      "views_count": "258",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Jul 01 13:24:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @joinedgecity and Zuzalu, Emergent Ventures grantee, previously @gitcoin PGF, Social innovation #1 hobby, grounded in fun & adventure",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3958,
+        "followers_count": 2406,
+        "friends_count": 1379,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 46,
+        "location": "Austin, TX",
+        "media_count": 69,
+        "name": "Janine Leger",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623741630/1715187306",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486850554810798082/91gElLQX_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JanineLeger",
+        "statuses_count": 1325,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 05:08:28 +0000 2025",
+      "conversation_id_str": "1606042448878137346",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1364804836663975937",
+            "name": "Mo Monuments",
+            "screen_name": "MoMonuments",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "1511859965614505985",
+            "name": "More Monuments",
+            "screen_name": "MoreMonuments",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "id_str": "1612275917140951042",
+            "name": "Edge City",
+            "screen_name": "JoinEdgeCity",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "id_str": "1765779803154571264",
+            "name": "Edge Esmeralda",
+            "screen_name": "EdgeEsmeralda",
+            "indices": [
+              58,
+              72
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@MoMonuments @MoreMonuments Do this at @JoinEdgeCity  for @EdgeEsmeralda this year",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "623741630",
+      "id_str": "1899326536890663178",
+      "url": "https://x.com/JanineLeger/status/1899326536890663178",
+      "views_count": "158",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Jul 01 13:24:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @joinedgecity and Zuzalu, Emergent Ventures grantee, previously @gitcoin PGF, Social innovation #1 hobby, grounded in fun & adventure",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3958,
+        "followers_count": 2406,
+        "friends_count": 1379,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 46,
+        "location": "Austin, TX",
+        "media_count": 69,
+        "name": "Janine Leger",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623741630/1715187306",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486850554810798082/91gElLQX_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JanineLeger",
+        "statuses_count": 1325,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Mon Mar 10 21:33:23 +0000 2025",
+      "conversation_id_str": "1899212010790781067",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "139193277",
+            "name": "Justin Mares",
+            "screen_name": "jwmares",
+            "indices": [
+              202,
+              210
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 30,
+      "favorited": false,
+      "full_text": "It's been inspiring to have a front row seat on this journey. Your integrity in staying true to the mission of creating healthy products for human flourishing has and will always be inspiring. Congrats @jwmares",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "623741630",
+      "id_str": "1899212010790781067",
+      "url": "https://x.com/JanineLeger/status/1899212010790781067",
+      "views_count": "801",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Jul 01 13:24:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @joinedgecity and Zuzalu, Emergent Ventures grantee, previously @gitcoin PGF, Social innovation #1 hobby, grounded in fun & adventure",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3958,
+        "followers_count": 2406,
+        "friends_count": 1379,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 46,
+        "location": "Austin, TX",
+        "media_count": 69,
+        "name": "Janine Leger",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623741630/1715187306",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486850554810798082/91gElLQX_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JanineLeger",
+        "statuses_count": 1325,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 05:42:12 +0000 2025",
+      "conversation_id_str": "1898604559926190528",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/oww8ddwOKV",
+            "expanded_url": "https://x.com/JanineLeger/status/1898610248761385253/photo/1",
+            "id_str": "1898610245024313344",
+            "indices": [
+              189,
+              212
+            ],
+            "media_key": "3_1898610245024313344",
+            "media_url_https": "https://pbs.twimg.com/media/Glk39WWXcAAnPDD.jpg",
+            "type": "photo",
+            "url": "https://t.co/oww8ddwOKV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 808,
+                    "y": 248,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 896,
+                    "y": 708,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 473,
+                    "y": 145,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 525,
+                    "y": 414,
+                    "h": 59,
+                    "w": 59
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 268,
+                    "y": 82,
+                    "h": 38,
+                    "w": 38
+                  },
+                  {
+                    "x": 297,
+                    "y": 235,
+                    "h": 33,
+                    "w": 33
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 808,
+                    "y": 248,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 896,
+                    "y": 708,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1152,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1152,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 650,
+                  "w": 1152,
+                  "h": 645
+                },
+                {
+                  "x": 0,
+                  "y": 396,
+                  "w": 1152,
+                  "h": 1152
+                },
+                {
+                  "x": 0,
+                  "y": 316,
+                  "w": 1152,
+                  "h": 1313
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1152,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898610245024313344"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "183622579",
+            "name": "Nick Foley",
+            "screen_name": "nhfoley",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "4435227552",
+            "name": "Stewart Brand",
+            "screen_name": "stewartbrand",
+            "indices": [
+              9,
+              22
+            ]
+          },
+          {
+            "id_str": "1765779803154571264",
+            "name": "Edge Esmeralda",
+            "screen_name": "EdgeEsmeralda",
+            "indices": [
+              23,
+              37
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/oww8ddwOKV",
+            "expanded_url": "https://x.com/JanineLeger/status/1898610248761385253/photo/1",
+            "id_str": "1898610245024313344",
+            "indices": [
+              189,
+              212
+            ],
+            "media_key": "3_1898610245024313344",
+            "media_url_https": "https://pbs.twimg.com/media/Glk39WWXcAAnPDD.jpg",
+            "type": "photo",
+            "url": "https://t.co/oww8ddwOKV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 808,
+                    "y": 248,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 896,
+                    "y": 708,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 473,
+                    "y": 145,
+                    "h": 67,
+                    "w": 67
+                  },
+                  {
+                    "x": 525,
+                    "y": 414,
+                    "h": 59,
+                    "w": 59
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 268,
+                    "y": 82,
+                    "h": 38,
+                    "w": 38
+                  },
+                  {
+                    "x": 297,
+                    "y": 235,
+                    "h": 33,
+                    "w": 33
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 808,
+                    "y": 248,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 896,
+                    "y": 708,
+                    "h": 102,
+                    "w": 102
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1152,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1152,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 650,
+                  "w": 1152,
+                  "h": 645
+                },
+                {
+                  "x": 0,
+                  "y": 396,
+                  "w": 1152,
+                  "h": 1152
+                },
+                {
+                  "x": 0,
+                  "y": 316,
+                  "w": 1152,
+                  "h": 1313
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1152,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898610245024313344"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@nhfoley @stewartbrand @EdgeEsmeralda That would be such a win. Absolutely obsessed and see so many similarities from future of cities to inflated plastic greenhouses (aka indoor jungles). https://t.co/oww8ddwOKV",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "623741630",
+      "id_str": "1898610248761385253",
+      "url": "https://x.com/JanineLeger/status/1898610248761385253",
+      "views_count": "59",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Jul 01 13:24:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @joinedgecity and Zuzalu, Emergent Ventures grantee, previously @gitcoin PGF, Social innovation #1 hobby, grounded in fun & adventure",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3958,
+        "followers_count": 2406,
+        "friends_count": 1379,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 46,
+        "location": "Austin, TX",
+        "media_count": 69,
+        "name": "Janine Leger",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623741630/1715187306",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486850554810798082/91gElLQX_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JanineLeger",
+        "statuses_count": 1325,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sun Mar 09 05:19:36 +0000 2025",
+      "conversation_id_str": "1898604559926190528",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/VM2FwnqndW",
+            "expanded_url": "https://x.com/JanineLeger/status/1898604559926190528/photo/1",
+            "id_str": "1898604555216056320",
+            "indices": [
+              109,
+              132
+            ],
+            "media_key": "3_1898604555216056320",
+            "media_url_https": "https://pbs.twimg.com/media/GlkyyKKXcAA1_TQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/VM2FwnqndW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 16,
+                    "y": 1488,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 466,
+                    "y": 188,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 110,
+                    "y": 508,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 418,
+                    "y": 140,
+                    "h": 426,
+                    "w": 426
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 9,
+                    "y": 871,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 273,
+                    "y": 110,
+                    "h": 63,
+                    "w": 63
+                  },
+                  {
+                    "x": 64,
+                    "y": 297,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 244,
+                    "y": 82,
+                    "h": 249,
+                    "w": 249
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 5,
+                    "y": 494,
+                    "h": 27,
+                    "w": 27
+                  },
+                  {
+                    "x": 154,
+                    "y": 62,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 36,
+                    "y": 168,
+                    "h": 65,
+                    "w": 65
+                  },
+                  {
+                    "x": 138,
+                    "y": 46,
+                    "h": 141,
+                    "w": 141
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 16,
+                    "y": 1488,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 466,
+                    "y": 188,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 110,
+                    "y": 508,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 418,
+                    "y": 140,
+                    "h": 426,
+                    "w": 426
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898604555216056320"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/VM2FwnqndW",
+            "expanded_url": "https://x.com/JanineLeger/status/1898604559926190528/photo/1",
+            "id_str": "1898604555211882496",
+            "indices": [
+              109,
+              132
+            ],
+            "media_key": "3_1898604555211882496",
+            "media_url_https": "https://pbs.twimg.com/media/GlkyyKJXwAApOuf.jpg",
+            "type": "photo",
+            "url": "https://t.co/VM2FwnqndW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 216,
+                    "y": 374,
+                    "h": 118,
+                    "w": 118
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 126,
+                    "y": 219,
+                    "h": 69,
+                    "w": 69
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 71,
+                    "y": 124,
+                    "h": 39,
+                    "w": 39
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 216,
+                    "y": 374,
+                    "h": 118,
+                    "w": 118
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898604555211882496"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/VM2FwnqndW",
+            "expanded_url": "https://x.com/JanineLeger/status/1898604559926190528/photo/1",
+            "id_str": "1898604555216056320",
+            "indices": [
+              109,
+              132
+            ],
+            "media_key": "3_1898604555216056320",
+            "media_url_https": "https://pbs.twimg.com/media/GlkyyKKXcAA1_TQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/VM2FwnqndW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 16,
+                    "y": 1488,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 466,
+                    "y": 188,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 110,
+                    "y": 508,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 418,
+                    "y": 140,
+                    "h": 426,
+                    "w": 426
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 9,
+                    "y": 871,
+                    "h": 48,
+                    "w": 48
+                  },
+                  {
+                    "x": 273,
+                    "y": 110,
+                    "h": 63,
+                    "w": 63
+                  },
+                  {
+                    "x": 64,
+                    "y": 297,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 244,
+                    "y": 82,
+                    "h": 249,
+                    "w": 249
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 5,
+                    "y": 494,
+                    "h": 27,
+                    "w": 27
+                  },
+                  {
+                    "x": 154,
+                    "y": 62,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 36,
+                    "y": 168,
+                    "h": 65,
+                    "w": 65
+                  },
+                  {
+                    "x": 138,
+                    "y": 46,
+                    "h": 141,
+                    "w": 141
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 16,
+                    "y": 1488,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 466,
+                    "y": 188,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 110,
+                    "y": 508,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 418,
+                    "y": 140,
+                    "h": 426,
+                    "w": 426
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898604555216056320"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/VM2FwnqndW",
+            "expanded_url": "https://x.com/JanineLeger/status/1898604559926190528/photo/1",
+            "id_str": "1898604555211882496",
+            "indices": [
+              109,
+              132
+            ],
+            "media_key": "3_1898604555211882496",
+            "media_url_https": "https://pbs.twimg.com/media/GlkyyKJXwAApOuf.jpg",
+            "type": "photo",
+            "url": "https://t.co/VM2FwnqndW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 216,
+                    "y": 374,
+                    "h": 118,
+                    "w": 118
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 126,
+                    "y": 219,
+                    "h": 69,
+                    "w": 69
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 71,
+                    "y": 124,
+                    "h": 39,
+                    "w": 39
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 216,
+                    "y": 374,
+                    "h": 118,
+                    "w": 118
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898604555211882496"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "Obsessed with going through the whole earth catalog. Who is building the new generation of this masterpiece? https://t.co/VM2FwnqndW",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "623741630",
+      "id_str": "1898604559926190528",
+      "url": "https://x.com/JanineLeger/status/1898604559926190528",
+      "views_count": "383",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Jul 01 13:24:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder @joinedgecity and Zuzalu, Emergent Ventures grantee, previously @gitcoin PGF, Social innovation #1 hobby, grounded in fun & adventure",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3958,
+        "followers_count": 2406,
+        "friends_count": 1379,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 46,
+        "location": "Austin, TX",
+        "media_count": 69,
+        "name": "Janine Leger",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623741630/1715187306",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486850554810798082/91gElLQX_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JanineLeger",
+        "statuses_count": 1325,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0
+    ],
+    "2025-03-12": [
+      1
+    ],
+    "2025-03-11": [
+      2,
+      3
+    ],
+    "2025-03-10": [
+      4
+    ],
+    "2025-03-09": [
+      5,
+      6
+    ]
+  }
+}

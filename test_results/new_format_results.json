@@ -1,0 +1,519 @@
+[
+  {
+    "bookmark_count": 10,
+    "created_at": "Thu Mar 13 17:09:49 +0000 2025",
+    "conversation_id_str": "1900232845194649787",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/FK05GmtPnk",
+          "expanded_url": "https://x.com/TimBeiko/status/1900232845194649787/photo/1",
+          "id_str": "1900232839356178434",
+          "indices": [
+            284,
+            307
+          ],
+          "media_key": "3_1900232839356178434",
+          "media_url_https": "https://pbs.twimg.com/media/Gl77sxRbYAIDXP5.jpg",
+          "type": "photo",
+          "url": "https://t.co/FK05GmtPnk",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 686,
+              "w": 1608,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 512,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 290,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 686,
+            "width": 1608,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1225,
+                "h": 686
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 686,
+                "h": 686
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 602,
+                "h": 686
+              },
+              {
+                "x": 109,
+                "y": 0,
+                "w": 343,
+                "h": 686
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1608,
+                "h": 686
+              }
+            ]
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900232839356178434"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/FK05GmtPnk",
+          "expanded_url": "https://x.com/TimBeiko/status/1900232845194649787/photo/1",
+          "id_str": "1900232839356178434",
+          "indices": [
+            284,
+            307
+          ],
+          "media_key": "3_1900232839356178434",
+          "media_url_https": "https://pbs.twimg.com/media/Gl77sxRbYAIDXP5.jpg",
+          "type": "photo",
+          "url": "https://t.co/FK05GmtPnk",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 686,
+              "w": 1608,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 512,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 290,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 686,
+            "width": 1608,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1225,
+                "h": 686
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 686,
+                "h": 686
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 602,
+                "h": 686
+              },
+              {
+                "x": 109,
+                "y": 0,
+                "w": 343,
+                "h": 686
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1608,
+                "h": 686
+              }
+            ]
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900232839356178434"
+            }
+          }
+        }
+      ]
+    },
+    "favorite_count": 160,
+    "favorited": false,
+    "full_text": "ACDE Recap\n\nA new testnet, Hoodi, is going live Monday to wrap up Pectra testing, if you need to test validator exits, be on the lookout for it! Everything else can be tested on Sepolia & Holesky. \n\nPectra will be scheduled 30+ days after Hoodi forks successfully,  pending infra and client testing. \n\nFusaka planning will run in parallel, with a deadline of March 24 to propose EIPs, and a tentative date of April 10 for a scope freeze 🫡\n\nFull recap on @EthMagicians, link below 👇",
+    "is_quote_status": false,
+    "lang": "en",
+    "possibly_sensitive": false,
+    "possibly_sensitive_editable": true,
+    "quote_count": 12,
+    "reply_count": 18,
+    "retweet_count": 26,
+    "retweeted": false,
+    "user_id_str": "80722677",
+    "id_str": "1900232845194649787",
+    "url": "https://x.com/TimBeiko/status/1900232845194649787",
+    "views_count": "20310",
+    "user": {
+      "following": false,
+      "can_dm": true,
+      "can_media_tag": true,
+      "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "helping ethereum win",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tim.mirror.xyz",
+              "expanded_url": "http://tim.mirror.xyz",
+              "url": "https://t.co/CSiafQ7Uer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fast_followers_count": 0,
+      "favourites_count": 32103,
+      "followers_count": 137476,
+      "friends_count": 1002,
+      "has_custom_timelines": true,
+      "is_translator": false,
+      "listed_count": 1948,
+      "location": "🇨🇦",
+      "media_count": 880,
+      "name": "timbeiko.eth",
+      "normal_followers_count": 137476,
+      "pinned_tweet_ids_str": [
+        "1900232845194649787"
+      ],
+      "possibly_sensitive": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+      "profile_interstitial_type": "",
+      "screen_name": "TimBeiko",
+      "statuses_count": 19053,
+      "translator_type": "none",
+      "url": "https://t.co/CSiafQ7Uer",
+      "verified": false,
+      "want_retweets": false,
+      "withheld_in_countries": []
+    }
+  },
+  {
+    "bookmark_count": 2,
+    "created_at": "Fri Mar 07 21:10:27 +0000 2025",
+    "conversation_id_str": "1898119074145583153",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": null,
+    "favorite_count": 463,
+    "favorited": false,
+    "full_text": "ethereum will win.",
+    "is_quote_status": true,
+    "lang": "en",
+    "possibly_sensitive": null,
+    "possibly_sensitive_editable": null,
+    "quote_count": 3,
+    "reply_count": 19,
+    "retweet_count": 23,
+    "retweeted": false,
+    "user_id_str": "80722677",
+    "id_str": "1898119074145583153",
+    "url": "https://x.com/TimBeiko/status/1898119074145583153",
+    "views_count": "20866",
+    "user": {
+      "following": false,
+      "can_dm": true,
+      "can_media_tag": true,
+      "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "helping ethereum win",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tim.mirror.xyz",
+              "expanded_url": "http://tim.mirror.xyz",
+              "url": "https://t.co/CSiafQ7Uer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fast_followers_count": 0,
+      "favourites_count": 32103,
+      "followers_count": 137476,
+      "friends_count": 1002,
+      "has_custom_timelines": true,
+      "is_translator": false,
+      "listed_count": 1948,
+      "location": "🇨🇦",
+      "media_count": 880,
+      "name": "timbeiko.eth",
+      "normal_followers_count": 137476,
+      "pinned_tweet_ids_str": [
+        "1900232845194649787"
+      ],
+      "possibly_sensitive": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+      "profile_interstitial_type": "",
+      "screen_name": "TimBeiko",
+      "statuses_count": 19053,
+      "translator_type": "none",
+      "url": "https://t.co/CSiafQ7Uer",
+      "verified": false,
+      "want_retweets": false,
+      "withheld_in_countries": []
+    }
+  },
+  {
+    "bookmark_count": 21,
+    "created_at": "Fri Mar 07 16:34:25 +0000 2025",
+    "conversation_id_str": "1898049608279892001",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": null,
+    "favorite_count": 2722,
+    "favorited": false,
+    "full_text": "ethereum will win",
+    "is_quote_status": false,
+    "lang": "en",
+    "possibly_sensitive": null,
+    "possibly_sensitive_editable": null,
+    "quote_count": 93,
+    "reply_count": 349,
+    "retweet_count": 247,
+    "retweeted": false,
+    "user_id_str": "80722677",
+    "id_str": "1898049608279892001",
+    "url": "https://x.com/TimBeiko/status/1898049608279892001",
+    "views_count": "425211",
+    "user": {
+      "following": false,
+      "can_dm": true,
+      "can_media_tag": true,
+      "created_at": "Thu Oct 08 00:41:51 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "helping ethereum win",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tim.mirror.xyz",
+              "expanded_url": "http://tim.mirror.xyz",
+              "url": "https://t.co/CSiafQ7Uer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fast_followers_count": 0,
+      "favourites_count": 32103,
+      "followers_count": 137476,
+      "friends_count": 1002,
+      "has_custom_timelines": true,
+      "is_translator": false,
+      "listed_count": 1948,
+      "location": "🇨🇦",
+      "media_count": 880,
+      "name": "timbeiko.eth",
+      "normal_followers_count": 137476,
+      "pinned_tweet_ids_str": [
+        "1900232845194649787"
+      ],
+      "possibly_sensitive": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+      "profile_interstitial_type": "",
+      "screen_name": "TimBeiko",
+      "statuses_count": 19053,
+      "translator_type": "none",
+      "url": "https://t.co/CSiafQ7Uer",
+      "verified": false,
+      "want_retweets": false,
+      "withheld_in_countries": []
+    }
+  },
+  {
+    "bookmark_count": 12,
+    "created_at": "Fri Mar 07 05:59:30 +0000 2025",
+    "conversation_id_str": "1897889827963425253",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": null,
+    "favorite_count": 424,
+    "favorited": false,
+    "full_text": "Move online. Use Web3.",
+    "is_quote_status": true,
+    "lang": "en",
+    "possibly_sensitive": null,
+    "possibly_sensitive_editable": null,
+    "quote_count": 6,
+    "reply_count": 32,
+    "retweet_count": 64,
+    "retweeted": false,
+    "user_id_str": "33962758",
+    "id_str": "1897889827963425253",
+    "url": "https://x.com/gavofyork/status/1897889827963425253",
+    "views_count": "28383",
+    "user": {
+      "following": false,
+      "can_dm": false,
+      "can_media_tag": true,
+      "created_at": "Tue Apr 21 16:55:10 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Founded Polkadot, Kusama, Ethereum, Parity, Web3 Foundation. Building Polkadot. All things Web 3.0",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "gavwood.com",
+              "expanded_url": "http://gavwood.com",
+              "url": "https://t.co/Krat6tKuFj",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fast_followers_count": 0,
+      "favourites_count": 1944,
+      "followers_count": 434772,
+      "friends_count": 169,
+      "has_custom_timelines": false,
+      "is_translator": false,
+      "listed_count": 4513,
+      "location": "Zurich, Switzerland",
+      "media_count": 121,
+      "name": "Gavin Wood",
+      "normal_followers_count": 434772,
+      "pinned_tweet_ids_str": [
+        "1871595404355354727"
+      ],
+      "possibly_sensitive": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33962758/1443792478",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/981390758870683656/RxA_8cyN_normal.jpg",
+      "profile_interstitial_type": "",
+      "screen_name": "gavofyork",
+      "statuses_count": 1240,
+      "translator_type": "none",
+      "url": "https://t.co/Krat6tKuFj",
+      "verified": false,
+      "want_retweets": false,
+      "withheld_in_countries": []
+    }
+  }
+]

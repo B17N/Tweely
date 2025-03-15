@@ -1,0 +1,128 @@
+{
+  "username": "toadie",
+  "analyzedAt": "2025-03-15T18:28:43.860Z",
+  "tweetCount": 17,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 22:43:34 +0000 2025",
+    "latestTweet": "Fri Mar 14 06:54:19 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @toadie and provide a summary of what they mainly talked about in the past week:\n\n@materkel 17hrs 😱\n\n@nickwh8te @JasonYanowitz @MikeIppolito_ https://t.co/C0matrFjlP\n\n@toghrulmaharram Classic @Blockworks_ garbage\n\n@lemiscate I hate to break it to you but a 2.5% yield on an asset that is down 60% in a year is…. Not attractive to investors\n\n@hedge__x Please stop\n\n@Ethprofit Please stop\n\n@StockSavvyShay @finchat_io Law of large numbers \n\nFFS\n\n@econoar Is this the trump pump you were promising?\n\n@AdrianGalaviz5 Yep \n\nYou’re never wrong if you predict both 👌\n\nClassic grift\n\n@bioprotocol Are you based on solana?\n\nhttps://t.co/32suTXrHmb\n\nOk mate, whatever you say 🤣\n\n@StockSavvyShay Bro \n\nYou literally called the “roaring 20s” like a month ago\n\n@StockSavvyShay The “being run by a Nazi” rhetoric is spot on\n\nDon’t support Nazis\n\n@MiranaSwan @Tetranode @adamscochran https://t.co/kPV4PeJnh4\n\n@mvcinvesting Is nebius making any money yet? \nWhat’s the gross margin?\n\n@Starlink Corrupt Nazis\n\n@sassal0x This one’s for you @Austin_Federa"
+  },
+  "summary": "The tweets from @toadie in the past week mainly cover topics related to investments, crypto, yield percentages, financial predictions, criticisms of certain content or individuals, and references to Nazis. There are mentions of specific Twitter users, discussions on asset yields and profitability, skepticism towards financial claims, and a mix of humor and criticism. There are also references to Solana, the \"roaring 20s\" prediction, and questions about financial margins. The sentiment seems to lean towards skepticism, criticism, and humor.",
+  "keyTopics": [
+    "There",
+    "Twitter",
+    "Solana,"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900440337946206388",
+      "createdAt": "Fri Mar 14 06:54:19 +0000 2025",
+      "text": "@materkel 17hrs 😱"
+    },
+    {
+      "index": 1,
+      "id": "1900418845355163993",
+      "createdAt": "Fri Mar 14 05:28:55 +0000 2025",
+      "text": "@nickwh8te @JasonYanowitz @MikeIppolito_ https://t.co/C0matrFjlP"
+    },
+    {
+      "index": 2,
+      "id": "1899953348318814533",
+      "createdAt": "Wed Mar 12 22:39:12 +0000 2025",
+      "text": "@toghrulmaharram Classic @Blockworks_ garbage"
+    },
+    {
+      "index": 3,
+      "id": "1899912924539609115",
+      "createdAt": "Wed Mar 12 19:58:34 +0000 2025",
+      "text": "@lemiscate I hate to break it to you but a 2.5% yield on an asset that is down 60% in a year is…. No..."
+    },
+    {
+      "index": 4,
+      "id": "1899543623047557399",
+      "createdAt": "Tue Mar 11 19:31:06 +0000 2025",
+      "text": "@hedge__x Please stop"
+    },
+    {
+      "index": 5,
+      "id": "1899420425676869806",
+      "createdAt": "Tue Mar 11 11:21:33 +0000 2025",
+      "text": "@Ethprofit Please stop"
+    },
+    {
+      "index": 6,
+      "id": "1899391187838259454",
+      "createdAt": "Tue Mar 11 09:25:22 +0000 2025",
+      "text": "@StockSavvyShay @finchat_io Law of large numbers \n\nFFS"
+    },
+    {
+      "index": 7,
+      "id": "1899388868455174299",
+      "createdAt": "Tue Mar 11 09:16:09 +0000 2025",
+      "text": "@econoar Is this the trump pump you were promising?"
+    },
+    {
+      "index": 8,
+      "id": "1899386395770425742",
+      "createdAt": "Tue Mar 11 09:06:20 +0000 2025",
+      "text": "@AdrianGalaviz5 Yep \n\nYou’re never wrong if you predict both 👌\n\nClassic grift"
+    },
+    {
+      "index": 9,
+      "id": "1899385992379077059",
+      "createdAt": "Tue Mar 11 09:04:44 +0000 2025",
+      "text": "@bioprotocol Are you based on solana?"
+    },
+    {
+      "index": 10,
+      "id": "1899373851190112374",
+      "createdAt": "Tue Mar 11 08:16:29 +0000 2025",
+      "text": "https://t.co/32suTXrHmb\n\nOk mate, whatever you say 🤣"
+    },
+    {
+      "index": 11,
+      "id": "1899373371374109109",
+      "createdAt": "Tue Mar 11 08:14:35 +0000 2025",
+      "text": "@StockSavvyShay Bro \n\nYou literally called the “roaring 20s” like a month ago"
+    },
+    {
+      "index": 12,
+      "id": "1899371410730213839",
+      "createdAt": "Tue Mar 11 08:06:47 +0000 2025",
+      "text": "@StockSavvyShay The “being run by a Nazi” rhetoric is spot on\n\nDon’t support Nazis"
+    },
+    {
+      "index": 13,
+      "id": "1899368183179722997",
+      "createdAt": "Tue Mar 11 07:53:58 +0000 2025",
+      "text": "@MiranaSwan @Tetranode @adamscochran https://t.co/kPV4PeJnh4"
+    },
+    {
+      "index": 14,
+      "id": "1899232081290633698",
+      "createdAt": "Mon Mar 10 22:53:08 +0000 2025",
+      "text": "@mvcinvesting Is nebius making any money yet? \nWhat’s the gross margin?"
+    },
+    {
+      "index": 15,
+      "id": "1899231423804162276",
+      "createdAt": "Mon Mar 10 22:50:32 +0000 2025",
+      "text": "@Starlink Corrupt Nazis"
+    },
+    {
+      "index": 16,
+      "id": "1899229672392790289",
+      "createdAt": "Mon Mar 10 22:43:34 +0000 2025",
+      "text": "@sassal0x This one’s for you @Austin_Federa"
+    }
+  ]
+}

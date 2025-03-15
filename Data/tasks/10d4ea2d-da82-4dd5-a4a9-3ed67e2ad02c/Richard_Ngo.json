@@ -1,0 +1,2250 @@
+{
+  "username": "Richard Ngo",
+  "fetchedAt": "2025-03-15T16:01:50.828Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 14 19:58:36 +0000 2025",
+      "conversation_id_str": "1900199027041263856",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1460283925",
+            "name": "roon",
+            "screen_name": "tszzl",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "79571866",
+            "name": "Shakeel",
+            "screen_name": "ShakeelHashim",
+            "indices": [
+              7,
+              21
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@tszzl @ShakeelHashim honestly I think \"different views\" is actually a bit too charitable. the default for people who self-select into PR-type work is to optimize for influence without even trying to have consistent object-level beliefs (especially about big \"sci-fi\" topics like AGI)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1900637708672004268",
+      "url": "https://x.com/RichardMCNgo/status/1900637708672004268",
+      "views_count": "232",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:52:31 +0000 2025",
+      "conversation_id_str": "1900259245502890017",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2742852547",
+            "name": "Axel",
+            "screen_name": "waltuuuhr",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@waltuuuhr I don't care that much about profiting from this.\n\nI'm mostly interested in someone tackling the editing + logistics + marketing.\n\nI could either hire someone to do this, or sign with a publisher. The latter seems like it'd work better if I can swing it.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1900273788107055492",
+      "url": "https://x.com/RichardMCNgo/status/1900273788107055492",
+      "views_count": "100",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:24:23 +0000 2025",
+      "conversation_id_str": "1900206204808298625",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "4052598077",
+            "name": "Jonatan Pallesen",
+            "screen_name": "jonatanpallesen",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "56166281",
+            "name": "Garett Jones",
+            "screen_name": "GarettJones",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "@jonatanpallesen @GarettJones idk I think it's actually pretty surprising and noteworthy. it broke my world-model a bit because I expected it to be, like, 5x lower than the rate of native Germans becoming doctors\n\nwonder if this is mostly a fact about western doctor training constraints?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1900266709870927887",
+      "url": "https://x.com/RichardMCNgo/status/1900266709870927887",
+      "views_count": "558",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 28,
+      "created_at": "Thu Mar 13 18:54:44 +0000 2025",
+      "conversation_id_str": "1900259245502890017",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "narrativeark.xyz",
+            "expanded_url": "http://narrativeark.xyz",
+            "url": "https://t.co/Nrz5v1uzAX",
+            "indices": [
+              157,
+              180
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "680373",
+            "name": "Hannu Rajaniemi",
+            "screen_name": "hannu",
+            "indices": [
+              232,
+              238
+            ]
+          },
+          {
+            "id_str": "5548212",
+            "name": "Andrew Mayne",
+            "screen_name": "AndrewMayne",
+            "indices": [
+              240,
+              252
+            ]
+          },
+          {
+            "id_str": "2281473800",
+            "name": "Tamara Winter",
+            "screen_name": "_TamaraWinter",
+            "indices": [
+              254,
+              268
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 42,
+      "favorited": false,
+      "full_text": "There are very few fiction writers who deeply understand AGI, which is why I'm excited about releasing my stories more widely.\n\nYou can read most of them at https://t.co/Nrz5v1uzAX (though I also have 6 I haven't released yet).\n\ncc @hannu, @AndrewMayne, @_TamaraWinter for leads.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 4,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1900259246786437441",
+      "url": "https://x.com/RichardMCNgo/status/1900259246786437441",
+      "views_count": "9871",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 31,
+      "created_at": "Thu Mar 13 18:54:43 +0000 2025",
+      "conversation_id_str": "1900259245502890017",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 135,
+      "favorited": false,
+      "full_text": "Over the last two years I've written about 30 sci-fi short stories, mostly about post-AGI futures.\n\nI'd now like to release some of these stories as a book.\n\nDM me if you can intro me to a publisher who might be interested, and/or might want to help me edit + self-publish them.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 7,
+      "retweet_count": 6,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1900259245502890017",
+      "url": "https://x.com/RichardMCNgo/status/1900259245502890017",
+      "views_count": "7054",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 15:27:00 +0000 2025",
+      "conversation_id_str": "1900206204808298625",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "56166281",
+            "name": "Garett Jones",
+            "screen_name": "GarettJones",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 46,
+      "favorited": false,
+      "full_text": "@GarettJones What’s 0.6% meant to imply? Is it a surprisingly low rate of becoming doctors?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1900206972236161112",
+      "url": "https://x.com/RichardMCNgo/status/1900206972236161112",
+      "views_count": "9792",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 22:28:06 +0000 2025",
+      "conversation_id_str": "1899884082185769319",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "18280363",
+            "name": "Tyler Alterman",
+            "screen_name": "TylerAlterman",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@TylerAlterman Consider coming to one of these (or helping host one)!",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1899950555298218436",
+      "url": "https://x.com/RichardMCNgo/status/1899950555298218436",
+      "views_count": "396",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:18:46 +0000 2025",
+      "conversation_id_str": "1899479035492638802",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3058058454",
+            "name": "Aria Babu",
+            "screen_name": "Aria_Babu",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 30,
+      "favorited": false,
+      "full_text": "@Aria_Babu list three dark EAs?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1899495221467242652",
+      "url": "https://x.com/RichardMCNgo/status/1899495221467242652",
+      "views_count": "1591",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Tue Mar 11 03:20:53 +0000 2025",
+      "conversation_id_str": "1899299460938936554",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "narrativeark.xyz/p/trojan-sky",
+            "expanded_url": "https://www.narrativeark.xyz/p/trojan-sky",
+            "url": "https://t.co/cajVfp9Qzw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "https://t.co/cajVfp9Qzw",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1899299463287763120",
+      "url": "https://x.com/RichardMCNgo/status/1899299463287763120",
+      "views_count": "2113",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 9,
+      "created_at": "Tue Mar 11 03:20:53 +0000 2025",
+      "conversation_id_str": "1899299460938936554",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/jZ8lj2w4LO",
+            "expanded_url": "https://x.com/RichardMCNgo/status/1899299460938936554/photo/1",
+            "id_str": "1899298028881887232",
+            "indices": [
+              100,
+              123
+            ],
+            "media_key": "3_1899298028881887232",
+            "media_url_https": "https://pbs.twimg.com/media/Glupfo4awAA3uBQ.png",
+            "type": "photo",
+            "url": "https://t.co/jZ8lj2w4LO",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 800,
+                "w": 800,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 800,
+                "w": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 800,
+              "width": 800,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 448
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 702,
+                  "h": 800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 400,
+                  "h": 800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 800
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899298028881887232"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "71057512",
+            "name": "qntm",
+            "screen_name": "qntm",
+            "indices": [
+              23,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/jZ8lj2w4LO",
+            "expanded_url": "https://x.com/RichardMCNgo/status/1899299460938936554/photo/1",
+            "id_str": "1899298028881887232",
+            "indices": [
+              100,
+              123
+            ],
+            "media_key": "3_1899298028881887232",
+            "media_url_https": "https://pbs.twimg.com/media/Glupfo4awAA3uBQ.png",
+            "type": "photo",
+            "url": "https://t.co/jZ8lj2w4LO",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 800,
+                "w": 800,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 800,
+                "w": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 800,
+              "width": 800,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 448
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 702,
+                  "h": 800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 400,
+                  "h": 800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 800
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899298028881887232"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 31,
+      "favorited": false,
+      "full_text": "New story, inspired by @qntm's Antimemetics Division and adversarial machine learning.\n\nLink below. https://t.co/jZ8lj2w4LO",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1899299460938936554",
+      "url": "https://x.com/RichardMCNgo/status/1899299460938936554",
+      "views_count": "5589",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Mon Mar 10 19:25:37 +0000 2025",
+      "conversation_id_str": "1897007509401166146",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "370323535",
+            "name": "Garrison Lovely",
+            "screen_name": "GarrisonLovely",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "568901138",
+            "name": "Judd Rosenblatt — d/acc",
+            "screen_name": "juddrosenblatt",
+            "indices": [
+              16,
+              31
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@GarrisonLovely @juddrosenblatt (To clarify, I think dismantling USAID in general significantly advances his political goals, but dismantling PEPFAR in particular doesn’t.)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1899179855604023668",
+      "url": "https://x.com/RichardMCNgo/status/1899179855604023668",
+      "views_count": "570",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:06:45 +0000 2025",
+      "conversation_id_str": "1897007509401166146",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "370323535",
+            "name": "Garrison Lovely",
+            "screen_name": "GarrisonLovely",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "568901138",
+            "name": "Judd Rosenblatt — d/acc",
+            "screen_name": "juddrosenblatt",
+            "indices": [
+              16,
+              31
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@GarrisonLovely @juddrosenblatt the structure of your argument is way off\n\nyou have gone from saying \"if he cares about safety why isn't he doing anything?\" to \"if he cares about safety why did he do this one particular thing I dislike?\"\n\nbut nobody's saying that *everything* he does is strategic",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1899175108683657237",
+      "url": "https://x.com/RichardMCNgo/status/1899175108683657237",
+      "views_count": "550",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 03:00:45 +0000 2025",
+      "conversation_id_str": "1898521600074608710",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3125968288",
+            "name": "Cate Hall",
+            "screen_name": "catehall",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "Oh, I think I misinterpreted your previous tweet - I thought you meant you were open to changing your mind in any specific case, but now it seems like you meant you’re open to changing your mind about your overall view on her.\n\nI don’t actually want to debate about AOC though, I left the comment because I thought you might reply with something that helped clarify where we disagree (like “yeah I think AOC is one of the most principled American politicians” or “no I actually think most politicians are principled”).",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898569619180540209",
+      "url": "https://x.com/RichardMCNgo/status/1898569619180540209",
+      "views_count": "1617",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 01:07:02 +0000 2025",
+      "conversation_id_str": "1898497560156983603",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2812348892",
+            "name": "Harlan Stewart",
+            "screen_name": "HumanHarlan",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@HumanHarlan On 1, because it is extremely hard to do stuff working only (or primarily) in a molecular-level ontology, it’s much more natural to focus on macroscopic concepts.\n\nOn 2, because there’s a lot of room between “smarter than humans” and “superintelligent”.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898541001582825697",
+      "url": "https://x.com/RichardMCNgo/status/1898541001582825697",
+      "views_count": "300",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 00:36:11 +0000 2025",
+      "conversation_id_str": "1898521600074608710",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3125968288",
+            "name": "Cate Hall",
+            "screen_name": "catehall",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 24,
+      "favorited": false,
+      "full_text": "@catehall in this case you call it your “operating model” which suggests you think it’s usually the right stance to take",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898533238504886504",
+      "url": "https://x.com/RichardMCNgo/status/1898533238504886504",
+      "views_count": "2377",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 08 23:54:44 +0000 2025",
+      "conversation_id_str": "1898521600074608710",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3125968288",
+            "name": "Cate Hall",
+            "screen_name": "catehall",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 161,
+      "favorited": false,
+      "full_text": "@catehall woah that’s a really bold assumption to make about *any* politician, let alone one who’s so good at PR + takes fairly extreme positions",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898522805106282637",
+      "url": "https://x.com/RichardMCNgo/status/1898522805106282637",
+      "views_count": "7721",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 23:02:37 +0000 2025",
+      "conversation_id_str": "1898497560156983603",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 19,
+      "favorited": false,
+      "full_text": "To be clear, my original tweet was only meant as an objection against one particular threat model - and not even the one most alignment researchers focus on.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898509692315549909",
+      "url": "https://x.com/RichardMCNgo/status/1898509692315549909",
+      "views_count": "4213",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 23:00:59 +0000 2025",
+      "conversation_id_str": "1898497560156983603",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "72998182",
+            "name": "James Miller",
+            "screen_name": "JimDMiller",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@JimDMiller Yeah I agree, I didn’t mean to include “fill the universe with compute” as an example of what I was describing in the original tweet.\n\nThe paperclip maximizer scenario was always about paperclip-like objects being terminally valued.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898509280359391428",
+      "url": "https://x.com/RichardMCNgo/status/1898509280359391428",
+      "views_count": "411",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 22:59:08 +0000 2025",
+      "conversation_id_str": "1898503573694304321",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1423560972959199235",
+            "name": "lumpenspace",
+            "screen_name": "lumpenspace",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "@lumpenspace Most alignment researchers don’t focus on the paper clipping threat model, they focus on disempowerment threat models (in a way which is fairly agnostic about what AIs will do with the world after gaining control of it).",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898508812946157647",
+      "url": "https://x.com/RichardMCNgo/status/1898508812946157647",
+      "views_count": "4822",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 13,
+      "created_at": "Sat Mar 08 22:14:25 +0000 2025",
+      "conversation_id_str": "1898497560156983603",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 71,
+      "favorited": false,
+      "full_text": "In other words: just as we’ll try to align AIs much smarter than us, so too will they try to align AIs much smarter than them.\n\nThe weak version of this claim is just that they’ll put effort into it, and they’ll likely do a better job than us. That by itself seems sufficient to make paperclip maximizers implausible.\n\nBut there’s also a strong version of the claim: if this is a recurring problem across generations, then sufficiently intelligent agents will identify protocols for cooperation which help solve it.\n\nIt’s inefficient for each generation to distrust its descendants. A universe in which all intelligences behave cooperatively towards the (much stupider and less coherent) agents which gave rise to them is a universe which reaps huge gains from trade across time.\n\nI don’t think this makes such cooperation inevitable, no more than the idea of war being irrational reliably prevents war. But it does suggest that we should be on the look out for protocols that apply even across big intelligence gaps, and try to instill them into our AIs.\n\nI recently gave a talk inspired by this idea, on the analogy between how humans should treat animals, how parents should treat children, and how AIs should treat us. Will upload in a few days. I also think that updateless decision theory is relevant here, as one of the few formal treatments of interactions between smart and dumb agents. Will say more about this in some forthcoming blog posts.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 12,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898497562526798003",
+      "url": "https://x.com/RichardMCNgo/status/1898497562526798003",
+      "views_count": "4271",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 37,
+      "created_at": "Sat Mar 08 22:14:25 +0000 2025",
+      "conversation_id_str": "1898497560156983603",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 229,
+      "favorited": false,
+      "full_text": "It seems unrealistic to me that a superintelligence will tile the universe with small-scale patterns (like paperclips).\n\nNot because it’s an alien goal from a human perspective.\n\nBut because it’s an alien goal from the perspective of its not-yet-superintelligent predecessor AIs.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 24,
+      "retweet_count": 7,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898497560156983603",
+      "url": "https://x.com/RichardMCNgo/status/1898497560156983603",
+      "views_count": "20414",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 07:11:32 +0000 2025",
+      "conversation_id_str": "1898162318846181378",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1258641441472909314",
+            "name": "Linch",
+            "screen_name": "LinchZhang",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@LinchZhang this is how liberalism works",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "85225861",
+      "id_str": "1898270342659162150",
+      "url": "https://x.com/RichardMCNgo/status/1898270342659162150",
+      "views_count": "648",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Mon Oct 26 03:10:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying AI and trust. ex @openai/@googledeepmind, now thinking in public.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindthefuture.info",
+                "expanded_url": "https://www.mindthefuture.info",
+                "url": "https://t.co/IlggW00wYP",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 51854,
+        "followers_count": 54446,
+        "friends_count": 1650,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 750,
+        "location": "San Francisco, CA",
+        "media_count": 528,
+        "name": "Richard Ngo",
+        "normal_followers_count": 54446,
+        "pinned_tweet_ids_str": [
+          "1813736754488439236"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85225861/1740009921",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "RichardMCNgo",
+        "statuses_count": 9983,
+        "translator_type": "none",
+        "url": "https://t.co/IlggW00wYP",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0
+    ],
+    "2025-03-13": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2025-03-12": [
+      6
+    ],
+    "2025-03-11": [
+      7,
+      8,
+      9
+    ],
+    "2025-03-10": [
+      10,
+      11
+    ],
+    "2025-03-09": [
+      12,
+      13,
+      14
+    ],
+    "2025-03-08": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  }
+}

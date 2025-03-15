@@ -1,0 +1,297 @@
+{
+  "username": "EIP Fun",
+  "fetchedAt": "2025-03-15T16:01:50.842Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 03:10:29 +0000 2025",
+      "conversation_id_str": "1899296845769347182",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/obDSKJH4UG",
+            "expanded_url": "https://x.com/EIPFun/status/1899296845769347182/photo/1",
+            "id_str": "1899296695432912896",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1899296695432912896",
+            "media_url_https": "https://pbs.twimg.com/media/GluoSBZaIAAFFxB.jpg",
+            "type": "photo",
+            "url": "https://t.co/obDSKJH4UG",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 800,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 453,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 183,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 272,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 351,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 592,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1280
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899296695432912896"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/obDSKJH4UG",
+            "expanded_url": "https://x.com/EIPFun/status/1899296845769347182/photo/1",
+            "id_str": "1899296695432912896",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1899296695432912896",
+            "media_url_https": "https://pbs.twimg.com/media/GluoSBZaIAAFFxB.jpg",
+            "type": "photo",
+            "url": "https://t.co/obDSKJH4UG",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 800,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 453,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 183,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 272,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 351,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 592,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1280
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899296695432912896"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "📰 EIP Fun Weekly #88: Social SBT, On-Chain Function Encoding, Gas Cost Repricing\n\nERC-7894: Introduces SocialSBT, a non-transferable ERC-721 token that assigns DAO voting power based on social contributions instead of wealth.\n\nEIP-7899: Introduces on-chain encoding for Solidity function return types, allowing contracts to dynamically determine return data structure for better interoperability.\n\nEIP-7901: Proposes adjusting Ethereum's gas costs to better reflect the computational effort required by smart contracts, rather than network-related costs.\n\nRead More: https://t.co/S5CaiZ1fN1",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1630710109713354753",
+      "id_str": "1899296845769347182",
+      "url": "https://x.com/EIPFun/status/1899296845769347182",
+      "views_count": "113",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Feb 28 23:22:57 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ethereum standards education & research | Serve Ethereum builders. Supported by @EthPanda_org, co-initiated @LXDAO_Official @PlanckerDAO. TG: https://t.co/0xrLbMYL1f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/eipfun",
+                "expanded_url": "http://t.me/eipfun",
+                "url": "https://t.co/0xrLbMYL1f",
+                "indices": [
+                  142,
+                  165
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eipfun.notion.site/EIP-Fun-d1e698…",
+                "expanded_url": "https://eipfun.notion.site/EIP-Fun-d1e6983d28904428808f09c14706d21c",
+                "url": "https://t.co/XtqRxLuH1p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1305,
+        "followers_count": 1841,
+        "friends_count": 755,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 33,
+        "location": "",
+        "media_count": 130,
+        "name": "EIP Fun",
+        "normal_followers_count": 1841,
+        "pinned_tweet_ids_str": [
+          "1851608985859940775"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630710109713354753/1693998418",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1656616144835575810/ka2sEAnc_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "EIPFun",
+        "statuses_count": 1136,
+        "translator_type": "none",
+        "url": "https://t.co/XtqRxLuH1p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-11": [
+      0
+    ]
+  }
+}

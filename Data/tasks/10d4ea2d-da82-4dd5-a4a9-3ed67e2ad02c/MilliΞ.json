@@ -1,0 +1,5690 @@
+{
+  "username": "MilliΞ",
+  "fetchedAt": "2025-03-15T15:55:31.343Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 15:50:53 +0000 2025",
+      "conversation_id_str": "1900937754525024608",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Keep building.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900937754525024608",
+      "url": "https://x.com/llamaonthebrink/status/1900937754525024608",
+      "views_count": "134",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 01:48:00 +0000 2025",
+      "conversation_id_str": "1900725639126118529",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2450032548",
+            "name": "GitBook",
+            "screen_name": "GitBookIO",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 25,
+      "favorited": false,
+      "full_text": "So @GitBookIO censored our docs because some bot farm mass reported it or something. I had to contact their support to get it back up.\n\nThen it happened again. And again.\n\nThe fragility of web2 services can't be overstated tbh.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 11,
+      "retweet_count": 5,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900725639126118529",
+      "url": "https://x.com/llamaonthebrink/status/1900725639126118529",
+      "views_count": "2161",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 20:08:29 +0000 2025",
+      "conversation_id_str": "1900573842386399350",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "796601",
+            "name": "Andrey 🦃 Petrov",
+            "screen_name": "shazow",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@shazow Just another pivot like when MEV didn’t exist on solony and now it’s the primary value prop of the chain..",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900640195533566159",
+      "url": "https://x.com/llamaonthebrink/status/1900640195533566159",
+      "views_count": "176",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:09:30 +0000 2025",
+      "conversation_id_str": "1900263736151080973",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1781287201902350336",
+            "name": "ethcoredevs.eth",
+            "screen_name": "ethcoredevs_",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@ethcoredevs_ 🫶",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900610252929687944",
+      "url": "https://x.com/llamaonthebrink/status/1900610252929687944",
+      "views_count": "30",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 17:19:27 +0000 2025",
+      "conversation_id_str": "1900594133195964840",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1769677302114258944",
+            "name": "Kai",
+            "screen_name": "YourKaiCrypto",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "1309886201944473600",
+            "name": "mert | helius.dev",
+            "screen_name": "0xMert_",
+            "indices": [
+              15,
+              23
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@YourKaiCrypto @0xMert_ be the liquidity you wish to see in the world",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900597659045396680",
+      "url": "https://x.com/llamaonthebrink/status/1900597659045396680",
+      "views_count": "78",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 17:18:35 +0000 2025",
+      "conversation_id_str": "1900594133195964840",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/cOx0DCq6mH",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1900597441059021103/photo/1",
+            "id_str": "1900597435786739712",
+            "indices": [
+              9,
+              32
+            ],
+            "media_key": "3_1900597435786739712",
+            "media_url_https": "https://pbs.twimg.com/media/GmBHTE0WQAAsW47.png",
+            "type": "photo",
+            "url": "https://t.co/cOx0DCq6mH",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 511,
+                    "y": 44,
+                    "h": 85,
+                    "w": 85
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 511,
+                    "y": 44,
+                    "h": 85,
+                    "w": 85
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 434,
+                    "y": 37,
+                    "h": 72,
+                    "w": 72
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 511,
+                    "y": 44,
+                    "h": 85,
+                    "w": 85
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 450,
+                "w": 800,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 450,
+                "w": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 450,
+              "width": 800,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 448
+                },
+                {
+                  "x": 350,
+                  "y": 0,
+                  "w": 450,
+                  "h": 450
+                },
+                {
+                  "x": 383,
+                  "y": 0,
+                  "w": 395,
+                  "h": 450
+                },
+                {
+                  "x": 468,
+                  "y": 0,
+                  "w": 225,
+                  "h": 450
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 450
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900597435786739712"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1309886201944473600",
+            "name": "mert | helius.dev",
+            "screen_name": "0xMert_",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/cOx0DCq6mH",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1900597441059021103/photo/1",
+            "id_str": "1900597435786739712",
+            "indices": [
+              9,
+              32
+            ],
+            "media_key": "3_1900597435786739712",
+            "media_url_https": "https://pbs.twimg.com/media/GmBHTE0WQAAsW47.png",
+            "type": "photo",
+            "url": "https://t.co/cOx0DCq6mH",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 511,
+                    "y": 44,
+                    "h": 85,
+                    "w": 85
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 511,
+                    "y": 44,
+                    "h": 85,
+                    "w": 85
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 434,
+                    "y": 37,
+                    "h": 72,
+                    "w": 72
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 511,
+                    "y": 44,
+                    "h": 85,
+                    "w": 85
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 450,
+                "w": 800,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 450,
+                "w": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 450,
+              "width": 800,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 448
+                },
+                {
+                  "x": 350,
+                  "y": 0,
+                  "w": 450,
+                  "h": 450
+                },
+                {
+                  "x": 383,
+                  "y": 0,
+                  "w": 395,
+                  "h": 450
+                },
+                {
+                  "x": 468,
+                  "y": 0,
+                  "w": 225,
+                  "h": 450
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 800,
+                  "h": 450
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900597435786739712"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@0xMert_ https://t.co/cOx0DCq6mH",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900597441059021103",
+      "url": "https://x.com/llamaonthebrink/status/1900597441059021103",
+      "views_count": "255",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 17:15:18 +0000 2025",
+      "conversation_id_str": "1900594133195964840",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/foALJdDWqU",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1900596612218396971/photo/1",
+            "id_str": "1900596516592439297",
+            "indices": [
+              39,
+              62
+            ],
+            "media_key": "3_1900596516592439297",
+            "media_url_https": "https://pbs.twimg.com/media/GmBGdkjWUAEPj0j.png",
+            "type": "photo",
+            "url": "https://t.co/foALJdDWqU",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 176,
+                "w": 406,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 176,
+                "w": 406,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 176,
+                "w": 406,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 176,
+              "width": 406,
+              "focus_rects": [
+                {
+                  "x": 92,
+                  "y": 0,
+                  "w": 314,
+                  "h": 176
+                },
+                {
+                  "x": 226,
+                  "y": 0,
+                  "w": 176,
+                  "h": 176
+                },
+                {
+                  "x": 237,
+                  "y": 0,
+                  "w": 154,
+                  "h": 176
+                },
+                {
+                  "x": 270,
+                  "y": 0,
+                  "w": 88,
+                  "h": 176
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 406,
+                  "h": 176
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900596516592439297"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "app.truemarkets.org/en/market/0x9f…",
+            "expanded_url": "https://app.truemarkets.org/en/market/0x9f15e668cfe135f1ddf9c15cb2aefe9c04a79e70",
+            "url": "https://t.co/tsARWncFMv",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1309886201944473600",
+            "name": "mert | helius.dev",
+            "screen_name": "0xMert_",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/foALJdDWqU",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1900596612218396971/photo/1",
+            "id_str": "1900596516592439297",
+            "indices": [
+              39,
+              62
+            ],
+            "media_key": "3_1900596516592439297",
+            "media_url_https": "https://pbs.twimg.com/media/GmBGdkjWUAEPj0j.png",
+            "type": "photo",
+            "url": "https://t.co/foALJdDWqU",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 176,
+                "w": 406,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 176,
+                "w": 406,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 176,
+                "w": 406,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 176,
+              "width": 406,
+              "focus_rects": [
+                {
+                  "x": 92,
+                  "y": 0,
+                  "w": 314,
+                  "h": 176
+                },
+                {
+                  "x": 226,
+                  "y": 0,
+                  "w": 176,
+                  "h": 176
+                },
+                {
+                  "x": 237,
+                  "y": 0,
+                  "w": 154,
+                  "h": 176
+                },
+                {
+                  "x": 270,
+                  "y": 0,
+                  "w": 88,
+                  "h": 176
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 406,
+                  "h": 176
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900596516592439297"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "@0xMert_ ayo?\n\nhttps://t.co/tsARWncFMv https://t.co/foALJdDWqU",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900596612218396971",
+      "url": "https://x.com/llamaonthebrink/status/1900596612218396971",
+      "views_count": "2156",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 16:23:47 +0000 2025",
+      "conversation_id_str": "1900583598861983811",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "app.truemarkets.org/en/market/0xc8…",
+            "expanded_url": "https://app.truemarkets.org/en/market/0xc83ae325b66ca2a4715cd4ef396dde03450be63b",
+            "url": "https://t.co/IG23KNsSxb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "https://t.co/IG23KNsSxb",
+      "is_quote_status": false,
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900583649591848985",
+      "url": "https://x.com/llamaonthebrink/status/1900583649591848985",
+      "views_count": "501",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 16:23:35 +0000 2025",
+      "conversation_id_str": "1900583598861983811",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/24w8GQ8IVn",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1900583598861983811/photo/1",
+            "id_str": "1900583199454961665",
+            "indices": [
+              100,
+              123
+            ],
+            "media_key": "3_1900583199454961665",
+            "media_url_https": "https://pbs.twimg.com/media/GmA6WaWWoAEBGcM.png",
+            "type": "photo",
+            "url": "https://t.co/24w8GQ8IVn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 171,
+                "w": 414,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 171,
+                "w": 414,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 171,
+                "w": 414,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 171,
+              "width": 414,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 305,
+                  "h": 171
+                },
+                {
+                  "x": 49,
+                  "y": 0,
+                  "w": 171,
+                  "h": 171
+                },
+                {
+                  "x": 59,
+                  "y": 0,
+                  "w": 150,
+                  "h": 171
+                },
+                {
+                  "x": 91,
+                  "y": 0,
+                  "w": 86,
+                  "h": 171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 414,
+                  "h": 171
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900583199454961665"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/24w8GQ8IVn",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1900583598861983811/photo/1",
+            "id_str": "1900583199454961665",
+            "indices": [
+              100,
+              123
+            ],
+            "media_key": "3_1900583199454961665",
+            "media_url_https": "https://pbs.twimg.com/media/GmA6WaWWoAEBGcM.png",
+            "type": "photo",
+            "url": "https://t.co/24w8GQ8IVn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 171,
+                "w": 414,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 171,
+                "w": 414,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 171,
+                "w": 414,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 171,
+              "width": 414,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 305,
+                  "h": 171
+                },
+                {
+                  "x": 49,
+                  "y": 0,
+                  "w": 171,
+                  "h": 171
+                },
+                {
+                  "x": 59,
+                  "y": 0,
+                  "w": 150,
+                  "h": 171
+                },
+                {
+                  "x": 91,
+                  "y": 0,
+                  "w": 86,
+                  "h": 171
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 414,
+                  "h": 171
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900583199454961665"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 32,
+      "favorited": false,
+      "full_text": "New Market Alert!\n\nWill Russia agree to a ceasefire before Easter?\n\nLink to market in the replies 👇",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900583598861983811",
+      "url": "https://x.com/llamaonthebrink/status/1900583598861983811",
+      "views_count": "1717",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 16:17:26 +0000 2025",
+      "conversation_id_str": "1900573842386399350",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1364317541989036032",
+            "name": "arixon.eth",
+            "screen_name": "arixoneth",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "@arixoneth yeah their only options would be to extract more or exit\n\nalso bandwidth costs have to be pretty non-trivial even if they are using data centres for cheap hardware",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900582048466620866",
+      "url": "https://x.com/llamaonthebrink/status/1900582048466620866",
+      "views_count": "328",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 10,
+      "created_at": "Fri Mar 14 15:44:49 +0000 2025",
+      "conversation_id_str": "1900573842386399350",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 127,
+      "favorited": false,
+      "full_text": "Seeing a lot of misunderstandings about this SIMD.\n\nThe reason it was rejected was because validators made the right economic choice.\n\nAbsent SOL emissions, these validators would need to begin extracting a lot more  in order to be profitable, or simply operate at a loss.\n\nWhat we saw as a result of SIMD is that no matter how much IBRL is spammed on the timeline, the economics of running a validator can’t be ignored.\n\nThe cost to validate on sol is very very high. The cost to even run a full node is very very high.\n\nThat means you can’t just do minimal viable issuance like ethereum wants to, because on eth, validators have very modest hardware and bandwidth requirements, they do not operate at a loss the same way other chains do.\n\nEthereum also doesn’t have massive foundation based subsidies for validators either, these validators validate because it is profitable to do so!\n\nPpl often forget how mature and sound Ethereum’s are economics are, but you can be quickly reminded by just looking under the hood of other chains.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 10,
+      "retweet_count": 14,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900573842386399350",
+      "url": "https://x.com/llamaonthebrink/status/1900573842386399350",
+      "views_count": "12335",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Fri Mar 14 15:33:17 +0000 2025",
+      "conversation_id_str": "1900463186299465993",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "903421542930853888",
+            "name": "Kazuya",
+            "screen_name": "Kazuya_888",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 31,
+      "favorited": false,
+      "full_text": ">“but to do this we just need to extract less from the actual users/retail of the chain -- let's do what is best and grow the pie together, yay or nay?”\n\nYou read this wrong, it’s literally the opposite.\n\nThis SIMD would mean that the only way validators could sustain is by extracting MEV. They would literally need to extract more to make up for it.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900570939164692738",
+      "url": "https://x.com/llamaonthebrink/status/1900570939164692738",
+      "views_count": "14434",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 22:54:14 +0000 2025",
+      "conversation_id_str": "1900306351823479282",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1461504509151268867",
+            "name": "MouseDev",
+            "screen_name": "_MouseDev",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "1403263643937128450",
+            "name": "thelema",
+            "screen_name": "networkspirits",
+            "indices": [
+              11,
+              26
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@_MouseDev @networkspirits &lt;3",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900319521321136335",
+      "url": "https://x.com/llamaonthebrink/status/1900319521321136335",
+      "views_count": "26",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:12:34 +0000 2025",
+      "conversation_id_str": "1900263736151080973",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 63,
+      "favorited": false,
+      "full_text": "This may not seem like much, but it means a lot to our team.\n\nTo the first of many thousands more to come 🫡",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 10,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900263736151080973",
+      "url": "https://x.com/llamaonthebrink/status/1900263736151080973",
+      "views_count": "3340",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 18:33:39 +0000 2025",
+      "conversation_id_str": "1900253940966678926",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 17,
+      "favorited": false,
+      "full_text": "For real though all L1 designs eventually converge on the rollup-centric roadmap, just in different form factors.\n\nThrough that lens it's almost intuitive that the chain which acknowledges and build towards that reality is the one that's best positioned long term.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900253940966678926",
+      "url": "https://x.com/llamaonthebrink/status/1900253940966678926",
+      "views_count": "1298",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 18:04:07 +0000 2025",
+      "conversation_id_str": "1900246511897723056",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "Rollups with small quorum or single sequencer designs were right. \n\nIykyk.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900246511897723056",
+      "url": "https://x.com/llamaonthebrink/status/1900246511897723056",
+      "views_count": "2950",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 17:13:02 +0000 2025",
+      "conversation_id_str": "1900020806832578890",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1508684893353435137",
+            "name": "Viro ꙰",
+            "screen_name": "virotechnics",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@virotechnics is this real lol",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900233653969445236",
+      "url": "https://x.com/llamaonthebrink/status/1900233653969445236",
+      "views_count": "2105",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 16:57:18 +0000 2025",
+      "conversation_id_str": "1900228966113288499",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1705476598915604480",
+            "name": "Kira Sama",
+            "screen_name": "Kira_sama",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "1107518478",
+            "name": "Yano 🟪",
+            "screen_name": "JasonYanowitz",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Kira_sama @JasonYanowitz nah",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900229695632810156",
+      "url": "https://x.com/llamaonthebrink/status/1900229695632810156",
+      "views_count": "400",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Thu Mar 13 16:54:24 +0000 2025",
+      "conversation_id_str": "1900228966113288499",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 239,
+      "favorited": false,
+      "full_text": "Guy(s) who's entire persona and success comes from easy access to seed round deals has an opinion about ETH sentiment. \n\n(Many such cases on the timeline rn)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 12,
+      "retweet_count": 9,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1900228966113288499",
+      "url": "https://x.com/llamaonthebrink/status/1900228966113288499",
+      "views_count": "9364",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 19:43:56 +0000 2025",
+      "conversation_id_str": "1899896502157459900",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/lPR10KDME4",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1899909243056029971/photo/1",
+            "id_str": "1899909236580061184",
+            "indices": [
+              50,
+              73
+            ],
+            "media_key": "3_1899909236580061184",
+            "media_url_https": "https://pbs.twimg.com/media/Gl3VYm_WkAA3NcC.png",
+            "type": "photo",
+            "url": "https://t.co/lPR10KDME4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 512,
+              "width": 512,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 287
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                },
+                {
+                  "x": 63,
+                  "y": 0,
+                  "w": 449,
+                  "h": 512
+                },
+                {
+                  "x": 166,
+                  "y": 0,
+                  "w": 256,
+                  "h": 512
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899909236580061184"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "190634593",
+            "name": "lito",
+            "screen_name": "litocoen",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1461735251412193281",
+            "name": "mteam.eth 🗼",
+            "screen_name": "mteamisloading",
+            "indices": [
+              10,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/lPR10KDME4",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1899909243056029971/photo/1",
+            "id_str": "1899909236580061184",
+            "indices": [
+              50,
+              73
+            ],
+            "media_key": "3_1899909236580061184",
+            "media_url_https": "https://pbs.twimg.com/media/Gl3VYm_WkAA3NcC.png",
+            "type": "photo",
+            "url": "https://t.co/lPR10KDME4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 235,
+                    "y": 214,
+                    "h": 222,
+                    "w": 222
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 512,
+              "width": 512,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 287
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                },
+                {
+                  "x": 63,
+                  "y": 0,
+                  "w": 449,
+                  "h": 512
+                },
+                {
+                  "x": 166,
+                  "y": 0,
+                  "w": 256,
+                  "h": 512
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899909236580061184"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@litocoen @mteamisloading chads, the both of you. https://t.co/lPR10KDME4",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899909243056029971",
+      "url": "https://x.com/llamaonthebrink/status/1899909243056029971",
+      "views_count": "207",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 16:57:15 +0000 2025",
+      "conversation_id_str": "1899865342396231732",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/BuBXjNbPtu",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1899867295419425268/photo/1",
+            "id_str": "1899867282358013952",
+            "indices": [
+              48,
+              71
+            ],
+            "media_key": "3_1899867282358013952",
+            "media_url_https": "https://pbs.twimg.com/media/Gl2vOjVWEAApoif.png",
+            "type": "photo",
+            "url": "https://t.co/BuBXjNbPtu",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 512,
+              "width": 512,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 125,
+                  "w": 512,
+                  "h": 287
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                },
+                {
+                  "x": 19,
+                  "y": 0,
+                  "w": 449,
+                  "h": 512
+                },
+                {
+                  "x": 115,
+                  "y": 0,
+                  "w": 256,
+                  "h": 512
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899867282358013952"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "357724845",
+            "name": "Austin Adams",
+            "screen_name": "AustinAdams10",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "1831527548519641088",
+            "name": "Truemarkets",
+            "screen_name": "Truemarketsorg",
+            "indices": [
+              15,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/BuBXjNbPtu",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1899867295419425268/photo/1",
+            "id_str": "1899867282358013952",
+            "indices": [
+              48,
+              71
+            ],
+            "media_key": "3_1899867282358013952",
+            "media_url_https": "https://pbs.twimg.com/media/Gl2vOjVWEAApoif.png",
+            "type": "photo",
+            "url": "https://t.co/BuBXjNbPtu",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 512,
+                "w": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 512,
+              "width": 512,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 125,
+                  "w": 512,
+                  "h": 287
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                },
+                {
+                  "x": 19,
+                  "y": 0,
+                  "w": 449,
+                  "h": 512
+                },
+                {
+                  "x": 115,
+                  "y": 0,
+                  "w": 256,
+                  "h": 512
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 512,
+                  "h": 512
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899867282358013952"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@AustinAdams10 @Truemarketsorg TRUE mentioned!! https://t.co/BuBXjNbPtu",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899867295419425268",
+      "url": "https://x.com/llamaonthebrink/status/1899867295419425268",
+      "views_count": "122",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 16:56:31 +0000 2025",
+      "conversation_id_str": "1899616753354780785",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "764330578489462784",
+            "name": "Anthony T",
+            "screen_name": "Athio92",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "1107518478",
+            "name": "Yano 🟪",
+            "screen_name": "JasonYanowitz",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@Athio92 @JasonYanowitz those are rollups, go look at defi protocols, many of which have more TVL than rollups",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899867109691187278",
+      "url": "https://x.com/llamaonthebrink/status/1899867109691187278",
+      "views_count": "23",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 16:46:57 +0000 2025",
+      "conversation_id_str": "1899864704421339488",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 15,
+      "favorited": false,
+      "full_text": "This comes with the territory of \"passive LPing.\" \n\nTrying to create passive counterparty strategies to highly active liquidity venues will always lead to these sort of events.\n\nPpl like that Hyperliquid was always *liquid* even on longtail pairs, but it's a double edged sword.\n\nBtw @Truemarketsorg prediction market on HLP incoooming 😁",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899864704421339488",
+      "url": "https://x.com/llamaonthebrink/status/1899864704421339488",
+      "views_count": "79772",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 16:42:04 +0000 2025",
+      "conversation_id_str": "1899616753354780785",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1107518478",
+            "name": "Yano 🟪",
+            "screen_name": "JasonYanowitz",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "@JasonYanowitz but state street and JPM can't magically get hacked for their AUM\n\nTVL is an important security-lindy metric, all of the highest TVL projects are also the most secure\n\nunless you think that transaction reversible custody is preferable",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899863473380622402",
+      "url": "https://x.com/llamaonthebrink/status/1899863473380622402",
+      "views_count": "424",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 22:24:16 +0000 2025",
+      "conversation_id_str": "1899587202201338355",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 52,
+      "favorited": false,
+      "full_text": "Peak F*cking Performance.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 8,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899587202201338355",
+      "url": "https://x.com/llamaonthebrink/status/1899587202201338355",
+      "views_count": "3968",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 18:56:45 +0000 2025",
+      "conversation_id_str": "1899530182572036538",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/llamaonthebrin…",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1899534861162992005",
+            "url": "https://t.co/8UT4YdlbHc",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "424304399",
+            "name": "Dan Smith",
+            "screen_name": "smyyguy",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@smyyguy https://t.co/8UT4YdlbHc",
+      "is_quote_status": true,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899534980109242416",
+      "url": "https://x.com/llamaonthebrink/status/1899534980109242416",
+      "views_count": "340",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 18:56:17 +0000 2025",
+      "conversation_id_str": "1898146097052209503",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1473993924083654658",
+            "name": "Gwart",
+            "screen_name": "GwartyGwart",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@GwartyGwart the ironic thing is that this is actually a *level up* from what the code is being primarily used for on solano right now lol  \n\nthey literally took all the opensource eth code, fitted it for the SVM, and built a memecoin landfill on top of lol",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899534861162992005",
+      "url": "https://x.com/llamaonthebrink/status/1899534861162992005",
+      "views_count": "1077",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Tue Mar 11 18:20:23 +0000 2025",
+      "conversation_id_str": "1899525829597577542",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 36,
+      "favorited": false,
+      "full_text": "Honestly this is such a useful feature for sorting the markets and categories you want to follow.\n\nSurprised Polymarket doesn't have something like it..",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 3,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899525829597577542",
+      "url": "https://x.com/llamaonthebrink/status/1899525829597577542",
+      "views_count": "4355",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 18:18:32 +0000 2025",
+      "conversation_id_str": "1899522709383778407",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/6RknPGruP7",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1899525362666684773/photo/1",
+            "id_str": "1899525346401169408",
+            "indices": [
+              27,
+              50
+            ],
+            "media_key": "3_1899525346401169408",
+            "media_url_https": "https://pbs.twimg.com/media/Glx4PQoXsAAMH7R.jpg",
+            "type": "photo",
+            "url": "https://t.co/6RknPGruP7",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 2045,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1198,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 679,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2703,
+              "width": 2699,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 527,
+                  "w": 2699,
+                  "h": 1511
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2699,
+                  "h": 2699
+                },
+                {
+                  "x": 231,
+                  "y": 0,
+                  "w": 2371,
+                  "h": 2703
+                },
+                {
+                  "x": 740,
+                  "y": 0,
+                  "w": 1352,
+                  "h": 2703
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2699,
+                  "h": 2703
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899525346401169408"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1394725176567209984",
+            "name": "a bit whale-ish ⚙️",
+            "screen_name": "ABitWhaleish",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "1293606166262689792",
+            "name": "Ante Protocol⚙️",
+            "screen_name": "AnteFinance",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/6RknPGruP7",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1899525362666684773/photo/1",
+            "id_str": "1899525346401169408",
+            "indices": [
+              27,
+              50
+            ],
+            "media_key": "3_1899525346401169408",
+            "media_url_https": "https://pbs.twimg.com/media/Glx4PQoXsAAMH7R.jpg",
+            "type": "photo",
+            "url": "https://t.co/6RknPGruP7",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 2045,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1198,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 679,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2703,
+              "width": 2699,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 527,
+                  "w": 2699,
+                  "h": 1511
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2699,
+                  "h": 2699
+                },
+                {
+                  "x": 231,
+                  "y": 0,
+                  "w": 2371,
+                  "h": 2703
+                },
+                {
+                  "x": 740,
+                  "y": 0,
+                  "w": 1352,
+                  "h": 2703
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2699,
+                  "h": 2703
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899525346401169408"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@ABitWhaleish @AnteFinance https://t.co/6RknPGruP7",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899525362666684773",
+      "url": "https://x.com/llamaonthebrink/status/1899525362666684773",
+      "views_count": "23",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 10:58:22 +0000 2025",
+      "conversation_id_str": "1899411389736751165",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "601318185",
+            "name": "fabda.eth",
+            "screen_name": "fabdarice",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@fabdarice 🫶",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899414590544289963",
+      "url": "https://x.com/llamaonthebrink/status/1899414590544289963",
+      "views_count": "265",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 8,
+      "created_at": "Tue Mar 11 10:45:39 +0000 2025",
+      "conversation_id_str": "1899411389736751165",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 192,
+      "favorited": false,
+      "full_text": "Idc what anyone says, the pressure that crypto projects are under while deploying code to production is unlike anything else. I'm reminded of this every time I see it happen.\n\nTruemarekts is finally live, it took a bit longer than expected but hopefully the community will feel like it's worth it!\n\nWell I guess I don't need to tease yall any longer do I? Check it out for yourselves!!!\n\n(and if you don't, I will shill it to you everyday until you do 😁)",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 25,
+      "retweet_count": 16,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899411389736751165",
+      "url": "https://x.com/llamaonthebrink/status/1899411389736751165",
+      "views_count": "19157",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:12:33 +0000 2025",
+      "conversation_id_str": "1899104290305679547",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1876331115239317504",
+            "name": "Truebie",
+            "screen_name": "TruebieMarkets",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1473993924083654658",
+            "name": "Gwart",
+            "screen_name": "GwartyGwart",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "id_str": "1831527548519641088",
+            "name": "Truemarkets",
+            "screen_name": "Truemarketsorg",
+            "indices": [
+              29,
+              44
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@TruebieMarkets @GwartyGwart @Truemarketsorg gwart pod gud",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899221865148584074",
+      "url": "https://x.com/llamaonthebrink/status/1899221865148584074",
+      "views_count": "48",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:10:05 +0000 2025",
+      "conversation_id_str": "1899104290305679547",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1876331115239317504",
+            "name": "Truebie",
+            "screen_name": "TruebieMarkets",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1473993924083654658",
+            "name": "Gwart",
+            "screen_name": "GwartyGwart",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "id_str": "1831527548519641088",
+            "name": "Truemarkets",
+            "screen_name": "Truemarketsorg",
+            "indices": [
+              29,
+              44
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@TruebieMarkets @GwartyGwart @Truemarketsorg lol",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899221244593033677",
+      "url": "https://x.com/llamaonthebrink/status/1899221244593033677",
+      "views_count": "26",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 20:30:22 +0000 2025",
+      "conversation_id_str": "1899173518828323307",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "424304399",
+            "name": "Dan Smith",
+            "screen_name": "smyyguy",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "1831527548519641088",
+            "name": "Truemarkets",
+            "screen_name": "Truemarketsorg",
+            "indices": [
+              9,
+              24
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@smyyguy @Truemarketsorg any particularly recommended sources? (without shilling me a blockworks sub haha)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899196150315700683",
+      "url": "https://x.com/llamaonthebrink/status/1899196150315700683",
+      "views_count": "237",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:01:32 +0000 2025",
+      "conversation_id_str": "1899173518828323307",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1429933098209185804",
+            "name": "Impose🫡",
+            "screen_name": "Impose_eth",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "1831527548519641088",
+            "name": "Truemarkets",
+            "screen_name": "Truemarketsorg",
+            "indices": [
+              12,
+              27
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@Impose_eth @Truemarketsorg 🫠",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899173796843544737",
+      "url": "https://x.com/llamaonthebrink/status/1899173796843544737",
+      "views_count": "89",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:00:26 +0000 2025",
+      "conversation_id_str": "1899173518828323307",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1831527548519641088",
+            "name": "Truemarkets",
+            "screen_name": "Truemarketsorg",
+            "indices": [
+              56,
+              71
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 46,
+      "favorited": false,
+      "full_text": "Don't worry you'll be able to bet on Pumpfun revenue on @Truemarketsorg in a matter of hours",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 8,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1899173518828323307",
+      "url": "https://x.com/llamaonthebrink/status/1899173518828323307",
+      "views_count": "3804",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Mon Mar 10 00:26:36 +0000 2025",
+      "conversation_id_str": "1898893214293328043",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/sAmuSR2Bfh",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898893214293328043/photo/1",
+            "id_str": "1898889907457683456",
+            "indices": [
+              273,
+              296
+            ],
+            "media_key": "3_1898889907457683456",
+            "media_url_https": "https://pbs.twimg.com/media/Glo2T2GW8AAMSYc.jpg",
+            "type": "photo",
+            "url": "https://t.co/sAmuSR2Bfh",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 960,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 659,
+                  "w": 960,
+                  "h": 538
+                },
+                {
+                  "x": 0,
+                  "y": 320,
+                  "w": 960,
+                  "h": 960
+                },
+                {
+                  "x": 0,
+                  "y": 186,
+                  "w": 960,
+                  "h": 1094
+                },
+                {
+                  "x": 32,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 960,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898889907457683456"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/sAmuSR2Bfh",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898893214293328043/photo/1",
+            "id_str": "1898889942110986240",
+            "indices": [
+              273,
+              296
+            ],
+            "media_key": "3_1898889942110986240",
+            "media_url_https": "https://pbs.twimg.com/media/Glo2V3MWYAA8utg.jpg",
+            "type": "photo",
+            "url": "https://t.co/sAmuSR2Bfh",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 392,
+                "w": 952,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 392,
+                "w": 952,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 280,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 392,
+              "width": 952,
+              "focus_rects": [
+                {
+                  "x": 148,
+                  "y": 0,
+                  "w": 700,
+                  "h": 392
+                },
+                {
+                  "x": 302,
+                  "y": 0,
+                  "w": 392,
+                  "h": 392
+                },
+                {
+                  "x": 326,
+                  "y": 0,
+                  "w": 344,
+                  "h": 392
+                },
+                {
+                  "x": 400,
+                  "y": 0,
+                  "w": 196,
+                  "h": 392
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 952,
+                  "h": 392
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898889942110986240"
+              }
+            }
+          }
+        ],
+        "symbols": [
+          {
+            "indices": [
+              19,
+              24
+            ],
+            "text": "TRUE"
+          }
+        ],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/sAmuSR2Bfh",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898893214293328043/photo/1",
+            "id_str": "1898889907457683456",
+            "indices": [
+              273,
+              296
+            ],
+            "media_key": "3_1898889907457683456",
+            "media_url_https": "https://pbs.twimg.com/media/Glo2T2GW8AAMSYc.jpg",
+            "type": "photo",
+            "url": "https://t.co/sAmuSR2Bfh",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 960,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 659,
+                  "w": 960,
+                  "h": 538
+                },
+                {
+                  "x": 0,
+                  "y": 320,
+                  "w": 960,
+                  "h": 960
+                },
+                {
+                  "x": 0,
+                  "y": 186,
+                  "w": 960,
+                  "h": 1094
+                },
+                {
+                  "x": 32,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 960,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898889907457683456"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/sAmuSR2Bfh",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898893214293328043/photo/1",
+            "id_str": "1898889942110986240",
+            "indices": [
+              273,
+              296
+            ],
+            "media_key": "3_1898889942110986240",
+            "media_url_https": "https://pbs.twimg.com/media/Glo2V3MWYAA8utg.jpg",
+            "type": "photo",
+            "url": "https://t.co/sAmuSR2Bfh",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 392,
+                "w": 952,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 392,
+                "w": 952,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 280,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 392,
+              "width": 952,
+              "focus_rects": [
+                {
+                  "x": 148,
+                  "y": 0,
+                  "w": 700,
+                  "h": 392
+                },
+                {
+                  "x": 302,
+                  "y": 0,
+                  "w": 392,
+                  "h": 392
+                },
+                {
+                  "x": 326,
+                  "y": 0,
+                  "w": 344,
+                  "h": 392
+                },
+                {
+                  "x": 400,
+                  "y": 0,
+                  "w": 196,
+                  "h": 392
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 952,
+                  "h": 392
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898889942110986240"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 112,
+      "favorited": false,
+      "full_text": "Now that the final $TRUE snapshot has been taken, I just wanted to take a moment to thank all of our amazing Patrons, the earliest supporters of the project and the heart of our community 💙🫶💙🫶💙\n\nAfter months of secondary activity since the original mint, the Patron holder distribution became (impressively) decentralized imo.\n\nTo put things into perspective, Patrons represent close to the entire TRUE float at launch, and that \"Other Accounts\" portion in the chart below (>1/3rd of the pie), is made up over a thousand wallets!\n\nWe're grateful to have such an awesome community!\n\nLong Live @Truemarketsorg!! ✌️",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 4,
+      "reply_count": 13,
+      "retweet_count": 19,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898893214293328043",
+      "url": "https://x.com/llamaonthebrink/status/1898893214293328043",
+      "views_count": "17892",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 22:09:34 +0000 2025",
+      "conversation_id_str": "1898845456223859047",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1384521861250260995",
+            "name": "z3d🌩🧮",
+            "screen_name": "zedweb3",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@zedweb3 honestly it's probably kraken wallet migration",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898858725999284417",
+      "url": "https://x.com/llamaonthebrink/status/1898858725999284417",
+      "views_count": "205",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 21:58:44 +0000 2025",
+      "conversation_id_str": "1898388258834538965",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "36691434",
+            "name": "CoinMamba",
+            "screen_name": "coinmamba",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "306123387",
+            "name": "Kyledoops",
+            "screen_name": "kyledoops",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@coinmamba @kyledoops what makes you say that",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898856001182548381",
+      "url": "https://x.com/llamaonthebrink/status/1898856001182548381",
+      "views_count": "133",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 21:16:50 +0000 2025",
+      "conversation_id_str": "1898845456223859047",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 49,
+      "favorited": false,
+      "full_text": "Anyone confirm this? Big if true.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898845456223859047",
+      "url": "https://x.com/llamaonthebrink/status/1898845456223859047",
+      "views_count": "6588",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 20:43:56 +0000 2025",
+      "conversation_id_str": "1898837178148368633",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 15,
+      "favorited": false,
+      "full_text": "Just under 3 hours to go! \n\nsmol reminder to be mindful of this timestamp if you have open bids on the collection 🙏",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898837178148368633",
+      "url": "https://x.com/llamaonthebrink/status/1898837178148368633",
+      "views_count": "5930",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 20:04:15 +0000 2025",
+      "conversation_id_str": "1898819672629563655",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1403263643937128450",
+            "name": "thelema",
+            "screen_name": "networkspirits",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1831527548519641088",
+            "name": "Truemarkets",
+            "screen_name": "Truemarketsorg",
+            "indices": [
+              16,
+              31
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@networkspirits @Truemarketsorg hi",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898827190780801333",
+      "url": "https://x.com/llamaonthebrink/status/1898827190780801333",
+      "views_count": "227",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 19:15:40 +0000 2025",
+      "conversation_id_str": "1898814965403783426",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/9TMu7lSfkd",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898814965403783426/photo/1",
+            "id_str": "1898814922408050688",
+            "indices": [
+              11,
+              34
+            ],
+            "media_key": "3_1898814922408050688",
+            "media_url_https": "https://pbs.twimg.com/media/GlnyHJBXwAATQ3s.jpg",
+            "type": "photo",
+            "url": "https://t.co/9TMu7lSfkd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1260,
+                    "y": 275,
+                    "h": 53,
+                    "w": 53
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 884,
+                    "y": 192,
+                    "h": 37,
+                    "w": 37
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 501,
+                    "y": 109,
+                    "h": 21,
+                    "w": 21
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1260,
+                    "y": 275,
+                    "h": 53,
+                    "w": 53
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 690,
+                "w": 1710,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 484,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 274,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 690,
+              "width": 1710,
+              "focus_rects": [
+                {
+                  "x": 478,
+                  "y": 0,
+                  "w": 1232,
+                  "h": 690
+                },
+                {
+                  "x": 980,
+                  "y": 0,
+                  "w": 690,
+                  "h": 690
+                },
+                {
+                  "x": 1023,
+                  "y": 0,
+                  "w": 605,
+                  "h": 690
+                },
+                {
+                  "x": 1153,
+                  "y": 0,
+                  "w": 345,
+                  "h": 690
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1710,
+                  "h": 690
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898814922408050688"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/9TMu7lSfkd",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898814965403783426/photo/1",
+            "id_str": "1898814922408050688",
+            "indices": [
+              11,
+              34
+            ],
+            "media_key": "3_1898814922408050688",
+            "media_url_https": "https://pbs.twimg.com/media/GlnyHJBXwAATQ3s.jpg",
+            "type": "photo",
+            "url": "https://t.co/9TMu7lSfkd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1260,
+                    "y": 275,
+                    "h": 53,
+                    "w": 53
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 884,
+                    "y": 192,
+                    "h": 37,
+                    "w": 37
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 501,
+                    "y": 109,
+                    "h": 21,
+                    "w": 21
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1260,
+                    "y": 275,
+                    "h": 53,
+                    "w": 53
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 690,
+                "w": 1710,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 484,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 274,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 690,
+              "width": 1710,
+              "focus_rects": [
+                {
+                  "x": 478,
+                  "y": 0,
+                  "w": 1232,
+                  "h": 690
+                },
+                {
+                  "x": 980,
+                  "y": 0,
+                  "w": 690,
+                  "h": 690
+                },
+                {
+                  "x": 1023,
+                  "y": 0,
+                  "w": 605,
+                  "h": 690
+                },
+                {
+                  "x": 1153,
+                  "y": 0,
+                  "w": 345,
+                  "h": 690
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1710,
+                  "h": 690
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898814922408050688"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "Same vibes https://t.co/9TMu7lSfkd",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898814965403783426",
+      "url": "https://x.com/llamaonthebrink/status/1898814965403783426",
+      "views_count": "2033",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 20,
+      "created_at": "Sun Mar 09 18:30:54 +0000 2025",
+      "conversation_id_str": "1898803698395935184",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 217,
+      "favorited": false,
+      "full_text": "The reason ppl have this extractive view of the chain is because the ecosystem has hardly produced anything new, has created little open source value, and has played deceptive narrative games for years.\n\nThe fact that “MEV” infra is the most funded thing on that chain right now is literal evidence of that.\n\nIn 2023, Ethereum was criticized by podcasters because there was too much focus on MEV and scaling infra by VCs.\n\nIn 2021, the solana narrative was that It didn’t have evil extractive MEV like ethereum does, that blocks were produced so fast that the demand for ordering preference just magically evaporates. \n\nThis was literally touted by sol leadership and others in crypto media.\n\nToday, the entire value prop and narrative for solana is that you stake SOL to earn MEV. \n\nThey went from saying MEV is evil and doesn’t exist on solana to building the entire ecosystem on top of it. They even try to rally behind a new (rather unoriginal) name for MEV as if it erases this history.\n\nIn 2020 Ethereum created a ton of net new use cases and open source protocols that are the basis and foundation of all onchain applications that exist today, on all chains, regardless of the VM being used.\n\nThere was a wealth effect that had legitimacy to it. Something legitimately new was being experimented with in real time.\n\nBut for the past year, nearly all the activity on Solana has been purely extractive, with little produced value for the industry. \n\nFor those who don’t know, MEV literally stands for Maximal Extractable Value. And this is now the basis of the sol ecosystem. Something which wasn’t supposed to exist.\n\nMEV.  It’s literally in the name.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 16,
+      "retweet_count": 15,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898803698395935184",
+      "url": "https://x.com/llamaonthebrink/status/1898803698395935184",
+      "views_count": "26966",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13818,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13818,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 22:30:36 +0000 2025",
+      "conversation_id_str": "1898171847696384240",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/BdHFdHTTn9",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898501634616954954/photo/1",
+            "id_str": "1898501628489023488",
+            "indices": [
+              13,
+              36
+            ],
+            "media_key": "3_1898501628489023488",
+            "media_url_https": "https://pbs.twimg.com/media/GljVLCOWwAA-ct2.jpg",
+            "type": "photo",
+            "url": "https://t.co/BdHFdHTTn9",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 867,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1000,
+                "w": 867,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 590,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1000,
+              "width": 867,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 514,
+                  "w": 867,
+                  "h": 486
+                },
+                {
+                  "x": 0,
+                  "y": 133,
+                  "w": 867,
+                  "h": 867
+                },
+                {
+                  "x": 0,
+                  "y": 12,
+                  "w": 867,
+                  "h": 988
+                },
+                {
+                  "x": 367,
+                  "y": 0,
+                  "w": 500,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 867,
+                  "h": 1000
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898501628489023488"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1001654384743387137",
+            "name": "Fozzy",
+            "screen_name": "fozzydiablo",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/BdHFdHTTn9",
+            "expanded_url": "https://x.com/llamaonthebrink/status/1898501634616954954/photo/1",
+            "id_str": "1898501628489023488",
+            "indices": [
+              13,
+              36
+            ],
+            "media_key": "3_1898501628489023488",
+            "media_url_https": "https://pbs.twimg.com/media/GljVLCOWwAA-ct2.jpg",
+            "type": "photo",
+            "url": "https://t.co/BdHFdHTTn9",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 867,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1000,
+                "w": 867,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 590,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1000,
+              "width": 867,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 514,
+                  "w": 867,
+                  "h": 486
+                },
+                {
+                  "x": 0,
+                  "y": 133,
+                  "w": 867,
+                  "h": 867
+                },
+                {
+                  "x": 0,
+                  "y": 12,
+                  "w": 867,
+                  "h": 988
+                },
+                {
+                  "x": 367,
+                  "y": 0,
+                  "w": 500,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 867,
+                  "h": 1000
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898501628489023488"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@fozzydiablo https://t.co/BdHFdHTTn9",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898501634616954954",
+      "url": "https://x.com/llamaonthebrink/status/1898501634616954954",
+      "views_count": "157",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 20:59:00 +0000 2025",
+      "conversation_id_str": "1898476671725908231",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1423817598618292225",
+            "name": "Doug Colkitt",
+            "screen_name": "0xdoug",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@0xdoug That’s basically what Arbitrum does right?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898478580113244335",
+      "url": "https://x.com/llamaonthebrink/status/1898478580113244335",
+      "views_count": "610",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 15:24:31 +0000 2025",
+      "conversation_id_str": "1884196328772976855",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1519428881996042243",
+            "name": "Ryan Connor | BWR 🟪",
+            "screen_name": "_ryanrconnor",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@_ryanrconnor God you lose more credibility by the day",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1276213805580681219",
+      "id_str": "1898394406035538198",
+      "url": "https://x.com/llamaonthebrink/status/1898394406035538198",
+      "views_count": "69",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jun 25 18:01:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hypeman @Truemarketsorg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 72444,
+        "followers_count": 13819,
+        "friends_count": 3512,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 314,
+        "location": "onchain",
+        "media_count": 1882,
+        "name": "MilliΞ",
+        "normal_followers_count": 13819,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276213805580681219/1725234301",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883666891241070592/zedelWXs_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "llamaonthebrink",
+        "statuses_count": 24811,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1
+    ],
+    "2025-03-14": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "2025-03-13": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "2025-03-12": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "2025-03-11": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "2025-03-10": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "2025-03-09": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "2025-03-08": [
+      44,
+      45,
+      46
+    ]
+  }
+}

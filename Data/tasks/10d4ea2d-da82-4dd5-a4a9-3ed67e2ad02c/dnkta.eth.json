@@ -1,0 +1,556 @@
+{
+  "username": "dnkta.eth",
+  "fetchedAt": "2025-03-15T15:58:08.318Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 09:45:52 +0000 2025",
+      "conversation_id_str": "1900112602627219515",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24809221",
+            "name": "kain.bnb",
+            "screen_name": "kaiynne",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "79714172",
+            "name": "Zhu Su",
+            "screen_name": "zhusu",
+            "indices": [
+              9,
+              15
+            ]
+          },
+          {
+            "id_str": "22758405",
+            "name": "laurence",
+            "screen_name": "functi0nZer0",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "id_str": "1564305219785293832",
+            "name": "Wildcat Labs",
+            "screen_name": "WildcatFi",
+            "indices": [
+              30,
+              40
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@kaiynne @zhusu @functi0nZer0 @WildcatFi 😂😂😂",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "28078772",
+      "id_str": "1900121122491781608",
+      "url": "https://x.com/dnkta/status/1900121122491781608",
+      "views_count": "109",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Wed Apr 01 09:37:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Solarpunk by day, Lunarpunk at night  🕊",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 41206,
+        "followers_count": 2406,
+        "friends_count": 5555,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Ethereum",
+        "media_count": 698,
+        "name": "dnkta.eth",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28078772/1737245068",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880767767747461120/qDZtPm92_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dnkta",
+        "statuses_count": 14505,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 20:37:58 +0000 2025",
+      "conversation_id_str": "1899922841186771266",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Sam?",
+      "is_quote_status": true,
+      "lang": "qst",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "28078772",
+      "id_str": "1899922841186771266",
+      "url": "https://x.com/dnkta/status/1899922841186771266",
+      "views_count": "129",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Wed Apr 01 09:37:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Solarpunk by day, Lunarpunk at night  🕊",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 41206,
+        "followers_count": 2407,
+        "friends_count": 5555,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Ethereum",
+        "media_count": 698,
+        "name": "dnkta.eth",
+        "normal_followers_count": 2407,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28078772/1737245068",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880767767747461120/qDZtPm92_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dnkta",
+        "statuses_count": 14505,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 20:27:52 +0000 2025",
+      "conversation_id_str": "1899920298754887837",
+      "entities": {
+        "hashtags": [],
+        "symbols": [
+          {
+            "indices": [
+              13,
+              17
+            ],
+            "text": "ETH"
+          }
+        ],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "Sentiment on $ETH is as negative as it was 4 years ago, could only mean one thing 🤫",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "28078772",
+      "id_str": "1899920298754887837",
+      "url": "https://x.com/dnkta/status/1899920298754887837",
+      "views_count": "507",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Wed Apr 01 09:37:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Solarpunk by day, Lunarpunk at night  🕊",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 41206,
+        "followers_count": 2407,
+        "friends_count": 5555,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Ethereum",
+        "media_count": 698,
+        "name": "dnkta.eth",
+        "normal_followers_count": 2407,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28078772/1737245068",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880767767747461120/qDZtPm92_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dnkta",
+        "statuses_count": 14505,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 17:53:11 +0000 2025",
+      "conversation_id_str": "1899879822408769883",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "534493783",
+            "name": "Alex Krüger",
+            "screen_name": "krugermacro",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "@krugermacro If still stuck on BTC likely a good time to dump it and buy ETH",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "28078772",
+      "id_str": "1899881371650118005",
+      "url": "https://x.com/dnkta/status/1899881371650118005",
+      "views_count": "1200",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Wed Apr 01 09:37:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Solarpunk by day, Lunarpunk at night  🕊",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 41206,
+        "followers_count": 2407,
+        "friends_count": 5555,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Ethereum",
+        "media_count": 698,
+        "name": "dnkta.eth",
+        "normal_followers_count": 2407,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28078772/1737245068",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880767767747461120/qDZtPm92_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dnkta",
+        "statuses_count": 14505,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 16:39:48 +0000 2025",
+      "conversation_id_str": "1899862904771399844",
+      "entities": {
+        "hashtags": [],
+        "symbols": [
+          {
+            "indices": [
+              8,
+              12
+            ],
+            "text": "PSY"
+          }
+        ],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "NFA but $PSY seems undervalued af",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "28078772",
+      "id_str": "1899862904771399844",
+      "url": "https://x.com/dnkta/status/1899862904771399844",
+      "views_count": "201",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Wed Apr 01 09:37:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Solarpunk by day, Lunarpunk at night  🕊",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 41206,
+        "followers_count": 2407,
+        "friends_count": 5555,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Ethereum",
+        "media_count": 698,
+        "name": "dnkta.eth",
+        "normal_followers_count": 2407,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28078772/1737245068",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880767767747461120/qDZtPm92_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dnkta",
+        "statuses_count": 14505,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 15:14:12 +0000 2025",
+      "conversation_id_str": "1899474100122276066",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "22758405",
+            "name": "laurence",
+            "screen_name": "functi0nZer0",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "1877214571",
+            "name": "shard",
+            "screen_name": "shardverse",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@functi0nZer0 @shardverse Who wants to give me an undercollateralized loan against my governance token bags?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "28078772",
+      "id_str": "1899478974419312779",
+      "url": "https://x.com/dnkta/status/1899478974419312779",
+      "views_count": "416",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Wed Apr 01 09:37:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Solarpunk by day, Lunarpunk at night  🕊",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 41206,
+        "followers_count": 2406,
+        "friends_count": 5555,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Ethereum",
+        "media_count": 698,
+        "name": "dnkta.eth",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28078772/1737245068",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880767767747461120/qDZtPm92_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dnkta",
+        "statuses_count": 14505,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 13:06:35 +0000 2025",
+      "conversation_id_str": "1899446858944008290",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "This app is unusable again",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "28078772",
+      "id_str": "1899446858944008290",
+      "url": "https://x.com/dnkta/status/1899446858944008290",
+      "views_count": "76",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Wed Apr 01 09:37:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Solarpunk by day, Lunarpunk at night  🕊",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 41206,
+        "followers_count": 2406,
+        "friends_count": 5555,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Ethereum",
+        "media_count": 698,
+        "name": "dnkta.eth",
+        "normal_followers_count": 2406,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28078772/1737245068",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880767767747461120/qDZtPm92_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dnkta",
+        "statuses_count": 14505,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-13": [
+      0
+    ],
+    "2025-03-12": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "2025-03-11": [
+      5,
+      6
+    ]
+  }
+}

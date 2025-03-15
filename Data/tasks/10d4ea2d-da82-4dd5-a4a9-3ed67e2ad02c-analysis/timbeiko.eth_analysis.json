@@ -1,0 +1,112 @@
+{
+  "username": "timbeiko.eth",
+  "analyzedAt": "2025-03-15T18:28:01.043Z",
+  "tweetCount": 14,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 14:06:15 +0000 2025",
+    "latestTweet": "Fri Mar 14 20:54:53 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @timbeiko.eth and provide a summary of what they mainly talked about in the past week:\n\n@owocki @trent_vanepps @thegrifft @OctantApp @gitcoin @clrfund @lftherios @JimiCohen @auryn_macmillan 🫡 https://t.co/IQLH8d45BH\n\n@drjasper_eth @christine_dkim @LidoFinance Apps need time to test, core devs can do other things (like work on Fusaka) while apps are testing\n\nIf you’d like to learn more, we’ll be hosting an SoP Town Hall next Friday (Mar 21) at 15:00 UTC — see you there 👋 \n\nhttps://t.co/RaO3XIPrDC\n\nYou can read the full announcement, and find application links for the various tracks, on Protocolized directly 😄\n\nhttps://t.co/0SWKnY5P6i\n\nAnd, last but not least, we’re planning some in-person workshops focused on deriving a “grand theory” of protocols. The first one will focus on the intersection of distributed AI and blockchains 🤖 https://t.co/g4u6VnQ5hl\n\nAt a smaller scale, we also have several paid writing opportunities for contributions to Protocolized ✍️ https://t.co/Y8K5dyibfz\n\nOur Curriculum Development Track has 500K$ in grants available to fund college-level courses around protocols, with GCC sponsoring a Chinese language track. \n\nWe’ll kick the summer off with a Curriculum Development workshop at @JoinEdgeCity 📚 https://t.co/1Sfv6h8AvA\n\nSummer of Protocols is back for 2025 ☀️\n\nIn 2023, our guiding question was whether “protocols” should be studied as a first class topic. After validating that, 2024 focused on applied research, in fields ranging from cryptography to wildfire prevention. \n\nIn 2025, our focus is education both via our Curriculum Development Program, and revamped Protocolized publication! \n\nMore info on all of this below 👇\n\n@christine_dkim @LidoFinance Just to clarify: this will delay Pectra relative to the hacky Holesky fixes working without issues (not a given!), but the \"delay\" comes from infra teams testing. Client teams can (rest and then) start working on the next thing! \n\nOverall, this is the quickest path to Fusak 😄\n\nYou can just do things 🫡\n\n@notnotstorm We discussed this on ACD today!  \n\nWe're a bit busy right now trying to save Holesky and getting Hoodi up, but there was some support for a testnet that would serve this purpose. \n\nSomething like: \n- Sepolia → Dev Testnet \n- Hoodi → Infra Testnet \n- TBD → ACD Perf Testnet\n\nhttps://t.co/oZNKHnX6a3\n\nACDE Recap\n\nA new testnet, Hoodi, is going live Monday to wrap up Pectra testing, if you need to test validator exits, be on the lookout for it! Everything else can be tested on Sepolia & Holesky. \n\nPectra will be scheduled 30+ days after Hoodi forks successfully,  pending infra and client testing. \n\nFusaka planning will run in parallel, with a deadline of March 24 to propose EIPs, and a tentative date of April 10 for a scope freeze 🫡\n\nFull recap on @EthMagicians, link below 👇\n\n@hasufl the most annoying thing for my taxes this year 😅"
+  },
+  "summary": "The tweets from @timbeiko.eth over the past week cover various topics related to protocols, development updates, testnets, and educational opportunities within the blockchain and Ethereum community. The tweets highlight upcoming events such as the SoP Town Hall and workshops, as well as opportunities for contributions to Protocolized. There is a focus on education through the Curriculum Development Program and the Summer of Protocols initiative. Additionally, there are discussions around testnets like Hoodi and Pectra testing, along with updates on Fusaka planning. The overall sentiment in the tweets appears to be informative and engaging, with a mix of excitement and clarification on technical matters.",
+  "keyTopics": [
+    "Ethereum",
+    "Hall",
+    "There",
+    "Program",
+    "Summer"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900651874333704497",
+      "createdAt": "Fri Mar 14 20:54:53 +0000 2025",
+      "text": "@owocki @trent_vanepps @thegrifft @OctantApp @gitcoin @clrfund @lftherios @JimiCohen @auryn_macmilla..."
+    },
+    {
+      "index": 1,
+      "id": "1900650422614061414",
+      "createdAt": "Fri Mar 14 20:49:07 +0000 2025",
+      "text": "@drjasper_eth @christine_dkim @LidoFinance Apps need time to test, core devs can do other things (li..."
+    },
+    {
+      "index": 2,
+      "id": "1900650258448715922",
+      "createdAt": "Fri Mar 14 20:48:28 +0000 2025",
+      "text": "If you’d like to learn more, we’ll be hosting an SoP Town Hall next Friday (Mar 21) at 15:00 UTC — s..."
+    },
+    {
+      "index": 3,
+      "id": "1900649950536458502",
+      "createdAt": "Fri Mar 14 20:47:15 +0000 2025",
+      "text": "You can read the full announcement, and find application links for the various tracks, on Protocoliz..."
+    },
+    {
+      "index": 4,
+      "id": "1900649590581309459",
+      "createdAt": "Fri Mar 14 20:45:49 +0000 2025",
+      "text": "And, last but not least, we’re planning some in-person workshops focused on deriving a “grand theory..."
+    },
+    {
+      "index": 5,
+      "id": "1900649151072784596",
+      "createdAt": "Fri Mar 14 20:44:04 +0000 2025",
+      "text": "At a smaller scale, we also have several paid writing opportunities for contributions to Protocolize..."
+    },
+    {
+      "index": 6,
+      "id": "1900647885479571534",
+      "createdAt": "Fri Mar 14 20:39:02 +0000 2025",
+      "text": "Our Curriculum Development Track has 500K$ in grants available to fund college-level courses around ..."
+    },
+    {
+      "index": 7,
+      "id": "1900646963286340013",
+      "createdAt": "Fri Mar 14 20:35:23 +0000 2025",
+      "text": "Summer of Protocols is back for 2025 ☀️\n\nIn 2023, our guiding question was whether “protocols” shoul..."
+    },
+    {
+      "index": 8,
+      "id": "1900635745154724325",
+      "createdAt": "Fri Mar 14 19:50:48 +0000 2025",
+      "text": "@christine_dkim @LidoFinance Just to clarify: this will delay Pectra relative to the hacky Holesky f..."
+    },
+    {
+      "index": 9,
+      "id": "1900606106164228395",
+      "createdAt": "Fri Mar 14 17:53:01 +0000 2025",
+      "text": "You can just do things 🫡"
+    },
+    {
+      "index": 10,
+      "id": "1900332291995689362",
+      "createdAt": "Thu Mar 13 23:44:59 +0000 2025",
+      "text": "@notnotstorm We discussed this on ACD today!  \n\nWe're a bit busy right now trying to save Holesky an..."
+    },
+    {
+      "index": 11,
+      "id": "1900232919031164956",
+      "createdAt": "Thu Mar 13 17:10:07 +0000 2025",
+      "text": "https://t.co/oZNKHnX6a3"
+    },
+    {
+      "index": 12,
+      "id": "1900232845194649787",
+      "createdAt": "Thu Mar 13 17:09:49 +0000 2025",
+      "text": "ACDE Recap\n\nA new testnet, Hoodi, is going live Monday to wrap up Pectra testing, if you need to tes..."
+    },
+    {
+      "index": 13,
+      "id": "1899461871045873872",
+      "createdAt": "Tue Mar 11 14:06:15 +0000 2025",
+      "text": "@hasufl the most annoying thing for my taxes this year 😅"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "username": "hagaetc.eth",
+  "analyzedAt": "2025-03-15T18:29:14.497Z",
+  "tweetCount": 6,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 07 11:43:47 +0000 2025",
+    "latestTweet": "Fri Mar 14 19:53:07 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @hagaetc.eth and provide a summary of what they mainly talked about in the past week:\n\nPutting the Dune merch to work on a Friday night 🍷 https://t.co/dJ6t4Kzjmr\n\nExcited to be backing @ProjectEurope_ to encourage more ambition, risk taking and building in Europe. lfg!\n\n@sealaunch_ @Dune Congrats!\n\n@cryptall3 @Dune gg!\n\n@Arnno39 💯\n\nRemember way back in 2021 when a bunch of crypto projects with limited PMF on their core business launched their own VC funds? https://t.co/YRUuCpDIuD"
+  },
+  "summary": "The tweets from @hagaetc.eth primarily revolve around topics such as utilizing Dune merchandise on a Friday night, supporting @ProjectEurope_ to promote ambition in Europe, congratulating and engaging with other Twitter users related to Dune, and reflecting on the trend of crypto projects launching their own VC funds back in 2021. Overall, the sentiment appears to be positive and supportive of various initiatives within the crypto and entrepreneurial space.",
+  "keyTopics": [
+    "Overall, the sentiment appears to be positive and supportive of various initiatives within the crypto and entrepreneurial space"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900636330385711186",
+      "createdAt": "Fri Mar 14 19:53:07 +0000 2025",
+      "text": "Putting the Dune merch to work on a Friday night 🍷 https://t.co/dJ6t4Kzjmr"
+    },
+    {
+      "index": 1,
+      "id": "1900515773208031582",
+      "createdAt": "Fri Mar 14 11:54:04 +0000 2025",
+      "text": "Excited to be backing @ProjectEurope_ to encourage more ambition, risk taking and building in Europe..."
+    },
+    {
+      "index": 2,
+      "id": "1899897468281668080",
+      "createdAt": "Wed Mar 12 18:57:09 +0000 2025",
+      "text": "@sealaunch_ @Dune Congrats!"
+    },
+    {
+      "index": 3,
+      "id": "1897999464096309259",
+      "createdAt": "Fri Mar 07 13:15:10 +0000 2025",
+      "text": "@cryptall3 @Dune gg!"
+    },
+    {
+      "index": 4,
+      "id": "1897994406562562247",
+      "createdAt": "Fri Mar 07 12:55:04 +0000 2025",
+      "text": "@Arnno39 💯"
+    },
+    {
+      "index": 5,
+      "id": "1897976468535136467",
+      "createdAt": "Fri Mar 07 11:43:47 +0000 2025",
+      "text": "Remember way back in 2021 when a bunch of crypto projects with limited PMF on their core business la..."
+    }
+  ]
+}

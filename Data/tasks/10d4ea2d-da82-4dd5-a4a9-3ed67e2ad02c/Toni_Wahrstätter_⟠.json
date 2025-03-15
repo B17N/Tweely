@@ -1,0 +1,115 @@
+{
+  "username": "Toni Wahrstätter ⟠",
+  "fetchedAt": "2025-03-15T15:55:31.362Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Sun Mar 09 19:44:51 +0000 2025",
+      "conversation_id_str": "1898822306820145206",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 24,
+      "favorited": false,
+      "full_text": "Great write-up on the issues with the Pectra hardfork on Sepolia.\n\nWeird edge cases causing big problems.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "1469573165571530756",
+      "id_str": "1898822306820145206",
+      "url": "https://x.com/nero_eth/status/1898822306820145206",
+      "views_count": "1830",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Dec 11 07:42:15 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Research at Ethereum Foundation | https://t.co/HJkfzUbs0A\n\nhttps://t.co/ut8WcgWHQV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dotpics.info",
+                "expanded_url": "https://dotpics.info",
+                "url": "https://t.co/HJkfzUbs0A",
+                "indices": [
+                  34,
+                  57
+                ]
+              },
+              {
+                "display_url": "warpcast.com/toniw.eth",
+                "expanded_url": "https://warpcast.com/toniw.eth",
+                "url": "https://t.co/ut8WcgWHQV",
+                "indices": [
+                  59,
+                  82
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toniwahrstaetter.com",
+                "expanded_url": "https://toniwahrstaetter.com",
+                "url": "https://t.co/QXgXF0JzSN",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4341,
+        "followers_count": 6966,
+        "friends_count": 589,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 169,
+        "location": "",
+        "media_count": 254,
+        "name": "Toni Wahrstätter ⟠",
+        "normal_followers_count": 6966,
+        "pinned_tweet_ids_str": [
+          "1866148471620653179"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1469573165571530756/1650960613",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1858347774129094657/xUc7IS2K_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "nero_eth",
+        "statuses_count": 1618,
+        "translator_type": "none",
+        "url": "https://t.co/QXgXF0JzSN",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-09": [
+      0
+    ]
+  }
+}

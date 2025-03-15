@@ -1,0 +1,856 @@
+{
+  "username": "c-node (optimistic)",
+  "analyzedAt": "2025-03-15T18:28:22.353Z",
+  "tweetCount": 138,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 19:50:14 +0000 2025",
+    "latestTweet": "Sat Mar 15 13:38:20 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @c-node (optimistic) and provide a summary of what they mainly talked about in the past week:\n\n@octo_o_ https://t.co/hAOcWjZJUK\n\n@post_polar_ Ethereum needs to pivot!\n\n@chrisliambender @RariChain @l2beat @celestia @eigen_da Not sure since i work on zkrollups, but @dferrersan can answer\n\nit looks Orbit ones use the bridge, and OPstack ones don't. maybe because working fraud proofs are a requirement?\n\n@chrisliambender @RariChain @l2beat @celestia @eigen_da all those things have security councils tho. if the sequencer steals funds, they can claw it back before the 7 day window\n\n@aeyakovenko The minority of people smart enough to understand the proposal are just going to align with the validators, to the long-term detriment of the network. You're right, but that's bearish.\n\n@aeyakovenko the users should fight harder and threaten to fork with more teeth. seems like a proposal that asymmetrically benefits the validators\n\n@chrisliambender @RariChain @l2beat @celestia @eigen_da even without the DA, they could steal your funds with the exit window\n\nDA security literally only matters for stage 2\n\n@moon_shiesty any links to specific lines of code showing this?\n\n@moon_shiesty if you added anything- literally anything at all, then it's not a copy paste.\n\n@moon_shiesty if it's a copy paste, then why not just use Aptos?\n\nif it is truly a copy paste, then anything you could possibly answer would be an indictment\n\n@aeyakovenko ah ok, fair point\n\n@moon_shiesty forks are fine\n\ncopy pastes are not\n\n@aeyakovenko i had no idea that i had to consider governance when i decided to stake, because that's a ridiculous thing to assume\n\n@aeyakovenko what?!\n\nsolana manlets are noobs at doing plutocracy, they could learn a thing or two from cosmos, polkador, and the crowded graveyard of DeFi DAOs!\n\n@aeyakovenko maybe i stake with a validator... i never agreed to let him represent me in protocol governance, or had any reason to believe that was the case\n\nyea no\n\n@aeyakovenko Sure, but that's not what a validator vote is.\n\nif you wanna do plutocracy correctly, you have to include the unstaked SOL holders, as well as all the delegators who don't necessarily endorse the views of the validator or LST they delegated to\n\n@LucidSamuel_ there are many more users than validators\n\n@markodayan the users (who also don't see the difference between Binance and Hyperliquid) don't see the difference\n\n@ribeiroo_la @joshuagunnn PayPal has users, therefore it must be good. Don’t be silly, scams dont have users\n\n@ribeiroo_la Your pesky values are getting in the way of my scams!\n\n@joshuagunnn https://t.co/ELZigXTIB3\n\n@joshuagunnn If censorship or surveillance are an attractive option, then the system needs to be overthrown. This is analogous to a fire in need of extinguishing- not a consumer choice\n\n@Jrag0x did it die again today? nobody told me smh\n\n@bone_eth my only goal is to produce tidbits to chew on\n\nScammer is the term for anyone in the crypto community who's actions increase the flow of users' money to confiscable, censorable forms\n\n@bone_eth Your USDC app may have taken a user away from LUSD- this is net-harmful to society, but the market signals won't show you that\n\n@bone_eth If you build something centralized on crypto rails, you may get users, but you have accomplished net zero. It may seem uintuitive, but if you think hard about it, happy users does not necessarily mean that you accomplished anything.\n\n@bone_eth Fine, yes, because you're free to do what you want.\n\nHowever, they're completely useless in a way that you haven't yet realized because of market inefficiency, and regulations.\n\n@RandomCTGuy @joshuagunnn what's wrong with Liquity\n\n@jon_charb patching pinhole-sized holes in a sinking ship\n\n@0xl3th3 @orchestratoor dawg that's just admitting that the industry is useless 😆\n\n@0xl3th3 @orchestratoor the \"inherent human element\", meaning exploiting the valuation arb of an irrational market, yes.\n\n@0xl3th3 @orchestratoor My preferred (and predicted) outcome would be for a single rollup to \"win\" and use all the block space\n\nfragmetnation is bad, and the best solution is consolidation. I don't believe in any of this \"chain of chains\" stuff\n\n@orchestratoor well, Celestia is literally a massively scalable L1\n\n@orchestratoor I build blockchains, and yet am critical of harmful applications of blockchains\n\njust as firearm manufacturers should be critical of mass shootings\n\n@orchestratoor it enables anyone to do anything, even things that are very bad, or even useless, yes.\n\nfreedom of choice is good but it's a problem if submitting to indignity is your best option\n\n@orchestratoor By extinguishing a fire, you're depriving your customer of a choice\n\n@ssaintleger Mammoths\n\n🦣\n\nThe original intention of firefighting to me was to let people choose whether or not their house burns down\n\n@joshuagunnn No forcing of values detected\n\nThat just doesnt make any sense. Unless they need decentralization, nobody will choose crypto\n\n@ThogardPvP still the only goal that remotely makes sense\n\nIt is mind blowing that there's anyone at all, let alone the majority the space, who view custodial and censorable digital currencies as anything but directly antithetical to our entire value prop.\n\n@KyleSamani @FrankieIsLost this debate is between unhackable vs hard to hack\n\n@kwrr99 @dankrad I was here before it was an industry, and I'll still be here after it stops being an industry\n\n@keyneom @dankrad Exactly. That's why i'm here.\n\nGet in motherfucker, we're obliterating tradeoffs!\n\n@zmanian solutions engineering mentioned\n\n@dankrad and custodial telegram bots\n\nfollowing the profit motive, as an industry must do, leads away from self-custody- an intangible ideal with no commercial value.\n\n@dankrad they choose Binance\n\n@dankrad the benefits of using L1 DA are the very same abstract security benefits of building apps on blockchains in the first place!\n\nThe cracks in the crypto industry's core value prop are starting to show\n\n@AFDudley0 @joakimhi @lex_node @Tiza4ThePeople @ameensol the solution to the concern is \"let people do what they want\", and the follow-up is \"no, this does not mean decentralization is futile you imbeciles\"\n\n@AFDudley0 Chainlink can do some damage by not servicing the fork. If I were a dev for such a fork, I would advocate overriding the state to replace them, if it came to that.\n\n@scupytrooples Ethereum is overkill, if all you want is a MySQL database hosted by Circle\n\n@keyneom @portport255 @lzrscg yea maybe with the UTXO model you can always exit if it's a zk validium, since the account balance isn't a singular leaf\n\n@keyneom @portport255 @lzrscg the exit tx might not be possible to execute if the bridge observes a seemingly valid block that invalidates the state for the leaves you saved locally\n\nthe great thing about forks is they don't require \"support\", like some kind of Dragon Ball-Z spirit bomb\n\nETC exists whether you like it or not. BCH exists whether you like it or not.\n\nMy thesis is that the narrative is almost exclusively brought up to implicitly argue that decentralization is futile, and thus the value of blockchains must be something other than decentralization.\n\nSome people might be raising awareness for a concern, advocating to address it, but i'll push back on that as well.\n\n@apriori0x @lex_node @Tiza4ThePeople @ameensol @AFDudley0 i apologize in advance https://t.co/zfp5TYpvNa\n\n@toghrulmaharram Yea this is promising for them\n\n@MetaDAOProject should decide which side to endorse via a governance proposal!!\n\n@lex_node @Tiza4ThePeople @ameensol @AFDudley0 sure\n\n@AFDudley0 @joakimhi @lex_node @Tiza4ThePeople @ameensol Circle says they want to switch from LMD-GHOST to longest chain 😄\n\n@futurenomics half my replies are elaborately prompted bots that are getting quite good at asking questions i genuinely want to respond to\n\nchecking twitter to see what the AI spam bots are up to\n\n@keyneom @lzrscg if the L1 samples the DA layer, then yes you're right, only Dymension + Celestia and Ethereum + danksharding can do this\n\n@keyneom @lzrscg no. you're usage of the terminology \"exit\" implies a settled L2. Unless the L1 is sampling, you're vulnerable to collusion between the DA layer majority of stake and the ORU block producer\n\n@keyneom @lzrscg \"signed pointer\"\n\nthe security comes from who is signing. are they trustworthy?\n\n@keyneom @lzrscg it's the same thing, but with zk, the scope of my attack is limited to freezing funds instead of stealing funds\n\n@keyneom @lzrscg &gt; \"no need for a committee\"\n&gt; signed pointer\n\nbrother, that's a committee of size = 1\n\n@keyneom @lzrscg you're missing something.\n\nif your system is an optimistic L2, S3 does not work. Nothing could stop me from proposing a block with unavailable data and preventing the network from challenging my proposal with fraud proofs.\n\n@THESAINTOSHI sorry to hear. sending warm thoughts ❤️\n\n@DistributedMarz @NoahCitron too many siggies?\n\neven with bls aggregation, you need all the pubkeys iiuc\n\n@DistributedMarz @NoahCitron it's just a quorum who's attestations are available on the beacon chain\n\n@DistributedMarz Helios\n\n@LoganJastremski @swen_sjn @nickwh8te shilling the code?\n\n@LoganJastremski @swen_sjn @nickwh8te no need to reinvent the wheel\n\n@LoganJastremski @swen_sjn @nickwh8te just copy paste solana\n\n@LoganJastremski @swen_sjn @nickwh8te oh no, not the data propagation channels 😱\n\n@noah_foltz @LoganJastremski @nickwh8te he just said rollups actually\n\n@LoganJastremski @swen_sjn @nickwh8te rollups can have decentralized consensus\n\n@LoganJastremski @nickwh8te yes. what's wrong with that\n\n@0xBalloonLover for any dev facing infra, a good heuristic is whether devs reach for it to solve an existing problem\n\n@0xa1b @MaxResnick1 also, that doesn't even matter. the market prices validator count at zero\n\n@0xa1b @MaxResnick1 but there isn't anything stopping them from doing so\n\n@HaloHijacker After you realize this, your first instinct might be to reach for the \"revenue coins\" like Hyperliquid.\n\nHowever, those coins are actually just call options on the continued enforcement of KYC regulations!\n\nVery dumb traders treat it like real DAUs, another group of traders don't fall for it, but speculate on the team's ability to sell it to the first group.\n\nHilariously, this dynamic emerges regardless of the size (or even existence!) of the first group\n\nThus, the crypto market is just a prediction market on the team's ability to check the boxes on an arbitrary checklist:\n- do they have loud marketing?\n- do they have a dev ecosystem?\n- do they have transactions (attained by literally ANY means)\n\n@FourVork unfortunately, there is no purpose to blockchains besides what you're calling \"cryptopunk values\". The use-cases you're thinking of are all scams ☹️\n\n@keyneom @Tiza4ThePeople @AminCad Correct. Ethereum is not controlled by circle and tether.\n\n&gt; transactiong forked-eth is made ilegal?\n\nwell that's an entirely separate conversation 😅, which once again does not prove the claim that ethereum is controlled by circle and tether\n\npaying MMs to provide liquidity on your chain is isomorphic to paying the users via an airdrop incentive\n\nin no way can the resulting users be considered PMF- you've shut off important signals from the market\n\nhard-coded centralization (permissioning, whitelists) is a bad solution to MEV\n\nthat's like burning your house down because you saw a cockroach\n\nI'll take mev-boost any day over a centralized sequencer\n\nadded t-addresses when needed, deprecated t-addresses when no longer needed😎\n\nPenumbra\n\n@SuccinctLabs can you please ship a fix for this, i want to play https://t.co/tFWNgsjw16\n\n@AstriaOrg @Formachain gastria\n\nMammoths\n\n🦣\n\n@musalbas @signetsh i think the point is to be agnostic to bridge designs\n\nyes they're not fungible but just throw em in an AMM and let the market sort it out\n\nUse-Case: hard mode\n\n@seunlanlege Nah i think it posts blocks to DA just like sovereign rollups\n\nany dev can build a proof based bridge\n\n@jon_charb Everything is computer\n\n@hievalir wen mainnet\n\n@MaxResnick1 https://t.co/JAtbVvIKCz\n\n@aeyakovenko yea assuming one cooperating validator works\n\n@markus_0_ @aeyakovenko and we're making the light nodes even lighter!\n\n@aeyakovenko that requires the val set to scan celestia tho\n\n@aeyakovenko isn't censorship a non-attributable fault\n\n@NopicklesSponge @0xBalloonLover I am extremely optimistic\n\nbecause crypto is a powerful tech movement, but it makes no sense as an industry. After the death of the industry, this will be more clear, and it will be easier to realize its real potential.\n\ni actually agree with this and would love to absorb chains into celestia\n\nthe only issue is we can't force other chains to inherit CR or liveness. without their cooperation, we'd rely on their val sets for liveness and CR\n\n@chainyoda i used zk several times today and didn't use TEEs once\n\n@0xBalloonLover there is very little incentive to build crypto. there's a lot of incentive to build speculative fintech / gambling products, like DraftKings\n\n@0xBalloonLover crypto is open source.\n\nit's not the end of crypto's OSS era, it's just the end of crypto.\n\n@LoganJastremski @nickwh8te OP didn't say anything that implied centralized sequencers\n\n@aeyakovenko @nickwh8te this is the answer\n\nscaling infrastructure as a shitpost\n\nthis is top tier performance art\n\nfuck it i'll bridge. let's goooo\n\n@FourVork Yeah, the decentralized fork will still be usable and will have some value to cryptopunks and others.\n\nBTW, the \"mainstream adoption\" without decentralization is dubious. Start asking the hard questions about why these systems appear to have PMF, the truth might be inconvenient.\n\n@FourVork No, it's very far from the price of ETH, but it's still worth something, because it's valuable to some people.\n\nJust as the non-circle fork would be more useful to everyone who desires decentralization, and thus it would have some value &gt; 0.\n\n@FourVork Ethereum is totally forkable. The question is if the decentralized fork still retains value- and there's ZERO evidence that it won't.\n\n@signetsh very cool if that's the idea!\n\n@signetsh Ohhh but maybe conditional transfers make it possible for a dev to build a ZK bridge that doesn't trust the multisig?\n\n@signetsh so... the deposit flow is a lock-and-mint from Ethereum to Signet, and withdrawals are trades between L1 assets and L2 assets... but do i understand correctly tht unlocking L1 funds is just fully trusting the admin 😁 https://t.co/9fIRM8eLpw\n\n@signetsh is the Passage contract... a one way bridge???\n\n@0xMisaligned bro they just have accounts\n\n@pseudotheos @lex_node @Tiza4ThePeople $3B of capital considers code as law to be a valuable aspect of blockchains\n\nwhat amount of dollars will value resistance to central capture to be a valuable aspect of blockchains? In this scenario, we'd find out (it wouldn't be $0).\n\n@lex_node @Tiza4ThePeople if this naive oversimplification was correct, ETC would be worth zero (it is worth $3B).\n\n@lex_node @Tiza4ThePeople no, the centrally captured fork will not retain all the value of the market cap prior to the attack, which proves that this article is just a meme.\n\nwe got another one falling for the meme\n\n@portport255 the real culprit: https://t.co/sJX9b8HuKu\n\n@starlovehand The name itself is a hilarious oxymoron\n\nDo not give an inch to these people.\n\nOFAC needs to be audited and held accountable for their negligence\n\n24/7 nasdaq and perps for burgers\n\nDeregulation means TradFi will copy everything you thought could be a moat for crypto\n\nGetting ready to mail out the c-node apology forms\n\n@EthBushwick The scrolltax fanbase should be fully blacklisted at this point\n\n@lex_node Great now Sam Altman has your alpha\n\n@Euler__Lagrange Reasoning by analogy 🤣\n\n@Euler__Lagrange @VinayakDKurup @SuccinctLabs weird flex\n\n@Euler__Lagrange @VinayakDKurup @SuccinctLabs Your protocol is great but it’s still not as good as if they signed the data\n\n@swen_sjn please no lol\n\nmy goal as a humble solutions engineer is to ensure that our grandchildren can integrate arbitrary zkrollups with without needing to reason about any square or tree algorithms\n\n@LucidSamuel_ for which, stage 2 or decentralized sequencers?\n\nFor the former: arbitrum, optimism, aztec, zksync, scroll, starkware, taiko\n\nfor the latter: zksync, taiko, aztec\n\n@LucidSamuel_ stage 2 can still have centralized sequencers that aren't able to censor or steal funds\n\n@portport255 @LucidSamuel_ wait wtf that's awesome, i had no idea it was so far along. \n\nZKSync raising the bar\n\n@LucidSamuel_ centralized sequencer has nothing to do with whether or not it's secured by a multisig"
+  },
+  "summary": "The tweets from @c-node in the past week cover a range of topics related to Ethereum, zkrollups, security, governance, and decentralized finance. There are discussions on the need for Ethereum to pivot, concerns about security councils, governance implications for validators, debates on forking, critiques of centralized solutions, the value of decentralization, and the challenges of scaling infrastructure. Additionally, there are references to specific projects like Celestia and discussions on building bridges between different layers. Overall, the sentiment is critical and analytical, focusing on the complexities and nuances of blockchain technology and its applications.",
+  "keyTopics": [
+    "Ethereum,",
+    "There",
+    "Ethereum",
+    "Additionally,",
+    "Celestia"
+  ],
+  "sentiment": "Negative",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900904400337400038",
+      "createdAt": "Sat Mar 15 13:38:20 +0000 2025",
+      "text": "@octo_o_ https://t.co/hAOcWjZJUK"
+    },
+    {
+      "index": 1,
+      "id": "1900903252524257756",
+      "createdAt": "Sat Mar 15 13:33:47 +0000 2025",
+      "text": "@post_polar_ Ethereum needs to pivot!"
+    },
+    {
+      "index": 2,
+      "id": "1900694137487192112",
+      "createdAt": "Fri Mar 14 23:42:50 +0000 2025",
+      "text": "@chrisliambender @RariChain @l2beat @celestia @eigen_da Not sure since i work on zkrollups, but @dfe..."
+    },
+    {
+      "index": 3,
+      "id": "1900693169248796888",
+      "createdAt": "Fri Mar 14 23:38:59 +0000 2025",
+      "text": "@chrisliambender @RariChain @l2beat @celestia @eigen_da all those things have security councils tho...."
+    },
+    {
+      "index": 4,
+      "id": "1900691663787618519",
+      "createdAt": "Fri Mar 14 23:33:00 +0000 2025",
+      "text": "@aeyakovenko The minority of people smart enough to understand the proposal are just going to align ..."
+    },
+    {
+      "index": 5,
+      "id": "1900691200807411738",
+      "createdAt": "Fri Mar 14 23:31:10 +0000 2025",
+      "text": "@aeyakovenko the users should fight harder and threaten to fork with more teeth. seems like a propos..."
+    },
+    {
+      "index": 6,
+      "id": "1900690790550053167",
+      "createdAt": "Fri Mar 14 23:29:32 +0000 2025",
+      "text": "@chrisliambender @RariChain @l2beat @celestia @eigen_da even without the DA, they could steal your f..."
+    },
+    {
+      "index": 7,
+      "id": "1900686495620411396",
+      "createdAt": "Fri Mar 14 23:12:28 +0000 2025",
+      "text": "@moon_shiesty any links to specific lines of code showing this?"
+    },
+    {
+      "index": 8,
+      "id": "1900686205991227504",
+      "createdAt": "Fri Mar 14 23:11:19 +0000 2025",
+      "text": "@moon_shiesty if you added anything- literally anything at all, then it's not a copy paste."
+    },
+    {
+      "index": 9,
+      "id": "1900685826096525538",
+      "createdAt": "Fri Mar 14 23:09:48 +0000 2025",
+      "text": "@moon_shiesty if it's a copy paste, then why not just use Aptos?\n\nif it is truly a copy paste, then ..."
+    },
+    {
+      "index": 10,
+      "id": "1900685514438832278",
+      "createdAt": "Fri Mar 14 23:08:34 +0000 2025",
+      "text": "@aeyakovenko ah ok, fair point"
+    },
+    {
+      "index": 11,
+      "id": "1900685064045785427",
+      "createdAt": "Fri Mar 14 23:06:46 +0000 2025",
+      "text": "@moon_shiesty forks are fine\n\ncopy pastes are not"
+    },
+    {
+      "index": 12,
+      "id": "1900684088366735753",
+      "createdAt": "Fri Mar 14 23:02:54 +0000 2025",
+      "text": "@aeyakovenko i had no idea that i had to consider governance when i decided to stake, because that's..."
+    },
+    {
+      "index": 13,
+      "id": "1900668054557614156",
+      "createdAt": "Fri Mar 14 21:59:11 +0000 2025",
+      "text": "@aeyakovenko what?!"
+    },
+    {
+      "index": 14,
+      "id": "1900661748236988804",
+      "createdAt": "Fri Mar 14 21:34:08 +0000 2025",
+      "text": "solana manlets are noobs at doing plutocracy, they could learn a thing or two from cosmos, polkador,..."
+    },
+    {
+      "index": 15,
+      "id": "1900661240705261851",
+      "createdAt": "Fri Mar 14 21:32:07 +0000 2025",
+      "text": "@aeyakovenko maybe i stake with a validator... i never agreed to let him represent me in protocol go..."
+    },
+    {
+      "index": 16,
+      "id": "1900661071385362680",
+      "createdAt": "Fri Mar 14 21:31:26 +0000 2025",
+      "text": "@aeyakovenko Sure, but that's not what a validator vote is.\n\nif you wanna do plutocracy correctly, y..."
+    },
+    {
+      "index": 17,
+      "id": "1900660647806832664",
+      "createdAt": "Fri Mar 14 21:29:45 +0000 2025",
+      "text": "@LucidSamuel_ there are many more users than validators"
+    },
+    {
+      "index": 18,
+      "id": "1900655452758630817",
+      "createdAt": "Fri Mar 14 21:09:07 +0000 2025",
+      "text": "@markodayan the users (who also don't see the difference between Binance and Hyperliquid) don't see ..."
+    },
+    {
+      "index": 19,
+      "id": "1900632318739431928",
+      "createdAt": "Fri Mar 14 19:37:11 +0000 2025",
+      "text": "@ribeiroo_la @joshuagunnn PayPal has users, therefore it must be good. Don’t be silly, scams dont ha..."
+    },
+    {
+      "index": 20,
+      "id": "1900631832133083468",
+      "createdAt": "Fri Mar 14 19:35:15 +0000 2025",
+      "text": "@ribeiroo_la Your pesky values are getting in the way of my scams!"
+    },
+    {
+      "index": 21,
+      "id": "1900601485408309506",
+      "createdAt": "Fri Mar 14 17:34:40 +0000 2025",
+      "text": "@joshuagunnn https://t.co/ELZigXTIB3"
+    },
+    {
+      "index": 22,
+      "id": "1900601259318464636",
+      "createdAt": "Fri Mar 14 17:33:46 +0000 2025",
+      "text": "@joshuagunnn If censorship or surveillance are an attractive option, then the system needs to be ove..."
+    },
+    {
+      "index": 23,
+      "id": "1900600981823312044",
+      "createdAt": "Fri Mar 14 17:32:40 +0000 2025",
+      "text": "@Jrag0x did it die again today? nobody told me smh"
+    },
+    {
+      "index": 24,
+      "id": "1900599381503381629",
+      "createdAt": "Fri Mar 14 17:26:18 +0000 2025",
+      "text": "@bone_eth my only goal is to produce tidbits to chew on"
+    },
+    {
+      "index": 25,
+      "id": "1900599205057712596",
+      "createdAt": "Fri Mar 14 17:25:36 +0000 2025",
+      "text": "Scammer is the term for anyone in the crypto community who's actions increase the flow of users' mon..."
+    },
+    {
+      "index": 26,
+      "id": "1900597265649283082",
+      "createdAt": "Fri Mar 14 17:17:54 +0000 2025",
+      "text": "@bone_eth Your USDC app may have taken a user away from LUSD- this is net-harmful to society, but th..."
+    },
+    {
+      "index": 27,
+      "id": "1900597005874819545",
+      "createdAt": "Fri Mar 14 17:16:52 +0000 2025",
+      "text": "@bone_eth If you build something centralized on crypto rails, you may get users, but you have accomp..."
+    },
+    {
+      "index": 28,
+      "id": "1900596653088010521",
+      "createdAt": "Fri Mar 14 17:15:28 +0000 2025",
+      "text": "@bone_eth Fine, yes, because you're free to do what you want.\n\nHowever, they're completely useless i..."
+    },
+    {
+      "index": 29,
+      "id": "1900593688322924713",
+      "createdAt": "Fri Mar 14 17:03:41 +0000 2025",
+      "text": "@RandomCTGuy @joshuagunnn what's wrong with Liquity"
+    },
+    {
+      "index": 30,
+      "id": "1900575158827364700",
+      "createdAt": "Fri Mar 14 15:50:03 +0000 2025",
+      "text": "@jon_charb patching pinhole-sized holes in a sinking ship"
+    },
+    {
+      "index": 31,
+      "id": "1900575012693631246",
+      "createdAt": "Fri Mar 14 15:49:28 +0000 2025",
+      "text": "@0xl3th3 @orchestratoor dawg that's just admitting that the industry is useless 😆"
+    },
+    {
+      "index": 32,
+      "id": "1900574099774042552",
+      "createdAt": "Fri Mar 14 15:45:51 +0000 2025",
+      "text": "@0xl3th3 @orchestratoor the \"inherent human element\", meaning exploiting the valuation arb of an irr..."
+    },
+    {
+      "index": 33,
+      "id": "1900573012748832976",
+      "createdAt": "Fri Mar 14 15:41:31 +0000 2025",
+      "text": "@0xl3th3 @orchestratoor My preferred (and predicted) outcome would be for a single rollup to \"win\" a..."
+    },
+    {
+      "index": 34,
+      "id": "1900572354234785980",
+      "createdAt": "Fri Mar 14 15:38:54 +0000 2025",
+      "text": "@orchestratoor well, Celestia is literally a massively scalable L1"
+    },
+    {
+      "index": 35,
+      "id": "1900570814899970123",
+      "createdAt": "Fri Mar 14 15:32:47 +0000 2025",
+      "text": "@orchestratoor I build blockchains, and yet am critical of harmful applications of blockchains\n\njust..."
+    },
+    {
+      "index": 36,
+      "id": "1900570445071450212",
+      "createdAt": "Fri Mar 14 15:31:19 +0000 2025",
+      "text": "@orchestratoor it enables anyone to do anything, even things that are very bad, or even useless, yes..."
+    },
+    {
+      "index": 37,
+      "id": "1900568062039929332",
+      "createdAt": "Fri Mar 14 15:21:51 +0000 2025",
+      "text": "freedom of choice is good but it's a problem if submitting to indignity is your best option"
+    },
+    {
+      "index": 38,
+      "id": "1900566814247043315",
+      "createdAt": "Fri Mar 14 15:16:53 +0000 2025",
+      "text": "@orchestratoor By extinguishing a fire, you're depriving your customer of a choice"
+    },
+    {
+      "index": 39,
+      "id": "1900542156747473224",
+      "createdAt": "Fri Mar 14 13:38:55 +0000 2025",
+      "text": "@ssaintleger Mammoths\n\n🦣"
+    },
+    {
+      "index": 40,
+      "id": "1900529923552399564",
+      "createdAt": "Fri Mar 14 12:50:18 +0000 2025",
+      "text": "The original intention of firefighting to me was to let people choose whether or not their house bur..."
+    },
+    {
+      "index": 41,
+      "id": "1900529536262967783",
+      "createdAt": "Fri Mar 14 12:48:46 +0000 2025",
+      "text": "@joshuagunnn No forcing of values detected\n\nThat just doesnt make any sense. Unless they need decent..."
+    },
+    {
+      "index": 42,
+      "id": "1900393825878544477",
+      "createdAt": "Fri Mar 14 03:49:30 +0000 2025",
+      "text": "@ThogardPvP still the only goal that remotely makes sense"
+    },
+    {
+      "index": 43,
+      "id": "1900389769160376456",
+      "createdAt": "Fri Mar 14 03:33:23 +0000 2025",
+      "text": "It is mind blowing that there's anyone at all, let alone the majority the space, who view custodial ..."
+    },
+    {
+      "index": 44,
+      "id": "1900388424948859109",
+      "createdAt": "Fri Mar 14 03:28:02 +0000 2025",
+      "text": "@KyleSamani @FrankieIsLost this debate is between unhackable vs hard to hack"
+    },
+    {
+      "index": 45,
+      "id": "1900287886022340728",
+      "createdAt": "Thu Mar 13 20:48:32 +0000 2025",
+      "text": "@kwrr99 @dankrad I was here before it was an industry, and I'll still be here after it stops being a..."
+    },
+    {
+      "index": 46,
+      "id": "1900287112022290462",
+      "createdAt": "Thu Mar 13 20:45:27 +0000 2025",
+      "text": "@keyneom @dankrad Exactly. That's why i'm here.\n\nGet in motherfucker, we're obliterating tradeoffs!"
+    },
+    {
+      "index": 47,
+      "id": "1900286943369297951",
+      "createdAt": "Thu Mar 13 20:44:47 +0000 2025",
+      "text": "@zmanian solutions engineering mentioned"
+    },
+    {
+      "index": 48,
+      "id": "1900285640262246851",
+      "createdAt": "Thu Mar 13 20:39:36 +0000 2025",
+      "text": "@dankrad and custodial telegram bots\n\nfollowing the profit motive, as an industry must do, leads awa..."
+    },
+    {
+      "index": 49,
+      "id": "1900284668571697264",
+      "createdAt": "Thu Mar 13 20:35:45 +0000 2025",
+      "text": "@dankrad they choose Binance"
+    },
+    {
+      "index": 50,
+      "id": "1900283822882828445",
+      "createdAt": "Thu Mar 13 20:32:23 +0000 2025",
+      "text": "@dankrad the benefits of using L1 DA are the very same abstract security benefits of building apps o..."
+    },
+    {
+      "index": 51,
+      "id": "1900216157522502061",
+      "createdAt": "Thu Mar 13 16:03:30 +0000 2025",
+      "text": "@AFDudley0 @joakimhi @lex_node @Tiza4ThePeople @ameensol the solution to the concern is \"let people ..."
+    },
+    {
+      "index": 52,
+      "id": "1900215747474755910",
+      "createdAt": "Thu Mar 13 16:01:53 +0000 2025",
+      "text": "@AFDudley0 Chainlink can do some damage by not servicing the fork. If I were a dev for such a fork, ..."
+    },
+    {
+      "index": 53,
+      "id": "1900205551163719926",
+      "createdAt": "Thu Mar 13 15:21:22 +0000 2025",
+      "text": "@scupytrooples Ethereum is overkill, if all you want is a MySQL database hosted by Circle"
+    },
+    {
+      "index": 54,
+      "id": "1900204736546025882",
+      "createdAt": "Thu Mar 13 15:18:07 +0000 2025",
+      "text": "@keyneom @portport255 @lzrscg yea maybe with the UTXO model you can always exit if it's a zk validiu..."
+    },
+    {
+      "index": 55,
+      "id": "1900203343349268801",
+      "createdAt": "Thu Mar 13 15:12:35 +0000 2025",
+      "text": "@keyneom @portport255 @lzrscg the exit tx might not be possible to execute if the bridge observes a ..."
+    },
+    {
+      "index": 56,
+      "id": "1900202545106026625",
+      "createdAt": "Thu Mar 13 15:09:25 +0000 2025",
+      "text": "the great thing about forks is they don't require \"support\", like some kind of Dragon Ball-Z spirit ..."
+    },
+    {
+      "index": 57,
+      "id": "1900198169088033025",
+      "createdAt": "Thu Mar 13 14:52:02 +0000 2025",
+      "text": "My thesis is that the narrative is almost exclusively brought up to implicitly argue that decentrali..."
+    },
+    {
+      "index": 58,
+      "id": "1900178589414310305",
+      "createdAt": "Thu Mar 13 13:34:13 +0000 2025",
+      "text": "@apriori0x @lex_node @Tiza4ThePeople @ameensol @AFDudley0 i apologize in advance https://t.co/zfp5TY..."
+    },
+    {
+      "index": 59,
+      "id": "1900174180424753199",
+      "createdAt": "Thu Mar 13 13:16:42 +0000 2025",
+      "text": "@toghrulmaharram Yea this is promising for them\n\n@MetaDAOProject should decide which side to endorse..."
+    },
+    {
+      "index": 60,
+      "id": "1900171366583714223",
+      "createdAt": "Thu Mar 13 13:05:31 +0000 2025",
+      "text": "@lex_node @Tiza4ThePeople @ameensol @AFDudley0 sure"
+    },
+    {
+      "index": 61,
+      "id": "1900171244705603901",
+      "createdAt": "Thu Mar 13 13:05:02 +0000 2025",
+      "text": "@AFDudley0 @joakimhi @lex_node @Tiza4ThePeople @ameensol Circle says they want to switch from LMD-GH..."
+    },
+    {
+      "index": 62,
+      "id": "1900170920951447640",
+      "createdAt": "Thu Mar 13 13:03:45 +0000 2025",
+      "text": "@futurenomics half my replies are elaborately prompted bots that are getting quite good at asking qu..."
+    },
+    {
+      "index": 63,
+      "id": "1900054723400532356",
+      "createdAt": "Thu Mar 13 05:22:02 +0000 2025",
+      "text": "checking twitter to see what the AI spam bots are up to"
+    },
+    {
+      "index": 64,
+      "id": "1900053958439104682",
+      "createdAt": "Thu Mar 13 05:18:59 +0000 2025",
+      "text": "@keyneom @lzrscg if the L1 samples the DA layer, then yes you're right, only Dymension + Celestia an..."
+    },
+    {
+      "index": 65,
+      "id": "1900053698853626234",
+      "createdAt": "Thu Mar 13 05:17:57 +0000 2025",
+      "text": "@keyneom @lzrscg no. you're usage of the terminology \"exit\" implies a settled L2. Unless the L1 is s..."
+    },
+    {
+      "index": 66,
+      "id": "1900052278553227302",
+      "createdAt": "Thu Mar 13 05:12:19 +0000 2025",
+      "text": "@keyneom @lzrscg \"signed pointer\"\n\nthe security comes from who is signing. are they trustworthy?"
+    },
+    {
+      "index": 67,
+      "id": "1900051936918880329",
+      "createdAt": "Thu Mar 13 05:10:57 +0000 2025",
+      "text": "@keyneom @lzrscg it's the same thing, but with zk, the scope of my attack is limited to freezing fun..."
+    },
+    {
+      "index": 68,
+      "id": "1900051737655779404",
+      "createdAt": "Thu Mar 13 05:10:10 +0000 2025",
+      "text": "@keyneom @lzrscg &gt; \"no need for a committee\"\n&gt; signed pointer\n\nbrother, that's a committee of ..."
+    },
+    {
+      "index": 69,
+      "id": "1900051325192122658",
+      "createdAt": "Thu Mar 13 05:08:31 +0000 2025",
+      "text": "@keyneom @lzrscg you're missing something.\n\nif your system is an optimistic L2, S3 does not work. No..."
+    },
+    {
+      "index": 70,
+      "id": "1900050076661146043",
+      "createdAt": "Thu Mar 13 05:03:34 +0000 2025",
+      "text": "@THESAINTOSHI sorry to hear. sending warm thoughts ❤️"
+    },
+    {
+      "index": 71,
+      "id": "1900049403387277807",
+      "createdAt": "Thu Mar 13 05:00:53 +0000 2025",
+      "text": "@DistributedMarz @NoahCitron too many siggies?\n\neven with bls aggregation, you need all the pubkeys ..."
+    },
+    {
+      "index": 72,
+      "id": "1899971218226508270",
+      "createdAt": "Wed Mar 12 23:50:12 +0000 2025",
+      "text": "@DistributedMarz @NoahCitron it's just a quorum who's attestations are available on the beacon chain"
+    },
+    {
+      "index": 73,
+      "id": "1899966249188168142",
+      "createdAt": "Wed Mar 12 23:30:28 +0000 2025",
+      "text": "@DistributedMarz Helios"
+    },
+    {
+      "index": 74,
+      "id": "1899965713499947233",
+      "createdAt": "Wed Mar 12 23:28:20 +0000 2025",
+      "text": "@LoganJastremski @swen_sjn @nickwh8te shilling the code?"
+    },
+    {
+      "index": 75,
+      "id": "1899964515220910342",
+      "createdAt": "Wed Mar 12 23:23:34 +0000 2025",
+      "text": "@LoganJastremski @swen_sjn @nickwh8te no need to reinvent the wheel"
+    },
+    {
+      "index": 76,
+      "id": "1899964474485776750",
+      "createdAt": "Wed Mar 12 23:23:25 +0000 2025",
+      "text": "@LoganJastremski @swen_sjn @nickwh8te just copy paste solana"
+    },
+    {
+      "index": 77,
+      "id": "1899963675131179305",
+      "createdAt": "Wed Mar 12 23:20:14 +0000 2025",
+      "text": "@LoganJastremski @swen_sjn @nickwh8te oh no, not the data propagation channels 😱"
+    },
+    {
+      "index": 78,
+      "id": "1899963017317486849",
+      "createdAt": "Wed Mar 12 23:17:37 +0000 2025",
+      "text": "@noah_foltz @LoganJastremski @nickwh8te he just said rollups actually"
+    },
+    {
+      "index": 79,
+      "id": "1899962848341541298",
+      "createdAt": "Wed Mar 12 23:16:57 +0000 2025",
+      "text": "@LoganJastremski @swen_sjn @nickwh8te rollups can have decentralized consensus"
+    },
+    {
+      "index": 80,
+      "id": "1899955160127881256",
+      "createdAt": "Wed Mar 12 22:46:24 +0000 2025",
+      "text": "@LoganJastremski @nickwh8te yes. what's wrong with that"
+    },
+    {
+      "index": 81,
+      "id": "1899864422228578727",
+      "createdAt": "Wed Mar 12 16:45:50 +0000 2025",
+      "text": "@0xBalloonLover for any dev facing infra, a good heuristic is whether devs reach for it to solve an ..."
+    },
+    {
+      "index": 82,
+      "id": "1899864072264249599",
+      "createdAt": "Wed Mar 12 16:44:27 +0000 2025",
+      "text": "@0xa1b @MaxResnick1 also, that doesn't even matter. the market prices validator count at zero"
+    },
+    {
+      "index": 83,
+      "id": "1899863992396370005",
+      "createdAt": "Wed Mar 12 16:44:08 +0000 2025",
+      "text": "@0xa1b @MaxResnick1 but there isn't anything stopping them from doing so"
+    },
+    {
+      "index": 84,
+      "id": "1899863119725252792",
+      "createdAt": "Wed Mar 12 16:40:40 +0000 2025",
+      "text": "@HaloHijacker After you realize this, your first instinct might be to reach for the \"revenue coins\" ..."
+    },
+    {
+      "index": 85,
+      "id": "1899862258735603797",
+      "createdAt": "Wed Mar 12 16:37:14 +0000 2025",
+      "text": "Very dumb traders treat it like real DAUs, another group of traders don't fall for it, but speculate..."
+    },
+    {
+      "index": 86,
+      "id": "1899854860654133608",
+      "createdAt": "Wed Mar 12 16:07:51 +0000 2025",
+      "text": "@FourVork unfortunately, there is no purpose to blockchains besides what you're calling \"cryptopunk ..."
+    },
+    {
+      "index": 87,
+      "id": "1899853247650648519",
+      "createdAt": "Wed Mar 12 16:01:26 +0000 2025",
+      "text": "@keyneom @Tiza4ThePeople @AminCad Correct. Ethereum is not controlled by circle and tether.\n\n&gt; tr..."
+    },
+    {
+      "index": 88,
+      "id": "1899838044674351569",
+      "createdAt": "Wed Mar 12 15:01:01 +0000 2025",
+      "text": "paying MMs to provide liquidity on your chain is isomorphic to paying the users via an airdrop incen..."
+    },
+    {
+      "index": 89,
+      "id": "1899835974412026195",
+      "createdAt": "Wed Mar 12 14:52:48 +0000 2025",
+      "text": "hard-coded centralization (permissioning, whitelists) is a bad solution to MEV\n\nthat's like burning ..."
+    },
+    {
+      "index": 90,
+      "id": "1899832539205771422",
+      "createdAt": "Wed Mar 12 14:39:09 +0000 2025",
+      "text": "added t-addresses when needed, deprecated t-addresses when no longer needed😎\n\nPenumbra"
+    },
+    {
+      "index": 91,
+      "id": "1899831554907463862",
+      "createdAt": "Wed Mar 12 14:35:14 +0000 2025",
+      "text": "@SuccinctLabs can you please ship a fix for this, i want to play https://t.co/tFWNgsjw16"
+    },
+    {
+      "index": 92,
+      "id": "1899824550302359835",
+      "createdAt": "Wed Mar 12 14:07:24 +0000 2025",
+      "text": "@AstriaOrg @Formachain gastria\n\nMammoths\n\n🦣"
+    },
+    {
+      "index": 93,
+      "id": "1899820387468259832",
+      "createdAt": "Wed Mar 12 13:50:51 +0000 2025",
+      "text": "@musalbas @signetsh i think the point is to be agnostic to bridge designs\n\nyes they're not fungible ..."
+    },
+    {
+      "index": 94,
+      "id": "1899810000970690938",
+      "createdAt": "Wed Mar 12 13:09:35 +0000 2025",
+      "text": "Use-Case: hard mode"
+    },
+    {
+      "index": 95,
+      "id": "1899809603992289562",
+      "createdAt": "Wed Mar 12 13:08:01 +0000 2025",
+      "text": "@seunlanlege Nah i think it posts blocks to DA just like sovereign rollups\n\nany dev can build a proo..."
+    },
+    {
+      "index": 96,
+      "id": "1899809200554770879",
+      "createdAt": "Wed Mar 12 13:06:24 +0000 2025",
+      "text": "@jon_charb Everything is computer"
+    },
+    {
+      "index": 97,
+      "id": "1899660444400329121",
+      "createdAt": "Wed Mar 12 03:15:18 +0000 2025",
+      "text": "@hievalir wen mainnet"
+    },
+    {
+      "index": 98,
+      "id": "1899660265291231525",
+      "createdAt": "Wed Mar 12 03:14:35 +0000 2025",
+      "text": "@MaxResnick1 https://t.co/JAtbVvIKCz"
+    },
+    {
+      "index": 99,
+      "id": "1899660055231725582",
+      "createdAt": "Wed Mar 12 03:13:45 +0000 2025",
+      "text": "@aeyakovenko yea assuming one cooperating validator works"
+    },
+    {
+      "index": 100,
+      "id": "1899659678742626373",
+      "createdAt": "Wed Mar 12 03:12:16 +0000 2025",
+      "text": "@markus_0_ @aeyakovenko and we're making the light nodes even lighter!"
+    },
+    {
+      "index": 101,
+      "id": "1899658892466131094",
+      "createdAt": "Wed Mar 12 03:09:08 +0000 2025",
+      "text": "@aeyakovenko that requires the val set to scan celestia tho"
+    },
+    {
+      "index": 102,
+      "id": "1899658408988414322",
+      "createdAt": "Wed Mar 12 03:07:13 +0000 2025",
+      "text": "@aeyakovenko isn't censorship a non-attributable fault"
+    },
+    {
+      "index": 103,
+      "id": "1899658178645688693",
+      "createdAt": "Wed Mar 12 03:06:18 +0000 2025",
+      "text": "@NopicklesSponge @0xBalloonLover I am extremely optimistic\n\nbecause crypto is a powerful tech moveme..."
+    },
+    {
+      "index": 104,
+      "id": "1899657752953106885",
+      "createdAt": "Wed Mar 12 03:04:36 +0000 2025",
+      "text": "i actually agree with this and would love to absorb chains into celestia\n\nthe only issue is we can't..."
+    },
+    {
+      "index": 105,
+      "id": "1899657145047449965",
+      "createdAt": "Wed Mar 12 03:02:11 +0000 2025",
+      "text": "@chainyoda i used zk several times today and didn't use TEEs once"
+    },
+    {
+      "index": 106,
+      "id": "1899655836009435270",
+      "createdAt": "Wed Mar 12 02:56:59 +0000 2025",
+      "text": "@0xBalloonLover there is very little incentive to build crypto. there's a lot of incentive to build ..."
+    },
+    {
+      "index": 107,
+      "id": "1899653986640138375",
+      "createdAt": "Wed Mar 12 02:49:38 +0000 2025",
+      "text": "@0xBalloonLover crypto is open source.\n\nit's not the end of crypto's OSS era, it's just the end of c..."
+    },
+    {
+      "index": 108,
+      "id": "1899653641088258370",
+      "createdAt": "Wed Mar 12 02:48:16 +0000 2025",
+      "text": "@LoganJastremski @nickwh8te OP didn't say anything that implied centralized sequencers"
+    },
+    {
+      "index": 109,
+      "id": "1899653530400456764",
+      "createdAt": "Wed Mar 12 02:47:50 +0000 2025",
+      "text": "@aeyakovenko @nickwh8te this is the answer"
+    },
+    {
+      "index": 110,
+      "id": "1899651895188222085",
+      "createdAt": "Wed Mar 12 02:41:20 +0000 2025",
+      "text": "scaling infrastructure as a shitpost\n\nthis is top tier performance art\n\nfuck it i'll bridge. let's g..."
+    },
+    {
+      "index": 111,
+      "id": "1899651563146092597",
+      "createdAt": "Wed Mar 12 02:40:01 +0000 2025",
+      "text": "@FourVork Yeah, the decentralized fork will still be usable and will have some value to cryptopunks ..."
+    },
+    {
+      "index": 112,
+      "id": "1899571358280880185",
+      "createdAt": "Tue Mar 11 21:21:18 +0000 2025",
+      "text": "@FourVork No, it's very far from the price of ETH, but it's still worth something, because it's valu..."
+    },
+    {
+      "index": 113,
+      "id": "1899570259973050749",
+      "createdAt": "Tue Mar 11 21:16:56 +0000 2025",
+      "text": "@FourVork Ethereum is totally forkable. The question is if the decentralized fork still retains valu..."
+    },
+    {
+      "index": 114,
+      "id": "1899552034824798311",
+      "createdAt": "Tue Mar 11 20:04:31 +0000 2025",
+      "text": "@signetsh very cool if that's the idea!"
+    },
+    {
+      "index": 115,
+      "id": "1899551819707105593",
+      "createdAt": "Tue Mar 11 20:03:40 +0000 2025",
+      "text": "@signetsh Ohhh but maybe conditional transfers make it possible for a dev to build a ZK bridge that ..."
+    },
+    {
+      "index": 116,
+      "id": "1899551128326738237",
+      "createdAt": "Tue Mar 11 20:00:55 +0000 2025",
+      "text": "@signetsh so... the deposit flow is a lock-and-mint from Ethereum to Signet, and withdrawals are tra..."
+    },
+    {
+      "index": 117,
+      "id": "1899549566048809076",
+      "createdAt": "Tue Mar 11 19:54:43 +0000 2025",
+      "text": "@signetsh is the Passage contract... a one way bridge???"
+    },
+    {
+      "index": 118,
+      "id": "1899546565380854113",
+      "createdAt": "Tue Mar 11 19:42:47 +0000 2025",
+      "text": "@0xMisaligned bro they just have accounts"
+    },
+    {
+      "index": 119,
+      "id": "1899540503932305761",
+      "createdAt": "Tue Mar 11 19:18:42 +0000 2025",
+      "text": "@pseudotheos @lex_node @Tiza4ThePeople $3B of capital considers code as law to be a valuable aspect ..."
+    },
+    {
+      "index": 120,
+      "id": "1899540181251666370",
+      "createdAt": "Tue Mar 11 19:17:25 +0000 2025",
+      "text": "@lex_node @Tiza4ThePeople if this naive oversimplification was correct, ETC would be worth zero (it ..."
+    },
+    {
+      "index": 121,
+      "id": "1899539737544884427",
+      "createdAt": "Tue Mar 11 19:15:39 +0000 2025",
+      "text": "@lex_node @Tiza4ThePeople no, the centrally captured fork will not retain all the value of the marke..."
+    },
+    {
+      "index": 122,
+      "id": "1899539368982765668",
+      "createdAt": "Tue Mar 11 19:14:11 +0000 2025",
+      "text": "we got another one falling for the meme"
+    },
+    {
+      "index": 123,
+      "id": "1899537202385940683",
+      "createdAt": "Tue Mar 11 19:05:35 +0000 2025",
+      "text": "@portport255 the real culprit: https://t.co/sJX9b8HuKu"
+    },
+    {
+      "index": 124,
+      "id": "1899515071874629820",
+      "createdAt": "Tue Mar 11 17:37:39 +0000 2025",
+      "text": "@starlovehand The name itself is a hilarious oxymoron"
+    },
+    {
+      "index": 125,
+      "id": "1899507964089602366",
+      "createdAt": "Tue Mar 11 17:09:24 +0000 2025",
+      "text": "Do not give an inch to these people.\n\nOFAC needs to be audited and held accountable for their neglig..."
+    },
+    {
+      "index": 126,
+      "id": "1899442769338232839",
+      "createdAt": "Tue Mar 11 12:50:20 +0000 2025",
+      "text": "24/7 nasdaq and perps for burgers\n\nDeregulation means TradFi will copy everything you thought could ..."
+    },
+    {
+      "index": 127,
+      "id": "1899288150461080057",
+      "createdAt": "Tue Mar 11 02:35:56 +0000 2025",
+      "text": "@EthBushwick The scrolltax fanbase should be fully blacklisted at this point"
+    },
+    {
+      "index": 128,
+      "id": "1899280443498709323",
+      "createdAt": "Tue Mar 11 02:05:19 +0000 2025",
+      "text": "@lex_node Great now Sam Altman has your alpha"
+    },
+    {
+      "index": 129,
+      "id": "1899280194780721622",
+      "createdAt": "Tue Mar 11 02:04:20 +0000 2025",
+      "text": "@Euler__Lagrange Reasoning by analogy 🤣"
+    },
+    {
+      "index": 130,
+      "id": "1899270494018261108",
+      "createdAt": "Tue Mar 11 01:25:47 +0000 2025",
+      "text": "@Euler__Lagrange @VinayakDKurup @SuccinctLabs weird flex"
+    },
+    {
+      "index": 131,
+      "id": "1899252431940174031",
+      "createdAt": "Tue Mar 11 00:14:00 +0000 2025",
+      "text": "@Euler__Lagrange @VinayakDKurup @SuccinctLabs Your protocol is great but it’s still not as good as i..."
+    },
+    {
+      "index": 132,
+      "id": "1899221897021379014",
+      "createdAt": "Mon Mar 10 22:12:40 +0000 2025",
+      "text": "@swen_sjn please no lol"
+    },
+    {
+      "index": 133,
+      "id": "1899220872994619586",
+      "createdAt": "Mon Mar 10 22:08:36 +0000 2025",
+      "text": "my goal as a humble solutions engineer is to ensure that our grandchildren can integrate arbitrary z..."
+    },
+    {
+      "index": 134,
+      "id": "1899191704642638015",
+      "createdAt": "Mon Mar 10 20:12:42 +0000 2025",
+      "text": "@LucidSamuel_ for which, stage 2 or decentralized sequencers?\n\nFor the former: arbitrum, optimism, a..."
+    },
+    {
+      "index": 135,
+      "id": "1899187363890274581",
+      "createdAt": "Mon Mar 10 19:55:27 +0000 2025",
+      "text": "@LucidSamuel_ stage 2 can still have centralized sequencers that aren't able to censor or steal fund..."
+    },
+    {
+      "index": 136,
+      "id": "1899186435422302402",
+      "createdAt": "Mon Mar 10 19:51:46 +0000 2025",
+      "text": "@portport255 @LucidSamuel_ wait wtf that's awesome, i had no idea it was so far along. \n\nZKSync rais..."
+    },
+    {
+      "index": 137,
+      "id": "1899186052255957062",
+      "createdAt": "Mon Mar 10 19:50:14 +0000 2025",
+      "text": "@LucidSamuel_ centralized sequencer has nothing to do with whether or not it's secured by a multisig"
+    }
+  ]
+}

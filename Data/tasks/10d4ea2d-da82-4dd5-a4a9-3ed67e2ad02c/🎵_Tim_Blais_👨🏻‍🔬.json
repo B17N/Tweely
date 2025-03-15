@@ -1,0 +1,2182 @@
+{
+  "username": "🎵 Tim Blais 👨🏻‍🔬",
+  "fetchedAt": "2025-03-15T16:01:50.790Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 15:30:00 +0000 2025",
+      "conversation_id_str": "1900932502534984018",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/FizmjSgR1R",
+            "expanded_url": "https://x.com/acapellascience/status/1900932502534984018/video/1",
+            "id_str": "1900873187082059776",
+            "indices": [
+              128,
+              151
+            ],
+            "media_key": "7_1900873187082059776",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1900873187082059776/pu/img/D7lVfniWKd9kmBjC.jpg",
+            "type": "video",
+            "url": "https://t.co/FizmjSgR1R",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1920,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1920,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 38400,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/pl/9qGPicxPNo8SoBjM.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/vid/avc1/320x568/jGQU0SbhQXomU8I7.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/vid/avc1/480x852/Dr7OkSpQy6I4XXbj.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/vid/avc1/720x1280/x83kD1fe3TcUV7Vw.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1900873187082059776"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "61592079",
+            "name": "Hank Green",
+            "screen_name": "hankgreen",
+            "indices": [
+              18,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/FizmjSgR1R",
+            "expanded_url": "https://x.com/acapellascience/status/1900932502534984018/video/1",
+            "id_str": "1900873187082059776",
+            "indices": [
+              128,
+              151
+            ],
+            "media_key": "7_1900873187082059776",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1900873187082059776/pu/img/D7lVfniWKd9kmBjC.jpg",
+            "type": "video",
+            "url": "https://t.co/FizmjSgR1R",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 1920,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1920,
+              "width": 1080,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 38400,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/pl/9qGPicxPNo8SoBjM.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/vid/avc1/320x568/jGQU0SbhQXomU8I7.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/vid/avc1/480x852/Dr7OkSpQy6I4XXbj.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1900873187082059776/pu/vid/avc1/720x1280/x83kD1fe3TcUV7Vw.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1900873187082059776"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "I had a call with @hankgreen and he challenged me to make a video in a week about coral bleaching\n\ni took two weeks. sorry hank https://t.co/FizmjSgR1R",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1900932502534984018",
+      "url": "https://x.com/acapellascience/status/1900932502534984018",
+      "views_count": "111",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 12:06:01 +0000 2025",
+      "conversation_id_str": "1900881165692604457",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "putting out my first of a new series of shorts today. two weeks from first ideation to final product! i like this pipeline, feels aligned and i believe with the right optimizations i can get it down to a week or so",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1900881165692604457",
+      "url": "https://x.com/acapellascience/status/1900881165692604457",
+      "views_count": "381",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 14:56:47 +0000 2025",
+      "conversation_id_str": "1899836977366630684",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "it's really the only way forward",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1899836977366630684",
+      "url": "https://x.com/acapellascience/status/1899836977366630684",
+      "views_count": "411",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 19:23:09 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@LizardOrman you mean in the standard model? a matrix-valued field, or several of those, which get dynamically broken down into simpler fields by spontaneous symmetry breaking. beyond that who knows. E8xE8 supergravity? strings? tiny gnomes trading gems in a gnome economy? who knows",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898816849434783826",
+      "url": "https://x.com/acapellascience/status/1898816849434783826",
+      "views_count": "13",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 15:50:01 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@LizardOrman yeah all the lepton fields interact and rotate into each other so what you call the field or the particle is a preference. the flavour eigenstates aren't the mass eigenstates which is why neutrinos can change flavour",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898763210594922722",
+      "url": "https://x.com/acapellascience/status/1898763210594922722",
+      "views_count": "17",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 15:43:59 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@LizardOrman mostly ppl shut up and calculate and don't worry too hard about the precise field dynamics of a propagating muon",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898761693460562307",
+      "url": "https://x.com/acapellascience/status/1898761693460562307",
+      "views_count": "10",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 15:43:21 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@LizardOrman yeah. altho if you find anyone who can actually picture a muon properly please let me know i have a youtube video i would like to make",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898761532722258234",
+      "url": "https://x.com/acapellascience/status/1898761532722258234",
+      "views_count": "14",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 15:42:38 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@LizardOrman the massive muon is known to be the dynamical consequence of two massless spinor fields and the Higgs (well okay actually it's the second mass eigenstate of the lepton flavour triplet but i digress)\n\nbut who knows if those fields are made of other things",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898761352811814951",
+      "url": "https://x.com/acapellascience/status/1898761352811814951",
+      "views_count": "48",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 15:41:12 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@LizardOrman anyways you should probably throw out the word \"elementary\", it's not useful and can never be proven",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898760994291101862",
+      "url": "https://x.com/acapellascience/status/1898760994291101862",
+      "views_count": "54",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 15:37:06 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/KI3BuH1FSt",
+            "expanded_url": "https://x.com/acapellascience/status/1898759960764272796/photo/1",
+            "id_str": "1898759953759760385",
+            "indices": [
+              198,
+              221
+            ],
+            "media_key": "3_1898759953759760385",
+            "media_url_https": "https://pbs.twimg.com/media/GlnAHi2WcAEZYw1.jpg",
+            "type": "photo",
+            "url": "https://t.co/KI3BuH1FSt",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 250,
+                "w": 250,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 250,
+                "w": 250,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 250,
+                "w": 250,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 250,
+              "width": 250,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 61,
+                  "w": 250,
+                  "h": 140
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 250,
+                  "h": 250
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 219,
+                  "h": 250
+                },
+                {
+                  "x": 44,
+                  "y": 0,
+                  "w": 125,
+                  "h": 250
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 250,
+                  "h": 250
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898759953759760385"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/KI3BuH1FSt",
+            "expanded_url": "https://x.com/acapellascience/status/1898759960764272796/photo/1",
+            "id_str": "1898759953759760385",
+            "indices": [
+              198,
+              221
+            ],
+            "media_key": "3_1898759953759760385",
+            "media_url_https": "https://pbs.twimg.com/media/GlnAHi2WcAEZYw1.jpg",
+            "type": "photo",
+            "url": "https://t.co/KI3BuH1FSt",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 250,
+                "w": 250,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 250,
+                "w": 250,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 250,
+                "w": 250,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 250,
+              "width": 250,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 61,
+                  "w": 250,
+                  "h": 140
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 250,
+                  "h": 250
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 219,
+                  "h": 250
+                },
+                {
+                  "x": 44,
+                  "y": 0,
+                  "w": 125,
+                  "h": 250
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 250,
+                  "h": 250
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898759953759760385"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@LizardOrman it's not a string theory thing but tbh i'm still trying to find a good geometric understanding of it. spinor fields are weird. but it's *something* like a hopf fibration-looking thing? https://t.co/KI3BuH1FSt",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898759960764272796",
+      "url": "https://x.com/acapellascience/status/1898759960764272796",
+      "views_count": "33",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 14:40:11 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@LizardOrman i don't know what you mean by \"blip\" i guess. geometrically a fermion is something like a topologically stable \"knot\" in a fermion field, but that knot is quantum mechanically spread out in a wave. muons are two of those waves, interlinked by the Higgs",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898745638029828401",
+      "url": "https://x.com/acapellascience/status/1898745638029828401",
+      "views_count": "19",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 12:45:50 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "75645800",
+            "name": "Orman",
+            "screen_name": "LizardOrman",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@LizardOrman replied with QT because i thought it was a useful clarifier",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898716861404967286",
+      "url": "https://x.com/acapellascience/status/1898716861404967286",
+      "views_count": "25",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sun Mar 09 12:42:25 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "nope! \"fundamental particles\" are a complex soup of interactions: your massive muon is two Weyl spinor waves interacting through the Higgs field, setting up sympathetic ripples in the EM field, which themselves set up sympathetic ripples (loop diagrams) in other fields",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898716000821903520",
+      "url": "https://x.com/acapellascience/status/1898716000821903520",
+      "views_count": "484",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 8,
+      "created_at": "Fri Mar 07 16:30:20 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 81,
+      "favorited": false,
+      "full_text": "but the fact that he figured it out without really understanding the microscopic mechanism for time dilation makes it so that's still how we teach it, and i think that makes a lot of people go \"ooooh spooky physics magic\"\n\ni should make a video exploring this",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 10,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898048579333239058",
+      "url": "https://x.com/acapellascience/status/1898048579333239058",
+      "views_count": "1799",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 5,
+      "created_at": "Fri Mar 07 16:29:27 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 80,
+      "favorited": false,
+      "full_text": "it's kind of insane that einstein figured this stuff out *just* from the constancy of the speed of light. by rights it could have taken a full understanding of quantum field theory to puzzle out, but it didn't",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898048360432468381",
+      "url": "https://x.com/acapellascience/status/1898048360432468381",
+      "views_count": "1737",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 5,
+      "created_at": "Fri Mar 07 16:26:59 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 86,
+      "favorited": false,
+      "full_text": "so the only way for you do go lightspeed is to be *entirely* phase-locked with yourself. and that means that from one point of the trajectory to another, any snapshot of you would be identical to any other snapshot of you. you are *frozen* as a single transmitted wave signal",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898047739096932507",
+      "url": "https://x.com/acapellascience/status/1898047739096932507",
+      "views_count": "1555",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Fri Mar 07 16:25:22 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 62,
+      "favorited": false,
+      "full_text": "here's the problem: the only way for you to travel at the speed of light is for all your waves to be lined up in precisely the *same* direction, going precisely the *same* speed. any internal movement while you went lightspeed would exceed the speed of light. impossible",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898047332672831709",
+      "url": "https://x.com/acapellascience/status/1898047332672831709",
+      "views_count": "1577",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 6,
+      "created_at": "Fri Mar 07 16:23:30 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 64,
+      "favorited": false,
+      "full_text": "how do you \"feel\" the passage of time? you feel it as a change in your internal state, which means something is changing relative to something else. in the \"i am waves\" picture your internal waves are clashing. they're going in different directions at different speeds and phasing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898046862008979891",
+      "url": "https://x.com/acapellascience/status/1898046862008979891",
+      "views_count": "1736",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Fri Mar 07 16:21:32 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 69,
+      "favorited": false,
+      "full_text": "people think of this as really spooky and random, i know i did\n\nit's not, really. its downstream from the fact that you are made of waves, and all those waves have the same top speed, and that speed is light speed. let me explain",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898046366724530338",
+      "url": "https://x.com/acapellascience/status/1898046366724530338",
+      "views_count": "1829",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 07 16:20:24 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 93,
+      "favorited": false,
+      "full_text": "in ST geometry the length of a path is best thought of as the subjective time experienced by an observer following that path\n\nso basically what this boils down to is that a lightspeed object experiences no time passing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898046080748569010",
+      "url": "https://x.com/acapellascience/status/1898046080748569010",
+      "views_count": "1837",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 227,
+      "created_at": "Fri Mar 07 16:18:55 +0000 2025",
+      "conversation_id_str": "1898045708004982995",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 696,
+      "favorited": false,
+      "full_text": "this is unironically how spacetime geometry works. time is represented as an imaginary dimension whose square is subtracted from pythagorean distance calculations, giving lightspeed 45-degree lines \"zero length\"",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 10,
+      "retweet_count": 41,
+      "retweeted": false,
+      "user_id_str": "780993961",
+      "id_str": "1898045708004982995",
+      "url": "https://x.com/acapellascience/status/1898045708004982995",
+      "views_count": "50136",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sat Aug 25 20:01:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Capella Scientist",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/acapellascience",
+                "expanded_url": "http://patreon.com/acapellascience",
+                "url": "https://t.co/WkUSzTXURK",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7061,
+        "followers_count": 12562,
+        "friends_count": 853,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 218,
+        "location": "",
+        "media_count": 1843,
+        "name": "🎵 Tim Blais 👨🏻‍🔬",
+        "normal_followers_count": 12562,
+        "pinned_tweet_ids_str": [
+          "1871975107847225416"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1613723885",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "acapellascience",
+        "statuses_count": 13209,
+        "translator_type": "none",
+        "url": "https://t.co/WkUSzTXURK",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1
+    ],
+    "2025-03-12": [
+      2
+    ],
+    "2025-03-09": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "2025-03-07": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "username": "Milojko Spajić",
+  "analyzedAt": "2025-03-15T18:28:23.808Z",
+  "tweetCount": 4,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 09:59:46 +0000 2025",
+    "latestTweet": "Sat Mar 15 13:32:07 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Milojko Spajić and provide a summary of what they mainly talked about in the past week:\n\nDržava Crna Gora će uvijek i u svakoj situaciji stati uz svoje građane 🇲🇪❤️\n\nTakođe, ne podržavamo miješanje naših zvaničnika u unutrašnju politiku drugih zemalja- prvo poslanik Knežević, a sada i Vuković- jer isti odnos očekujemo i prema Crnoj Gori. \nU vezi sa situacijom poslanika Vukovića naši nadležni organi su promptno reagovali prema kolegama iz Srbije i poslanik crnogorskog Parlamenta je već na putu ka Crnoj Gori.\n\nReforme otvaraju vrata za nove investicije i to EBRD prepoznaje! ✅ Nastavljamo sa velikim radom na privlačenju investicija koje donose ekonomski rast i otvaraju nova radna mjesta! 🚀🇲🇪❤️ https://t.co/letEb9VBTn\n\nSjutra ćemo se sresti sa predsjednikom opštine Ulcinj i  razgovarati o zabrinutostima Ulcinjana koji se tiču zakupa plaža. https://t.co/dSKTUJ9S6i\n\nIvica Kostelić je dobro i oporavlja se u barskoj bolnici. Izuzetno je zahvalan Vojsci 🇲🇪 za pravovremenu reakciju, kao i medicinskom kadru naše zemlje. Legendarni 🇭🇷 skijaš boravio je prethodnih dana na Prokletijama i rijeci Bojani - promovišući ljepote ovih naših dragulja, koji prema Kostelićevim riječima imaju ogroman potencijal i za ekstremne sportove. Ivice, ponovo nam dođi u goste! 🇲🇪🇭🇷🇪🇺❤️"
+  },
+  "summary": "The main topics discussed by @Milojko Spajić in the past week include:\n1. Support for citizens of Montenegro and non-interference in other countries' internal politics.\n2. Reforms to attract new investments and promote economic growth.\n3. Meeting with the mayor of Ulcinj to address concerns about beach leases.\n4. Health update on Ivica Kostelić and his promotion of Montenegro's natural beauty and potential for extreme sports. Sentiments expressed are positive and supportive of Montenegro and its initiatives.",
+  "keyTopics": [
+    "Support for citizens of Montenegro and non-interference in other countries' internal politics",
+    "Reforms to attract new investments and promote economic growth",
+    "Meeting with the mayor of Ulcinj to address concerns about beach leases",
+    "Health update on Ivica Kostelić and his promotion of Montenegro's natural beauty and potential for extreme sports"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900902833878114563",
+      "createdAt": "Sat Mar 15 13:32:07 +0000 2025",
+      "text": "Država Crna Gora će uvijek i u svakoj situaciji stati uz svoje građane 🇲🇪❤️\n\nTakođe, ne podržavamo..."
+    },
+    {
+      "index": 1,
+      "id": "1900208643225624991",
+      "createdAt": "Thu Mar 13 15:33:39 +0000 2025",
+      "text": "Reforme otvaraju vrata za nove investicije i to EBRD prepoznaje! ✅ Nastavljamo sa velikim radom na p..."
+    },
+    {
+      "index": 2,
+      "id": "1899571097432973764",
+      "createdAt": "Tue Mar 11 21:20:16 +0000 2025",
+      "text": "Sjutra ćemo se sresti sa predsjednikom opštine Ulcinj i  razgovarati o zabrinutostima Ulcinjana koji..."
+    },
+    {
+      "index": 3,
+      "id": "1899399844457755002",
+      "createdAt": "Tue Mar 11 09:59:46 +0000 2025",
+      "text": "Ivica Kostelić je dobro i oporavlja se u barskoj bolnici. Izuzetno je zahvalan Vojsci 🇲🇪 za pravov..."
+    }
+  ]
+}

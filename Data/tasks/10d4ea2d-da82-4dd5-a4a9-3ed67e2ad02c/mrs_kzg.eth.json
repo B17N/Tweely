@@ -1,0 +1,3191 @@
+{
+  "username": "mrs kzg.eth",
+  "fetchedAt": "2025-03-15T15:55:31.351Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 09:05:00 +0000 2025",
+      "conversation_id_str": "1900835613193978358",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "why is writing so fucking hard\n(yes, i know about LLMs)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900835613193978358",
+      "url": "https://x.com/kassandraETH/status/1900835613193978358",
+      "views_count": "1085",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 15:22:19 +0000 2025",
+      "conversation_id_str": "1900207158802653498",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1123513559722463232",
+            "name": "Josh | ⬛🟥⬛",
+            "screen_name": "TBSocialist",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@TBSocialist i was chaotic neutral",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900568179509784817",
+      "url": "https://x.com/kassandraETH/status/1900568179509784817",
+      "views_count": "24",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 11:38:17 +0000 2025",
+      "conversation_id_str": "1900177666583781718",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "17104894",
+            "name": "suiiii",
+            "screen_name": "su1c1de",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@su1c1de totally agree you should be able to get all the fine grained detail if you so desire it as a user.\n\nalso likely you'd want a \"low-level mode\" in the wallet to be able to operate \"the old fashioned way\" (do txs and signatures address-by-address) if user so desires/needs",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900511799008456900",
+      "url": "https://x.com/kassandraETH/status/1900511799008456900",
+      "views_count": "9",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 06:56:13 +0000 2025",
+      "conversation_id_str": "1900177666583781718",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1290775782051270663",
+            "name": "ghadi.justan.id",
+            "screen_name": "ghadi8798",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@ghadi8798 yes i want ethereum wallets that are more like bitcoin wallets\n\naddress reuse could be an anti-pattern in ethereum too",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900440817241629164",
+      "url": "https://x.com/kassandraETH/status/1900440817241629164",
+      "views_count": "32",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:05:14 +0000 2025",
+      "conversation_id_str": "1900261892158836820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1496982313858699267",
+            "name": "Crypto: The Game",
+            "screen_name": "cryptothegame_",
+            "indices": [
+              51,
+              66
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "and just like that... i'm now on the Gold Tribe in @cryptothegame_",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900261892158836820",
+      "url": "https://x.com/kassandraETH/status/1900261892158836820",
+      "views_count": "189",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 13:31:08 +0000 2025",
+      "conversation_id_str": "1900177666583781718",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "gist.github.com/kassandraoftro…",
+            "expanded_url": "https://gist.github.com/kassandraoftroy/fdcbbdca8f222a6434acc1ab281de8b2",
+            "url": "https://t.co/78yNCsTxGj",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "you can see longer version with some more detail here: https://t.co/78yNCsTxGj",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900177810024517691",
+      "url": "https://x.com/kassandraETH/status/1900177810024517691",
+      "views_count": "193",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 7,
+      "created_at": "Thu Mar 13 13:30:33 +0000 2025",
+      "conversation_id_str": "1900177666583781718",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 18,
+      "favorited": false,
+      "full_text": "Long Post Alert!\n\nAbridged version of a piece I am working on called\n\n\"Rethinking Ethereum Wallets\"\n\nEthereum's account and wallet model for end users has barely evolved since its early days. The assumption that \"a user account == a single address\" (usually an Externally Owned Account, or EOA) is the _original sin_ of Ethereum wallet UX. This outdated paradigm is holding back innovation and making Ethereum needlessly complex, cumbersome, and privacy-leaking for users.\n\nWhen you open MetaMask, Rabby, Rainbow, or any other browser wallet, you see a dropdown list of EOAs--single-address accounts that you must manually switch between. Each address is treated as an isolated entity/identity/namespace, and is utilized as a separate signer and transaction originator. The result is that users are forced to manage their assets and interactions at the _individual address level_, rather than at a more _abstract account level_.\n\nEven more modern smart contract wallets (such as Safe) still model a user \"account\" as a single address. These wallets give us _account abstraction_ in the form of flexible authorization policies on a single user account and _gas abstraction_ since any EOA can relay authorized transactions and pay gas on behalf of the user account, but make no direct progress on what we might call _address abstraction_ since the user is still operating in a paradigm where their multi-signature \"account\" is conceptualized as a single blockchain address on a single chain rather than a unified, multi-address, multi-chain \"account.\"\n\nNote that none of this is about taking a \"cheap shot\" at existing user account solutions. What we have today with EOA based wallets is an entirely valid and necessary low-level way to be able to interact with the chain and explicitly authorize signatures from each private key to sign messages or initiate transactions. It is also a highly natural way to organize wallets given the functionalities of ethereum and the tools and standards that were available in the past. However, new tools are coming to ethereum (e.g. EIP-7702 giving EOAs superpowers, ERC-7683 standardizing cross chain intents, and more) which give us the opportunity to redesign the user wallet UX from the ground up. And my argument is this is exactly what we should do!\n\nThe single-address account model for user wallets is a fundamental UX bottleneck. It locks users into a primitive, low-level way of interacting with Ethereum--forcing them to think about individual addresses rather than a unified account that intelligently manages multiple addresses and chains under the hood.\n\nIf we want to improve Ethereum’s UX, we must move away from the “address-by-address” wallet model and rethink what an account actually means.\n\nInstead of presenting users with a list of EOAs, wallets should present a list of \"User Accounts\" or \"User Identities\"—each one fully an abstraction over multiple EOAs, smart contract accounts, chains, and privacy protocols.\n\nWith this model:\n\n- A user sees a unified account balance (aggregated across a number of addresses and chains etc). User doesn't have to think about address-level concerns.\n\n- When interacting onchain, the wallet intelligently selects which funds in which address(es) on what chain(s) to use (considering privacy, efficiency, bridging etc). User never has to manually worry about bridging or not having gas funds in the right address again.\n\n- User operations automatically bundle necessary steps of a UserOp (cross chain bridging, stealth transfers, deposits/withdraws to privacy protocols, gas payments to relayers) behind the scenes. User only does a single authorization in the wallet even for a complex multi-step operation.\n\n- Users get basic privacy by default from the wallet. Ideally the wallet could expose the privacy trade-offs to users from there (to maintain strong privacy for certain types of UserOps could require sacrificing on speed and/or cost of execution)\n\nTo the user, this should feel a lot like a browser wallet today, but under the hood, the wallet is dynamically managing multiple addresses, chains, and privacy mechanisms in an opinionated and optimized way.\n\nWDYT???",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 8,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900177666583781718",
+      "url": "https://x.com/kassandraETH/status/1900177666583781718",
+      "views_count": "913",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 09:07:49 +0000 2025",
+      "conversation_id_str": "1899827326235369769",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "831338680975384577",
+            "name": "evgeny 毅夫",
+            "screen_name": "evgeth_",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@evgeth_ they're going to both",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1900111546631487490",
+      "url": "https://x.com/kassandraETH/status/1900111546631487490",
+      "views_count": "52",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 18:30:44 +0000 2025",
+      "conversation_id_str": "1899732051776954657",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1887845342588076032",
+            "name": "Curvy Protocol",
+            "screen_name": "0xCurvy",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "1477134773562712064",
+            "name": "Dhruv (🛠, 🇮🇳)",
+            "screen_name": "0xdhruva",
+            "indices": [
+              9,
+              18
+            ]
+          },
+          {
+            "id_str": "1489196430443126785",
+            "name": "fluidkey.eth",
+            "screen_name": "fluidkey",
+            "indices": [
+              19,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@0xCurvy @0xdhruva @fluidkey this is also a way to get a “multisig” stealth addresses protocol but requires offchain MPC yeah",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899890820733354424",
+      "url": "https://x.com/kassandraETH/status/1899890820733354424",
+      "views_count": "36",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 14:34:15 +0000 2025",
+      "conversation_id_str": "1899515970760192358",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1388270448652193796",
+            "name": "m-j-r.eth",
+            "screen_name": "0x_m_j_r",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@0x_m_j_r what do you mean exactly?\n\nrecipient can def “preset” their intent to receive privately thats what a  “stealth meta address” is all about\n\ni generate a fresh anon address myself and send it stuff so bob owns the stuff without coordinating with bob directly (i just use his SMA)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899831308508963024",
+      "url": "https://x.com/kassandraETH/status/1899831308508963024",
+      "views_count": "36",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 08:43:12 +0000 2025",
+      "conversation_id_str": "1899732051776954657",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1477134773562712064",
+            "name": "Dhruv (🛠, 🇮🇳)",
+            "screen_name": "0xdhruva",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1489196430443126785",
+            "name": "fluidkey.eth",
+            "screen_name": "fluidkey",
+            "indices": [
+              10,
+              19
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@0xdhruva @fluidkey no not exactly AFAIU they use SAFEs yes but not really as a “multisig” \n\nthis is slightly different idea",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899742963019780427",
+      "url": "https://x.com/kassandraETH/status/1899742963019780427",
+      "views_count": "91",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 08:16:02 +0000 2025",
+      "conversation_id_str": "1899467313230795050",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1611048860742258688",
+            "name": "Web3Privacy Now",
+            "screen_name": "web3privacy",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@web3privacy nice",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899736127810007296",
+      "url": "https://x.com/kassandraETH/status/1899736127810007296",
+      "views_count": "47",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 08:12:54 +0000 2025",
+      "conversation_id_str": "1899732051776954657",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1622982192518537217",
+            "name": "://namesys.eth/acc 📨",
+            "screen_name": "namesys_eth",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@namesys_eth yeah lots of cool stuff we could do with aggregate-able signatures",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899735337594765666",
+      "url": "https://x.com/kassandraETH/status/1899735337594765666",
+      "views_count": "52",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 6,
+      "created_at": "Wed Mar 12 07:59:51 +0000 2025",
+      "conversation_id_str": "1899732051776954657",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 36,
+      "favorited": false,
+      "full_text": "simple idea! STEALTH SAFES 👀 \n\na system to create safes with the same signer IDENTITIES but entirely unlinked signer ADDRESSES.\n\nit's basically stealth addresses but now works for multisig too\n\njust need each of the signers to register stealth meta address on 6538 registry",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899732051776954657",
+      "url": "https://x.com/kassandraETH/status/1899732051776954657",
+      "views_count": "2007",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 06:34:05 +0000 2025",
+      "conversation_id_str": "1899515970760192358",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1569114062834864130",
+            "name": "brechy.eth",
+            "screen_name": "brechy_",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@brechy_ exactly.\nits not a full solution to STAY private, but it allows you to START private (when receiving from 3rd party) and decide how to proceed from there",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899710469478154681",
+      "url": "https://x.com/kassandraETH/status/1899710469478154681",
+      "views_count": "51",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 20:59:02 +0000 2025",
+      "conversation_id_str": "1899515970760192358",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1738717824238153728",
+            "name": "velvetkeyboard",
+            "screen_name": "velvetkeyboard",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@velvetkeyboard no\n\n(i have a command line tool. and more stuff coming. but major wallet integration would be the best thing)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899565753671802969",
+      "url": "https://x.com/kassandraETH/status/1899565753671802969",
+      "views_count": "66",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Tue Mar 11 17:41:13 +0000 2025",
+      "conversation_id_str": "1899515970760192358",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 33,
+      "favorited": false,
+      "full_text": "stealth addresses everywhere on evm chains\nits SO ACHIEVABLE\nERC 5564 and 6538 are simple enough standards for all wallets to support at least minimally\nbasic privacy for bob.eth so that if anyone sends funds to bob.eth funds get sent to an unlinked address bob secretly controls",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 5,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899515970760192358",
+      "url": "https://x.com/kassandraETH/status/1899515970760192358",
+      "views_count": "1594",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:33:42 +0000 2025",
+      "conversation_id_str": "1899224071776194861",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2193335140",
+            "name": "Ben DiFrancesco",
+            "screen_name": "BenDiFrancesco",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@BenDiFrancesco 😅",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899227188546998294",
+      "url": "https://x.com/kassandraETH/status/1899227188546998294",
+      "views_count": "57",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 21:56:17 +0000 2025",
+      "conversation_id_str": "1899203168954671497",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1042176455088726016",
+            "name": "finally",
+            "screen_name": "CryptoFinally",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@CryptoFinally im sorry. i fucked up.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899217772736893253",
+      "url": "https://x.com/kassandraETH/status/1899217772736893253",
+      "views_count": "41",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 21:52:25 +0000 2025",
+      "conversation_id_str": "1899215073425420538",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2193335140",
+            "name": "Ben DiFrancesco",
+            "screen_name": "BenDiFrancesco",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@BenDiFrancesco how much you need?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899216801956843804",
+      "url": "https://x.com/kassandraETH/status/1899216801956843804",
+      "views_count": "55",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 20:30:36 +0000 2025",
+      "conversation_id_str": "1899189512980586512",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "my favorite way to do this is to give the dapp a fresh EOA and then dapp constructs payloads AS IF one were to do interactions from the EOA (and eoa was funded w relevant tokens)\n\nnow wallet can 7702 eoa and figure out the full ops bundle including dapp generated payloads at end",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899196211229290560",
+      "url": "https://x.com/kassandraETH/status/1899196211229290560",
+      "views_count": "164",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 20:03:59 +0000 2025",
+      "conversation_id_str": "1899189512980586512",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "also wallet &lt;&gt; defi app INTERACTION needs to change\n\nthe dapp needs to give the wallet enough info (payloads etc) to construct a user operation, but the wallet should take it from there (e.g. it might be some fancy cross-chain intents user op that actually fulfills)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899189512980586512",
+      "url": "https://x.com/kassandraETH/status/1899189512980586512",
+      "views_count": "405",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:28:41 +0000 2025",
+      "conversation_id_str": "1899180627066577267",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 17,
+      "favorited": false,
+      "full_text": "finallyyyyy NICE WORK CORE DEVS",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899180627066577267",
+      "url": "https://x.com/kassandraETH/status/1899180627066577267",
+      "views_count": "615",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 17:46:31 +0000 2025",
+      "conversation_id_str": "1899154918025449772",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "hey who knows a lot about BIP32/39/44 and ERC600\n\nwhat is state of HD wallet paths today in ethereum?\n\nmost still use m/44'/60'/0'/0/0 right?\n\nWHY? i want to propose a \"canonical\" place to find stealth meta address spending and viewing keys on the HD wallet path",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899154918025449772",
+      "url": "https://x.com/kassandraETH/status/1899154918025449772",
+      "views_count": "484",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 10:49:50 +0000 2025",
+      "conversation_id_str": "1899049066211774626",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "TO BE CLEAR\n\ni mean that the dropdown menu should not be a list of raw \"addresses\", that we operate on each one at a time.\n\nthe dropdown should be a list of \"accounts\" each one which allows you to operate seamlessly on a bunch of addresses without even caring/knowing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899050057283874999",
+      "url": "https://x.com/kassandraETH/status/1899050057283874999",
+      "views_count": "210",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Mon Mar 10 10:45:54 +0000 2025",
+      "conversation_id_str": "1899049066211774626",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "we need to redo the wallet/auth layer, and do it right this time\n\n\"wallet\" == \"address\" is the original sin of ethereum accounts mgmt and it is going to be painful to unlearn this\n\na \"wallet\" or \"account\" needs to be an abstraction over simple address space (just like w btc)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899049066211774626",
+      "url": "https://x.com/kassandraETH/status/1899049066211774626",
+      "views_count": "427",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 10:36:34 +0000 2025",
+      "conversation_id_str": "1899033368567882177",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1289834351803265025",
+            "name": "dart",
+            "screen_name": "poordart",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "@poordart i found the rhetoric so alarming that i wanted to understand it more in detail\n\nbut i got blocked eventually",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1899046715220517222",
+      "url": "https://x.com/kassandraETH/status/1899046715220517222",
+      "views_count": "501",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 19:00:31 +0000 2025",
+      "conversation_id_str": "1898798747871809689",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1334465986209193984",
+            "name": "⟡ ݁.₊⊹♡ purr-chan ࣪₊˚⊹ ᰔ",
+            "screen_name": "PurrcatChan",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@PurrcatChan literally",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898811151032438807",
+      "url": "https://x.com/kassandraETH/status/1898811151032438807",
+      "views_count": "70",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 09:08:57 +0000 2025",
+      "conversation_id_str": "1898662277475135509",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "this is the future\nand the future is going to be wild",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898662277475135509",
+      "url": "https://x.com/kassandraETH/status/1898662277475135509",
+      "views_count": "487",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 17:58:30 +0000 2025",
+      "conversation_id_str": "1898413530136625421",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1012258586406375424",
+            "name": "Leo Alt",
+            "screen_name": "leonardoalt",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "1240237444945121280",
+            "name": "Solidity",
+            "screen_name": "solidity_lang",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@leonardoalt @solidity_lang its relied upon to be rock solid\nthank you 🫡",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898433158523335165",
+      "url": "https://x.com/kassandraETH/status/1898433158523335165",
+      "views_count": "207",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Sat Mar 08 17:57:08 +0000 2025",
+      "conversation_id_str": "1898432814434902249",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 17,
+      "favorited": false,
+      "full_text": "I’m trying Claude Code and its freaking me out lol\n\nalso the security implications omg claude can just make me a react app that phishes my metamask creds when i test it",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898432814434902249",
+      "url": "https://x.com/kassandraETH/status/1898432814434902249",
+      "views_count": "1177",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 13:55:32 +0000 2025",
+      "conversation_id_str": "1898367191768006888",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "the language in this is deeply influenced by foucault\n\n(or at the very least, massive overlap in vocabulary)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898372013338624493",
+      "url": "https://x.com/kassandraETH/status/1898372013338624493",
+      "views_count": "192",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 13:36:23 +0000 2025",
+      "conversation_id_str": "1898367191768006888",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "i am viiiiiiiiiibing with this",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898367191768006888",
+      "url": "https://x.com/kassandraETH/status/1898367191768006888",
+      "views_count": "827",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 12:23:52 +0000 2025",
+      "conversation_id_str": "1898337662777397758",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "63064338",
+            "name": "koeppelmann.eth 🦉💳",
+            "screen_name": "koeppelmann",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@koeppelmann neither?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898348944347803969",
+      "url": "https://x.com/kassandraETH/status/1898348944347803969",
+      "views_count": "197",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 10:35:51 +0000 2025",
+      "conversation_id_str": "1898321762531549219",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "if u want to do something and it sounds impossible- the answer is probably “zkSNARKs make it possible”",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898321762531549219",
+      "url": "https://x.com/kassandraETH/status/1898321762531549219",
+      "views_count": "1951",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 00:55:23 +0000 2025",
+      "conversation_id_str": "1898171858870059091",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1123513559722463232",
+            "name": "Josh | ⬛🟥⬛",
+            "screen_name": "TBSocialist",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@TBSocialist but we are not ready for that conversation",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "571214857",
+      "id_str": "1898175680199700827",
+      "url": "https://x.com/kassandraETH/status/1898175680199700827",
+      "views_count": "139",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Fri May 04 22:36:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "married to a certain polynomial commitment scheme",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kassandra.eth.limo",
+                "expanded_url": "https://kassandra.eth.limo/",
+                "url": "https://t.co/zPtoiKCnVY",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 68829,
+        "followers_count": 3954,
+        "friends_count": 2504,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 58,
+        "location": "",
+        "media_count": 207,
+        "name": "mrs kzg.eth",
+        "normal_followers_count": 3954,
+        "pinned_tweet_ids_str": [
+          "1878779143065841873"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571214857/1729605163",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883130265205186560/9P5P7w8h_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "kassandraETH",
+        "statuses_count": 12286,
+        "translator_type": "none",
+        "url": "https://t.co/zPtoiKCnVY",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0
+    ],
+    "2025-03-14": [
+      1,
+      2,
+      3
+    ],
+    "2025-03-13": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "2025-03-12": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "2025-03-11": [
+      15,
+      16
+    ],
+    "2025-03-10": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "2025-03-09": [
+      27,
+      28
+    ],
+    "2025-03-08": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  }
+}

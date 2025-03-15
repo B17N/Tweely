@@ -1,0 +1,4051 @@
+{
+  "username": "tim-clancy.eth",
+  "fetchedAt": "2025-03-15T15:58:08.315Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 22:47:40 +0000 2025",
+      "conversation_id_str": "1900665156042145827",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1538653263720873984",
+            "name": "0xjustadev.eth (⛽️,📉)",
+            "screen_name": "0xjustadev",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "1389990203390054405",
+            "name": "z80 👌☀️👌",
+            "screen_name": "0xz80",
+            "indices": [
+              12,
+              18
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@0xjustadev @0xz80 Some of what EOF enables is good. I'm pretty neutral on this.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900680256740356352",
+      "url": "https://x.com/_Enoch/status/1900680256740356352",
+      "views_count": "43",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 22:28:55 +0000 2025",
+      "conversation_id_str": "1900671810070274215",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1389990203390054405",
+            "name": "z80 👌☀️👌",
+            "screen_name": "0xz80",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@0xz80 I'm gonna become an Fe dev just to spite you.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900675535187181893",
+      "url": "https://x.com/_Enoch/status/1900675535187181893",
+      "views_count": "41",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 22:23:36 +0000 2025",
+      "conversation_id_str": "1900674197166452974",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "Guy who thinks major metropolitan areas that happen to be located outside of the USA are \"exotic locations.\" Newsflash bozo you can just take an airplane to Bangkok and it's like New York but I can also see more of my foreign friends.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900674197166452974",
+      "url": "https://x.com/_Enoch/status/1900674197166452974",
+      "views_count": "539",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 22:19:11 +0000 2025",
+      "conversation_id_str": "1900671810070274215",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1389990203390054405",
+            "name": "z80 👌☀️👌",
+            "screen_name": "0xz80",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@0xz80 I like that Fe exists. It's beautiful that we have our own esolang.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900673087458472443",
+      "url": "https://x.com/_Enoch/status/1900673087458472443",
+      "views_count": "109",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 22:13:04 +0000 2025",
+      "conversation_id_str": "1900665156042145827",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1389990203390054405",
+            "name": "z80 👌☀️👌",
+            "screen_name": "0xz80",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@0xz80 If we don't do it all at once then we have glue code forever in the clients.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900671547968548877",
+      "url": "https://x.com/_Enoch/status/1900671547968548877",
+      "views_count": "113",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 20:21:02 +0000 2025",
+      "conversation_id_str": "1900439398669292014",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1368527272018407427",
+            "name": "मनीष 🇮🇳 | manishks.eth",
+            "screen_name": "ManishKSingh79",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@ManishKSingh79 It's actually currently 36M. :)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900643351944458306",
+      "url": "https://x.com/_Enoch/status/1900643351944458306",
+      "views_count": "19",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 06:18:49 +0000 2025",
+      "conversation_id_str": "1899947765175603300",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1408039455999631361",
+            "name": "Guard",
+            "screen_name": "PoorGuard",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "22758405",
+            "name": "laurence",
+            "screen_name": "functi0nZer0",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@PoorGuard @functi0nZer0 Free as in Freedom, not beer. Fees are fine, common clause is bad.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900069016699625806",
+      "url": "https://x.com/_Enoch/status/1900069016699625806",
+      "views_count": "46",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 06:12:50 +0000 2025",
+      "conversation_id_str": "1899947765175603300",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "22758405",
+            "name": "laurence",
+            "screen_name": "functi0nZer0",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@functi0nZer0 If you were in it for tech alone you wouldn't be afraid of using a copyleft license.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1900067508033556572",
+      "url": "https://x.com/_Enoch/status/1900067508033556572",
+      "views_count": "211",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 20:19:52 +0000 2025",
+      "conversation_id_str": "1899796103601524934",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1402976022488879104",
+            "name": "dave 🪲",
+            "screen_name": "davetist",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "@davetist You are among my strongest.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899918282951381490",
+      "url": "https://x.com/_Enoch/status/1899918282951381490",
+      "views_count": "485",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 20:02:40 +0000 2025",
+      "conversation_id_str": "1899476624426348640",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "18552541",
+            "name": "KOOLSKULL",
+            "screen_name": "juanlarrazabal",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1744319208098287616",
+            "name": "Citrea",
+            "screen_name": "citrea_xyz",
+            "indices": [
+              16,
+              27
+            ]
+          },
+          {
+            "id_str": "1168944141449015296",
+            "name": "Celestia 🦣",
+            "screen_name": "celestia",
+            "indices": [
+              28,
+              37
+            ]
+          },
+          {
+            "id_str": "1569923013117706241",
+            "name": "zodomo/ (🌍,💻)",
+            "screen_name": "0xZodomo",
+            "indices": [
+              38,
+              47
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@juanlarrazabal @citrea_xyz @celestia @0xZodomo It's like a Bitcoin validium except it can't be equally trustless without OP_CAT so it's a shitty multisig like every other no-exit-window L2 to date.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899913955726024760",
+      "url": "https://x.com/_Enoch/status/1899913955726024760",
+      "views_count": "36",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 20:00:55 +0000 2025",
+      "conversation_id_str": "1896993695913914468",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1513988538571894787",
+            "name": "Tyler",
+            "screen_name": "tgwxyz",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "id_str": "169312819",
+            "name": "jill gunter ☕",
+            "screen_name": "jillrgunter",
+            "indices": [
+              8,
+              20
+            ]
+          },
+          {
+            "id_str": "1379448557711818759",
+            "name": "david phelps",
+            "screen_name": "divine_economy",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "id_str": "1762870829904171009",
+            "name": "pdes.igns",
+            "screen_name": "pdes_igns",
+            "indices": [
+              37,
+              47
+            ]
+          },
+          {
+            "id_str": "1103240404529491968",
+            "name": "Tyr Capital",
+            "screen_name": "Tyr_Capital",
+            "indices": [
+              48,
+              60
+            ]
+          },
+          {
+            "id_str": "1850985518831374336",
+            "name": "Sigil",
+            "screen_name": "Sigil_L2",
+            "indices": [
+              61,
+              70
+            ]
+          },
+          {
+            "id_str": "1433255150928416769",
+            "name": "joss 🦇🔊",
+            "screen_name": "joddoss",
+            "indices": [
+              97,
+              105
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@tgwxyz @jillrgunter @divine_economy @pdes_igns @Tyr_Capital @Sigil_L2 Nowhere other than me and @joddoss yet sorry. Website soon. Exit window internally first.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899913514183254484",
+      "url": "https://x.com/_Enoch/status/1899913514183254484",
+      "views_count": "75",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 18:47:16 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "17055081",
+            "name": "pgpg",
+            "screen_name": "paulgebheim",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@paulgebheim Controversial opinion.",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899894981734646030",
+      "url": "https://x.com/_Enoch/status/1899894981734646030",
+      "views_count": "7",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 05:07:19 +0000 2025",
+      "conversation_id_str": "1899684319532077315",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1333606579602599936",
+            "name": "terminally onλine εngineer 🇺🇦🇪🇺🇺🇸 ~ new era",
+            "screen_name": "tekbog",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@tekbog Congratulatiosn tekbog you are now Milady-adjacent.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899688633415704727",
+      "url": "https://x.com/_Enoch/status/1899688633415704727",
+      "views_count": "44",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 04:31:21 +0000 2025",
+      "conversation_id_str": "1899677489384796322",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1429011571833937921",
+            "name": "suzuha ⚡️🌙",
+            "screen_name": "dystopiabreaker",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@dystopiabreaker wauw.",
+      "is_quote_status": false,
+      "lang": "nl",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899679582745243810",
+      "url": "https://x.com/_Enoch/status/1899679582745243810",
+      "views_count": "152",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 03:53:34 +0000 2025",
+      "conversation_id_str": "1899668156630614320",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "etherscan.io/tx/0x3fb6cc349…",
+            "expanded_url": "https://etherscan.io/tx/0x3fb6cc349690de9b34143ad6d400fc64f3a0e0cfab598c7d6d791cf83ce5ec65",
+            "url": "https://t.co/3G39QOVK5X",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "709822647652196353",
+            "name": "Chairman Birb Bernanke",
+            "screen_name": "Bonecondor",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Bonecondor Still works on my machine. https://t.co/3G39QOVK5X",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899670072366436500",
+      "url": "https://x.com/_Enoch/status/1899670072366436500",
+      "views_count": "63",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 03:42:19 +0000 2025",
+      "conversation_id_str": "1899656276012826983",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "133202998",
+            "name": "Santosh A 🇮🇳",
+            "screen_name": "elviric",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "189518354",
+            "name": "Evan Van Ness 🧉",
+            "screen_name": "evan_van_ness",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@elviric @evan_van_ness The Merge was never about environmentalism; for mature networks switching to PoS greatly increases security.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899667242356211822",
+      "url": "https://x.com/_Enoch/status/1899667242356211822",
+      "views_count": "30",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 00:57:53 +0000 2025",
+      "conversation_id_str": "1899619809148428391",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/blockscout/blo…",
+            "expanded_url": "https://github.com/blockscout/blockscout",
+            "url": "https://t.co/RC5APYhTWk",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1389990203390054405",
+            "name": "z80 👌☀️👌",
+            "screen_name": "0xz80",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@0xz80 Blockscout is in Elixir https://t.co/RC5APYhTWk",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899625861139116415",
+      "url": "https://x.com/_Enoch/status/1899625861139116415",
+      "views_count": "77",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 00:56:27 +0000 2025",
+      "conversation_id_str": "1899575690904662080",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "721234540",
+            "name": "Andreas Bigger",
+            "screen_name": "andreaslbigger",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@andreaslbigger WRONG",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899625502005940489",
+      "url": "https://x.com/_Enoch/status/1899625502005940489",
+      "views_count": "86",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 00:55:12 +0000 2025",
+      "conversation_id_str": "1899622102715539750",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1461735251412193281",
+            "name": "mteam.eth 🗼",
+            "screen_name": "mteamisloading",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@mteamisloading It's a novel mechanism that ultimately does nothing at all to harden the unhappy path because we get the same censorship conditions that forced inclusion on existing ZK rollups have. Exit window or death!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899625186330087856",
+      "url": "https://x.com/_Enoch/status/1899625186330087856",
+      "views_count": "69",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 00:44:47 +0000 2025",
+      "conversation_id_str": "1899622102715539750",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1461735251412193281",
+            "name": "mteam.eth 🗼",
+            "screen_name": "mteamisloading",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@mteamisloading They seriously need to add a liveness condition to let others step in if the centralized co-signer dies.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899622563757576232",
+      "url": "https://x.com/_Enoch/status/1899622563757576232",
+      "views_count": "57",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 00:32:19 +0000 2025",
+      "conversation_id_str": "1899614063472308391",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "189518354",
+            "name": "Evan Van Ness 🧉",
+            "screen_name": "evan_van_ness",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@evan_van_ness This chart is going to look so nice when Lido dual governance releases and the prospective LDO attack has an exit window applied to it.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899619428993486965",
+      "url": "https://x.com/_Enoch/status/1899619428993486965",
+      "views_count": "492",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 23:33:53 +0000 2025",
+      "conversation_id_str": "1899544942323826765",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1525939274356600833",
+            "name": "RANDO",
+            "screen_name": "RandomCTGuy",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@RandomCTGuy Yes. I don't know. I don't care.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899604723126157813",
+      "url": "https://x.com/_Enoch/status/1899604723126157813",
+      "views_count": "40",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 23:23:14 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1405113174911766529",
+            "name": "Alice und Bob",
+            "screen_name": "alice_und_bob",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "1314872601949462530",
+            "name": "Gasp (🔮,🔮)",
+            "screen_name": "Gasp_xyz",
+            "indices": [
+              15,
+              24
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@alice_und_bob @Gasp_xyz This is what I meant with the trustless bridges from the respective L1s. The crux of my argument is the single \"proof of execution correctness\" L1. This construct is a rollup of exclusively that L1 with potentially other trustless bridges.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899602041493946769",
+      "url": "https://x.com/_Enoch/status/1899602041493946769",
+      "views_count": "154",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 22:02:55 +0000 2025",
+      "conversation_id_str": "1899544942323826765",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1525939274356600833",
+            "name": "RANDO",
+            "screen_name": "RandomCTGuy",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@RandomCTGuy Granted. Centralized mechanisms are unethical to launch and stage two is simply a decent metric by which to gauge a rollup's effort towards eliminating centralized mechanisms.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899581830900436992",
+      "url": "https://x.com/_Enoch/status/1899581830900436992",
+      "views_count": "99",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 20:39:38 +0000 2025",
+      "conversation_id_str": "1899544942323826765",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1792650324345323520",
+            "name": "Ethereum Intern",
+            "screen_name": "ethereumintern_",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@ethereumintern_ I did not do enough due diligence to confirm how this worked beyond finding the smoking liveness failure gun of this required sequencer co-signing.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899560869660680273",
+      "url": "https://x.com/_Enoch/status/1899560869660680273",
+      "views_count": "144",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 20:38:34 +0000 2025",
+      "conversation_id_str": "1899547025613422647",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1109180962800394241",
+            "name": "Eray",
+            "screen_name": "erayajk",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "3189369924",
+            "name": "𝖊𝖛𝖆𝖑𝖎𝖗",
+            "screen_name": "hievalir",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@erayajk @hievalir &gt;the smart contract should be unable to steal all of my money\n\nsorry for expecting this",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899560602147901877",
+      "url": "https://x.com/_Enoch/status/1899560602147901877",
+      "views_count": "34",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 19:54:34 +0000 2025",
+      "conversation_id_str": "1899544942323826765",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3189369924",
+            "name": "𝖊𝖛𝖆𝖑𝖎𝖗",
+            "screen_name": "hievalir",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@hievalir Your system is very good. It is very novel.\n\nWhy don't you put a liveness check on the centralized co-signer? If they don't show up for 12 hours anyone is allowed to sign.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899549529181200543",
+      "url": "https://x.com/_Enoch/status/1899549529181200543",
+      "views_count": "163",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 19:50:48 +0000 2025",
+      "conversation_id_str": "1899547025613422647",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3189369924",
+            "name": "𝖊𝖛𝖆𝖑𝖎𝖗",
+            "screen_name": "hievalir",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1413088055162978306",
+            "name": "L2BEAT 💗",
+            "screen_name": "l2beat",
+            "indices": [
+              150,
+              157
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@hievalir Calling trustlessness a frill is a despicable symptom of the ideological rot that has settled in during this last cycle of pure degeneracy; @l2beat does the work of angels by pushing definitions for honesty and highlighting the issues with Ethereum L2s and I simply do that here.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899548581867974670",
+      "url": "https://x.com/_Enoch/status/1899548581867974670",
+      "views_count": "97",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Tue Mar 11 19:36:20 +0000 2025",
+      "conversation_id_str": "1899544942323826765",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/pmyNJp3rdn",
+            "expanded_url": "https://x.com/_Enoch/status/1899544942323826765/photo/1",
+            "id_str": "1899542847059013632",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1899542847059013632",
+            "media_url_https": "https://pbs.twimg.com/media/GlyIJ7qWMAAeJur.jpg",
+            "type": "photo",
+            "url": "https://t.co/pmyNJp3rdn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 52,
+                    "y": 445,
+                    "h": 73,
+                    "w": 73
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 38,
+                    "y": 327,
+                    "h": 53,
+                    "w": 53
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 21,
+                    "y": 185,
+                    "h": 30,
+                    "w": 30
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 52,
+                    "y": 445,
+                    "h": 73,
+                    "w": 73
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 842,
+                "w": 1630,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 620,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 351,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 842,
+              "width": 1630,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1504,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 842,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 739,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 421,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1630,
+                  "h": 842
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899542847059013632"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/pmyNJp3rdn",
+            "expanded_url": "https://x.com/_Enoch/status/1899544942323826765/photo/1",
+            "id_str": "1899542847059013632",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1899542847059013632",
+            "media_url_https": "https://pbs.twimg.com/media/GlyIJ7qWMAAeJur.jpg",
+            "type": "photo",
+            "url": "https://t.co/pmyNJp3rdn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 52,
+                    "y": 445,
+                    "h": 73,
+                    "w": 73
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 38,
+                    "y": 327,
+                    "h": 53,
+                    "w": 53
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 21,
+                    "y": 185,
+                    "h": 30,
+                    "w": 30
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 52,
+                    "y": 445,
+                    "h": 73,
+                    "w": 73
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 842,
+                "w": 1630,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 620,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 351,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 842,
+              "width": 1630,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1504,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 842,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 739,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 421,
+                  "h": 842
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1630,
+                  "h": 842
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899542847059013632"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 31,
+      "favorited": false,
+      "full_text": "I appreciate all novel L2 work. Simple and pragmatic is good. But trustlessness is not a frill. If this rollup launches without an exit window then it is unethical. End of story. We just need an exit window.\n\nIt is equally as unethical as any lesser alt-L1 willingly sacrificing user security with weak tradeoffs. It is as unethical as any other rollup launching a mainnet without being stage two. Mechanisms whereby a centralized party can intervene to cause state to be lost or to prevent a user from reclaiming funds is not what we need to be building. This is another failure to deliver a solution to users that actually inherits Ethereum security properly.\n\nI hope talented teams reconsider taking shortcuts and building centralized mechanisms like this. We can do better, and users deserve better, and it's time to stop permitting a degree of centralized control in L2s that would be appalling in DeFi or worse than what OpenSea had five years ago.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 5,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899544942323826765",
+      "url": "https://x.com/_Enoch/status/1899544942323826765",
+      "views_count": "5492",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 18:30:30 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "77503692",
+            "name": "Roman Semenov 🌪️",
+            "screen_name": "semenov_roman_",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "I've been thinking about this more and you are obviously correct, this is how an exit window would work for either of the L1s. In that case my only contention would be that social consensus is not obvious and e.g. users who only want to be secured by Ethereum need to inquire of every project ahead of time to confirm that they intend to use Ethereum for the escape destination.\n\nWhat I am talking about and confused by is whether this is somehow a limitation imposed by Starknet in their current centralized state; there was some mention in their space today about \"dual finality\" which explicitly waits for both Ethereum and Bitcoin. They mentioned docs about this are forthcoming and I hope to read them to understand more.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899528375611662794",
+      "url": "https://x.com/_Enoch/status/1899528375611662794",
+      "views_count": "63",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:43:37 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "77503692",
+            "name": "Roman Semenov 🌪️",
+            "screen_name": "semenov_roman_",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "The issue is the escape hatch for the L2 on multiple L1s requires finality on all of the L1s to change state not part of the trustless bridges, i.e. the native state is subject to liveness of the weakest of the multiple L1s instead of inheriting only the security of the strongest.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899516575599784174",
+      "url": "https://x.com/_Enoch/status/1899516575599784174",
+      "views_count": "74",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:35:53 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "77503692",
+            "name": "Roman Semenov 🌪️",
+            "screen_name": "semenov_roman_",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Rollups offer the ability to do arbitrary mesasge-passing so any application can perform any migration that it needs. This can be relevant for applications and usecases that are non-financial and don't deal with assets at all; imagine exporting game data or social graph data like EFP, for instance. These are examples of state that would need to be generated directly on an L2 but which may have sufficient value to merit escaping to L1.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899514628238909465",
+      "url": "https://x.com/_Enoch/status/1899514628238909465",
+      "views_count": "65",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:21:07 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "77503692",
+            "name": "Roman Semenov 🌪️",
+            "screen_name": "semenov_roman_",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@semenov_roman_ I argue that if L2s are to scale Ethereum, we should have guarantees for state that is natively created on those L2s. Rollups do offer this.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899510913327088068",
+      "url": "https://x.com/_Enoch/status/1899510913327088068",
+      "views_count": "199",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:19:10 +0000 2025",
+      "conversation_id_str": "1896993695913914468",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "chii.nekoweb.org/files/milady_z…",
+            "expanded_url": "https://chii.nekoweb.org/files/milady_zine_01.pdf",
+            "url": "https://t.co/qC2qwfnA3c",
+            "indices": [
+              132,
+              155
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1513988538571894787",
+            "name": "Tyler",
+            "screen_name": "tgwxyz",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "id_str": "169312819",
+            "name": "jill gunter ☕",
+            "screen_name": "jillrgunter",
+            "indices": [
+              8,
+              20
+            ]
+          },
+          {
+            "id_str": "1379448557711818759",
+            "name": "david phelps",
+            "screen_name": "divine_economy",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "id_str": "1762870829904171009",
+            "name": "pdes.igns",
+            "screen_name": "pdes_igns",
+            "indices": [
+              37,
+              47
+            ]
+          },
+          {
+            "id_str": "1103240404529491968",
+            "name": "Tyr Capital",
+            "screen_name": "Tyr_Capital",
+            "indices": [
+              48,
+              60
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@tgwxyz @jillrgunter @divine_economy @pdes_igns @Tyr_Capital Distributed in-person at the Denver Soiree; scanned and uploaded here. https://t.co/qC2qwfnA3c",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899510422308302886",
+      "url": "https://x.com/_Enoch/status/1899510422308302886",
+      "views_count": "55",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Tue Mar 11 16:44:18 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "papers.ssrn.com/sol3/papers.cf…",
+            "expanded_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999",
+            "url": "https://t.co/11j21eK3W0",
+            "indices": [
+              167,
+              190
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "513341499",
+            "name": "A₿del ∞/21M",
+            "screen_name": "dimahledba",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "@dimahledba I would gladly take you up on that. Here is my primary literature for the economic security argument, which is perhaps the most contestable point of mine. https://t.co/11j21eK3W0",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899501646830297407",
+      "url": "https://x.com/_Enoch/status/1899501646830297407",
+      "views_count": "205",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 16:20:59 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "513341499",
+            "name": "A₿del ∞/21M",
+            "screen_name": "dimahledba",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "If the resources are separate, then fair enough. At least from your marketing and leadership, Bitcoin seems like a huge focus. As an Ethereum user, who has chosen Ethereum for a reason, who has historically been interested in what I believed would be an Ethereum L2, this is entirely uninteresting.\n\nBitcoin has no client diversity. It has lower total cost of attack than Ethereum. It lacks the geographic validator distribution of Ethereum. It lacks the decentralization inherent to systems free of huge operating expense. It suffers from an existential security budget issue. And all of that without even being fully programmable.\n\nI genuinely do not care at all whether or not Starknet ever has a trustless Bitcoin bridge. I care quite a lot about when Starknet becomes a viable option for actually scaling Ethereum.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899495780085317823",
+      "url": "https://x.com/_Enoch/status/1899495780085317823",
+      "views_count": "269",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:09:52 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "513341499",
+            "name": "A₿del ∞/21M",
+            "screen_name": "dimahledba",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 20,
+      "favorited": false,
+      "full_text": "@dimahledba Good luck. You guys do good work, just please focus on your exit window instead of playing in Bitcoin land.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899492980928471408",
+      "url": "https://x.com/_Enoch/status/1899492980928471408",
+      "views_count": "455",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:02:43 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "4516439475",
+            "name": "Joakim Isoaho (📌BERLIN)",
+            "screen_name": "joakimhi",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@joakimhi Correct, but \"this is a Bitcoin rollup or an Ethereum rollup depending on the application designer's choices\" is definitely messier than an L2 with a single clear destination for native state evacuation, and it's something that people do not talk about enough.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899491182226411823",
+      "url": "https://x.com/_Enoch/status/1899491182226411823",
+      "views_count": "285",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 15:34:55 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/Starknet/statu…",
+            "expanded_url": "https://x.com/Starknet/status/1899460308814716946",
+            "url": "https://t.co/R5dDdLol4H",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "In response to this. https://t.co/R5dDdLol4H",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899484187456835802",
+      "url": "https://x.com/_Enoch/status/1899484187456835802",
+      "views_count": "1293",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 42,
+      "created_at": "Tue Mar 11 15:34:55 +0000 2025",
+      "conversation_id_str": "1899484186018288012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 134,
+      "favorited": false,
+      "full_text": "How does an L2 settle to multiple L1s? This cannot be: either social consensus for all natively-issued state is required, or one assumes the security of the weaker L1.\n\nLet's be charitable and ignore the marketing. Let's assume the platonic ideal future with real exit windows on both Ethereum and Bitcoin. Starknet is not here yet; its bridges are centralized. BitVM is not trustless the way OP_CAT would enable real Bitcoin L2s. But in this ideal future, Ether bridged via Ethereum is safe. Bitcoin bridged via Bitcoin is safe.\n\nHowever, a trustless bridge alone does not make something an L2. A trustless bridge allows any chain to operate with the same assumptions as a proper L2, but only for assets that have been deposited into that bridge. There are no assurances for state generated natively on the L2.\n\nAn example: suppose Gnosis Chain had an L2-style trustless Ether bridge. Even though Gnosis is an alt-L1, I could use this bridge to move my Ether onto Gnosis and use it safely on Gnosis. However, if I created my own token on Gnosis, there is no trustless mechanism to bring that token home to Ethereum if Gnosis disappeared. Using an L2 such as Optimism, an Ethereum transaction can be trustlessly force-included (even if Optimism disappeared) that manipulated L2 state such that the L2-issued token is burnt an an equivalent token is minted on Ethereum.\n\nThe trustless evacuation of state from L2 to L1, with no reliance on social consensus, is a defining feature of what it means to be an L2. If I issue the same token natively on Starknet, and then Starknet disappears:\n\n1) Do I force-include my escape transaction on either L1 and choose to bring my token to Ethereum or to Bitcoin? Would there end up a worthless copy of my token on the L1 I did not choose? Now my users need to be aware of my real intent ahead of time: social consensus is required.\n\nor 2) Do I need to force-include the transaction in both places? If so, the L2 is weakened to be reliant upon the less secure of the two L1s. Starknet would not be an \"Ethereum and Bitcoin rollup\" and would be a \"Bitcoin rollup with a trustless Ethereum bridge\".",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 3,
+      "reply_count": 16,
+      "retweet_count": 8,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899484186018288012",
+      "url": "https://x.com/_Enoch/status/1899484186018288012",
+      "views_count": "14534",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 14:17:58 +0000 2025",
+      "conversation_id_str": "1899411389736751165",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1276213805580681219",
+            "name": "MilliΞ",
+            "screen_name": "llamaonthebrink",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@llamaonthebrink Congratulations!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899464821482852457",
+      "url": "https://x.com/_Enoch/status/1899464821482852457",
+      "views_count": "89",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:58:09 +0000 2025",
+      "conversation_id_str": "1899225223075119170",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1473993924083654658",
+            "name": "Gwart",
+            "screen_name": "GwartyGwart",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "@GwartyGwart None of this is bullish for worthless governance coins but all of that tokenization activity is quite bullish for Ether.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899233341473182084",
+      "url": "https://x.com/_Enoch/status/1899233341473182084",
+      "views_count": "630",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 20:10:32 +0000 2025",
+      "conversation_id_str": "1898858331001049390",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Bpm2qTDMvQ",
+            "expanded_url": "https://x.com/_Enoch/status/1899191161291706435/photo/1",
+            "id_str": "1899191056379289600",
+            "indices": [
+              80,
+              103
+            ],
+            "media_key": "3_1899191056379289600",
+            "media_url_https": "https://pbs.twimg.com/media/GltINBQWIAAT5p3.png",
+            "type": "photo",
+            "url": "https://t.co/Bpm2qTDMvQ",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 318,
+                "w": 853,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 318,
+                "w": 853,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 254,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 318,
+              "width": 853,
+              "focus_rects": [
+                {
+                  "x": 285,
+                  "y": 0,
+                  "w": 568,
+                  "h": 318
+                },
+                {
+                  "x": 459,
+                  "y": 0,
+                  "w": 318,
+                  "h": 318
+                },
+                {
+                  "x": 479,
+                  "y": 0,
+                  "w": 279,
+                  "h": 318
+                },
+                {
+                  "x": 539,
+                  "y": 0,
+                  "w": 159,
+                  "h": 318
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 853,
+                  "h": 318
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899191056379289600"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2929659814",
+            "name": "Louis Thibault",
+            "screen_name": "LouisThibault87",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "537451945",
+            "name": "kenny",
+            "screen_name": "kennyistyping",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Bpm2qTDMvQ",
+            "expanded_url": "https://x.com/_Enoch/status/1899191161291706435/photo/1",
+            "id_str": "1899191056379289600",
+            "indices": [
+              80,
+              103
+            ],
+            "media_key": "3_1899191056379289600",
+            "media_url_https": "https://pbs.twimg.com/media/GltINBQWIAAT5p3.png",
+            "type": "photo",
+            "url": "https://t.co/Bpm2qTDMvQ",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 318,
+                "w": 853,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 318,
+                "w": 853,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 254,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 318,
+              "width": 853,
+              "focus_rects": [
+                {
+                  "x": 285,
+                  "y": 0,
+                  "w": 568,
+                  "h": 318
+                },
+                {
+                  "x": 459,
+                  "y": 0,
+                  "w": 318,
+                  "h": 318
+                },
+                {
+                  "x": 479,
+                  "y": 0,
+                  "w": 279,
+                  "h": 318
+                },
+                {
+                  "x": 539,
+                  "y": 0,
+                  "w": 159,
+                  "h": 318
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 853,
+                  "h": 318
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899191056379289600"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@LouisThibault87 @kennyistyping Don't worry about it. Here's a roadmap for you. https://t.co/Bpm2qTDMvQ",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899191161291706435",
+      "url": "https://x.com/_Enoch/status/1899191161291706435",
+      "views_count": "48",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:44:10 +0000 2025",
+      "conversation_id_str": "1898858331001049390",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "537451945",
+            "name": "kenny",
+            "screen_name": "kennyistyping",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@kennyistyping This is simply Ethereum presenting the honest truth. You can make any ten year plan fractally complex if you break it out into items like this. The entire roadmap could just say \"make Ethereum faster with no trade-offs\". Also, contributors are paid.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "3439398154",
+      "id_str": "1899184523813773464",
+      "url": "https://x.com/_Enoch/status/1899184523813773464",
+      "views_count": "102",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Tue Aug 25 16:37:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@Sigil_L2 a rollup with an exit window.\n\n🦇🔊🌎🖥️🕯️",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 29919,
+        "followers_count": 4827,
+        "friends_count": 635,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 71,
+        "location": "live free or die",
+        "media_count": 392,
+        "name": "tim-clancy.eth",
+        "normal_followers_count": 4827,
+        "pinned_tweet_ids_str": [
+          "1856933079547367718"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439398154/1713812512",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881752366321471488/FKH5KEUR_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "_Enoch",
+        "statuses_count": 5531,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2025-03-13": [
+      6,
+      7
+    ],
+    "2025-03-12": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "2025-03-11": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "2025-03-10": [
+      41,
+      42,
+      43
+    ]
+  }
+}

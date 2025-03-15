@@ -1,0 +1,49 @@
+{
+  "username": "Gavin Wood",
+  "analyzedAt": "2025-03-15T18:28:12.604Z",
+  "tweetCount": 4,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 07:31:39 +0000 2025",
+    "latestTweet": "Fri Mar 14 09:08:47 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Gavin Wood and provide a summary of what they mainly talked about in the past week:\n\nA trip down memory lane… https://t.co/5y39ETO687\n\nA number of points here are wrong. It is not especially helpful to misrepresent a sophisticated protocol like Elves.\n\nElves uses cryptographically-secure random verifiable sampling together with escalation-by-default. Basically, all nodes execute everything *unless* it can be proven statistically impossible that the work report is incorrect. Because we have a closed system with clear probabilities we can model this accurately, and in practice nodes only need to execute about 1/30th of the total work most of the time. Finality happens only when >2/3 of validators agree that there is no chance of any historical work reports being invalid.\n\n@ET90266 @alice_und_bob I would not. We need missionaries, not mercenaries.\n\n@phil_uplc All computation done for DOOM was run on JAM. If you’re still unsure after reading the Gray Paper, feel free to ask in the JAM Chat room on Matrix or come to any one of my presentations on JAM and I’d be happy to explain in greater detail."
+  },
+  "summary": "In the past week, @GavinWood discussed topics related to the Elves protocol, emphasizing its use of cryptographically-secure random verifiable sampling and escalation-by-default. He clarified misconceptions and explained the intricacies of how work is executed in the system efficiently. Additionally, he highlighted the importance of missionaries over mercenaries in a specific context and addressed questions about computation and the JAM platform, inviting further discussions and explanations through various channels.",
+  "keyTopics": [
+    "Elves",
+    "Additionally,"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900474178706288796",
+      "createdAt": "Fri Mar 14 09:08:47 +0000 2025",
+      "text": "A trip down memory lane… https://t.co/5y39ETO687"
+    },
+    {
+      "index": 1,
+      "id": "1900453500733079811",
+      "createdAt": "Fri Mar 14 07:46:37 +0000 2025",
+      "text": "A number of points here are wrong. It is not especially helpful to misrepresent a sophisticated prot..."
+    },
+    {
+      "index": 2,
+      "id": "1899153748963815605",
+      "createdAt": "Mon Mar 10 17:41:52 +0000 2025",
+      "text": "@ET90266 @alice_und_bob I would not. We need missionaries, not mercenaries."
+    },
+    {
+      "index": 3,
+      "id": "1899000178884899101",
+      "createdAt": "Mon Mar 10 07:31:39 +0000 2025",
+      "text": "@phil_uplc All computation done for DOOM was run on JAM. If you’re still unsure after reading the Gr..."
+    }
+  ]
+}

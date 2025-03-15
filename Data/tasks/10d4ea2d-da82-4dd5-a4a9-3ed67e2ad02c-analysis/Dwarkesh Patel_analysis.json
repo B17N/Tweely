@@ -1,0 +1,160 @@
+{
+  "username": "Dwarkesh Patel",
+  "analyzedAt": "2025-03-15T18:29:06.651Z",
+  "tweetCount": 22,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 07 11:51:02 +0000 2025",
+    "latestTweet": "Fri Mar 14 21:16:16 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Dwarkesh Patel and provide a summary of what they mainly talked about in the past week:\n\nVibe coding -&gt; muller's ratchet on codebase https://t.co/0I7PiR6jD3\n\n@shae_mcl Congrats!!\n\nIf you enjoyed my episode with the physicist Adam Brown, you'll find this interesting.\n\nAdam discussed the possibility of vacuum decay, where you change the laws of the accessible universe and potentially destroy it. \n\nHere is a survey of what other physicists think:\n\nWatch the full episode with @JoHenrich:\n\nRead the transcript:\n\nhttps://t.co/7OdUh9yDPl\n\nApple Podcasts:\n\nhttps://t.co/kYiZCnDmh9\n\nSpotify:\n\nhttps://t.co/hUFFcwKssu\n\nYouTube:\n\nhttps://t.co/DvDBcxKsQ3\n\nWith the decline in war, have we lost the selective pressure which makes governments improve over time?\n\nThere are many other layers of selection (companies within markets, political parties within elections).\n\nBut there's no ground truth outer loss on the system as a whole. https://t.co/a0HKHzvv0t\n\n@cremieuxrecueil @StefanFSchubert Thanks for this @cremieuxrecueil @StefanFSchubert. \n\nI did push him on that Reich lab study to the best of my understanding at the time.\n\nRead the transcript:\nhttps://t.co/7OdUh9yDPl\n\nApple Podcasts:\nhttps://t.co/kYiZCnDmh9\n\nSpotify:\nhttps://t.co/hUFFcwKssu\n\nYouTube:\nhttps://t.co/DvDBcxKsQ3\n\nHumans have succeeded thanks to cultural evolution (and not individual IQ).\n\nAnd that's precisely why I think AGI is *under hyped*.\n\nBecause of massive populations and perfect knowledge transfer, AGI hive minds will discover new ideas so much faster, whether from lucky mistakes, deliberate experiments, de-novo inventions, or some combination.\n\nThis will be a step-function increase in cultural evolution that was as big as the jump between humans and non-human primates. \n\nFull interview with @JoHenrich out now!\n\nhttps://t.co/9XwHlJvSeQ\n\nRead the transcript:\nhttps://t.co/7OdUh9yDPl\n\nSpotify:\nhttps://t.co/hUFFcwKssu\n\nApple Podcasts: https://t.co/kYiZCnDmh9\n\nYouTube: https://t.co/DvDBcxKsQ3\n\nNew ep with @JoHenrich!\n\nHumans have *not* succeeded because of our raw intelligence. \n\nMarooned European explorers regularly starved to death in areas where foragers thrived for 1000s of years.\n\nI’ve always found this cultural evolution deeply mysterious.\n\nHow do you discover the 10 steps for processing cassava so it won’t give you cyanide poisoning simply by trial and error?\n\nHas human brain size declined over the last 10,000 years because we outsourced cultural evolution to a larger collective brain?\n\nThe most interesting part of the podcast is Henrich’s explanation of how the Catholic Church unintentionally instigated the Industrial Revolution through the dismantling of intensive kinship systems in medieval Europe.\n\nLinks below. Enjoy!\n\nTimestamps:\n0:00:00 - Humans didn’t succeed because of raw IQ\n0:10:13 - How cultural evolution works\n0:21:34 - Why is brain size declining?\n0:32:46 - Will AGI have superhuman cultural learning?\n0:43:20 - Why the Industrial Revolution happened in Europe\n0:56:16 - Why China, Rome, India got left behind\n1:21:55 - Loss of cultural variance in modern world\n1:32:06 - Is individual genius real?\n01:44:35 - IQ and collective brains\n\nThis was really good. \n\nAs you listen to these interesting nerd snipey arguments, it’s worth emphasizing that Will is describing something that is quite plausible in the next decade or two. \n\nThey’re talking about our timeline folks!\n\nLet @ashleevance know!\n\nAnd subscribe to Core Memory!\n\n@DanielleFong 😂\n\nThe most interesting part of the @JoHenrich interview was when he explained how the Catholic Church unintentionally caused the Industrial Revolution!\n\nThe Church wanted to acquire land and wealth that would otherwise remain within extended kinship networks. \n\nSo they systematically dismantled these competing kin system of Early Medieval Europe. \n\n\"By the high Middle Ages, you get the rise of guilds, which are voluntary groups of craftsmen and self-help societies, because people don't have their families to rely on.\n\nPeople begin moving around, there's occupational sorting into different occupations, urbanization is rising, charter towns are on the rise, universities pop up, new kinds of monasteries pop up.\"\n\nFull episode out tomorrow!\n\n@willmacaskill @robertwiblin The faster the intelligence explosion, the longer the podcast!\n\nYou'll get to work with a hilarious, brilliant, intense gentleman scientist who has decoded ancient scrolls, plotted out a terraform of Mars, and is currently making cheap synthetic fuel from sunlight and air.\n\nWhy haven't you applied?\n\n@adamvsteele To be clear, at no point do I think Mao was actually a great leader. The Communists winning the civil war was a tragedy. But it's a good quote!\n\n“Had Mao died in 1956, his achievements would have been immortal. Had he died in 1966, he would still have been a great man but flawed. But he died in 1976. Alas, what can one say?”\n\n- Chen Yun, a leading Chinese Communist Party official under Mao and Deng Xiaoping\n\n@amytcun oh no ... wasn't me this time right 👀\n\n@sgrove I'm in! DMing\n\n@s8mb Same thing with ordering. It doesn’t take 15 minutes to read a menu, but that’s how much most waiters will give you. \n\nMy solution is to declare that I’m ready to order as we’re sitting down, even if I haven’t seen the menu."
+  },
+  "summary": "The main topics discussed by @Dwarkesh Patel in the past week include physics concepts such as vacuum decay, cultural evolution, AGI (Artificial General Intelligence), human success attributed to cultural evolution rather than raw intelligence, the Industrial Revolution, and the impact of the Catholic Church on history. The tweets also mention interviews with physicist Adam Brown and discussions on brain size decline, collective brains, and the potential of AGI hive minds. Overall, the sentiment seems to be intellectually curious and engaging with complex concepts.",
+  "keyTopics": [
+    "Patel",
+    "Intelligence),",
+    "Revolution,",
+    "Church",
+    "Brown"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900657253562106245",
+      "createdAt": "Fri Mar 14 21:16:16 +0000 2025",
+      "text": "Vibe coding -&gt; muller's ratchet on codebase https://t.co/0I7PiR6jD3"
+    },
+    {
+      "index": 1,
+      "id": "1900395566732877947",
+      "createdAt": "Fri Mar 14 03:56:25 +0000 2025",
+      "text": "@shae_mcl Congrats!!"
+    },
+    {
+      "index": 2,
+      "id": "1900264659485417516",
+      "createdAt": "Thu Mar 13 19:16:14 +0000 2025",
+      "text": "If you enjoyed my episode with the physicist Adam Brown, you'll find this interesting.\n\nAdam discuss..."
+    },
+    {
+      "index": 3,
+      "id": "1900263944817959087",
+      "createdAt": "Thu Mar 13 19:13:24 +0000 2025",
+      "text": "Watch the full episode with @JoHenrich:\n\nRead the transcript:\n\nhttps://t.co/7OdUh9yDPl\n\nApple Podcas..."
+    },
+    {
+      "index": 4,
+      "id": "1900263932335710538",
+      "createdAt": "Thu Mar 13 19:13:21 +0000 2025",
+      "text": "With the decline in war, have we lost the selective pressure which makes governments improve over ti..."
+    },
+    {
+      "index": 5,
+      "id": "1899915370749976610",
+      "createdAt": "Wed Mar 12 20:08:17 +0000 2025",
+      "text": "@cremieuxrecueil @StefanFSchubert Thanks for this @cremieuxrecueil @StefanFSchubert. \n\nI did push hi..."
+    },
+    {
+      "index": 6,
+      "id": "1899903504363507916",
+      "createdAt": "Wed Mar 12 19:21:08 +0000 2025",
+      "text": "Read the transcript:\nhttps://t.co/7OdUh9yDPl\n\nApple Podcasts:\nhttps://t.co/kYiZCnDmh9\n\nSpotify:\nhttp..."
+    },
+    {
+      "index": 7,
+      "id": "1899902211314045320",
+      "createdAt": "Wed Mar 12 19:16:00 +0000 2025",
+      "text": "Humans have succeeded thanks to cultural evolution (and not individual IQ).\n\nAnd that's precisely wh..."
+    },
+    {
+      "index": 8,
+      "id": "1899872347311792318",
+      "createdAt": "Wed Mar 12 17:17:20 +0000 2025",
+      "text": "https://t.co/9XwHlJvSeQ"
+    },
+    {
+      "index": 9,
+      "id": "1899868175388561473",
+      "createdAt": "Wed Mar 12 17:00:45 +0000 2025",
+      "text": "Read the transcript:\nhttps://t.co/7OdUh9yDPl\n\nSpotify:\nhttps://t.co/hUFFcwKssu\n\nApple Podcasts: http..."
+    },
+    {
+      "index": 10,
+      "id": "1899867891597791481",
+      "createdAt": "Wed Mar 12 16:59:37 +0000 2025",
+      "text": "New ep with @JoHenrich!\n\nHumans have *not* succeeded because of our raw intelligence. \n\nMarooned Eur..."
+    },
+    {
+      "index": 11,
+      "id": "1899677733401329995",
+      "createdAt": "Wed Mar 12 04:24:00 +0000 2025",
+      "text": "This was really good. \n\nAs you listen to these interesting nerd snipey arguments, it’s worth emphasi..."
+    },
+    {
+      "index": 12,
+      "id": "1899674718216810567",
+      "createdAt": "Wed Mar 12 04:12:01 +0000 2025",
+      "text": "Let @ashleevance know!\n\nAnd subscribe to Core Memory!"
+    },
+    {
+      "index": 13,
+      "id": "1899645105793057253",
+      "createdAt": "Wed Mar 12 02:14:21 +0000 2025",
+      "text": "@DanielleFong 😂"
+    },
+    {
+      "index": 14,
+      "id": "1899539774744265195",
+      "createdAt": "Tue Mar 11 19:15:48 +0000 2025",
+      "text": "The most interesting part of the @JoHenrich interview was when he explained how the Catholic Church ..."
+    },
+    {
+      "index": 15,
+      "id": "1899522680065515704",
+      "createdAt": "Tue Mar 11 18:07:53 +0000 2025",
+      "text": "@willmacaskill @robertwiblin The faster the intelligence explosion, the longer the podcast!"
+    },
+    {
+      "index": 16,
+      "id": "1899312022602514742",
+      "createdAt": "Tue Mar 11 04:10:48 +0000 2025",
+      "text": "You'll get to work with a hilarious, brilliant, intense gentleman scientist who has decoded ancient ..."
+    },
+    {
+      "index": 17,
+      "id": "1898183415868146114",
+      "createdAt": "Sat Mar 08 01:26:07 +0000 2025",
+      "text": "@adamvsteele To be clear, at no point do I think Mao was actually a great leader. The Communists win..."
+    },
+    {
+      "index": 18,
+      "id": "1898179448618262700",
+      "createdAt": "Sat Mar 08 01:10:21 +0000 2025",
+      "text": "“Had Mao died in 1956, his achievements would have been immortal. Had he died in 1966, he would stil..."
+    },
+    {
+      "index": 19,
+      "id": "1898116364109488394",
+      "createdAt": "Fri Mar 07 20:59:41 +0000 2025",
+      "text": "@amytcun oh no ... wasn't me this time right 👀"
+    },
+    {
+      "index": 20,
+      "id": "1898098774821818472",
+      "createdAt": "Fri Mar 07 19:49:47 +0000 2025",
+      "text": "@sgrove I'm in! DMing"
+    },
+    {
+      "index": 21,
+      "id": "1897978291472277814",
+      "createdAt": "Fri Mar 07 11:51:02 +0000 2025",
+      "text": "@s8mb Same thing with ordering. It doesn’t take 15 minutes to read a menu, but that’s how much most ..."
+    }
+  ]
+}

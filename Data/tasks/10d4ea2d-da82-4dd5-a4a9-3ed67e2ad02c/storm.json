@@ -1,0 +1,4193 @@
+{
+  "username": "storm",
+  "fetchedAt": "2025-03-15T15:55:31.345Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 15:46:39 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "921392490",
+            "name": "Guillaume Ballet",
+            "screen_name": "gballet",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "1225336392579985408",
+            "name": "Giulio Rebuffo",
+            "screen_name": "GiulioRebuffo",
+            "indices": [
+              9,
+              23
+            ]
+          },
+          {
+            "id_str": "233034400",
+            "name": "ansgar.eth 🦇🔊 .oO",
+            "screen_name": "adietrichs",
+            "indices": [
+              24,
+              35
+            ]
+          },
+          {
+            "id_str": "1346134852685484032",
+            "name": "Francesco",
+            "screen_name": "fradamt",
+            "indices": [
+              36,
+              44
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@gballet @GiulioRebuffo @adietrichs @fradamt please elaborate on this wall that you're seeing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900936689562120645",
+      "url": "https://x.com/notnotstorm/status/1900936689562120645",
+      "views_count": "22",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 15:05:33 +0000 2025",
+      "conversation_id_str": "1900899809612984742",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2922993860",
+            "name": "sudo init vyper",
+            "screen_name": "big_tech_sux",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@big_tech_sux what is the issue with transient storage pricing?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900926346232295621",
+      "url": "https://x.com/notnotstorm/status/1900926346232295621",
+      "views_count": "99",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 00:16:39 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1225336392579985408",
+            "name": "Giulio Rebuffo",
+            "screen_name": "GiulioRebuffo",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "921392490",
+            "name": "Guillaume Ballet",
+            "screen_name": "gballet",
+            "indices": [
+              15,
+              23
+            ]
+          },
+          {
+            "id_str": "233034400",
+            "name": "ansgar.eth 🦇🔊 .oO",
+            "screen_name": "adietrichs",
+            "indices": [
+              24,
+              35
+            ]
+          },
+          {
+            "id_str": "1346134852685484032",
+            "name": "Francesco",
+            "screen_name": "fradamt",
+            "indices": [
+              36,
+              44
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@GiulioRebuffo @gballet @adietrichs @fradamt do you know anyone running BSC nodes on twitter that can chime in? curious to hear about their experience and hardware reqs",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900702648736837926",
+      "url": "https://x.com/notnotstorm/status/1900702648736837926",
+      "views_count": "113",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 15 00:04:15 +0000 2025",
+      "conversation_id_str": "1900697886297395672",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "808749775",
+            "name": "Toghrul Maharramov 🇺🇦",
+            "screen_name": "toghrulmaharram",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "@toghrulmaharram 15 conferences a year is a guaranteed recipe for going insane",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900699526425624599",
+      "url": "https://x.com/notnotstorm/status/1900699526425624599",
+      "views_count": "958",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 23:42:23 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/notnotstorm/st…",
+            "expanded_url": "https://x.com/notnotstorm/status/1900597663873331266",
+            "url": "https://t.co/8uDmxSdsII",
+            "indices": [
+              179,
+              202
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "51259663",
+            "name": "Sina",
+            "screen_name": "sina_mahmoodi",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@sina_mahmoodi you can update the state many times without growing it, or grow the state large while not updating frequently\n\nso I don't think it's good to intermingle the terms\n\nhttps://t.co/8uDmxSdsII",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900694024979435613",
+      "url": "https://x.com/notnotstorm/status/1900694024979435613",
+      "views_count": "71",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 22:10:41 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "388024471",
+            "name": "terence",
+            "screen_name": "terencechain",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "233034400",
+            "name": "ansgar.eth 🦇🔊 .oO",
+            "screen_name": "adietrichs",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "id_str": "1346134852685484032",
+            "name": "Francesco",
+            "screen_name": "fradamt",
+            "indices": [
+              26,
+              34
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@terencechain @adietrichs @fradamt yea I think that's right. I/O and bandwidth are two most important bottlenecks. also the hardest to measure. I'm not aware of good benchmarks, need much better data here. and it's going to be different for every client as you say",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900670947042144354",
+      "url": "https://x.com/notnotstorm/status/1900670947042144354",
+      "views_count": "293",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:42:21 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2924627574",
+            "name": "Rick Dudley (afdudley.eth)",
+            "screen_name": "AFDudley0",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@AFDudley0 execution state the ~300GB green line. it doesn't need to fit in memory, but it does benefit from a large memory for cache size. note that reads are not homogeneous, they are power law distributed across state, and so size of hot state grows sublinearly to the total state size",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900633618181157374",
+      "url": "https://x.com/notnotstorm/status/1900633618181157374",
+      "views_count": "66",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 14 18:23:46 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/ONcToBOduw",
+            "expanded_url": "https://x.com/notnotstorm/status/1900613841245053134/photo/1",
+            "id_str": "1900613026497155073",
+            "indices": [
+              272,
+              295
+            ],
+            "media_key": "3_1900613026497155073",
+            "media_url_https": "https://pbs.twimg.com/media/GmBVekvX0AEWnI_.jpg",
+            "type": "photo",
+            "url": "https://t.co/ONcToBOduw",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 914,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 686,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 388,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 914,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 914,
+                  "h": 914
+                },
+                {
+                  "x": 38,
+                  "y": 0,
+                  "w": 802,
+                  "h": 914
+                },
+                {
+                  "x": 211,
+                  "y": 0,
+                  "w": 457,
+                  "h": 914
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 914
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900613026497155073"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "233034400",
+            "name": "ansgar.eth 🦇🔊 .oO",
+            "screen_name": "adietrichs",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "1346134852685484032",
+            "name": "Francesco",
+            "screen_name": "fradamt",
+            "indices": [
+              12,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/ONcToBOduw",
+            "expanded_url": "https://x.com/notnotstorm/status/1900613841245053134/photo/1",
+            "id_str": "1900613026497155073",
+            "indices": [
+              272,
+              295
+            ],
+            "media_key": "3_1900613026497155073",
+            "media_url_https": "https://pbs.twimg.com/media/GmBVekvX0AEWnI_.jpg",
+            "type": "photo",
+            "url": "https://t.co/ONcToBOduw",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 914,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 686,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 388,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 914,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 914,
+                  "h": 914
+                },
+                {
+                  "x": 38,
+                  "y": 0,
+                  "w": 802,
+                  "h": 914
+                },
+                {
+                  "x": 211,
+                  "y": 0,
+                  "w": 457,
+                  "h": 914
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 914
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900613026497155073"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@adietrichs @fradamt I think roughly accurate yea\n\nIve used this flowchart in the past but it can get even more detailed\n\nstorage IO breaks down into reads vs writes as you say, and is also inversely correlated with cache size (which itself is constrained by memory size) https://t.co/ONcToBOduw",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900613841245053134",
+      "url": "https://x.com/notnotstorm/status/1900613841245053134",
+      "views_count": "347",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:09:32 +0000 2025",
+      "conversation_id_str": "1900325589573341692",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "884309808274341888",
+            "name": "Eli Ben-Sasson",
+            "screen_name": "EliBenSasson",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "2329730512",
+            "name": "Tomasz K. Stańczak",
+            "screen_name": "tkstanczak",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "@EliBenSasson @tkstanczak true, but we are currently very distant from the gasrate being too large for decentralized verification\n\na good laptop can validate ~1 gigagas per second. mainnet is currently 1.5 megagas per second\n\navoiding scaling due to centralization concerns is itself an existential danger",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900610259833774342",
+      "url": "https://x.com/notnotstorm/status/1900610259833774342",
+      "views_count": "129",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 17:19:29 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/notnotstorm/st…",
+            "expanded_url": "https://x.com/notnotstorm/status/1900594568753795260",
+            "url": "https://t.co/yv2dyaRZrn",
+            "indices": [
+              251,
+              274
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1346134852685484032",
+            "name": "Francesco",
+            "screen_name": "fradamt",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@fradamt it's not the growth rate that matters there, it's the update rate\n\nyou can update the state many times without growing it, or grow the state large while not updating frequently\n\nevery talks about \"size\"/\"growth\" which are the wrong concerns\n\nhttps://t.co/yv2dyaRZrn",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900597663873331266",
+      "url": "https://x.com/notnotstorm/status/1900597663873331266",
+      "views_count": "643",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 17:07:11 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 15,
+      "favorited": false,
+      "full_text": "additional pts:\n\n1. the rate of state **updates** is a concern because that uses storage IO, which is a tough hardware bottleneck. but this is different from state **growth** / **size**\n\n2. state growth is a concern on **L2's**, where growing the state is much cheaper than on L1",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900594568753795260",
+      "url": "https://x.com/notnotstorm/status/1900594568753795260",
+      "views_count": "1201",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 18,
+      "created_at": "Fri Mar 14 17:07:10 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/BmDoSCk9TT",
+            "expanded_url": "https://x.com/notnotstorm/status/1900594565696155990/photo/1",
+            "id_str": "1900589431058558977",
+            "indices": [
+              275,
+              298
+            ],
+            "media_key": "3_1900589431058558977",
+            "media_url_https": "https://pbs.twimg.com/media/GmBABI4bcAE6w9I.jpg",
+            "type": "photo",
+            "url": "https://t.co/BmDoSCk9TT",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1103,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 646,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 366,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1286,
+              "width": 2388,
+              "focus_rects": [
+                {
+                  "x": 92,
+                  "y": 0,
+                  "w": 2296,
+                  "h": 1286
+                },
+                {
+                  "x": 1102,
+                  "y": 0,
+                  "w": 1286,
+                  "h": 1286
+                },
+                {
+                  "x": 1260,
+                  "y": 0,
+                  "w": 1128,
+                  "h": 1286
+                },
+                {
+                  "x": 1529,
+                  "y": 0,
+                  "w": 643,
+                  "h": 1286
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2388,
+                  "h": 1286
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900589431058558977"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/BmDoSCk9TT",
+            "expanded_url": "https://x.com/notnotstorm/status/1900594565696155990/photo/1",
+            "id_str": "1900589431058558977",
+            "indices": [
+              275,
+              298
+            ],
+            "media_key": "3_1900589431058558977",
+            "media_url_https": "https://pbs.twimg.com/media/GmBABI4bcAE6w9I.jpg",
+            "type": "photo",
+            "url": "https://t.co/BmDoSCk9TT",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1103,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 646,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 366,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1286,
+              "width": 2388,
+              "focus_rects": [
+                {
+                  "x": 92,
+                  "y": 0,
+                  "w": 2296,
+                  "h": 1286
+                },
+                {
+                  "x": 1102,
+                  "y": 0,
+                  "w": 1286,
+                  "h": 1286
+                },
+                {
+                  "x": 1260,
+                  "y": 0,
+                  "w": 1128,
+                  "h": 1286
+                },
+                {
+                  "x": 1529,
+                  "y": 0,
+                  "w": 643,
+                  "h": 1286
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2388,
+                  "h": 1286
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900589431058558977"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 80,
+      "favorited": false,
+      "full_text": "⚠️ this is a common misconception that I see almost every day\n\nplease check the data to see that state size/growth is NOT a relevant concern for L1 scaling\n\neven with a 3x gas rate, ethereum state size will not become a concern for MANY years. worry about other bottlenecks! https://t.co/BmDoSCk9TT",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 4,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900594565696155990",
+      "url": "https://x.com/notnotstorm/status/1900594565696155990",
+      "views_count": "13286",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 02:45:19 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "405015683",
+            "name": "keyneom",
+            "screen_name": "keyneom",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              9,
+              19
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              20,
+              29
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@keyneom @potuz_eth @TimBeiko yea maybe a miscommunication. I'm not talking about short-lived or long-lived. I'm talking about building a normal testnet with a performance focus rather than an EIP feature focus. I see this as the biggest way we can improve our current approach for pushing the gas limit",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900377676202074490",
+      "url": "https://x.com/notnotstorm/status/1900377676202074490",
+      "views_count": "26",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 02:18:05 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "405015683",
+            "name": "keyneom",
+            "screen_name": "keyneom",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              20,
+              29
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@potuz_eth @keyneom @TimBeiko tbh I don't really understand the point you're making",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900370821430075438",
+      "url": "https://x.com/notnotstorm/status/1900370821430075438",
+      "views_count": "106",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 02:12:35 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "405015683",
+            "name": "keyneom",
+            "screen_name": "keyneom",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              20,
+              29
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@potuz_eth @keyneom @TimBeiko the takeaway of that should be that we need much better tests and data\n\nthe takeaway should not be that collecting data is bad",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900369434671497304",
+      "url": "https://x.com/notnotstorm/status/1900369434671497304",
+      "views_count": "92",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10331,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10331,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:34:02 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko what data are you referring to? and how is it being mis-used?\n\nI dont think the data I would like to see currently exists. aka diagnostic stats of all ethereum components under realistic testnet with high gas limit",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900359736060764485",
+      "url": "https://x.com/notnotstorm/status/1900359736060764485",
+      "views_count": "162",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:28:03 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "the point of pushing the system to failure is just to identify where the bottlenecks are, so that we can strengthen those bottlenecks and overprovision them\n\nwe don't want mainnet to be anywhere near these breaking points. and we accomplish that by making the system more robust at it's weakest points. but right now we don't know where those weak parts are, due to lack of data",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900358228263002334",
+      "url": "https://x.com/notnotstorm/status/1900358228263002334",
+      "views_count": "83",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 14 01:22:48 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "state growth is not a relevant bottleneck on scaling. this is a common misconception. state size and state growth are both relatively small\n\nit's going to be either storage IO or bandwidth that bottleneck scaling. we need to understand both better\n\nwhen scaling up a system, it's very important to get empirical tests. you keep scaling until something breaks. you try to understand that thing better and optimize it. then some other part of system becomes the bottleneck and breaks. then you repeat the process. this approach to scaling has been absent/indirect/implicit in ethereum so far. time to make it an explicit focus",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900356909372522967",
+      "url": "https://x.com/notnotstorm/status/1900356909372522967",
+      "views_count": "81",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:13:55 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko what does that mean? what would be a nonlocal test?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900354673691001187",
+      "url": "https://x.com/notnotstorm/status/1900354673691001187",
+      "views_count": "69",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:12:06 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko idk what you mean by \"local\" here. this is testing a distributed network of machines, not a single local machine",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900354215933075628",
+      "url": "https://x.com/notnotstorm/status/1900354215933075628",
+      "views_count": "55",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:10:34 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko could try forking mainnet, with a couple irregular state transitions to change the validator set",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900353828878508263",
+      "url": "https://x.com/notnotstorm/status/1900353828878508263",
+      "views_count": "39",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:09:03 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "it could be a new testnet or an existing testnet. the main distinction is the focus on performance and attempting to push the gas limit. for example, upping the gas limit until something breaks to learn where the limits are. also collecting performance statistics at different gas limits to determine which components in the system struggle or become bottlenecks\n\nforking an existing testnet is also an option if we think that is the best way to initialize a bunch of state",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900353448308334954",
+      "url": "https://x.com/notnotstorm/status/1900353448308334954",
+      "views_count": "61",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:04:27 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko how is that different from what I proposed? the fact that it's long running? that doesn't seem like a difficult barrier. we can give a testnet a lot of pre-existing state as an initial condition",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900352290743345629",
+      "url": "https://x.com/notnotstorm/status/1900352290743345629",
+      "views_count": "130",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:01:31 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/notnotstorm/st…",
+            "expanded_url": "https://x.com/notnotstorm/status/1900351364380975364",
+            "url": "https://t.co/QYTCDslP4k",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko https://t.co/QYTCDslP4k",
+      "is_quote_status": true,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900351551048393133",
+      "url": "https://x.com/notnotstorm/status/1900351551048393133",
+      "views_count": "77",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 01:00:46 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko what do you propose as a better way to determine gas limits?\n\nthe options are basically 1) theory 2) empiricism 3) intuition 4) do nothing. a performance testnet is (2)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900351364380975364",
+      "url": "https://x.com/notnotstorm/status/1900351364380975364",
+      "views_count": "160",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 00:58:49 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "707187971850694657",
+            "name": "Potuz",
+            "screen_name": "potuz_eth",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "80722677",
+            "name": "timbeiko.eth",
+            "screen_name": "TimBeiko",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@potuz_eth @TimBeiko local execution only gets so far. a performance-focused devnet is more akin to a complex integration test. this is necessary because ethereum is a complex system\n\nwe could adapt an existing testnet, but it's a matter of focus. scaling itself should be the feature focus not EIP's",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900350871801921689",
+      "url": "https://x.com/notnotstorm/status/1900350871801921689",
+      "views_count": "279",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 13,
+      "created_at": "Thu Mar 13 23:35:04 +0000 2025",
+      "conversation_id_str": "1900329794778329523",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 113,
+      "favorited": false,
+      "full_text": "one of the most important steps to scaling eth L1 is \"performance-focused testnets\"\n\nsame featureset as mainnet, just a much higher gasrate\n\nthat's the only way to find all the things that will break. not sure why this approach hasn't been used so far but we really should start",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 7,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1900329794778329523",
+      "url": "https://x.com/notnotstorm/status/1900329794778329523",
+      "views_count": "8435",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 10,
+      "created_at": "Sun Mar 09 02:48:30 +0000 2025",
+      "conversation_id_str": "1898566537310539952",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 43,
+      "favorited": false,
+      "full_text": "local llms 🤝 local data pipelines",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1898566537310539952",
+      "url": "https://x.com/notnotstorm/status/1898566537310539952",
+      "views_count": "3120",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 5,
+      "created_at": "Sat Mar 08 23:48:06 +0000 2025",
+      "conversation_id_str": "1898521135115026474",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "github.com/sslivkoff/pola…",
+            "expanded_url": "https://github.com/sslivkoff/polars_evm",
+            "url": "https://t.co/sNJZFByNd2",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "details:\nhttps://t.co/sNJZFByNd2",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1898521137124126929",
+      "url": "https://x.com/notnotstorm/status/1898521137124126929",
+      "views_count": "761",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 93,
+      "created_at": "Sat Mar 08 23:48:06 +0000 2025",
+      "conversation_id_str": "1898521135115026474",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/uEEzuCTV3Z",
+            "expanded_url": "https://x.com/notnotstorm/status/1898521135115026474/photo/1",
+            "id_str": "1898520877580599296",
+            "indices": [
+              265,
+              288
+            ],
+            "media_key": "3_1898520877580599296",
+            "media_url_https": "https://pbs.twimg.com/media/GljmrerawAAj3pg.jpg",
+            "type": "photo",
+            "url": "https://t.co/uEEzuCTV3Z",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1740,
+                "w": 1728,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1192,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1740,
+              "width": 1728,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 772,
+                  "w": 1728,
+                  "h": 968
+                },
+                {
+                  "x": 0,
+                  "y": 12,
+                  "w": 1728,
+                  "h": 1728
+                },
+                {
+                  "x": 202,
+                  "y": 0,
+                  "w": 1526,
+                  "h": 1740
+                },
+                {
+                  "x": 651,
+                  "y": 0,
+                  "w": 870,
+                  "h": 1740
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1728,
+                  "h": 1740
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898520877580599296"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/uEEzuCTV3Z",
+            "expanded_url": "https://x.com/notnotstorm/status/1898521135115026474/photo/1",
+            "id_str": "1898520877580599296",
+            "indices": [
+              265,
+              288
+            ],
+            "media_key": "3_1898520877580599296",
+            "media_url_https": "https://pbs.twimg.com/media/GljmrerawAAj3pg.jpg",
+            "type": "photo",
+            "url": "https://t.co/uEEzuCTV3Z",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1740,
+                "w": 1728,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1192,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1740,
+              "width": 1728,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 772,
+                  "w": 1728,
+                  "h": 968
+                },
+                {
+                  "x": 0,
+                  "y": 12,
+                  "w": 1728,
+                  "h": 1728
+                },
+                {
+                  "x": 202,
+                  "y": 0,
+                  "w": 1526,
+                  "h": 1740
+                },
+                {
+                  "x": 651,
+                  "y": 0,
+                  "w": 870,
+                  "h": 1740
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1728,
+                  "h": 1740
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898520877580599296"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 188,
+      "favorited": false,
+      "full_text": "useful plugin for anyone using polars to process evm data:\n\npolars_evm just implemented binary_to_float()\n\nit uses native polars operations to convert u256/i256 to f64. 10x-20x faster than native python. this makes it trivial to decode most onchain events 🐻‍❄️🐻‍❄️ https://t.co/uEEzuCTV3Z",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 4,
+      "retweet_count": 18,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1898521135115026474",
+      "url": "https://x.com/notnotstorm/status/1898521135115026474",
+      "views_count": "14534",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Sat Mar 08 01:11:47 +0000 2025",
+      "conversation_id_str": "1898144329513726286",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/rOZU34gbmQ",
+            "expanded_url": "https://x.com/notnotstorm/status/1898179809727156696/photo/1",
+            "id_str": "1898179799618928643",
+            "indices": [
+              85,
+              108
+            ],
+            "media_key": "3_1898179799618928643",
+            "media_url_https": "https://pbs.twimg.com/media/GleweIQbwAMwNL0.jpg",
+            "type": "photo",
+            "url": "https://t.co/rOZU34gbmQ",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1140,
+                    "y": 369,
+                    "h": 50,
+                    "w": 50
+                  },
+                  {
+                    "x": 951,
+                    "y": 126,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 982,
+                    "y": 318,
+                    "h": 43,
+                    "w": 43
+                  },
+                  {
+                    "x": 819,
+                    "y": 108,
+                    "h": 98,
+                    "w": 98
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 556,
+                    "y": 180,
+                    "h": 24,
+                    "w": 24
+                  },
+                  {
+                    "x": 464,
+                    "y": 61,
+                    "h": 55,
+                    "w": 55
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1140,
+                    "y": 369,
+                    "h": 50,
+                    "w": 50
+                  },
+                  {
+                    "x": 951,
+                    "y": 126,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1222,
+                "w": 1392,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1053,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 597,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1222,
+              "width": 1392,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1392,
+                  "h": 780
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1222,
+                  "h": 1222
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1072,
+                  "h": 1222
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 611,
+                  "h": 1222
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1392,
+                  "h": 1222
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898179799618928643"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1617070374",
+            "name": "dataalways.eth ⚡️🤖",
+            "screen_name": "Data_Always",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "424304399",
+            "name": "Dan Smith",
+            "screen_name": "smyyguy",
+            "indices": [
+              13,
+              21
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/rOZU34gbmQ",
+            "expanded_url": "https://x.com/notnotstorm/status/1898179809727156696/photo/1",
+            "id_str": "1898179799618928643",
+            "indices": [
+              85,
+              108
+            ],
+            "media_key": "3_1898179799618928643",
+            "media_url_https": "https://pbs.twimg.com/media/GleweIQbwAMwNL0.jpg",
+            "type": "photo",
+            "url": "https://t.co/rOZU34gbmQ",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1140,
+                    "y": 369,
+                    "h": 50,
+                    "w": 50
+                  },
+                  {
+                    "x": 951,
+                    "y": 126,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 982,
+                    "y": 318,
+                    "h": 43,
+                    "w": 43
+                  },
+                  {
+                    "x": 819,
+                    "y": 108,
+                    "h": 98,
+                    "w": 98
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 556,
+                    "y": 180,
+                    "h": 24,
+                    "w": 24
+                  },
+                  {
+                    "x": 464,
+                    "y": 61,
+                    "h": 55,
+                    "w": 55
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1140,
+                    "y": 369,
+                    "h": 50,
+                    "w": 50
+                  },
+                  {
+                    "x": 951,
+                    "y": 126,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1222,
+                "w": 1392,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1053,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 597,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1222,
+              "width": 1392,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1392,
+                  "h": 780
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1222,
+                  "h": 1222
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1072,
+                  "h": 1222
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 611,
+                  "h": 1222
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1392,
+                  "h": 1222
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898179799618928643"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Data_Always @smyyguy all stablecoin transfer volumes, not just p2p, for comparison: https://t.co/rOZU34gbmQ",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1898179809727156696",
+      "url": "https://x.com/notnotstorm/status/1898179809727156696",
+      "views_count": "195",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 01:09:03 +0000 2025",
+      "conversation_id_str": "1898144329513726286",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/tksOC59S3R",
+            "expanded_url": "https://x.com/notnotstorm/status/1898179122016424312/photo/1",
+            "id_str": "1898178691852910597",
+            "indices": [
+              302,
+              325
+            ],
+            "media_key": "3_1898178691852910597",
+            "media_url_https": "https://pbs.twimg.com/media/GlevdpgbwAU9qJP.jpg",
+            "type": "photo",
+            "url": "https://t.co/tksOC59S3R",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 945,
+                    "y": 76,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 825,
+                    "y": 66,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 467,
+                    "y": 37,
+                    "h": 56,
+                    "w": 56
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 945,
+                    "y": 76,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 908,
+                "w": 1374,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 793,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 449,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 908,
+              "width": 1374,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1374,
+                  "h": 769
+                },
+                {
+                  "x": 466,
+                  "y": 0,
+                  "w": 908,
+                  "h": 908
+                },
+                {
+                  "x": 578,
+                  "y": 0,
+                  "w": 796,
+                  "h": 908
+                },
+                {
+                  "x": 920,
+                  "y": 0,
+                  "w": 454,
+                  "h": 908
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1374,
+                  "h": 908
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898178691852910597"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1617070374",
+            "name": "dataalways.eth ⚡️🤖",
+            "screen_name": "Data_Always",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "id_str": "424304399",
+            "name": "Dan Smith",
+            "screen_name": "smyyguy",
+            "indices": [
+              13,
+              21
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/tksOC59S3R",
+            "expanded_url": "https://x.com/notnotstorm/status/1898179122016424312/photo/1",
+            "id_str": "1898178691852910597",
+            "indices": [
+              302,
+              325
+            ],
+            "media_key": "3_1898178691852910597",
+            "media_url_https": "https://pbs.twimg.com/media/GlevdpgbwAU9qJP.jpg",
+            "type": "photo",
+            "url": "https://t.co/tksOC59S3R",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 945,
+                    "y": 76,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 825,
+                    "y": 66,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 467,
+                    "y": 37,
+                    "h": 56,
+                    "w": 56
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 945,
+                    "y": 76,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 908,
+                "w": 1374,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 793,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 449,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 908,
+              "width": 1374,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1374,
+                  "h": 769
+                },
+                {
+                  "x": 466,
+                  "y": 0,
+                  "w": 908,
+                  "h": 908
+                },
+                {
+                  "x": 578,
+                  "y": 0,
+                  "w": 796,
+                  "h": 908
+                },
+                {
+                  "x": 920,
+                  "y": 0,
+                  "w": 454,
+                  "h": 908
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1374,
+                  "h": 908
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1898178691852910597"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "the most interesting part of tron stablecoin activity is that it's mostly P2P between EOAs (see screenshot). other networks are the opposite. so Id suspect that the transaction fees are mostly uniformly distributed since you arent competing for statespace\n\nalso, tron has two gas dimensions, each of which are subsidized in their own way, so you have to be really careful with REV computations",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1427859040671911939",
+      "id_str": "1898179122016424312",
+      "url": "https://x.com/notnotstorm/status/1898179122016424312",
+      "views_count": "287",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Wed Aug 18 05:05:10 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sslivkoff",
+                "expanded_url": "https://github.com/sslivkoff",
+                "url": "https://t.co/zmTzF0huan",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 11272,
+        "followers_count": 10332,
+        "friends_count": 1699,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 272,
+        "location": "",
+        "media_count": 351,
+        "name": "storm",
+        "normal_followers_count": 10332,
+        "pinned_tweet_ids_str": [
+          "1764700326282879115"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427859040671911939/1735718597",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741920278563995648/i_yYP39u_normal.png",
+        "profile_interstitial_type": "",
+        "screen_name": "notnotstorm",
+        "statuses_count": 2814,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "2025-03-14": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "2025-03-13": [
+      26
+    ],
+    "2025-03-09": [
+      27
+    ],
+    "2025-03-08": [
+      28,
+      29,
+      30,
+      31
+    ]
+  }
+}

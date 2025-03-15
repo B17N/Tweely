@@ -1,13 +1,10 @@
-const express = require('express');
-const { scrapeTwitter } = require('../controllers/twitterController');
+import express from 'express';
+import { fetchFollowingUserHandler, fetchTweetsHandler, analyzeTweetsHandler } from '../controllers/twitterController.js';
 
 const router = express.Router();
 
-/**
- * @route POST /api/twitter/scrape
- * @desc Scrape Twitter data using Apify
- * @access Public (consider adding authentication middleware)
- */
-router.post('/scrape', scrapeTwitter);
+router.post('/fetchFollowingUser', fetchFollowingUserHandler);
+router.post('/fetchTweets', fetchTweetsHandler);
+router.post('/analyzeTweets', analyzeTweetsHandler);
 
-module.exports = router; 
+export default router; 

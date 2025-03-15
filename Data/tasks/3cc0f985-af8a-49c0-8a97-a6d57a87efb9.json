@@ -1,0 +1,21 @@
+{
+  "taskId": "3cc0f985-af8a-49c0-8a97-a6d57a87efb9",
+  "createdAt": "2025-03-12T08:06:33.824Z",
+  "status": "initialized",
+  "targetUsers": [],
+  "followingUsers": [],
+  "tweetCollectionStatus": {
+    "started": false,
+    "completed": false,
+    "lastRun": null
+  },
+  "analysisStatus": {
+    "started": false,
+    "completed": false,
+    "lastRun": null
+  },
+  "metadata": {
+    "description": "",
+    "tags": []
+  }
+}

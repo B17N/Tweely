@@ -1,0 +1,81 @@
+{
+  "username": "♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞",
+  "analyzedAt": "2025-03-15T18:28:41.885Z",
+  "tweetCount": 9,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 21:56:06 +0000 2025",
+    "latestTweet": "Fri Mar 14 17:13:38 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞 and provide a summary of what they mainly talked about in the past week:\n\n@prgrssnx @florencecel theyre my reply girls\n\nrunning around town punching homeless people in the face leaving a remilia smiley mark to get on the news\n\n@coldhealing interesting use of girl POV as an affirmational hack here\n\n@Dustygarden Forgiven\n\nshould we make this official merch. punished milady https://t.co/hbhllKGxc0\n\nIt's not an official milady position--the only official milady positions are what's stated in the remilia manifesto and the core commitment to freedoms--but I also think it's healthy and funny for there to be radicals wielding milady as a weapon to push the space towards those values; I would only step in if it begins to contradict those values, though as a political project I do think it's more relevant they focus the energy on aligning the ETH ecosystem rather than outsider liquidity. It's an old contention with milady, remilio was partly in response to that energy, to give a space for trader and shitcoiner types that were getting attacked by purists. Remilia is a bigger umbrella than just milady and also bigger than crypto as an industry. We're building the new internet and milady is one cultural pillar.\n\nI don’t do PR. You’re mixing up positioning for short/mid term PA with a debate over long term execution towards aligned decentralized values. I do believe in the goal of a world computer; I tempered my opinion on the ICO fork and came around to ETH prior to their recognition of milady after speaking to developers closely involved and also after getting to understand the low levels of sincerity and short time horizons of the other teams building “alternatives”. I still maintain some caution if they truly will execute on the goals they’ve set out to, but I’m much more convinced on their sincerity in trying. This is not the same thing traders focused on their short/mid term price performance are worried about though, and it’s not any advocation on those bets. I’m also not a hardline maxi, I’ve argued all volume flooding into decentralized markets is good overall for the goals of the space; the positioning debate between chains is primarily about risks & time horizons which is informed by the idealism, defensibility & alignment debates that place ETH on top among its competitors—of which BTC is not one. BTC solves an entirely different goal than ETH, people contrasting the two are just thinking of them in terms of bags.\n\n@StakedSatoshi likely drainer. there are things going on in that domain but milady has fair use as VPL and they would know that\n\nhttps://t.co/2ULb7M9Uty"
+  },
+  "summary": "The tweets from @♡ Charlotte Fang 🪲 Crown Prince ❀ LOVE HEALS 💞 in the past week mainly discuss topics related to the concept of \"milady\" and its role within the crypto community, particularly in relation to values, principles, and the ETH ecosystem. The tweets also touch on the idea of using \"milady\" as a cultural pillar and discuss the positioning debate between different chains in the cryptocurrency space. Additionally, there are mentions of forgiveness, the consideration of official merch featuring \"punished milady,\" and references to the use of \"milady\" in different contexts. The overall sentiment appears to be focused on discussing and exploring the significance of \"milady\" within the crypto community and how it aligns with decentralized values and goals.",
+  "keyTopics": [
+    "Fang",
+    "Prince",
+    "HEALS",
+    "Additionally,"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900596191542603802",
+      "createdAt": "Fri Mar 14 17:13:38 +0000 2025",
+      "text": "@prgrssnx @florencecel theyre my reply girls"
+    },
+    {
+      "index": 1,
+      "id": "1900377760012657049",
+      "createdAt": "Fri Mar 14 02:45:39 +0000 2025",
+      "text": "running around town punching homeless people in the face leaving a remilia smiley mark to get on the..."
+    },
+    {
+      "index": 2,
+      "id": "1900229416208490629",
+      "createdAt": "Thu Mar 13 16:56:12 +0000 2025",
+      "text": "@coldhealing interesting use of girl POV as an affirmational hack here"
+    },
+    {
+      "index": 3,
+      "id": "1900040289475252706",
+      "createdAt": "Thu Mar 13 04:24:40 +0000 2025",
+      "text": "@Dustygarden Forgiven"
+    },
+    {
+      "index": 4,
+      "id": "1899917544200560786",
+      "createdAt": "Wed Mar 12 20:16:55 +0000 2025",
+      "text": "should we make this official merch. punished milady https://t.co/hbhllKGxc0"
+    },
+    {
+      "index": 5,
+      "id": "1899890731428569354",
+      "createdAt": "Wed Mar 12 18:30:23 +0000 2025",
+      "text": "It's not an official milady position--the only official milady positions are what's stated in the re..."
+    },
+    {
+      "index": 6,
+      "id": "1899882406393635129",
+      "createdAt": "Wed Mar 12 17:57:18 +0000 2025",
+      "text": "I don’t do PR. You’re mixing up positioning for short/mid term PA with a debate over long term execu..."
+    },
+    {
+      "index": 7,
+      "id": "1899598812362248358",
+      "createdAt": "Tue Mar 11 23:10:24 +0000 2025",
+      "text": "@StakedSatoshi likely drainer. there are things going on in that domain but milady has fair use as V..."
+    },
+    {
+      "index": 8,
+      "id": "1899580115006460240",
+      "createdAt": "Tue Mar 11 21:56:06 +0000 2025",
+      "text": "https://t.co/2ULb7M9Uty"
+    }
+  ]
+}

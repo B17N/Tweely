@@ -1,0 +1,113 @@
+{
+  "username": "Julian Zawistowski",
+  "fetchedAt": "2025-03-15T15:55:31.358Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 20:26:10 +0000 2025",
+      "conversation_id_str": "1900644645341667691",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1479861510448971778",
+            "name": "vpabundance.eth",
+            "screen_name": "vpabundance",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "id_str": "1572000098917445633",
+            "name": "Octant.eth",
+            "screen_name": "OctantApp",
+            "indices": [
+              43,
+              53
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 17,
+      "favorited": false,
+      "full_text": "I am so happy @vpabundance you are part of @OctantApp team. This is a great story, but I am sure everything that awaits us is even better! Good luck in your new role, WAGMI 🚀",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 5,
+      "retweeted": false,
+      "user_id_str": "3094222966",
+      "id_str": "1900644645341667691",
+      "url": "https://x.com/julianzawist/status/1900644645341667691",
+      "views_count": "910",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Wed Mar 18 11:15:16 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Execution @GolemFoundation, focus on @OctantApp. Founder of @golemproject. Long time ago @ibs_warsaw.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "golem.foundation",
+                "expanded_url": "http://golem.foundation",
+                "url": "https://t.co/Y3pWKKvSiv",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 3549,
+        "followers_count": 6973,
+        "friends_count": 381,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 197,
+        "location": "Warsaw, Poland",
+        "media_count": 41,
+        "name": "Julian Zawistowski",
+        "normal_followers_count": 6973,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3094222966/1603377747",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1896322539787345920/2Y3CF5lg_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "julianzawist",
+        "statuses_count": 1242,
+        "translator_type": "none",
+        "url": "https://t.co/Y3pWKKvSiv",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0
+    ]
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "username": "Matthew Green is on BlueSky",
+  "fetchedAt": "2025-03-15T15:55:31.361Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 16:55:28 +0000 2025",
+      "conversation_id_str": "1900227994800578863",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "bsky.app/profile/matthe…",
+            "expanded_url": "https://bsky.app/profile/matthewdgreen.bsky.social/post/3lh4xupkbqs2l",
+            "url": "https://t.co/f7xhcZXejc",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "This confirms a bad feeling I had a few weeks ago, before all this started. https://t.co/f7xhcZXejc",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "106234268",
+      "id_str": "1900229232606724173",
+      "url": "https://x.com/matthew_d_green/status/1900229232606724173",
+      "views_count": "2466",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 18 22:45:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I teach cryptography at Johns Hopkins. Mostly on BlueSky these days at https://t.co/GI4QlxZr2S.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matthewdgreen.bsky.social",
+                "expanded_url": "http://matthewdgreen.bsky.social",
+                "url": "https://t.co/GI4QlxZr2S",
+                "indices": [
+                  71,
+                  94
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cryptographyengineering.com",
+                "expanded_url": "http://blog.cryptographyengineering.com",
+                "url": "https://t.co/WSry8dkcZk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 49393,
+        "followers_count": 150160,
+        "friends_count": 1070,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 3305,
+        "location": "Baltimore, MD",
+        "media_count": 3981,
+        "name": "Matthew Green is on BlueSky",
+        "normal_followers_count": 150160,
+        "pinned_tweet_ids_str": [
+          "1878073137637548243"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106234268/1399054297",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "matthew_d_green",
+        "statuses_count": 85190,
+        "translator_type": "none",
+        "url": "https://t.co/WSry8dkcZk",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Thu Mar 13 16:52:40 +0000 2025",
+      "conversation_id_str": "1900227994800578863",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Evbf275CSX",
+            "expanded_url": "https://x.com/matthew_d_green/status/1900228530593480746/photo/1",
+            "id_str": "1900228525895938048",
+            "indices": [
+              118,
+              141
+            ],
+            "media_key": "3_1900228525895938048",
+            "media_url_https": "https://pbs.twimg.com/media/Gl73xsYXcAA8UXL.jpg",
+            "type": "photo",
+            "url": "https://t.co/Evbf275CSX",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 839,
+                "w": 1290,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 780,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 442,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 839,
+              "width": 1290,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 722
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 839,
+                  "h": 839
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 736,
+                  "h": 839
+                },
+                {
+                  "x": 15,
+                  "y": 0,
+                  "w": 420,
+                  "h": 839
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 839
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900228525895938048"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Evbf275CSX",
+            "expanded_url": "https://x.com/matthew_d_green/status/1900228530593480746/photo/1",
+            "id_str": "1900228525895938048",
+            "indices": [
+              118,
+              141
+            ],
+            "media_key": "3_1900228525895938048",
+            "media_url_https": "https://pbs.twimg.com/media/Gl73xsYXcAA8UXL.jpg",
+            "type": "photo",
+            "url": "https://t.co/Evbf275CSX",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 839,
+                "w": 1290,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 780,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 442,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 839,
+              "width": 1290,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 722
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 839,
+                  "h": 839
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 736,
+                  "h": 839
+                },
+                {
+                  "x": 15,
+                  "y": 0,
+                  "w": 420,
+                  "h": 839
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 839
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900228525895938048"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 14,
+      "favorited": false,
+      "full_text": "Money quote(s) from the article. Note that there is no “you can’t deny” (anti-warrant-canary! clause in the U.K. law. https://t.co/Evbf275CSX",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "106234268",
+      "id_str": "1900228530593480746",
+      "url": "https://x.com/matthew_d_green/status/1900228530593480746",
+      "views_count": "3089",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 18 22:45:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I teach cryptography at Johns Hopkins. Mostly on BlueSky these days at https://t.co/GI4QlxZr2S.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matthewdgreen.bsky.social",
+                "expanded_url": "http://matthewdgreen.bsky.social",
+                "url": "https://t.co/GI4QlxZr2S",
+                "indices": [
+                  71,
+                  94
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cryptographyengineering.com",
+                "expanded_url": "http://blog.cryptographyengineering.com",
+                "url": "https://t.co/WSry8dkcZk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 49393,
+        "followers_count": 150160,
+        "friends_count": 1070,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 3305,
+        "location": "Baltimore, MD",
+        "media_count": 3981,
+        "name": "Matthew Green is on BlueSky",
+        "normal_followers_count": 150160,
+        "pinned_tweet_ids_str": [
+          "1878073137637548243"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106234268/1399054297",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "matthew_d_green",
+        "statuses_count": 85190,
+        "translator_type": "none",
+        "url": "https://t.co/WSry8dkcZk",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 16:51:49 +0000 2025",
+      "conversation_id_str": "1900227994800578863",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/5v7gs7owHA",
+            "expanded_url": "https://x.com/matthew_d_green/status/1900228314255487333/photo/1",
+            "ext_alt_text": "Daisy Johnson Idk GIF by ABC Network",
+            "id_str": "1900228308177920000",
+            "indices": [
+              204,
+              227
+            ],
+            "media_key": "16_1900228308177920000",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gl73lBUWIAA0efF.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/5v7gs7owHA",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 270,
+                "w": 480,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 270,
+                "w": 480,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 270,
+                "w": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 270,
+              "width": 480,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/Gl73lBUWIAA0efF.mp4"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "16_1900228308177920000"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "wyden.senate.gov/news/press-rel…",
+            "expanded_url": "https://www.wyden.senate.gov/news/press-releases/bipartisan-members-of-congress-to-uk-spy-court-uk-gag-orders-for-surveillance-backdoors-threaten-americans-security-and-privacy-impede-congressional-oversight",
+            "url": "https://t.co/h1dXaAfWKU",
+            "indices": [
+              180,
+              203
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/5v7gs7owHA",
+            "expanded_url": "https://x.com/matthew_d_green/status/1900228314255487333/photo/1",
+            "ext_alt_text": "Daisy Johnson Idk GIF by ABC Network",
+            "id_str": "1900228308177920000",
+            "indices": [
+              204,
+              227
+            ],
+            "media_key": "16_1900228308177920000",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gl73lBUWIAA0efF.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/5v7gs7owHA",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 270,
+                "w": 480,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 270,
+                "w": 480,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 270,
+                "w": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 270,
+              "width": 480,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/Gl73lBUWIAA0efF.mp4"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "16_1900228308177920000"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "Senator Wyden asked both companies to confirm or deny that they’d received TCNs. Both parties said, essentially, “if we got one we wouldn’t be allowed to tell you under U.K. law.” https://t.co/h1dXaAfWKU https://t.co/5v7gs7owHA",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 5,
+      "retweeted": false,
+      "user_id_str": "106234268",
+      "id_str": "1900228314255487333",
+      "url": "https://x.com/matthew_d_green/status/1900228314255487333",
+      "views_count": "2515",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 18 22:45:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I teach cryptography at Johns Hopkins. Mostly on BlueSky these days at https://t.co/GI4QlxZr2S.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matthewdgreen.bsky.social",
+                "expanded_url": "http://matthewdgreen.bsky.social",
+                "url": "https://t.co/GI4QlxZr2S",
+                "indices": [
+                  71,
+                  94
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cryptographyengineering.com",
+                "expanded_url": "http://blog.cryptographyengineering.com",
+                "url": "https://t.co/WSry8dkcZk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 49393,
+        "followers_count": 150160,
+        "friends_count": 1070,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 3305,
+        "location": "Baltimore, MD",
+        "media_count": 3981,
+        "name": "Matthew Green is on BlueSky",
+        "normal_followers_count": 150160,
+        "pinned_tweet_ids_str": [
+          "1878073137637548243"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106234268/1399054297",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "matthew_d_green",
+        "statuses_count": 85190,
+        "translator_type": "none",
+        "url": "https://t.co/WSry8dkcZk",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 10,
+      "created_at": "Thu Mar 13 16:50:33 +0000 2025",
+      "conversation_id_str": "1900227994800578863",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 37,
+      "favorited": false,
+      "full_text": "So I am getting the distinct feeling that Google (in addition to Apple) got a Technical Capability Notice from the U.K.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 8,
+      "retweeted": false,
+      "user_id_str": "106234268",
+      "id_str": "1900227994800578863",
+      "url": "https://x.com/matthew_d_green/status/1900227994800578863",
+      "views_count": "4278",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 18 22:45:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I teach cryptography at Johns Hopkins. Mostly on BlueSky these days at https://t.co/GI4QlxZr2S.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matthewdgreen.bsky.social",
+                "expanded_url": "http://matthewdgreen.bsky.social",
+                "url": "https://t.co/GI4QlxZr2S",
+                "indices": [
+                  71,
+                  94
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cryptographyengineering.com",
+                "expanded_url": "http://blog.cryptographyengineering.com",
+                "url": "https://t.co/WSry8dkcZk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 49393,
+        "followers_count": 150160,
+        "friends_count": 1070,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 3305,
+        "location": "Baltimore, MD",
+        "media_count": 3981,
+        "name": "Matthew Green is on BlueSky",
+        "normal_followers_count": 150160,
+        "pinned_tweet_ids_str": [
+          "1878073137637548243"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106234268/1399054297",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "matthew_d_green",
+        "statuses_count": 85190,
+        "translator_type": "none",
+        "url": "https://t.co/WSry8dkcZk",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 16,
+      "created_at": "Wed Mar 12 12:10:10 +0000 2025",
+      "conversation_id_str": "1899436808691126784",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "blog.cryptographyengineering.com/2025/01/17/let…",
+            "expanded_url": "https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/",
+            "url": "https://t.co/dSYBV99wje",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 27,
+      "favorited": false,
+      "full_text": "Apropos: I want to re-post a blog post I wrote about the risks of AI combined with end-to-end encryption systems. https://t.co/dSYBV99wje",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 3,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "106234268",
+      "id_str": "1899795047882625374",
+      "url": "https://x.com/matthew_d_green/status/1899795047882625374",
+      "views_count": "3415",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 18 22:45:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I teach cryptography at Johns Hopkins. Mostly on BlueSky these days at https://t.co/GI4QlxZr2S.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matthewdgreen.bsky.social",
+                "expanded_url": "http://matthewdgreen.bsky.social",
+                "url": "https://t.co/GI4QlxZr2S",
+                "indices": [
+                  71,
+                  94
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cryptographyengineering.com",
+                "expanded_url": "http://blog.cryptographyengineering.com",
+                "url": "https://t.co/WSry8dkcZk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 49393,
+        "followers_count": 150158,
+        "friends_count": 1070,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 3305,
+        "location": "Baltimore, MD",
+        "media_count": 3981,
+        "name": "Matthew Green is on BlueSky",
+        "normal_followers_count": 150158,
+        "pinned_tweet_ids_str": [
+          "1878073137637548243"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106234268/1399054297",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "matthew_d_green",
+        "statuses_count": 85190,
+        "translator_type": "none",
+        "url": "https://t.co/WSry8dkcZk",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 28,
+      "created_at": "Tue Mar 11 12:26:39 +0000 2025",
+      "conversation_id_str": "1899436808691126784",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "techcrunch.com/2025/03/07/sig…",
+            "expanded_url": "https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/",
+            "url": "https://t.co/OTe6ei8yb5",
+            "indices": [
+              122,
+              145
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 123,
+      "favorited": false,
+      "full_text": "Meredith Whittaker on the security and privacy risks of Ai agents in messaging platforms, which I also worry about a lot. https://t.co/OTe6ei8yb5",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 6,
+      "retweet_count": 27,
+      "retweeted": false,
+      "user_id_str": "106234268",
+      "id_str": "1899436808691126784",
+      "url": "https://x.com/matthew_d_green/status/1899436808691126784",
+      "views_count": "11259",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 18 22:45:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I teach cryptography at Johns Hopkins. Mostly on BlueSky these days at https://t.co/GI4QlxZr2S.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matthewdgreen.bsky.social",
+                "expanded_url": "http://matthewdgreen.bsky.social",
+                "url": "https://t.co/GI4QlxZr2S",
+                "indices": [
+                  71,
+                  94
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cryptographyengineering.com",
+                "expanded_url": "http://blog.cryptographyengineering.com",
+                "url": "https://t.co/WSry8dkcZk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 49393,
+        "followers_count": 150160,
+        "friends_count": 1070,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 3305,
+        "location": "Baltimore, MD",
+        "media_count": 3981,
+        "name": "Matthew Green is on BlueSky",
+        "normal_followers_count": 150160,
+        "pinned_tweet_ids_str": [
+          "1878073137637548243"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106234268/1399054297",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "matthew_d_green",
+        "statuses_count": 85190,
+        "translator_type": "none",
+        "url": "https://t.co/WSry8dkcZk",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-13": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "2025-03-12": [
+      4
+    ],
+    "2025-03-11": [
+      5
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "username": "ml_sudo",
+  "analyzedAt": "2025-03-15T18:27:58.849Z",
+  "tweetCount": 30,
+  "tweetDateRange": {
+    "earliestTweet": "Sat Mar 08 02:16:58 +0000 2025",
+    "latestTweet": "Sat Mar 15 01:07:00 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @ml_sudo and provide a summary of what they mainly talked about in the past week:\n\nProfessionalize boards in crypto\n\nPlease. Or we’re all doomed https://t.co/Yn0yF1Jvtc\n\nYou know how we say “Uber for X” as shorthand for anything that is a marketplace that works well? \n\n“@l2beat for X” is totally a thing\n\nHat tip to the team\n\n@sui414 Same!!! Just a few days ago I gave up on MM\n\nfortune cookie parking, only in Chinatown 😆 https://t.co/wPNhJT4Exo\n\n“I want a team where the designer can critique marketing and everyone walks away thinking 'that was fun,' not political.\"\n\nMy kind of org\n\nNeed to select coworkers for thick skin tho\n\nJust watched a podcast where someone let manus create a locally deployed app which involved auto unzipping files and executing them. From a single prompt “create a DocuSign clone”\n\nAre y’all crazy or wat\n\n@PatrickAlphaC @safe Yeah I did not understand that point\n\nV: how do you make open source work with your business model? \n\nPanelists:\n* it’s very hard, trying to figure it out \n* George hotz strategy of selling something for more than it costs\n* open source itself is not a moat. Need to figure it out\n* marine biology has the concept of a whale fall: when a fall passes, its carcass creates a massive beautiful ecosystem, catalyses things that couldn’t exist otherwise - my fav take \n\nVitalik makes a joke about “crypto whales” answering the call to fall 😆 \n\n@johnsonmxe @VitalikButerin @gaoist @microbeminded2\n\n@badcryptobitch The girl on right is alive\n\nNo matter how secure your custody… diversification matters\n\nCredit to the d/acc day team who brought in 22 air filters into the auditorium. My kind of event! ❤️ \n\nAnd a table full of masks at registration. (If only the few ppl sniffling loudly would use them tho 🤔d/acc requires a social front)\n\n@ethereumsf @foresightinst @VitalikButerin https://t.co/GfW1UnR9Yk\n\nmeanwhile, this industry is a lovely mess\n\nI want to make pizza. I made the stone oven, but the pizza tray is too large to fit into the opening of the oven. I hack at the opening until the tray fits. Then I find out that I forgot to leave enough room for the fire.\n\nOkay. https://t.co/rAAo6Wk5Cf\n\n🤣 whoever this founder is, she is my hero hahahah\n\n@P3b7_ @lightclients @Ledger One more question - is there a page that says which Dapps have registered for Clear Signing? \n\nI'd like to do a demo of the difference between apps that have and those that haven't\n\n@P3b7_ @lightclients @Ledger Is there a video guide on Dapps would use this to register their contracts?\n\nI searched for Ledger Clear Signing and didn't find much more than announcement blogs.\n\nif you abandon global competition and global leadership — you shut down American Empire, and with it the ability to print money. And then everyone in that empire has a very bad time.\n\n@P3b7_ @lightclients @Ledger @ethereumfndn @tkstanczak @Rabby_io @MetaMask @Uniswap @aave @_SEAL_Org Meanwhile, @P3b7_ please see this list of asks for hardware wallets by @PatrickAlphaC @CyfrinAudits \n\nhttps://t.co/RNOBwHVSdM\n\nExciting\n\nLoved this walk through of a fork of @pcaversaccio's safe hashes tool by @PatrickAlphaC @CyfrinAudits\n\nHe used @Trezor @Ledger @KeystoneWallet in the demo. I have listed the wallets in increasing order of ability to check what you are actually signing. \n\nBasically, don't use Trezor, Ledger may be acceptable if you don't mind doing more work, while Keystone leads the pack.\n\nI'd like to highlight his succinctly phrased request to hardware wallets below: \n\n===\n\nDear Hardware Wallets: I have a couple of asks for you. \n\n#1 you should all add clear \nsigning like what we saw with the \nKeystone wallet so that I can directly see what was \ngoing on with my transaction without having to\nintegrate with something like metamask\n\n#2 it would be cool if we could export the call data so that we could match it to the tools that we write e.g.  add a QR code that allows us to scan it so we can import into where we use our tools \n\n#3 [that being said,] scanning QR codes is very spooky so maybe there's something more clever that you can do\n\n#4 and if you do do a QR code have it be like a base 64 in code so you could work in offline mode\n\n#5 additionally it would be cool if you showed the hash of the call data because that would be much easier to spot check than the entire call data \n\nprivate key attacks are the number one attack Vector from last year and they're looking like they're going\nto be the number one attack vector going forward\n\nhttps://t.co/av2YbrRIe3\n\n@P3b7_ @lightclients @Ledger How does the industry as a whole apply pressure on dApps to integrate clear signing?\n\n@ethereumfndn @tkstanczak @Rabby_io @MetaMask @Uniswap @aave @_SEAL_Org\n\nI'm just tagging leading apps and wallets, no idea if they've already integrated clear signing\n\n@lightclients Hi @Ledger @P3b7_ what happened to the June 2024 no-blind signing goal, which you announced in December 2023? \n\nWhich parts of the industry do you need to cooperate with you to get it done?\n\n@lightclients did they explain why? did something like a new EIP standard make it more difficult, or is it just the usual \"software delays\" reason?\n\nDid Ledger \"end blind signing for Eth dApps\" by June 2024? \n\nThis was from a December 2023 article\n\nhttps://t.co/LCYrLrZdh9 https://t.co/lwCJD6Hm0v\n\n@diro_opinion @CPerezz19 @zashi_app Sorry yes, my bad, too much rapid finger typing\n\n.@CPerezz19, u inspire me with your backbone and support \n\nZcash with only 1 year runway: https://t.co/hfFgUuqsWC\n\nAside: on the flip side, would be funny if zoomer crypto devs choose a proxy for real life needs and the proxy gets very confused at the constant barrage of instructions\n\nI struggled to understand upgradable contracts in Ethereum, and the word “proxy” was a big reason why.\n\nIn law, a proxy HAS agency—it makes decisions on someone’s behalf. If I \"appoint a proxy\" to vote on my behalf as a shareholder of a public company, I let them vote however they decide is best. If I “appoint a healthcare proxy,” I let them make decisions for me if I am unfit or unconscious.\n\nBut in Ethereum, a proxy contract HAS NO agency—it blindly forwards calls to an implementation contract using delegatecall.\n\nThis isn’t EVM devs’ fault. The term proxy comes from network computing, where a proxy server relays requests without modifying them. The same idea applies to EVM proxies—they forward calls but don’t execute logic.\n\nOnce I realized this, proxy/upgradable contracts finally clicked! Took too long. \n\nLet's be better about etymology, so we onboard as many ppl as quickly as possible\n\n.@Google removed International Women's Day (8 March) from their cultural calendar\n\nI know they are trying to erase DEI\n\nBut IWD predates DEI by 100 years (first celebrated in 1911)\n\nhi Google, Sundar, are u okay?\n\nare you going to bind women's feet too (which officially ended in 1912)?\n\nhttps://t.co/ymBkyeOIpT\n\nhttps://t.co/EjfWY3inGl\n\n@calilyliu Women like you and I are loud and can challenge a guy toe to toe in business.\n\nI’ve started to have empathy for women who aren’t cursed/gifted with this force of personality so sometimes I like to speak out in the hopes of opening a wedge for them.\n\nZcash rebirthing…"
+  },
+  "summary": "In the past week, @ml_sudo discussed various topics related to crypto, technology, and organizational dynamics. Some of the main themes include:\n\n1. Discussions around the need to professionalize boards in crypto for better governance.\n2. Mentions of different platforms and tools like \"@l2beat\" and hardware wallets.\n3. Commentary on industry events and the challenges faced in integrating open source with business models.\n4. Critiques of security practices in the crypto space, including the importance of custody security and private key attacks.\n5. Reflections on organizational culture, teamwork, and the dynamics between different roles, like designers and marketers.\n6. Personal anecdotes and humorous observations, such as experiences with fortune cookie parking and pizza-making mishaps.\n7. Criticism of tech terminology and calls for clearer communication to facilitate understanding in the industry.\n8. Social commentary on gender diversity, historical events, and advocacy for empowerment and empathy in business environments. \n\nOverall, the tweets demonstrate a mix of insightful analysis, technical discussions, personal anecdotes, and social commentary from @ml_sudo.",
+  "keyTopics": [
+    "Discussions around the need to professionalize boards in crypto for better governance",
+    "Mentions of different platforms and tools like \"@l2beat\" and hardware wallets",
+    "Commentary on industry events and the challenges faced in integrating open source with business models",
+    "Critiques of security practices in the crypto space, including the importance of custody security and private key attacks",
+    "Reflections on organizational culture, teamwork, and the dynamics between different roles, like designers and marketers"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900715320542634177",
+      "createdAt": "Sat Mar 15 01:07:00 +0000 2025",
+      "text": "Professionalize boards in crypto\n\nPlease. Or we’re all doomed https://t.co/Yn0yF1Jvtc"
+    },
+    {
+      "index": 1,
+      "id": "1900711425984573926",
+      "createdAt": "Sat Mar 15 00:51:32 +0000 2025",
+      "text": "You know how we say “Uber for X” as shorthand for anything that is a marketplace that works well? \n\n..."
+    },
+    {
+      "index": 2,
+      "id": "1900699015664050538",
+      "createdAt": "Sat Mar 15 00:02:13 +0000 2025",
+      "text": "@sui414 Same!!! Just a few days ago I gave up on MM"
+    },
+    {
+      "index": 3,
+      "id": "1900693305404330183",
+      "createdAt": "Fri Mar 14 23:39:31 +0000 2025",
+      "text": "fortune cookie parking, only in Chinatown 😆 https://t.co/wPNhJT4Exo"
+    },
+    {
+      "index": 4,
+      "id": "1900610793424515201",
+      "createdAt": "Fri Mar 14 18:11:39 +0000 2025",
+      "text": "“I want a team where the designer can critique marketing and everyone walks away thinking 'that was ..."
+    },
+    {
+      "index": 5,
+      "id": "1900571851560022342",
+      "createdAt": "Fri Mar 14 15:36:54 +0000 2025",
+      "text": "Just watched a podcast where someone let manus create a locally deployed app which involved auto unz..."
+    },
+    {
+      "index": 6,
+      "id": "1900369218409029789",
+      "createdAt": "Fri Mar 14 02:11:43 +0000 2025",
+      "text": "@PatrickAlphaC @safe Yeah I did not understand that point"
+    },
+    {
+      "index": 7,
+      "id": "1900340951157268973",
+      "createdAt": "Fri Mar 14 00:19:24 +0000 2025",
+      "text": "V: how do you make open source work with your business model? \n\nPanelists:\n* it’s very hard, trying ..."
+    },
+    {
+      "index": 8,
+      "id": "1900303664969027694",
+      "createdAt": "Thu Mar 13 21:51:14 +0000 2025",
+      "text": "@badcryptobitch The girl on right is alive"
+    },
+    {
+      "index": 9,
+      "id": "1900258403806814606",
+      "createdAt": "Thu Mar 13 18:51:23 +0000 2025",
+      "text": "No matter how secure your custody… diversification matters"
+    },
+    {
+      "index": 10,
+      "id": "1900255284976886174",
+      "createdAt": "Thu Mar 13 18:38:59 +0000 2025",
+      "text": "Credit to the d/acc day team who brought in 22 air filters into the auditorium. My kind of event! ❤️..."
+    },
+    {
+      "index": 11,
+      "id": "1899675305448505572",
+      "createdAt": "Wed Mar 12 04:14:21 +0000 2025",
+      "text": "meanwhile, this industry is a lovely mess\n\nI want to make pizza. I made the stone oven, but the pizz..."
+    },
+    {
+      "index": 12,
+      "id": "1899673377138233778",
+      "createdAt": "Wed Mar 12 04:06:41 +0000 2025",
+      "text": "🤣 whoever this founder is, she is my hero hahahah"
+    },
+    {
+      "index": 13,
+      "id": "1899668914507747818",
+      "createdAt": "Wed Mar 12 03:48:58 +0000 2025",
+      "text": "@P3b7_ @lightclients @Ledger One more question - is there a page that says which Dapps have register..."
+    },
+    {
+      "index": 14,
+      "id": "1899668675273040118",
+      "createdAt": "Wed Mar 12 03:48:00 +0000 2025",
+      "text": "@P3b7_ @lightclients @Ledger Is there a video guide on Dapps would use this to register their contra..."
+    },
+    {
+      "index": 15,
+      "id": "1899573013621661705",
+      "createdAt": "Tue Mar 11 21:27:53 +0000 2025",
+      "text": "if you abandon global competition and global leadership — you shut down American Empire, and with it..."
+    },
+    {
+      "index": 16,
+      "id": "1899563209226367402",
+      "createdAt": "Tue Mar 11 20:48:55 +0000 2025",
+      "text": "@P3b7_ @lightclients @Ledger @ethereumfndn @tkstanczak @Rabby_io @MetaMask @Uniswap @aave @_SEAL_Org..."
+    },
+    {
+      "index": 17,
+      "id": "1899560926887703005",
+      "createdAt": "Tue Mar 11 20:39:51 +0000 2025",
+      "text": "Exciting"
+    },
+    {
+      "index": 18,
+      "id": "1899560303370944598",
+      "createdAt": "Tue Mar 11 20:37:23 +0000 2025",
+      "text": "Loved this walk through of a fork of @pcaversaccio's safe hashes tool by @PatrickAlphaC @CyfrinAudit..."
+    },
+    {
+      "index": 19,
+      "id": "1899518493235486945",
+      "createdAt": "Tue Mar 11 17:51:14 +0000 2025",
+      "text": "@P3b7_ @lightclients @Ledger How does the industry as a whole apply pressure on dApps to integrate c..."
+    },
+    {
+      "index": 20,
+      "id": "1899482717550440608",
+      "createdAt": "Tue Mar 11 15:29:05 +0000 2025",
+      "text": "@lightclients Hi @Ledger @P3b7_ what happened to the June 2024 no-blind signing goal, which you anno..."
+    },
+    {
+      "index": 21,
+      "id": "1899292528509149617",
+      "createdAt": "Tue Mar 11 02:53:20 +0000 2025",
+      "text": "@lightclients did they explain why? did something like a new EIP standard make it more difficult, or..."
+    },
+    {
+      "index": 22,
+      "id": "1899283206152589506",
+      "createdAt": "Tue Mar 11 02:16:17 +0000 2025",
+      "text": "Did Ledger \"end blind signing for Eth dApps\" by June 2024? \n\nThis was from a December 2023 article\n\n..."
+    },
+    {
+      "index": 23,
+      "id": "1899193255310303385",
+      "createdAt": "Mon Mar 10 20:18:52 +0000 2025",
+      "text": "@diro_opinion @CPerezz19 @zashi_app Sorry yes, my bad, too much rapid finger typing"
+    },
+    {
+      "index": 24,
+      "id": "1899184345660682558",
+      "createdAt": "Mon Mar 10 19:43:27 +0000 2025",
+      "text": ".@CPerezz19, u inspire me with your backbone and support \n\nZcash with only 1 year runway: https://t...."
+    },
+    {
+      "index": 25,
+      "id": "1899182180443553858",
+      "createdAt": "Mon Mar 10 19:34:51 +0000 2025",
+      "text": "Aside: on the flip side, would be funny if zoomer crypto devs choose a proxy for real life needs and..."
+    },
+    {
+      "index": 26,
+      "id": "1899182176630923445",
+      "createdAt": "Mon Mar 10 19:34:50 +0000 2025",
+      "text": "I struggled to understand upgradable contracts in Ethereum, and the word “proxy” was a big reason wh..."
+    },
+    {
+      "index": 27,
+      "id": "1898949721642926287",
+      "createdAt": "Mon Mar 10 04:11:09 +0000 2025",
+      "text": ".@Google removed International Women's Day (8 March) from their cultural calendar\n\nI know they are t..."
+    },
+    {
+      "index": 28,
+      "id": "1898523106546758010",
+      "createdAt": "Sat Mar 08 23:55:56 +0000 2025",
+      "text": "@calilyliu Women like you and I are loud and can challenge a guy toe to toe in business.\n\nI’ve start..."
+    },
+    {
+      "index": 29,
+      "id": "1898196212290846889",
+      "createdAt": "Sat Mar 08 02:16:58 +0000 2025",
+      "text": "Zcash rebirthing…"
+    }
+  ]
+}

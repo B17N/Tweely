@@ -1,0 +1,1001 @@
+{
+  "username": "hagaetc.eth",
+  "fetchedAt": "2025-03-15T16:01:50.830Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:53:07 +0000 2025",
+      "conversation_id_str": "1900636330385711186",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/dJ6t4Kzjmr",
+            "expanded_url": "https://x.com/hagaetc/status/1900636330385711186/photo/1",
+            "id_str": "1900636325021122560",
+            "indices": [
+              51,
+              74
+            ],
+            "media_key": "3_1900636325021122560",
+            "media_url_https": "https://pbs.twimg.com/media/GmBqqugWgAAulEL.jpg",
+            "type": "photo",
+            "url": "https://t.co/dJ6t4Kzjmr",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 850,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 512,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 297,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900636325021122560"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/dJ6t4Kzjmr",
+            "expanded_url": "https://x.com/hagaetc/status/1900636330385711186/photo/1",
+            "id_str": "1900636325021122560",
+            "indices": [
+              51,
+              74
+            ],
+            "media_key": "3_1900636325021122560",
+            "media_url_https": "https://pbs.twimg.com/media/GmBqqugWgAAulEL.jpg",
+            "type": "photo",
+            "url": "https://t.co/dJ6t4Kzjmr",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 1536,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 850,
+                  "w": 1536,
+                  "h": 860
+                },
+                {
+                  "x": 0,
+                  "y": 512,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 297,
+                  "w": 1536,
+                  "h": 1751
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1024,
+                  "h": 2048
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900636325021122560"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 12,
+      "favorited": false,
+      "full_text": "Putting the Dune merch to work on a Friday night 🍷 https://t.co/dJ6t4Kzjmr",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "214881821",
+      "id_str": "1900636330385711186",
+      "url": "https://x.com/hagaetc/status/1900636330385711186",
+      "views_count": "5171",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Nov 12 13:22:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founder & CEO @dune. Down with music, books, crypto, startups, tech, running, outdoors, freestyle skiing, great design in any form factor, coffee, wine etc.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dune.com",
+                "expanded_url": "http://dune.com",
+                "url": "https://t.co/DU9U5Qo1GQ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 15195,
+        "followers_count": 31165,
+        "friends_count": 941,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 356,
+        "location": "Dune",
+        "media_count": 770,
+        "name": "hagaetc.eth",
+        "normal_followers_count": 31165,
+        "pinned_tweet_ids_str": [
+          "1862051756655419649"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214881821/1536755132",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169508977421557760/GNezPK-9_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "hagaetc",
+        "statuses_count": 5406,
+        "translator_type": "none",
+        "url": "https://t.co/DU9U5Qo1GQ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Fri Mar 14 11:54:04 +0000 2025",
+      "conversation_id_str": "1900515773208031582",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1895566631981744128",
+            "name": "Project Europe",
+            "screen_name": "ProjectEurope_",
+            "indices": [
+              22,
+              37
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 42,
+      "favorited": false,
+      "full_text": "Excited to be backing @ProjectEurope_ to encourage more ambition, risk taking and building in Europe. lfg!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "214881821",
+      "id_str": "1900515773208031582",
+      "url": "https://x.com/hagaetc/status/1900515773208031582",
+      "views_count": "3123",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Nov 12 13:22:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founder & CEO @dune. Down with music, books, crypto, startups, tech, running, outdoors, freestyle skiing, great design in any form factor, coffee, wine etc.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dune.com",
+                "expanded_url": "http://dune.com",
+                "url": "https://t.co/DU9U5Qo1GQ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 15195,
+        "followers_count": 31165,
+        "friends_count": 941,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 356,
+        "location": "Dune",
+        "media_count": 770,
+        "name": "hagaetc.eth",
+        "normal_followers_count": 31165,
+        "pinned_tweet_ids_str": [
+          "1862051756655419649"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214881821/1536755132",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169508977421557760/GNezPK-9_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "hagaetc",
+        "statuses_count": 5406,
+        "translator_type": "none",
+        "url": "https://t.co/DU9U5Qo1GQ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 18:57:09 +0000 2025",
+      "conversation_id_str": "1899886466819338506",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1450498482050158599",
+            "name": "sealaunch.xyz",
+            "screen_name": "sealaunch_",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "1039449274344529920",
+            "name": "Dune",
+            "screen_name": "Dune",
+            "indices": [
+              12,
+              17
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@sealaunch_ @Dune Congrats!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "214881821",
+      "id_str": "1899897468281668080",
+      "url": "https://x.com/hagaetc/status/1899897468281668080",
+      "views_count": "104",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Nov 12 13:22:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founder & CEO @dune. Down with music, books, crypto, startups, tech, running, outdoors, freestyle skiing, great design in any form factor, coffee, wine etc.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dune.com",
+                "expanded_url": "http://dune.com",
+                "url": "https://t.co/DU9U5Qo1GQ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 15195,
+        "followers_count": 31165,
+        "friends_count": 941,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 356,
+        "location": "Dune",
+        "media_count": 770,
+        "name": "hagaetc.eth",
+        "normal_followers_count": 31165,
+        "pinned_tweet_ids_str": [
+          "1862051756655419649"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214881821/1536755132",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169508977421557760/GNezPK-9_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "hagaetc",
+        "statuses_count": 5406,
+        "translator_type": "none",
+        "url": "https://t.co/DU9U5Qo1GQ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 07 13:15:10 +0000 2025",
+      "conversation_id_str": "1897320532103847983",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1389612135479656451",
+            "name": "cryptall3🥷🏾",
+            "screen_name": "cryptall3",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "1039449274344529920",
+            "name": "Dune | EthDenver",
+            "screen_name": "Dune",
+            "indices": [
+              11,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@cryptall3 @Dune gg!",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "214881821",
+      "id_str": "1897999464096309259",
+      "url": "https://x.com/hagaetc/status/1897999464096309259",
+      "views_count": "71",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Nov 12 13:22:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founder & CEO @dune. Down with music, books, crypto, startups, tech, running, outdoors, freestyle skiing, great design in any form factor, coffee, wine etc.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dune.com",
+                "expanded_url": "http://dune.com",
+                "url": "https://t.co/DU9U5Qo1GQ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 15195,
+        "followers_count": 31166,
+        "friends_count": 941,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 356,
+        "location": "Dune",
+        "media_count": 770,
+        "name": "hagaetc.eth",
+        "normal_followers_count": 31166,
+        "pinned_tweet_ids_str": [
+          "1862051756655419649"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214881821/1536755132",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169508977421557760/GNezPK-9_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "hagaetc",
+        "statuses_count": 5406,
+        "translator_type": "none",
+        "url": "https://t.co/DU9U5Qo1GQ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 07 12:55:04 +0000 2025",
+      "conversation_id_str": "1897993383982911824",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "786310804727476224",
+            "name": "Arno",
+            "screen_name": "Arnno39",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Arnno39 💯",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "214881821",
+      "id_str": "1897994406562562247",
+      "url": "https://x.com/hagaetc/status/1897994406562562247",
+      "views_count": "74",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Nov 12 13:22:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founder & CEO @dune. Down with music, books, crypto, startups, tech, running, outdoors, freestyle skiing, great design in any form factor, coffee, wine etc.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dune.com",
+                "expanded_url": "http://dune.com",
+                "url": "https://t.co/DU9U5Qo1GQ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 15195,
+        "followers_count": 31166,
+        "friends_count": 941,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 356,
+        "location": "Dune",
+        "media_count": 770,
+        "name": "hagaetc.eth",
+        "normal_followers_count": 31166,
+        "pinned_tweet_ids_str": [
+          "1862051756655419649"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214881821/1536755132",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169508977421557760/GNezPK-9_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "hagaetc",
+        "statuses_count": 5406,
+        "translator_type": "none",
+        "url": "https://t.co/DU9U5Qo1GQ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Fri Mar 07 11:43:47 +0000 2025",
+      "conversation_id_str": "1897976468535136467",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/YRUuCpDIuD",
+            "expanded_url": "https://x.com/hagaetc/status/1897976468535136467/photo/1",
+            "id_str": "1897975280288845824",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1897975280288845824",
+            "media_url_https": "https://pbs.twimg.com/media/Glb2diYW0AASn1i.jpg",
+            "type": "photo",
+            "url": "https://t.co/YRUuCpDIuD",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 609,
+                    "y": 514,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 609,
+                    "y": 514,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 351,
+                    "y": 296,
+                    "h": 169,
+                    "w": 169
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 609,
+                    "y": 514,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 999,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 999,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 576,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 999,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 999,
+                  "h": 999
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 876,
+                  "h": 999
+                },
+                {
+                  "x": 74,
+                  "y": 0,
+                  "w": 500,
+                  "h": 999
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 999
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1897975280288845824"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/YRUuCpDIuD",
+            "expanded_url": "https://x.com/hagaetc/status/1897976468535136467/photo/1",
+            "id_str": "1897975280288845824",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1897975280288845824",
+            "media_url_https": "https://pbs.twimg.com/media/Glb2diYW0AASn1i.jpg",
+            "type": "photo",
+            "url": "https://t.co/YRUuCpDIuD",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 609,
+                    "y": 514,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 609,
+                    "y": 514,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 351,
+                    "y": 296,
+                    "h": 169,
+                    "w": 169
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 609,
+                    "y": 514,
+                    "h": 294,
+                    "w": 294
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 999,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 999,
+                "w": 1179,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 576,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 999,
+              "width": 1179,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 660
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 999,
+                  "h": 999
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 876,
+                  "h": 999
+                },
+                {
+                  "x": 74,
+                  "y": 0,
+                  "w": 500,
+                  "h": 999
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1179,
+                  "h": 999
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1897975280288845824"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 53,
+      "favorited": false,
+      "full_text": "Remember way back in 2021 when a bunch of crypto projects with limited PMF on their core business launched their own VC funds? https://t.co/YRUuCpDIuD",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "214881821",
+      "id_str": "1897976468535136467",
+      "url": "https://x.com/hagaetc/status/1897976468535136467",
+      "views_count": "3515",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Fri Nov 12 13:22:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founder & CEO @dune. Down with music, books, crypto, startups, tech, running, outdoors, freestyle skiing, great design in any form factor, coffee, wine etc.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dune.com",
+                "expanded_url": "http://dune.com",
+                "url": "https://t.co/DU9U5Qo1GQ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 15195,
+        "followers_count": 31166,
+        "friends_count": 941,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 356,
+        "location": "Dune",
+        "media_count": 770,
+        "name": "hagaetc.eth",
+        "normal_followers_count": 31166,
+        "pinned_tweet_ids_str": [
+          "1862051756655419649"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214881821/1536755132",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169508977421557760/GNezPK-9_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "hagaetc",
+        "statuses_count": 5406,
+        "translator_type": "none",
+        "url": "https://t.co/DU9U5Qo1GQ",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1
+    ],
+    "2025-03-12": [
+      2
+    ],
+    "2025-03-07": [
+      3,
+      4,
+      5
+    ]
+  }
+}

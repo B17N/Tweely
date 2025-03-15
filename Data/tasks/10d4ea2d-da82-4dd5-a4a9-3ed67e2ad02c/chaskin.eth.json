@@ -1,0 +1,1864 @@
+{
+  "username": "chaskin.eth",
+  "fetchedAt": "2025-03-15T15:58:08.314Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 00:03:58 +0000 2025",
+      "conversation_id_str": "1900684566370939264",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "313724502",
+            "name": "sassal.eth/acc 🦇🔊",
+            "screen_name": "sassal0x",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@sassal0x - Apps Apps Apps",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1900699457793991048",
+      "url": "https://x.com/jchaskin22/status/1900699457793991048",
+      "views_count": "231",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 19:48:47 +0000 2025",
+      "conversation_id_str": "1900272848599736718",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "warpcast.com/polynya/0x79bc…",
+            "expanded_url": "https://warpcast.com/polynya/0x79bc7112",
+            "url": "https://t.co/ldTM4Vty25",
+            "indices": [
+              231,
+              254
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 23,
+      "favorited": false,
+      "full_text": "Nearly a year since polynya’s final blog post. Crypto is still seen as a casino for degens. If we don’t build real positive-sum apps that add value to the world that reputation will stick and it will be deserved. It’s now or never\nhttps://t.co/ldTM4Vty25",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 3,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1900272848599736718",
+      "url": "https://x.com/jchaskin22/status/1900272848599736718",
+      "views_count": "647",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 13:40:47 +0000 2025",
+      "conversation_id_str": "1899812215836037419",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1350143850644295680",
+            "name": "Uttam",
+            "screen_name": "uttam_singhk",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@uttam_singhk Laughing at the TikTok style. Well done 👏🏻👏🏻👏🏻",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899817852133060782",
+      "url": "https://x.com/jchaskin22/status/1899817852133060782",
+      "views_count": "188",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Wed Mar 12 13:33:37 +0000 2025",
+      "conversation_id_str": "1899789937081274827",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1461735251412193281",
+            "name": "mteam.eth 🗼",
+            "screen_name": "mteamisloading",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1420244728621133828",
+            "name": "polynya",
+            "screen_name": "apolynya",
+            "indices": [
+              16,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "I get the point, ETH’s value isn’t summed up in a single slogan. I personally like the old bankless triple point asset thesis\n\nETH is valuable because it’s a store of value, a capital asset, and a consumable resource all at once. It secures Ethereum, powers its economy, and is integrated into its financial system\n\nI already see the response coming that this isn’t a north star, but a single, rigid purpose isn’t what makes ETH valuable imo. We might just agree to disagree on that",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899816047848415562",
+      "url": "https://x.com/jchaskin22/status/1899816047848415562",
+      "views_count": "626",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 13:17:29 +0000 2025",
+      "conversation_id_str": "1899789937081274827",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1461735251412193281",
+            "name": "mteam.eth 🗼",
+            "screen_name": "mteamisloading",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1420244728621133828",
+            "name": "polynya",
+            "screen_name": "apolynya",
+            "indices": [
+              16,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "ETH has multiple demand drivers, like other major assets. Stocks gain value from ownership, dividends, speculation, etc each weighing differently\n\nETH sees demand from holding, staking, economic collateral, & fees. I roughly agree with polynya on the weights\n\nPeople at the EF don’t have a uniform stance. Everyone has their own opinions",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899811987321655674",
+      "url": "https://x.com/jchaskin22/status/1899811987321655674",
+      "views_count": "193",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Wed Mar 12 12:16:37 +0000 2025",
+      "conversation_id_str": "1899789937081274827",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "polynya.mirror.xyz/GPC26Y_rlwCyPp…",
+            "expanded_url": "https://polynya.mirror.xyz/GPC26Y_rlwCyPpj_N3HeW_izY1-pIVwKW5bjuPNrGeQ",
+            "url": "https://t.co/3abCksFCLt",
+            "indices": [
+              151,
+              174
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1461735251412193281",
+            "name": "mteam.eth 🗼",
+            "screen_name": "mteamisloading",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1420244728621133828",
+            "name": "polynya",
+            "screen_name": "apolynya",
+            "indices": [
+              102,
+              111
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@mteamisloading Agreed on the latter. There's a bunch of different demand drivers for ETH and I think @apolynya lays them out really well in this post\nhttps://t.co/3abCksFCLt",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899796670683955383",
+      "url": "https://x.com/jchaskin22/status/1899796670683955383",
+      "views_count": "519",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Wed Mar 12 11:50:09 +0000 2025",
+      "conversation_id_str": "1899789937081274827",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/watch?v=QpTyBE…",
+            "expanded_url": "http://youtube.com/watch?v=QpTyBESPzo8",
+            "url": "https://t.co/YGwPtJvJOg",
+            "indices": [
+              6,
+              29
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "33:29\nhttps://t.co/YGwPtJvJOg",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899790008464097542",
+      "url": "https://x.com/jchaskin22/status/1899790008464097542",
+      "views_count": "1150",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 12,
+      "created_at": "Wed Mar 12 11:49:52 +0000 2025",
+      "conversation_id_str": "1899789937081274827",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 425,
+      "favorited": false,
+      "full_text": "\"Some say Ethereum lacks a clear North Star. That’s misunderstanding at best, propaganda at worst\n\nEthereum’s goal is clear: scale to millions while preserving openness, censorship resistance &amp; privacy\n\nThe first decade was an experiment. The second is real adoption.\"\n\n – VB",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 4,
+      "reply_count": 24,
+      "retweet_count": 43,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899789937081274827",
+      "url": "https://x.com/jchaskin22/status/1899789937081274827",
+      "views_count": "17463",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 21:24:17 +0000 2025",
+      "conversation_id_str": "1899542635980988812",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1150145477914091520",
+            "name": "BOR4",
+            "screen_name": "B0R444",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@B0R444 I loled well done",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899572108428255742",
+      "url": "https://x.com/jchaskin22/status/1899572108428255742",
+      "views_count": "22",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 19:27:10 +0000 2025",
+      "conversation_id_str": "1899542635980988812",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Xify5ujW4W",
+            "expanded_url": "https://x.com/jchaskin22/status/1899542635980988812/photo/1",
+            "id_str": "1899542544339369984",
+            "indices": [
+              5,
+              28
+            ],
+            "media_key": "3_1899542544339369984",
+            "media_url_https": "https://pbs.twimg.com/media/GlyH4T8XAAA7bI-.jpg",
+            "type": "photo",
+            "url": "https://t.co/Xify5ujW4W",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1600,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1600,
+              "width": 1200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 672
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1368
+                },
+                {
+                  "x": 280,
+                  "y": 0,
+                  "w": 800,
+                  "h": 1600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1600
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899542544339369984"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Xify5ujW4W",
+            "expanded_url": "https://x.com/jchaskin22/status/1899542635980988812/photo/1",
+            "id_str": "1899542544339369984",
+            "indices": [
+              5,
+              28
+            ],
+            "media_key": "3_1899542544339369984",
+            "media_url_https": "https://pbs.twimg.com/media/GlyH4T8XAAA7bI-.jpg",
+            "type": "photo",
+            "url": "https://t.co/Xify5ujW4W",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1600,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1600,
+              "width": 1200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 672
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1368
+                },
+                {
+                  "x": 280,
+                  "y": 0,
+                  "w": 800,
+                  "h": 1600
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1600
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899542544339369984"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "Apps https://t.co/Xify5ujW4W",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899542635980988812",
+      "url": "https://x.com/jchaskin22/status/1899542635980988812",
+      "views_count": "522",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 19:23:50 +0000 2025",
+      "conversation_id_str": "1899541795312169222",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 18,
+      "favorited": false,
+      "full_text": "The infra is ready. Uncle Sam has backed off. No more excuses.\n\nIt’s time to go mainstream.\n\nApps.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899541795312169222",
+      "url": "https://x.com/jchaskin22/status/1899541795312169222",
+      "views_count": "947",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:34:00 +0000 2025",
+      "conversation_id_str": "1899482130008186942",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "175804669",
+            "name": "tina",
+            "screen_name": "html_tina",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@html_tina Love this",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899499056163893685",
+      "url": "https://x.com/jchaskin22/status/1899499056163893685",
+      "views_count": "140",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2961,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2961,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 13:53:44 +0000 2025",
+      "conversation_id_str": "1899454271566787072",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "753574394513924097",
+            "name": "Pulkit Singh",
+            "screen_name": "pulkit__singh",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@pulkit__singh Yes you absolutely can, will read it later thanks for sharing",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899458722780369346",
+      "url": "https://x.com/jchaskin22/status/1899458722780369346",
+      "views_count": "38",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2961,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2961,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Tue Mar 11 13:36:03 +0000 2025",
+      "conversation_id_str": "1899454271566787072",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 37,
+      "favorited": false,
+      "full_text": "If you come across an interesting Ethereum project, whether it’s a library, dashboard, tool, or anything else, tag me\n\nI want to see it, check it out, and help give it more exposure",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 7,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899454271566787072",
+      "url": "https://x.com/jchaskin22/status/1899454271566787072",
+      "views_count": "1436",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2961,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2961,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:59:34 +0000 2025",
+      "conversation_id_str": "1899183564307972452",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "151981665",
+            "name": "Etc.",
+            "screen_name": "ec265",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "id_str": "15306376",
+            "name": "B I C E P",
+            "screen_name": "feelmybicep",
+            "indices": [
+              7,
+              19
+            ]
+          },
+          {
+            "id_str": "1427648037313294341",
+            "name": "sound.xyz (🎧,🎧)",
+            "screen_name": "soundxyz_",
+            "indices": [
+              20,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@ec265 @feelmybicep @soundxyz_ That was beautiful",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899188400760017144",
+      "url": "https://x.com/jchaskin22/status/1899188400760017144",
+      "views_count": "40",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:40:21 +0000 2025",
+      "conversation_id_str": "1899183564307972452",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "sound.xyz/bicep/glue?ref…",
+            "expanded_url": "https://www.sound.xyz/bicep/glue?referral=0xc4364f3a17bb60f3a56adbe738414eeeb523c6b2&referral_source=link",
+            "url": "https://t.co/sR8J0eFMvZ",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "15306376",
+            "name": "B I C E P",
+            "screen_name": "feelmybicep",
+            "indices": [
+              84,
+              96
+            ]
+          },
+          {
+            "id_str": "1427648037313294341",
+            "name": "sound.xyz (🎧,🎧)",
+            "screen_name": "soundxyz_",
+            "indices": [
+              100,
+              110
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "Another banger added to my music collection\n\nJust became the #5 backer of Glue from @feelmybicep on @soundxyz_\nhttps://t.co/sR8J0eFMvZ",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1088245096431190018",
+      "id_str": "1899183564307972452",
+      "url": "https://x.com/jchaskin22/status/1899183564307972452",
+      "views_count": "247",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Thu Jan 24 01:20:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ethereum foundation | opinions are my own but more than likely they come from Vitalik's blog \nhttps://t.co/KRVIbacRGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paragraph.xyz/@chaskin",
+                "expanded_url": "https://paragraph.xyz/@chaskin",
+                "url": "https://t.co/KRVIbacRGZ",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "warpcast.com/chaskin.eth",
+                "expanded_url": "http://warpcast.com/chaskin.eth",
+                "url": "https://t.co/F6VSogfVWe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 13667,
+        "followers_count": 2960,
+        "friends_count": 2275,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 56,
+        "location": "",
+        "media_count": 577,
+        "name": "chaskin.eth",
+        "normal_followers_count": 2960,
+        "pinned_tweet_ids_str": [
+          "1510387496764555273"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088245096431190018/1734555969",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1883532715095412736/zQF0SFIh_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "jchaskin22",
+        "statuses_count": 2951,
+        "translator_type": "none",
+        "url": "https://t.co/F6VSogfVWe",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0
+    ],
+    "2025-03-13": [
+      1
+    ],
+    "2025-03-12": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "2025-03-11": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "2025-03-10": [
+      14,
+      15
+    ]
+  }
+}

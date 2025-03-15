@@ -1,0 +1,154 @@
+{
+  "username": "Tomasz K. Stańczak",
+  "analyzedAt": "2025-03-15T18:28:09.528Z",
+  "tweetCount": 21,
+  "tweetDateRange": {
+    "earliestTweet": "Sat Mar 08 11:27:00 +0000 2025",
+    "latestTweet": "Fri Mar 14 13:59:36 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Tomasz K. Stańczak and provide a summary of what they mainly talked about in the past week:\n\n@0xpeternguyen after the official start date\n\nAfter the whole day talking about agents on Ethereum during the d/acc day. Continue by building.\n\nExecution layer client teams - do you think it would be all fine to target 100 Mgas blocks on L1 by the end of year?\n\nConsensus layer client teams - any challenges with reorgs?\n\nCommunity - bad or good idea?\n\nL2s - what are your Mgas/s (or equivalent) targets\n\nMany people want to hear more about the future, trade-offs, work being done around the L1 - L2 relarionship. Reading all the comments (calmly with open mind) under the Dankrad's tweet and the nested discussion will bring you some answers and some more questions.\n\nhttps://t.co/gHn8nm19FK\n\nThere is a lot of work related to institutional adoption but there is also lots of play and experimentation on ethereum. We build financial systems, we build governance systems, and we also build the world's Factorios - gardens, factories, space exploration, labs. Join teams building worlds with ethereum.\n\n@Yeethereum_ Interop it back.\n\nStrength of all L2s combined. Ethereum economy.\n\nBuilding networks, building bridges. Ethereum Economy, innovations from L2s. @Starknet\n\n@BullAdamJonas @elonmusk Should organize Olympics there\n\n@peter_szilagyi Because you made it too famous\n\nTotally personal, not holding any, I did speak to @infiniteyay about projects together but have not even started yet as it is all explorations. Really like these. Onchain, AI, NFTs. Ethereum made it all possible.\n\nHow to build your local Ethereum community\n\n@Taran_ss It has a lot of great stories that have the favour aspect central to the character interactions.\n\n@Taran_ss https://t.co/heoTBmG2VZ\n\n@goyatty @tkstanczak\n\n@theweifarer I haven't started yet, 17th or 24th\n\nMe responding to your Telegram messages\n\n@gakonst @yoavw @frangio_ Public mempool is needed for CR (censorship resistance) and protection against traceability as well as provision of deniable source of origin. Public mempool is part of the CR tooling on Ethereum. It does not have to deliver any substantial part of the blockspace.\n\n@MtHenye Spontaneous\n\nI will be in London this evening only if somehow someone wants to waste their Saturday evening for work.\n\nHappy to meet around 8 / 9 pm in Canary Wharf."
+  },
+  "summary": "The tweets from @Tomasz K. Stańczak over the past week mainly cover discussions and updates related to Ethereum, including topics like agents on Ethereum, L1 and L2 scalability, community engagement, institutional adoption, and building local Ethereum communities. There is also mention of collaborations and explorations in the areas of AI, NFTs, and various Ethereum projects. Additionally, there are casual interactions with other Twitter users and a brief mention of personal plans in London. The overall sentiment appears to be positive and focused on innovation, collaboration, and community building within the Ethereum ecosystem.",
+  "keyTopics": [
+    "Stańczak",
+    "Ethereum,",
+    "Ethereum",
+    "There",
+    "NFTs,"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900547364164612253",
+      "createdAt": "Fri Mar 14 13:59:36 +0000 2025",
+      "text": "@0xpeternguyen after the official start date"
+    },
+    {
+      "index": 1,
+      "id": "1900363531591303648",
+      "createdAt": "Fri Mar 14 01:49:07 +0000 2025",
+      "text": "After the whole day talking about agents on Ethereum during the d/acc day. Continue by building."
+    },
+    {
+      "index": 2,
+      "id": "1900325589573341692",
+      "createdAt": "Thu Mar 13 23:18:21 +0000 2025",
+      "text": "Execution layer client teams - do you think it would be all fine to target 100 Mgas blocks on L1 by ..."
+    },
+    {
+      "index": 3,
+      "id": "1900324899299942454",
+      "createdAt": "Thu Mar 13 23:15:36 +0000 2025",
+      "text": "Many people want to hear more about the future, trade-offs, work being done around the L1 - L2 relar..."
+    },
+    {
+      "index": 4,
+      "id": "1900278057359024496",
+      "createdAt": "Thu Mar 13 20:09:28 +0000 2025",
+      "text": "https://t.co/gHn8nm19FK"
+    },
+    {
+      "index": 5,
+      "id": "1899491316448600398",
+      "createdAt": "Tue Mar 11 16:03:15 +0000 2025",
+      "text": "There is a lot of work related to institutional adoption but there is also lots of play and experime..."
+    },
+    {
+      "index": 6,
+      "id": "1899477475840921742",
+      "createdAt": "Tue Mar 11 15:08:15 +0000 2025",
+      "text": "@Yeethereum_ Interop it back."
+    },
+    {
+      "index": 7,
+      "id": "1899468249672364340",
+      "createdAt": "Tue Mar 11 14:31:35 +0000 2025",
+      "text": "Strength of all L2s combined. Ethereum economy."
+    },
+    {
+      "index": 8,
+      "id": "1899463590421360851",
+      "createdAt": "Tue Mar 11 14:13:04 +0000 2025",
+      "text": "Building networks, building bridges. Ethereum Economy, innovations from L2s. @Starknet"
+    },
+    {
+      "index": 9,
+      "id": "1898728022275940498",
+      "createdAt": "Sun Mar 09 13:30:11 +0000 2025",
+      "text": "@BullAdamJonas @elonmusk Should organize Olympics there"
+    },
+    {
+      "index": 10,
+      "id": "1898727118143410366",
+      "createdAt": "Sun Mar 09 13:26:36 +0000 2025",
+      "text": "@peter_szilagyi Because you made it too famous"
+    },
+    {
+      "index": 11,
+      "id": "1898723175652831545",
+      "createdAt": "Sun Mar 09 13:10:56 +0000 2025",
+      "text": "Totally personal, not holding any, I did speak to @infiniteyay about projects together but have not ..."
+    },
+    {
+      "index": 12,
+      "id": "1898691205937987907",
+      "createdAt": "Sun Mar 09 11:03:54 +0000 2025",
+      "text": "How to build your local Ethereum community"
+    },
+    {
+      "index": 13,
+      "id": "1898611535167045676",
+      "createdAt": "Sun Mar 09 05:47:19 +0000 2025",
+      "text": "@Taran_ss It has a lot of great stories that have the favour aspect central to the character interac..."
+    },
+    {
+      "index": 14,
+      "id": "1898611210817351996",
+      "createdAt": "Sun Mar 09 05:46:01 +0000 2025",
+      "text": "@Taran_ss https://t.co/heoTBmG2VZ"
+    },
+    {
+      "index": 15,
+      "id": "1898607804329382051",
+      "createdAt": "Sun Mar 09 05:32:29 +0000 2025",
+      "text": "@goyatty @tkstanczak"
+    },
+    {
+      "index": 16,
+      "id": "1898464104496468248",
+      "createdAt": "Sat Mar 08 20:01:28 +0000 2025",
+      "text": "@theweifarer I haven't started yet, 17th or 24th"
+    },
+    {
+      "index": 17,
+      "id": "1898457400031474167",
+      "createdAt": "Sat Mar 08 19:34:50 +0000 2025",
+      "text": "Me responding to your Telegram messages"
+    },
+    {
+      "index": 18,
+      "id": "1898373555319972092",
+      "createdAt": "Sat Mar 08 14:01:40 +0000 2025",
+      "text": "@gakonst @yoavw @frangio_ Public mempool is needed for CR (censorship resistance) and protection aga..."
+    },
+    {
+      "index": 19,
+      "id": "1898336202702369199",
+      "createdAt": "Sat Mar 08 11:33:14 +0000 2025",
+      "text": "@MtHenye Spontaneous"
+    },
+    {
+      "index": 20,
+      "id": "1898334632187166790",
+      "createdAt": "Sat Mar 08 11:27:00 +0000 2025",
+      "text": "I will be in London this evening only if somehow someone wants to waste their Saturday evening for w..."
+    }
+  ]
+}

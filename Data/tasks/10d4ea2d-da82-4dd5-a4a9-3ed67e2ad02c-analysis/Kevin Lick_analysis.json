@@ -1,0 +1,70 @@
+{
+  "username": "Kevin Lick",
+  "analyzedAt": "2025-03-15T18:28:18.416Z",
+  "tweetCount": 7,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 06:33:10 +0000 2025",
+    "latestTweet": "Sat Mar 15 14:50:45 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Kevin Lick and provide a summary of what they mainly talked about in the past week:\n\nВ Осло я принял участие в вечере написания писем политзаключённым, где написал письмо художнице Людмиле Разумовой. Она невероятно сильная, и я призываю вас также выразить ей поддержку.\nОна держала сухую голодовку почти две недели. \n\nНаписать письмо можно на адрес: 171161, Тверская область, г. Вышний Волочек, Ржевский тракт, д. 7, ФКУ ИК-5 УФСИН России по Тверской области, Разумовой Людмиле Александровне 1967 г. р. Также можно воспользоваться сервисом Зонателеком (оплата российскими картами).\n\nЭто заслуживающий внимания пост.\nРекомендуется к прочтению тем, кому некоторые затронутые в нём темы могут быть не совсем\nочевидны.\n\n@Nonviolento @Aleksandrt2640 Власть Путина ознаменовалась умением решать конфликты дипломатичным образом, о какой дипломатией может идти речь, если говорим о людоеде?\n\n@Aleksandrt2640 Антивоенная позиция россиянина заключается в требовании вывода ВС РФ с оккупированных территорий, она не предполагает капитуляцию жертвы.\n\nПример Светова показывает: возраст не всегда показатель интеллекта. Как же сложно донести до людей разницу между коллективной виной и коллективной ответственностью.\n\nДаже тюремный опыт не подготовил меня к тому потоку абсурда, что льется из твиттера.\n\n@ioannZH @max_katz @kmvir 51 статью конституции РФ применил\n\nКогда не можешь выбрать между космосом и реальным миром... https://t.co/9oyRs8tbIz"
+  },
+  "summary": "The tweets from @Kevin Lick in the past week mainly revolved around writing letters in support of political prisoners, highlighting the strength of individuals like Ludmila Razumova, and calling for others to express their support. There is also criticism of Putin's government's handling of conflicts and discussions on anti-war positions. Additionally, there are reflections on topics like collective responsibility, the absurdity of Twitter, and a personal anecdote about applying Article 51 of the Russian Constitution. The tweets also touch on the struggle between choosing space exploration and the real world. Overall, the sentiment in the tweets ranges from advocacy and support to criticism and introspection.",
+  "keyTopics": [
+    "Lick",
+    "Razumova,",
+    "There",
+    "Putin's",
+    "Additionally,"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900922622013047014",
+      "createdAt": "Sat Mar 15 14:50:45 +0000 2025",
+      "text": "В Осло я принял участие в вечере написания писем политзаключённым, где написал письмо художнице Людм..."
+    },
+    {
+      "index": 1,
+      "id": "1900532586193043942",
+      "createdAt": "Fri Mar 14 13:00:53 +0000 2025",
+      "text": "Это заслуживающий внимания пост.\nРекомендуется к прочтению тем, кому некоторые затронутые в нём темы..."
+    },
+    {
+      "index": 2,
+      "id": "1900531812637511798",
+      "createdAt": "Fri Mar 14 12:57:48 +0000 2025",
+      "text": "@Nonviolento @Aleksandrt2640 Власть Путина ознаменовалась умением решать конфликты дипломатичным обр..."
+    },
+    {
+      "index": 3,
+      "id": "1900489149154513091",
+      "createdAt": "Fri Mar 14 10:08:17 +0000 2025",
+      "text": "@Aleksandrt2640 Антивоенная позиция россиянина заключается в требовании вывода ВС РФ с оккупированны..."
+    },
+    {
+      "index": 4,
+      "id": "1900117887584550956",
+      "createdAt": "Thu Mar 13 09:33:01 +0000 2025",
+      "text": "Пример Светова показывает: возраст не всегда показатель интеллекта. Как же сложно донести до людей р..."
+    },
+    {
+      "index": 5,
+      "id": "1900112609464000903",
+      "createdAt": "Thu Mar 13 09:12:03 +0000 2025",
+      "text": "@ioannZH @max_katz @kmvir 51 статью конституции РФ применил"
+    },
+    {
+      "index": 6,
+      "id": "1899347850401599785",
+      "createdAt": "Tue Mar 11 06:33:10 +0000 2025",
+      "text": "Когда не можешь выбрать между космосом и реальным миром... https://t.co/9oyRs8tbIz"
+    }
+  ]
+}

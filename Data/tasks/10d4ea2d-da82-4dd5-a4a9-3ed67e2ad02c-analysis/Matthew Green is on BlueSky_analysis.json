@@ -1,0 +1,63 @@
+{
+  "username": "Matthew Green is on BlueSky",
+  "analyzedAt": "2025-03-15T18:28:15.180Z",
+  "tweetCount": 6,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 12:26:39 +0000 2025",
+    "latestTweet": "Thu Mar 13 16:55:28 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Matthew Green is on BlueSky and provide a summary of what they mainly talked about in the past week:\n\nThis confirms a bad feeling I had a few weeks ago, before all this started. https://t.co/f7xhcZXejc\n\nMoney quote(s) from the article. Note that there is no “you can’t deny” (anti-warrant-canary! clause in the U.K. law. https://t.co/Evbf275CSX\n\nSenator Wyden asked both companies to confirm or deny that they’d received TCNs. Both parties said, essentially, “if we got one we wouldn’t be allowed to tell you under U.K. law.” https://t.co/h1dXaAfWKU https://t.co/5v7gs7owHA\n\nSo I am getting the distinct feeling that Google (in addition to Apple) got a Technical Capability Notice from the U.K.\n\nApropos: I want to re-post a blog post I wrote about the risks of AI combined with end-to-end encryption systems. https://t.co/dSYBV99wje\n\nMeredith Whittaker on the security and privacy risks of Ai agents in messaging platforms, which I also worry about a lot. https://t.co/OTe6ei8yb5"
+  },
+  "summary": "The tweets from @Matthew Green mainly discuss concerns about surveillance and privacy implications related to UK laws, particularly regarding Technical Capability Notices (TCNs) received by companies like Google and Apple. There is also mention of the risks associated with artificial intelligence combined with end-to-end encryption systems, emphasizing the importance of security and privacy in messaging platforms. The sentiment in the tweets appears to be cautious and critical of potential threats to user privacy and security.",
+  "keyTopics": [
+    "Green",
+    "Notices",
+    "Google",
+    "There"
+  ],
+  "sentiment": "Negative",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900229232606724173",
+      "createdAt": "Thu Mar 13 16:55:28 +0000 2025",
+      "text": "This confirms a bad feeling I had a few weeks ago, before all this started. https://t.co/f7xhcZXejc"
+    },
+    {
+      "index": 1,
+      "id": "1900228530593480746",
+      "createdAt": "Thu Mar 13 16:52:40 +0000 2025",
+      "text": "Money quote(s) from the article. Note that there is no “you can’t deny” (anti-warrant-canary! clause..."
+    },
+    {
+      "index": 2,
+      "id": "1900228314255487333",
+      "createdAt": "Thu Mar 13 16:51:49 +0000 2025",
+      "text": "Senator Wyden asked both companies to confirm or deny that they’d received TCNs. Both parties said, ..."
+    },
+    {
+      "index": 3,
+      "id": "1900227994800578863",
+      "createdAt": "Thu Mar 13 16:50:33 +0000 2025",
+      "text": "So I am getting the distinct feeling that Google (in addition to Apple) got a Technical Capability N..."
+    },
+    {
+      "index": 4,
+      "id": "1899795047882625374",
+      "createdAt": "Wed Mar 12 12:10:10 +0000 2025",
+      "text": "Apropos: I want to re-post a blog post I wrote about the risks of AI combined with end-to-end encryp..."
+    },
+    {
+      "index": 5,
+      "id": "1899436808691126784",
+      "createdAt": "Tue Mar 11 12:26:39 +0000 2025",
+      "text": "Meredith Whittaker on the security and privacy risks of Ai agents in messaging platforms, which I al..."
+    }
+  ]
+}

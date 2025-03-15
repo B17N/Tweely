@@ -1,0 +1,114 @@
+{
+  "username": "suzuha ⚡️🌙",
+  "analyzedAt": "2025-03-15T18:28:39.453Z",
+  "tweetCount": 15,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 18:18:15 +0000 2025",
+    "latestTweet": "Fri Mar 14 21:48:14 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @suzuha ⚡️🌙 and provide a summary of what they mainly talked about in the past week:\n\n@tszzl it’s difficult\n\n@jiratickets is link anime\n\n@deepfates *rehypothecates* nothing personell\n\nlow background radiation code (github timestamp before 2022)\n\n@teortaxesTex the thing that everyone always forgets about ukraine is that the airspace is mutually denied.\n\n@GuilleAngeris guy who specializes in tropical algebra and measure theory\n\nthinking about this again\n\neverything's computer but not the computer you expected\n\n@nearcyan everything’s computer except me\n\n@nearcyan me too\n\nhttps://t.co/M8RGOfc2S1\n\n&gt;deep learning\n&gt;continuous functions\n&gt;modeled with smooth math (analysis)\n&gt;cool\n&gt;look inside\n&gt;algebra\n\nthe everything computer\n\neverything's computer\n\n@tszzl who will be the darmok and jalad"
+  },
+  "summary": "In the past week, @suzuha ⚡️🌙 tweeted about various topics including difficulties, anime links, rehypothecation, low background radiation code, Ukraine's airspace denial, tropical algebra, measure theory, deep learning, continuous functions, smooth math, and the concept of \"everything's computer.\" The sentiment in the tweets appears to be a mix of contemplative, curious, and conversational, with some references to personal reflections and shared thoughts with others.",
+  "keyTopics": [
+    "Ukraine's"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900665299210539167",
+      "createdAt": "Fri Mar 14 21:48:14 +0000 2025",
+      "text": "@tszzl it’s difficult"
+    },
+    {
+      "index": 1,
+      "id": "1900550191356494305",
+      "createdAt": "Fri Mar 14 14:10:50 +0000 2025",
+      "text": "@jiratickets is link anime"
+    },
+    {
+      "index": 2,
+      "id": "1900425824794562674",
+      "createdAt": "Fri Mar 14 05:56:39 +0000 2025",
+      "text": "@deepfates *rehypothecates* nothing personell"
+    },
+    {
+      "index": 3,
+      "id": "1900325407309934854",
+      "createdAt": "Thu Mar 13 23:17:38 +0000 2025",
+      "text": "low background radiation code (github timestamp before 2022)"
+    },
+    {
+      "index": 4,
+      "id": "1900174033737703897",
+      "createdAt": "Thu Mar 13 13:16:07 +0000 2025",
+      "text": "@teortaxesTex the thing that everyone always forgets about ukraine is that the airspace is mutually ..."
+    },
+    {
+      "index": 5,
+      "id": "1900019709376078032",
+      "createdAt": "Thu Mar 13 03:02:54 +0000 2025",
+      "text": "@GuilleAngeris guy who specializes in tropical algebra and measure theory"
+    },
+    {
+      "index": 6,
+      "id": "1899982168446951469",
+      "createdAt": "Thu Mar 13 00:33:43 +0000 2025",
+      "text": "thinking about this again"
+    },
+    {
+      "index": 7,
+      "id": "1899969138157904270",
+      "createdAt": "Wed Mar 12 23:41:56 +0000 2025",
+      "text": "everything's computer but not the computer you expected"
+    },
+    {
+      "index": 8,
+      "id": "1899967730830500085",
+      "createdAt": "Wed Mar 12 23:36:21 +0000 2025",
+      "text": "@nearcyan everything’s computer except me"
+    },
+    {
+      "index": 9,
+      "id": "1899967654460592433",
+      "createdAt": "Wed Mar 12 23:36:03 +0000 2025",
+      "text": "@nearcyan me too"
+    },
+    {
+      "index": 10,
+      "id": "1899873748490342413",
+      "createdAt": "Wed Mar 12 17:22:54 +0000 2025",
+      "text": "https://t.co/M8RGOfc2S1"
+    },
+    {
+      "index": 11,
+      "id": "1899873586204336296",
+      "createdAt": "Wed Mar 12 17:22:15 +0000 2025",
+      "text": "&gt;deep learning\n&gt;continuous functions\n&gt;modeled with smooth math (analysis)\n&gt;cool\n&gt;look..."
+    },
+    {
+      "index": 12,
+      "id": "1899678675081281863",
+      "createdAt": "Wed Mar 12 04:27:45 +0000 2025",
+      "text": "the everything computer"
+    },
+    {
+      "index": 13,
+      "id": "1899677489384796322",
+      "createdAt": "Wed Mar 12 04:23:02 +0000 2025",
+      "text": "everything's computer"
+    },
+    {
+      "index": 14,
+      "id": "1899525292693291453",
+      "createdAt": "Tue Mar 11 18:18:15 +0000 2025",
+      "text": "@tszzl who will be the darmok and jalad"
+    }
+  ]
+}

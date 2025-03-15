@@ -1,0 +1,40 @@
+{
+  "username": "mashbean｜豆泥｜ドゥに｜도니",
+  "analyzedAt": "2025-03-15T18:27:44.552Z",
+  "tweetCount": 2,
+  "tweetDateRange": {
+    "earliestTweet": "Sun Mar 09 06:35:35 +0000 2025",
+    "latestTweet": "Sat Mar 15 15:41:30 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @mashbean｜豆泥｜ドゥに｜도니 and provide a summary of what they mainly talked about in the past week:\n\nSome thought after attending @ICANN 82 Forum. Thanks to @twnic_ia for the fellowship program~\nhttps://t.co/XWstgGFF9S\n\n@suji_yan 最近才知道吳國光作為趙紫陽文膽，撰寫《政治體制改革總體設想》時也才30歲"
+  },
+  "summary": "The tweets from @mashbean｜豆泥｜ドゥに｜도니 in the past week mainly discussed their thoughts after attending the ICANN 82 Forum and expressed gratitude towards TWNIC for the fellowship program. Additionally, there was a mention about Wu Guoguang, who wrote \"Political System Reform Overall Concept\" when he was only 30 years old. The overall sentiment appears to be informative and reflective.",
+  "keyTopics": [
+    "ICANN",
+    "Forum",
+    "TWNIC",
+    "Additionally,",
+    "Guoguang,"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900935394814030221",
+      "createdAt": "Sat Mar 15 15:41:30 +0000 2025",
+      "text": "Some thought after attending @ICANN 82 Forum. Thanks to @twnic_ia for the fellowship program~\nhttps:..."
+    },
+    {
+      "index": 1,
+      "id": "1898623682072940835",
+      "createdAt": "Sun Mar 09 06:35:35 +0000 2025",
+      "text": "@suji_yan 最近才知道吳國光作為趙紫陽文膽，撰寫《政治體制改革總體設想》時也才30歲"
+    }
+  ]
+}

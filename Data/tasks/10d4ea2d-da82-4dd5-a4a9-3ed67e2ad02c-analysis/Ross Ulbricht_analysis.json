@@ -1,0 +1,31 @@
+{
+  "username": "Ross Ulbricht",
+  "analyzedAt": "2025-03-15T18:28:45.971Z",
+  "tweetCount": 1,
+  "tweetDateRange": {
+    "earliestTweet": "Thu Mar 13 20:05:52 +0000 2025",
+    "latestTweet": "Thu Mar 13 20:05:52 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Ross Ulbricht and provide a summary of what they mainly talked about in the past week:\n\nFor over a decade, I didn't have water fixtures that I could turn off and on. In prison, everything is on buttons with timers.\n\nAfter nearly two months in freedom, I still find myself staring at faucets and shower heads, waiting for them to turn off! So weird."
+  },
+  "summary": "In the past week, @Ross Ulbricht tweeted about his experiences in prison where he didn't have traditional water fixtures and everything operated with buttons and timers. Even after being out of prison for nearly two months, he still finds himself adjusting to having regular faucets and shower heads, highlighting the challenges of readjusting to life outside of incarceration. The sentiment in the tweets appears to convey a mix of reminiscence about prison life and the strangeness of transitioning back to normalcy.",
+  "keyTopics": [
+    "Ulbricht",
+    "Even"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900277150303084641",
+      "createdAt": "Thu Mar 13 20:05:52 +0000 2025",
+      "text": "For over a decade, I didn't have water fixtures that I could turn off and on. In prison, everything ..."
+    }
+  ]
+}

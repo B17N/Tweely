@@ -1,0 +1,1642 @@
+{
+  "username": "fernandezdiego",
+  "fetchedAt": "2025-03-15T16:01:50.834Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 13:51:51 +0000 2025",
+      "conversation_id_str": "1900530421013590077",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "20508730",
+            "name": "Mariano - ⭐⭐⭐",
+            "screen_name": "Mariandipietra",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@Mariandipietra Those events should go to 0!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1900545414882824373",
+      "url": "https://x.com/fernandezdiego/status/1900545414882824373",
+      "views_count": "359",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 22:27:46 +0000 2025",
+      "conversation_id_str": "1900257147877023880",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "421271885",
+            "name": "Camila Russo",
+            "screen_name": "CamiRusso",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "115308823",
+            "name": "blackjack.eth 🍌",
+            "screen_name": "blackjackdoteth",
+            "indices": [
+              11,
+              27
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@CamiRusso @blackjackdoteth Sequencer decentralization &amp; interoperability solving what you considered, and I agree, the terrible UX he have today.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1900312861148160449",
+      "url": "https://x.com/fernandezdiego/status/1900312861148160449",
+      "views_count": "82",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 18:00:58 +0000 2025",
+      "conversation_id_str": "1900245719199482123",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/KKIXYR34a4",
+            "expanded_url": "https://x.com/fernandezdiego/status/1900245719199482123/photo/1",
+            "id_str": "1900245713016987648",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1900245713016987648",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8HaHZWIAAvTGy.jpg",
+            "type": "photo",
+            "url": "https://t.co/KKIXYR34a4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1222,
+                    "y": 562,
+                    "h": 182,
+                    "w": 182
+                  },
+                  {
+                    "x": 378,
+                    "y": 520,
+                    "h": 298,
+                    "w": 298
+                  },
+                  {
+                    "x": 1522,
+                    "y": 458,
+                    "h": 436,
+                    "w": 436
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 716,
+                    "y": 329,
+                    "h": 106,
+                    "w": 106
+                  },
+                  {
+                    "x": 221,
+                    "y": 304,
+                    "h": 174,
+                    "w": 174
+                  },
+                  {
+                    "x": 891,
+                    "y": 268,
+                    "h": 255,
+                    "w": 255
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 405,
+                    "y": 186,
+                    "h": 60,
+                    "w": 60
+                  },
+                  {
+                    "x": 125,
+                    "y": 172,
+                    "h": 98,
+                    "w": 98
+                  },
+                  {
+                    "x": 505,
+                    "y": 152,
+                    "h": 144,
+                    "w": 144
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1222,
+                    "y": 562,
+                    "h": 182,
+                    "w": 182
+                  },
+                  {
+                    "x": 378,
+                    "y": 520,
+                    "h": 298,
+                    "w": 298
+                  },
+                  {
+                    "x": 1522,
+                    "y": 458,
+                    "h": 436,
+                    "w": 436
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 92,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 76,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900245713016987648"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "spaceai.com",
+            "expanded_url": "http://spaceai.com",
+            "url": "https://t.co/HHRL4pU84i",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "17276597",
+            "name": "Diego Favarolo",
+            "screen_name": "dfavarolo",
+            "indices": [
+              69,
+              79
+            ]
+          },
+          {
+            "id_str": "1144348257927270401",
+            "name": "GugaSuarezBA",
+            "screen_name": "GugaSuarezBA",
+            "indices": [
+              84,
+              97
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/KKIXYR34a4",
+            "expanded_url": "https://x.com/fernandezdiego/status/1900245719199482123/photo/1",
+            "id_str": "1900245713016987648",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1900245713016987648",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8HaHZWIAAvTGy.jpg",
+            "type": "photo",
+            "url": "https://t.co/KKIXYR34a4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1222,
+                    "y": 562,
+                    "h": 182,
+                    "w": 182
+                  },
+                  {
+                    "x": 378,
+                    "y": 520,
+                    "h": 298,
+                    "w": 298
+                  },
+                  {
+                    "x": 1522,
+                    "y": 458,
+                    "h": 436,
+                    "w": 436
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 716,
+                    "y": 329,
+                    "h": 106,
+                    "w": 106
+                  },
+                  {
+                    "x": 221,
+                    "y": 304,
+                    "h": 174,
+                    "w": 174
+                  },
+                  {
+                    "x": 891,
+                    "y": 268,
+                    "h": 255,
+                    "w": 255
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 405,
+                    "y": 186,
+                    "h": 60,
+                    "w": 60
+                  },
+                  {
+                    "x": 125,
+                    "y": 172,
+                    "h": 98,
+                    "w": 98
+                  },
+                  {
+                    "x": 505,
+                    "y": 152,
+                    "h": 144,
+                    "w": 144
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1222,
+                    "y": 562,
+                    "h": 182,
+                    "w": 182
+                  },
+                  {
+                    "x": 378,
+                    "y": 520,
+                    "h": 298,
+                    "w": 298
+                  },
+                  {
+                    "x": 1522,
+                    "y": 458,
+                    "h": 436,
+                    "w": 436
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1536,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 92,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1536,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1347,
+                  "h": 1536
+                },
+                {
+                  "x": 76,
+                  "y": 0,
+                  "w": 768,
+                  "h": 1536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1536
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900245713016987648"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "Chatting about rockets and satellites constellations with my friends @dfavarolo and @GugaSuarezBA from https://t.co/HHRL4pU84i https://t.co/KKIXYR34a4",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1900245719199482123",
+      "url": "https://x.com/fernandezdiego/status/1900245719199482123",
+      "views_count": "150",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 01:21:55 +0000 2025",
+      "conversation_id_str": "1899983497621889425",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1634677972979310594",
+            "name": "Fede’s intern 🥊",
+            "screen_name": "fede_intern",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@fede_intern Adoption adoption adoption. That's the end game. Everything else is a means to an end",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1899994297069384037",
+      "url": "https://x.com/fernandezdiego/status/1899994297069384037",
+      "views_count": "109",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 02:00:59 +0000 2025",
+      "conversation_id_str": "1899224764360675577",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1313531632142487557",
+            "name": "Leandro 🔺",
+            "screen_name": "Leandro84D",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Leandro84D Que triste Lean. Lo lamento. ❤️",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1899279354938490894",
+      "url": "https://x.com/fernandezdiego/status/1899279354938490894",
+      "views_count": "44",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Tue Mar 11 01:22:31 +0000 2025",
+      "conversation_id_str": "1899269673486623114",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/5oFnQH1olW",
+            "expanded_url": "https://x.com/fernandezdiego/status/1899269673486623114/photo/1",
+            "id_str": "1899269667681603584",
+            "indices": [
+              94,
+              117
+            ],
+            "media_key": "3_1899269667681603584",
+            "media_url_https": "https://pbs.twimg.com/media/GluPszLWEAAIvYA.jpg",
+            "type": "photo",
+            "url": "https://t.co/5oFnQH1olW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1541,
+                    "y": 624,
+                    "h": 149,
+                    "w": 149
+                  },
+                  {
+                    "x": 576,
+                    "y": 635,
+                    "h": 230,
+                    "w": 230
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 917,
+                    "y": 371,
+                    "h": 88,
+                    "w": 88
+                  },
+                  {
+                    "x": 342,
+                    "y": 377,
+                    "h": 136,
+                    "w": 136
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 519,
+                    "y": 210,
+                    "h": 50,
+                    "w": 50
+                  },
+                  {
+                    "x": 194,
+                    "y": 214,
+                    "h": 77,
+                    "w": 77
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1541,
+                    "y": 624,
+                    "h": 149,
+                    "w": 149
+                  },
+                  {
+                    "x": 576,
+                    "y": 635,
+                    "h": 230,
+                    "w": 230
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1512,
+                "w": 2016,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1512,
+              "width": 2016,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 91,
+                  "w": 2016,
+                  "h": 1129
+                },
+                {
+                  "x": 504,
+                  "y": 0,
+                  "w": 1512,
+                  "h": 1512
+                },
+                {
+                  "x": 690,
+                  "y": 0,
+                  "w": 1326,
+                  "h": 1512
+                },
+                {
+                  "x": 1184,
+                  "y": 0,
+                  "w": 756,
+                  "h": 1512
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2016,
+                  "h": 1512
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899269667681603584"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "877439425",
+            "name": "Francisco Strambini 🟩",
+            "screen_name": "fran_aligned",
+            "indices": [
+              45,
+              58
+            ]
+          },
+          {
+            "id_str": "1634677972979310594",
+            "name": "Fede’s intern 🥊",
+            "screen_name": "fede_intern",
+            "indices": [
+              79,
+              91
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/5oFnQH1olW",
+            "expanded_url": "https://x.com/fernandezdiego/status/1899269673486623114/photo/1",
+            "id_str": "1899269667681603584",
+            "indices": [
+              94,
+              117
+            ],
+            "media_key": "3_1899269667681603584",
+            "media_url_https": "https://pbs.twimg.com/media/GluPszLWEAAIvYA.jpg",
+            "type": "photo",
+            "url": "https://t.co/5oFnQH1olW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1541,
+                    "y": 624,
+                    "h": 149,
+                    "w": 149
+                  },
+                  {
+                    "x": 576,
+                    "y": 635,
+                    "h": 230,
+                    "w": 230
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 917,
+                    "y": 371,
+                    "h": 88,
+                    "w": 88
+                  },
+                  {
+                    "x": 342,
+                    "y": 377,
+                    "h": 136,
+                    "w": 136
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 519,
+                    "y": 210,
+                    "h": 50,
+                    "w": 50
+                  },
+                  {
+                    "x": 194,
+                    "y": 214,
+                    "h": 77,
+                    "w": 77
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1541,
+                    "y": 624,
+                    "h": 149,
+                    "w": 149
+                  },
+                  {
+                    "x": 576,
+                    "y": 635,
+                    "h": 230,
+                    "w": 230
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1512,
+                "w": 2016,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1512,
+              "width": 2016,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 91,
+                  "w": 2016,
+                  "h": 1129
+                },
+                {
+                  "x": 504,
+                  "y": 0,
+                  "w": 1512,
+                  "h": 1512
+                },
+                {
+                  "x": 690,
+                  "y": 0,
+                  "w": 1326,
+                  "h": 1512
+                },
+                {
+                  "x": 1184,
+                  "y": 0,
+                  "w": 756,
+                  "h": 1512
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2016,
+                  "h": 1512
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899269667681603584"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "Planning and thinking about the future with ⁦@fran_aligned⁩. We need you here ⁦@fede_intern⁩! https://t.co/5oFnQH1olW",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1899269673486623114",
+      "url": "https://x.com/fernandezdiego/status/1899269673486623114",
+      "views_count": "1472",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 21:41:04 +0000 2025",
+      "conversation_id_str": "1899213944767517101",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "100%",
+      "is_quote_status": true,
+      "lang": "qst",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1899213944767517101",
+      "url": "https://x.com/fernandezdiego/status/1899213944767517101",
+      "views_count": "281",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 23:00:07 +0000 2025",
+      "conversation_id_str": "1898871448971710502",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "Hace 3 años cometí el error de comprar una compu con teclado en castellano. Nunca me pude acostumbrar luego de haber usado toda mi vida teclado en ingles. Mi nueva compu tiene teclado en ingles. Es como volver a casa! Que felicidad no errarle mas al =, al + y al * por ejemplo. 😍",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1898871448971710502",
+      "url": "https://x.com/fernandezdiego/status/1898871448971710502",
+      "views_count": "395",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 01:23:04 +0000 2025",
+      "conversation_id_str": "1898504613021540477",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "961088954",
+            "name": "cryptogaucho",
+            "screen_name": "emivelazquez6",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "1785388314981212160",
+            "name": "Crecimiento 🌞",
+            "screen_name": "crecimientoar",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@emivelazquez6 @crecimientoar Guauuuuuuuuu 🔥🔥🇦🇷🇦🇷",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1898545035370467767",
+      "url": "https://x.com/fernandezdiego/status/1898545035370467767",
+      "views_count": "78",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 07 11:44:17 +0000 2025",
+      "conversation_id_str": "1897669513274871945",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "17232551",
+            "name": "Gabriel Gruber 𝚵",
+            "screen_name": "GabrielGruber",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "1313531632142487557",
+            "name": "Leandro 🔺",
+            "screen_name": "Leandro84D",
+            "indices": [
+              15,
+              26
+            ]
+          },
+          {
+            "id_str": "1592530957021634566",
+            "name": "Offramp | ALL13",
+            "screen_name": "OfframpXYZ",
+            "indices": [
+              27,
+              38
+            ]
+          },
+          {
+            "id_str": "1481847237860737026",
+            "name": "Cypher - Crypto Card 💳",
+            "screen_name": "Cypher_HQ_",
+            "indices": [
+              39,
+              50
+            ]
+          },
+          {
+            "id_str": "1844828765303541761",
+            "name": "Avalanche Card",
+            "screen_name": "TheAvaxCard",
+            "indices": [
+              51,
+              63
+            ]
+          },
+          {
+            "id_str": "1729561859861159936",
+            "name": "Exa App 𝚵",
+            "screen_name": "Exa_App",
+            "indices": [
+              64,
+              72
+            ]
+          },
+          {
+            "id_str": "42712551",
+            "name": "American Express",
+            "screen_name": "AmericanExpress",
+            "indices": [
+              136,
+              152
+            ]
+          },
+          {
+            "id_str": "1729561859861159936",
+            "name": "Exa App 𝚵",
+            "screen_name": "Exa_App",
+            "indices": [
+              209,
+              217
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "@GabrielGruber @Leandro84D @OfframpXYZ @Cypher_HQ_ @TheAvaxCard @Exa_App Perfecto! Todavia faltán por lo menos 6 dias corridos para que @AmericanExpress le mande la tarjeta y recien pudo pagar su almuerzo con @Exa_App. Los chicos de Amex deberian recordar a Charly, los dinosaurios van a desaparecer....",
+      "is_quote_status": false,
+      "lang": "es",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "19602941",
+      "id_str": "1897976594733432955",
+      "url": "https://x.com/fernandezdiego/status/1897976594733432955",
+      "views_count": "1763",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Jan 27 17:24:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-creator @Quark_ID | Co-Founder @thefutco | Former Secretary of Innovation of @gcba | Trying to build a decentralized future. #Argentina #Crecimiento",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/QuarkID",
+                "expanded_url": "https://bit.ly/QuarkID",
+                "url": "https://t.co/awatm6HQVH",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 4181,
+        "followers_count": 7133,
+        "friends_count": 2091,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 75,
+        "location": "Ciudad de Buenos Aires",
+        "media_count": 623,
+        "name": "fernandezdiego",
+        "normal_followers_count": 7133,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19602941/1629400466",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1860667466344488960/1_Fw79mv_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fernandezdiego",
+        "statuses_count": 3064,
+        "translator_type": "none",
+        "url": "https://t.co/awatm6HQVH",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0
+    ],
+    "2025-03-13": [
+      1,
+      2,
+      3
+    ],
+    "2025-03-11": [
+      4,
+      5
+    ],
+    "2025-03-10": [
+      6
+    ],
+    "2025-03-09": [
+      7,
+      8
+    ],
+    "2025-03-07": [
+      9
+    ]
+  }
+}

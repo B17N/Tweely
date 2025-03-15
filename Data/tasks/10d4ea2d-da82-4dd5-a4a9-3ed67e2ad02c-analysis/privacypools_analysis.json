@@ -1,0 +1,36 @@
+{
+  "username": "privacypools",
+  "analyzedAt": "2025-03-15T18:28:11.106Z",
+  "tweetCount": 2,
+  "tweetDateRange": {
+    "earliestTweet": "Sat Mar 08 02:04:38 +0000 2025",
+    "latestTweet": "Fri Mar 14 10:53:57 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @privacypools and provide a summary of what they mainly talked about in the past week:\n\nWe're gonna rug the testnet soon, pushing some updates on contracts. \n\nIf you don't get your funds out of the Pool in time we'll send you some fresh ETH.\n\nthanks everyone who came out to KNIFEDAO 2: private edition and fought, spectated, or just vibed ✨\n\nwe had a great time and we hope you did too-\n\nhere's a brief highlights compilation for your ocular/aural enjoyment.\n\n👁️see you next time (in the ring 🔪)"
+  },
+  "summary": "The tweets from @privacypools mainly covered topics related to their testnet updates, encouraging users to withdraw their funds from the pool, and expressing gratitude for participants in KNIFEDAO 2. The sentiment appears to be positive and engaging, with a focus on community involvement and enjoyment of the event.",
+  "keyTopics": [
+    "The sentiment appears to be positive and engaging, with a focus on community involvement and enjoyment of the event"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900500643804057913",
+      "createdAt": "Fri Mar 14 10:53:57 +0000 2025",
+      "text": "We're gonna rug the testnet soon, pushing some updates on contracts. \n\nIf you don't get your funds o..."
+    },
+    {
+      "index": 1,
+      "id": "1898193106752655710",
+      "createdAt": "Sat Mar 08 02:04:38 +0000 2025",
+      "text": "thanks everyone who came out to KNIFEDAO 2: private edition and fought, spectated, or just vibed ✨\n\n..."
+    }
+  ]
+}

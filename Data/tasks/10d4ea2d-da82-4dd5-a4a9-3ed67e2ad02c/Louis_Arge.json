@@ -1,0 +1,4542 @@
+{
+  "username": "Louis Arge",
+  "fetchedAt": "2025-03-15T15:55:31.348Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 14:34:59 +0000 2025",
+      "conversation_id_str": "1900915611997245504",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1789313511031463936",
+            "name": "0:-)",
+            "screen_name": "silverarm0r",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@silverarm0r top 10 qualia",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900918657628230125",
+      "url": "https://x.com/louisvarge/status/1900918657628230125",
+      "views_count": "21",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 14:31:43 +0000 2025",
+      "conversation_id_str": "1900830220216922201",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "217268110",
+            "name": "bashu, thanks",
+            "screen_name": "bashu_thanks",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@bashu_thanks i've always admired people with simpler utility functions. e.g. mrbeast or someone like that. seems like a purer existence. i think i want that",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900917834680615020",
+      "url": "https://x.com/louisvarge/status/1900917834680615020",
+      "views_count": "33",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 13:05:47 +0000 2025",
+      "conversation_id_str": "1900787138792444364",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1152313771307786241",
+            "name": "Carmen",
+            "screen_name": "carmenleelau",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@carmenleelau 🥹",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900896207670522020",
+      "url": "https://x.com/louisvarge/status/1900896207670522020",
+      "views_count": "38",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 13:04:27 +0000 2025",
+      "conversation_id_str": "1900783558500700338",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1352066333752647683",
+            "name": "✈️ TRAVELLING CEO ✈️",
+            "screen_name": "MasterTimBlais",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@MasterTimBlais i'm reading the replies and nobody has any good answers. sure seems like a Hard problem huh",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900895870444240957",
+      "url": "https://x.com/louisvarge/status/1900895870444240957",
+      "views_count": "163",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 12:44:39 +0000 2025",
+      "conversation_id_str": "1900753290834444735",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1311485641847459840",
+            "name": "𝞍 Shin Megami Boson 𝞍",
+            "screen_name": "shinboson",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@shinboson God I've seen what you've done for others 🙏",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900890889309807051",
+      "url": "https://x.com/louisvarge/status/1900890889309807051",
+      "views_count": "39",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 23:44:42 +0000 2025",
+      "conversation_id_str": "1898463634009055687",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1389683959412396032",
+            "name": "tautologer",
+            "screen_name": "tautologer",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "916083154213056513",
+            "name": "lachlan",
+            "screen_name": "hyprturing",
+            "indices": [
+              12,
+              23
+            ]
+          },
+          {
+            "id_str": "183622579",
+            "name": "Nick Foley",
+            "screen_name": "nhfoley",
+            "indices": [
+              24,
+              32
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@tautologer @hyprturing @nhfoley i misread this as intrapersonal conflict, and like, woah. good idea",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900694607404396968",
+      "url": "https://x.com/louisvarge/status/1900694607404396968",
+      "views_count": "40",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 23:33:28 +0000 2025",
+      "conversation_id_str": "1900691781643305154",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "the path is really just a series of jokes  you never get huh",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900691781643305154",
+      "url": "https://x.com/louisvarge/status/1900691781643305154",
+      "views_count": "645",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 22:59:26 +0000 2025",
+      "conversation_id_str": "1900647900755226766",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1537239770660851718",
+            "name": "Diego Alejandro",
+            "screen_name": "007Killpop",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "1882198073168080896",
+            "name": "Ask Perplexity",
+            "screen_name": "AskPerplexity",
+            "indices": [
+              12,
+              26
+            ]
+          },
+          {
+            "id_str": "1720665183188922368",
+            "name": "Grok",
+            "screen_name": "grok",
+            "indices": [
+              27,
+              32
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@007Killpop @AskPerplexity @grok yeah basically, but with some meditation practice you can start to notice it in all conscious phenomena!\n\ne.g. my visual field is flickering like this. same for emotions, pain, etc. and it means they hurt way less because they're clearly on the way out 100ms after they appear",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900683214877835684",
+      "url": "https://x.com/louisvarge/status/1900683214877835684",
+      "views_count": "26",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 8,
+      "created_at": "Fri Mar 14 20:40:50 +0000 2025",
+      "conversation_id_str": "1900647900755226766",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "blankhorizons.com/2021/03/02/shi…",
+            "expanded_url": "https://blankhorizons.com/2021/03/02/shinzen-youngs-10-step-model-for-experiencing-the-eternal-now/",
+            "url": "https://t.co/t6Ku710Cd5",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1534279416683106304",
+            "name": "Kenneth Shinozuka",
+            "screen_name": "kfshinozuka",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "cool article by @kfshinozuka https://t.co/t6Ku710Cd5",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900648335289008549",
+      "url": "https://x.com/louisvarge/status/1900648335289008549",
+      "views_count": "233",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 14,
+      "created_at": "Fri Mar 14 20:39:06 +0000 2025",
+      "conversation_id_str": "1900647900755226766",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/1faTzAxZoB",
+            "expanded_url": "https://x.com/louisvarge/status/1900647900755226766/photo/1",
+            "id_str": "1900647896187346944",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1900647896187346944",
+            "media_url_https": "https://pbs.twimg.com/media/GmB1MQdXIAA94uZ.jpg",
+            "type": "photo",
+            "url": "https://t.co/1faTzAxZoB",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 340,
+                "w": 750,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 340,
+                "w": 750,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 308,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 340,
+              "width": 750,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 607,
+                  "h": 340
+                },
+                {
+                  "x": 111,
+                  "y": 0,
+                  "w": 340,
+                  "h": 340
+                },
+                {
+                  "x": 132,
+                  "y": 0,
+                  "w": 298,
+                  "h": 340
+                },
+                {
+                  "x": 196,
+                  "y": 0,
+                  "w": 170,
+                  "h": 340
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 750,
+                  "h": 340
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900647896187346944"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/1faTzAxZoB",
+            "expanded_url": "https://x.com/louisvarge/status/1900647900755226766/photo/1",
+            "id_str": "1900647896187346944",
+            "indices": [
+              68,
+              91
+            ],
+            "media_key": "3_1900647896187346944",
+            "media_url_https": "https://pbs.twimg.com/media/GmB1MQdXIAA94uZ.jpg",
+            "type": "photo",
+            "url": "https://t.co/1faTzAxZoB",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 340,
+                "w": 750,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 340,
+                "w": 750,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 308,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 340,
+              "width": 750,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 607,
+                  "h": 340
+                },
+                {
+                  "x": 111,
+                  "y": 0,
+                  "w": 340,
+                  "h": 340
+                },
+                {
+                  "x": 132,
+                  "y": 0,
+                  "w": 298,
+                  "h": 340
+                },
+                {
+                  "x": 196,
+                  "y": 0,
+                  "w": 170,
+                  "h": 340
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 750,
+                  "h": 340
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900647896187346944"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 38,
+      "favorited": false,
+      "full_text": "i love this pattern more than perhaps anything else in the universe https://t.co/1faTzAxZoB",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900647900755226766",
+      "url": "https://x.com/louisvarge/status/1900647900755226766",
+      "views_count": "1492",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 20:33:42 +0000 2025",
+      "conversation_id_str": "1711505407833780283",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1163743742764998658",
+            "name": "Guy is WRITING THE BOOK",
+            "screen_name": "nosilverv",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@nosilverv OH MY GOD\n\ni have been trying to explain this wobble pattern for ages. that's it. omg omg omg",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900646540223345115",
+      "url": "https://x.com/louisvarge/status/1900646540223345115",
+      "views_count": "61",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 19:54:44 +0000 2025",
+      "conversation_id_str": "1900523606439784744",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1729175973218729985",
+            "name": "David Orion Girardo",
+            "screen_name": "polyhedon",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "1680757426889342977",
+            "name": "Defender",
+            "screen_name": "DefenderOfBasic",
+            "indices": [
+              11,
+              27
+            ]
+          },
+          {
+            "id_str": "1527275368448610304",
+            "name": "spacepunk",
+            "screen_name": "_space_punk_",
+            "indices": [
+              28,
+              41
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "all things are transient! not sure if that was actually was the substack was claiming, but ime people who call consciousness a \"process\" are more in the \"consciousness is what it feels like for information to be processed\" or \"consciousness is whatever computation a thing that says it's conscious does\"",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900636736654279006",
+      "url": "https://x.com/louisvarge/status/1900636736654279006",
+      "views_count": "29",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:41:41 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@nickcammarata extract literally infinite zip",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900618350033588653",
+      "url": "https://x.com/louisvarge/status/1900618350033588653",
+      "views_count": "93",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:41:20 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/E3IiOqENMj",
+            "expanded_url": "https://x.com/louisvarge/status/1900618262829838638/photo/1",
+            "id_str": "1900618149512261632",
+            "indices": [
+              99,
+              122
+            ],
+            "media_key": "3_1900618149512261632",
+            "media_url_https": "https://pbs.twimg.com/media/GmBaIxdWsAAF1sW.jpg",
+            "type": "photo",
+            "url": "https://t.co/E3IiOqENMj",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 958,
+                "w": 958,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 958,
+                "w": 958,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 958,
+              "width": 958,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 91,
+                  "w": 958,
+                  "h": 536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 958,
+                  "h": 958
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 840,
+                  "h": 958
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 479,
+                  "h": 958
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 958,
+                  "h": 958
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900618149512261632"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/E3IiOqENMj",
+            "expanded_url": "https://x.com/louisvarge/status/1900618262829838638/photo/1",
+            "id_str": "1900618149512261632",
+            "indices": [
+              99,
+              122
+            ],
+            "media_key": "3_1900618149512261632",
+            "media_url_https": "https://pbs.twimg.com/media/GmBaIxdWsAAF1sW.jpg",
+            "type": "photo",
+            "url": "https://t.co/E3IiOqENMj",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 958,
+                "w": 958,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 958,
+                "w": 958,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 958,
+              "width": 958,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 91,
+                  "w": 958,
+                  "h": 536
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 958,
+                  "h": 958
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 840,
+                  "h": 958
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 479,
+                  "h": 958
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 958,
+                  "h": 958
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900618149512261632"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@nickcammarata many hours in this ui, 1 second of extract huge zip you downloaded bc finally space https://t.co/E3IiOqENMj",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900618262829838638",
+      "url": "https://x.com/louisvarge/status/1900618262829838638",
+      "views_count": "144",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:39:56 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "973083181640335360",
+            "name": "b!",
+            "screen_name": "br___ian",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@br___ian omg this is hilarious",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900617913209590076",
+      "url": "https://x.com/louisvarge/status/1900617913209590076",
+      "views_count": "92",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:34:04 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@nickcammarata lmao this is fantastic",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900616434901811430",
+      "url": "https://x.com/louisvarge/status/1900616434901811430",
+      "views_count": "77",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:32:43 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@nickcammarata oh okay, but then it took many hours of downloading + 1 second of .zip extraction or smth like this?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900616095309897896",
+      "url": "https://x.com/louisvarge/status/1900616095309897896",
+      "views_count": "143",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:28:51 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@nickcammarata oh huh interesting!! thanks for sharing\n\nwas 3-4 the second after 2-3 ?? or like you left it alone for a while and then it popped or something?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900615121342247029",
+      "url": "https://x.com/louisvarge/status/1900615121342247029",
+      "views_count": "125",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:22:46 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@nickcammarata do you know roughly what amount of actively dedicated time 0-3 took for you vs 3-4?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900613592153493813",
+      "url": "https://x.com/louisvarge/status/1900613592153493813",
+      "views_count": "251",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:18:18 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@nickcammarata yess exactly, i meant mctb 4th path!\n\ninteresting to know! how did 0-&gt;3 feel, how did 3-&gt;4 feel?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900612466544906648",
+      "url": "https://x.com/louisvarge/status/1900612466544906648",
+      "views_count": "230",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 18:15:58 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "what did you think bodhisattva vow meant? vibes? papers? essays?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900611879900217462",
+      "url": "https://x.com/louisvarge/status/1900611879900217462",
+      "views_count": "220",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 3,
+      "created_at": "Fri Mar 14 18:14:25 +0000 2025",
+      "conversation_id_str": "1900611491360919722",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "would you rather:\n- have 3rd path (meditative attainment) + be able to contribute significantly to your field of work (whatever that field might be!)\n- have 4th path, but be more limited/modest in your contributions to your field",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900611491360919722",
+      "url": "https://x.com/louisvarge/status/1900611491360919722",
+      "views_count": "2432",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 4,
+      "created_at": "Fri Mar 14 15:00:54 +0000 2025",
+      "conversation_id_str": "1900523606439784744",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "mdpi.com/2076-3417/7/12…",
+            "expanded_url": "https://www.mdpi.com/2076-3417/7/12/1248",
+            "url": "https://t.co/9gSzGfe33S",
+            "indices": [
+              232,
+              255
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1680757426889342977",
+            "name": "Defender",
+            "screen_name": "DefenderOfBasic",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "1527275368448610304",
+            "name": "spacepunk",
+            "screen_name": "_space_punk_",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@DefenderOfBasic @_space_punk_ wait I'm pretty sure QRI believes consciousness is a thing (depending on your definition of thing)\n\ni'd very much put myself in this camp too (although not sold on all QRI theories)\n\nsee this classic: https://t.co/9gSzGfe33S",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900562790546330029",
+      "url": "https://x.com/louisvarge/status/1900562790546330029",
+      "views_count": "267",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 10:57:02 +0000 2025",
+      "conversation_id_str": "1900316273382474163",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1703957937364824064",
+            "name": "henry",
+            "screen_name": "arithmoquine",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "282948199",
+            "name": "Captain Pleasure, Andrés Gómez Emilsson",
+            "screen_name": "algekalipso",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "id_str": "27397922",
+            "name": "David Pearce",
+            "screen_name": "webmasterdave",
+            "indices": [
+              27,
+              41
+            ]
+          },
+          {
+            "id_str": "1142017227152998401",
+            "name": "Arataki (is visiting SF 4-18 March! ☀️🦧)",
+            "screen_name": "aaarataki",
+            "indices": [
+              42,
+              52
+            ]
+          },
+          {
+            "id_str": "626989127",
+            "name": "danielmingram",
+            "screen_name": "danielmingram",
+            "indices": [
+              53,
+              67
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "@arithmoquine @algekalipso @webmasterdave @aaarataki @danielmingram !!!",
+      "is_quote_status": false,
+      "lang": "qam",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900501420236837095",
+      "url": "https://x.com/louisvarge/status/1900501420236837095",
+      "views_count": "41",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 23:03:18 +0000 2025",
+      "conversation_id_str": "1900308012952412654",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3178848948",
+            "name": "grant",
+            "screen_name": "grantbels",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "485411639",
+            "name": "mel 🫀☁️",
+            "screen_name": "melodaysong",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "id_str": "1040051058435874816",
+            "name": "kasra",
+            "screen_name": "kasratweets",
+            "indices": [
+              24,
+              36
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@grantbels @melodaysong @kasratweets wow wholesome",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900321800875135026",
+      "url": "https://x.com/louisvarge/status/1900321800875135026",
+      "views_count": "72",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 22:43:12 +0000 2025",
+      "conversation_id_str": "1900281239518798289",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "72998182",
+            "name": "James Miller",
+            "screen_name": "JimDMiller",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@JimDMiller good lord almighty 😬",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900316742699626727",
+      "url": "https://x.com/louisvarge/status/1900316742699626727",
+      "views_count": "315",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 21:41:49 +0000 2025",
+      "conversation_id_str": "1900287005789163835",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1493338297505964035",
+            "name": "ivy",
+            "screen_name": "_ivyzhang",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "24761783",
+            "name": "Nick",
+            "screen_name": "nickcammarata",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@_ivyzhang @nickcammarata yes it's 3 huels 1 block of cheese 6 corn tortillas 1 serving of cream potatoes 1 bowl of yoghurt with blueberry jam and peanut butter. don't ask me how i know this",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900301295270994359",
+      "url": "https://x.com/louisvarge/status/1900301295270994359",
+      "views_count": "26",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 17:56:54 +0000 2025",
+      "conversation_id_str": "1900236063706382543",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1477213893705576455",
+            "name": "sinecuris (on a break)",
+            "screen_name": "sinecuris",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@sinecuris i feel the same &amp; i don't really know what to do about it. also i suspect that the feeling is mostly a delusion that will go away by the time someone new feels as magical to a future Louis as She did to that particular past Louis. let's see 🪷",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900244693230739633",
+      "url": "https://x.com/louisvarge/status/1900244693230739633",
+      "views_count": "26",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39870,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 13:16:11 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "932858878156525568",
+            "name": "phaent the laughing mountain ❤️‍🔥⛰️😂",
+            "screen_name": "PhaentGames",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@PhaentGames noted! i've not spoken to anyone who has had loss of magic at all iirc (in the way i've heard it described, not purely the personal growth sense; since i've spoken to you haha!)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900174047264100415",
+      "url": "https://x.com/louisvarge/status/1900174047264100415",
+      "views_count": "74",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 13:14:29 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1252080019100311555",
+            "name": "matilda ⟡",
+            "screen_name": "brimmingvessel",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@brimmingvessel this is such a cool fact",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900173623240822831",
+      "url": "https://x.com/louisvarge/status/1900173623240822831",
+      "views_count": "194",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 13:13:32 +0000 2025",
+      "conversation_id_str": "1899418203337437375",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1885107556592332800",
+            "name": "Alex is Learning (rationality!)",
+            "screen_name": "alexislearning",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@alexislearning frankly my diet is just super high protein already &amp; i'm like 62kg &amp; if i don't cut down on protein i'm gonna have kidney damage",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900173382114488373",
+      "url": "https://x.com/louisvarge/status/1900173382114488373",
+      "views_count": "28",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 13:12:16 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "109865196",
+            "name": "Kenneth Folk",
+            "screen_name": "KennethFolk",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@KennethFolk do you believe there are no free lunches? in my mind any improvement of any process is a free lunch, at least as seen from the perspective of someone who only had the old way",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900173064601563182",
+      "url": "https://x.com/louisvarge/status/1900173064601563182",
+      "views_count": "65",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 13:04:45 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "932858878156525568",
+            "name": "phaent the laughing mountain ❤️‍🔥⛰️😂",
+            "screen_name": "PhaentGames",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@PhaentGames woah! would be crazy if loss of magic was actually a positive thing, indicating the work is now done 🤯\n\nalthough it is my impression that there are some people who do not feel this way &amp; simply don't get much effect from mdma anymore",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900171170382557339",
+      "url": "https://x.com/louisvarge/status/1900171170382557339",
+      "views_count": "292",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 13:03:12 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "937297245933670400",
+            "name": "Levi Hart",
+            "screen_name": "Levi7hart",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Levi7hart \"lose the magic\" refers to the fact that MDMA seemingly get's permanently less potent with each user, and after some number of uses you can't really feel it anymore",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900170779947344369",
+      "url": "https://x.com/louisvarge/status/1900170779947344369",
+      "views_count": "286",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 13:02:08 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1149957894625824769",
+            "name": "psyUpasaka - e/moksha",
+            "screen_name": "ganjamarchindia",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@ganjamarchindia interesting. thank you for your contribution to science!\n\nhow would you describe your experience of j2? &amp; would you naturally make Ulisse's analogy to mdma or not?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900170513428677103",
+      "url": "https://x.com/louisvarge/status/1900170513428677103",
+      "views_count": "227",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 10:53:16 +0000 2025",
+      "conversation_id_str": "1900110570730512724",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/er1enney0ung/s…",
+            "expanded_url": "https://x.com/er1enney0ung/status/1899987539827806371",
+            "url": "https://t.co/ptHVZL8GfZ",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "2298710089",
+            "name": "Nadia",
+            "screen_name": "nadiainthought",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@nadiainthought here's a post i really liked in this genre: https://t.co/ptHVZL8GfZ",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1900138083879641103",
+      "url": "https://x.com/louisvarge/status/1900138083879641103",
+      "views_count": "62",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Thu Mar 13 00:44:53 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 13,
+      "favorited": false,
+      "full_text": "if J2 = MDMA, that has interesting empathogen-safety implications",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899984978068283838",
+      "url": "https://x.com/louisvarge/status/1899984978068283838",
+      "views_count": "610",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 23,
+      "created_at": "Thu Mar 13 00:44:21 +0000 2025",
+      "conversation_id_str": "1899984844853014820",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 78,
+      "favorited": false,
+      "full_text": "does anyone know of anyone who:\n- has taken MDMA enough times to completely \"lose the magic\"\n- learned to do jhana 2 successfully",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 12,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899984844853014820",
+      "url": "https://x.com/louisvarge/status/1899984844853014820",
+      "views_count": "7359",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 00:02:01 +0000 2025",
+      "conversation_id_str": "1899961581447831712",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "816824456",
+            "name": "Colby",
+            "screen_name": "ZerothAxiom",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@ZerothAxiom cooked me 😭",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899974189508890887",
+      "url": "https://x.com/louisvarge/status/1899974189508890887",
+      "views_count": "25",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 23:30:52 +0000 2025",
+      "conversation_id_str": "1897450708804493471",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2402565624",
+            "name": "Sexsomniac",
+            "screen_name": "EricShawnE79",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id_str": "1771977722115616768",
+            "name": "🔄 vibe preserver",
+            "screen_name": "vibepreserver",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "id_str": "1550534510336512000",
+            "name": "Elysian Labs",
+            "screen_name": "elysian_labs",
+            "indices": [
+              29,
+              42
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@EricShawnE79 @vibepreserver @elysian_labs not really, i bet it's a really valuable app bc people seem to like it",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899966352011763800",
+      "url": "https://x.com/louisvarge/status/1899966352011763800",
+      "views_count": "15",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 23:21:41 +0000 2025",
+      "conversation_id_str": "1899961581447831712",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "816824456",
+            "name": "Colby",
+            "screen_name": "ZerothAxiom",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@ZerothAxiom how do I bet on a negative percentage",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899964040354386366",
+      "url": "https://x.com/louisvarge/status/1899964040354386366",
+      "views_count": "50",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 23:07:25 +0000 2025",
+      "conversation_id_str": "1898778285343211667",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2534372505",
+            "name": "Raj Thimmiah",
+            "screen_name": "rajlearns",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@rajlearns which post? &amp; i'm curious if you can say more about what you mean by information architecture?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899960448016904516",
+      "url": "https://x.com/louisvarge/status/1899960448016904516",
+      "views_count": "23",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 23:06:27 +0000 2025",
+      "conversation_id_str": "1898799391751672093",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1824166383204392960",
+            "name": "imit",
+            "screen_name": "imitationlearn",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1539239013621579777",
+            "name": "billy",
+            "screen_name": "billyhumblebrag",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@imitationlearn @billyhumblebrag yeah, shin told me about it, imit convinced me to try it",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899960205925830763",
+      "url": "https://x.com/louisvarge/status/1899960205925830763",
+      "views_count": "32",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 23:05:47 +0000 2025",
+      "conversation_id_str": "1899418203337437375",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1885107556592332800",
+            "name": "Alex is Learning (rationality!)",
+            "screen_name": "alexislearning",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@alexislearning i've not tried banana nor huel black iirc! but happy you're on it, it really is the best 🪷",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1637387340665561090",
+      "id_str": "1899960039575548309",
+      "url": "https://x.com/louisvarge/status/1899960039575548309",
+      "views_count": "36",
+      "user": {
+        "following": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "created_at": "Sun Mar 19 09:35:47 +0000 2023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i'm interested in AI, meditation, finance, neurotech, and a few other things",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "louisarge.com",
+                "expanded_url": "https://louisarge.com",
+                "url": "https://t.co/Z6z7v6nm7p",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 39871,
+        "followers_count": 3239,
+        "friends_count": 1896,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 32,
+        "location": "middle of nowhere",
+        "media_count": 199,
+        "name": "Louis Arge",
+        "normal_followers_count": 3239,
+        "pinned_tweet_ids_str": [
+          "1842024516597490130"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637387340665561090/1730218216",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803299447448719360/GsRjUcZm_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "louisvarge",
+        "statuses_count": 7093,
+        "translator_type": "none",
+        "url": "https://t.co/Z6z7v6nm7p",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "2025-03-14": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "2025-03-13": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "2025-03-12": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ]
+  }
+}

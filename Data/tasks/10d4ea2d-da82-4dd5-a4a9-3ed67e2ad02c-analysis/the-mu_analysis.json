@@ -1,0 +1,55 @@
+{
+  "username": "the-mu",
+  "analyzedAt": "2025-03-15T18:29:25.610Z",
+  "tweetCount": 5,
+  "tweetDateRange": {
+    "earliestTweet": "Sat Mar 08 12:14:00 +0000 2025",
+    "latestTweet": "Wed Mar 12 00:12:39 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @the-mu and provide a summary of what they mainly talked about in the past week:\n\nTo the Sun!!\n\n@nicnode @simoneGCR 🤣🤣🤣 anytime bro\n\n@vrneth Thank you 🫶🫶\n\nhttps://t.co/JFPRhrfH51\n\nLooking for the best video editor out there! 🎥\n\nKnow anyone? Drop some names! \n\nWe're preparing something HUGE for World Expo 👀"
+  },
+  "summary": "The tweets from @the-mu in the past week cover a range of topics. They expressed excitement and humor with friends, thanked someone, and mentioned looking for a video editor. Additionally, they hinted at preparing something significant for the World Expo. The overall sentiments seem positive and anticipatory.",
+  "keyTopics": [
+    "They",
+    "Additionally,"
+  ],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1899614478133772353",
+      "createdAt": "Wed Mar 12 00:12:39 +0000 2025",
+      "text": "To the Sun!!"
+    },
+    {
+      "index": 1,
+      "id": "1899613548122407280",
+      "createdAt": "Wed Mar 12 00:08:57 +0000 2025",
+      "text": "@nicnode @simoneGCR 🤣🤣🤣 anytime bro"
+    },
+    {
+      "index": 2,
+      "id": "1899613430975496680",
+      "createdAt": "Wed Mar 12 00:08:29 +0000 2025",
+      "text": "@vrneth Thank you 🫶🫶"
+    },
+    {
+      "index": 3,
+      "id": "1899114058009419822",
+      "createdAt": "Mon Mar 10 15:04:09 +0000 2025",
+      "text": "https://t.co/JFPRhrfH51"
+    },
+    {
+      "index": 4,
+      "id": "1898346460841705594",
+      "createdAt": "Sat Mar 08 12:14:00 +0000 2025",
+      "text": "Looking for the best video editor out there! 🎥\n\nKnow anyone? Drop some names! \n\nWe're preparing som..."
+    }
+  ]
+}

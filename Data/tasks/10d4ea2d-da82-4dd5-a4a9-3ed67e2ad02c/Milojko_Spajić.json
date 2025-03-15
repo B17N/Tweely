@@ -1,0 +1,2370 @@
+{
+  "username": "Milojko Spajić",
+  "fetchedAt": "2025-03-15T15:58:08.305Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 5,
+      "created_at": "Sat Mar 15 13:32:07 +0000 2025",
+      "conversation_id_str": "1900902833878114563",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 184,
+      "favorited": false,
+      "full_text": "Država Crna Gora će uvijek i u svakoj situaciji stati uz svoje građane 🇲🇪❤️\n\nTakođe, ne podržavamo miješanje naših zvaničnika u unutrašnju politiku drugih zemalja- prvo poslanik Knežević, a sada i Vuković- jer isti odnos očekujemo i prema Crnoj Gori. \nU vezi sa situacijom poslanika Vukovića naši nadležni organi su promptno reagovali prema kolegama iz Srbije i poslanik crnogorskog Parlamenta je već na putu ka Crnoj Gori.",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 13,
+      "reply_count": 66,
+      "retweet_count": 9,
+      "retweeted": false,
+      "user_id_str": "1272631485078687750",
+      "id_str": "1900902833878114563",
+      "url": "https://x.com/MickeySpajic/status/1900902833878114563",
+      "views_count": "15596",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jun 15 20:46:17 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Predsjednik Vlade Crne Gore 🇲🇪 Prime Minister of Montenegro ⁣⁣⁣🇲🇪 ⁣⁣⁣Predsjednik @pokretevropasad",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evropasad.com",
+                "expanded_url": "https://evropasad.com/",
+                "url": "https://t.co/ORqz9gPOn9",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5233,
+        "followers_count": 27361,
+        "friends_count": 171,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 81,
+        "location": "Montenegro",
+        "media_count": 1154,
+        "name": "Milojko Spajić",
+        "normal_followers_count": 27361,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272631485078687750/1657035347",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1651864285620862976/c55NL7mW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "MickeySpajic",
+        "statuses_count": 2960,
+        "translator_type": "none",
+        "url": "https://t.co/ORqz9gPOn9",
+        "verified": false,
+        "verified_type": "Government",
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 15:33:39 +0000 2025",
+      "conversation_id_str": "1900208643225624991",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/letEb9VBTn",
+            "expanded_url": "https://x.com/MickeySpajic/status/1900208643225624991/photo/1",
+            "id_str": "1900208635566817280",
+            "indices": [
+              186,
+              209
+            ],
+            "media_key": "3_1900208635566817280",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7lr7IXAAAI3Rw.jpg",
+            "type": "photo",
+            "url": "https://t.co/letEb9VBTn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1464,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 858,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 486,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1464,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 584,
+                  "y": 0,
+                  "w": 1464,
+                  "h": 1464
+                },
+                {
+                  "x": 738,
+                  "y": 0,
+                  "w": 1284,
+                  "h": 1464
+                },
+                {
+                  "x": 1014,
+                  "y": 0,
+                  "w": 732,
+                  "h": 1464
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1464
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900208635566817280"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/letEb9VBTn",
+            "expanded_url": "https://x.com/MickeySpajic/status/1900208643225624991/photo/1",
+            "id_str": "1900208635537444864",
+            "indices": [
+              186,
+              209
+            ],
+            "media_key": "3_1900208635537444864",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7lr7BW0AAPB2j.jpg",
+            "type": "photo",
+            "url": "https://t.co/letEb9VBTn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 154,
+                    "y": 1128,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 90,
+                    "y": 660,
+                    "h": 106,
+                    "w": 106
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 51,
+                    "y": 374,
+                    "h": 60,
+                    "w": 60
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 154,
+                    "y": 1128,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1362,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1362,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 92,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 686,
+                  "y": 0,
+                  "w": 1362,
+                  "h": 1362
+                },
+                {
+                  "x": 853,
+                  "y": 0,
+                  "w": 1195,
+                  "h": 1362
+                },
+                {
+                  "x": 1367,
+                  "y": 0,
+                  "w": 681,
+                  "h": 1362
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1362
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900208635537444864"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/letEb9VBTn",
+            "expanded_url": "https://x.com/MickeySpajic/status/1900208643225624991/photo/1",
+            "id_str": "1900208635558449152",
+            "indices": [
+              186,
+              209
+            ],
+            "media_key": "3_1900208635558449152",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7lr7GXUAAHTUM.jpg",
+            "type": "photo",
+            "url": "https://t.co/letEb9VBTn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 756,
+                    "y": 286,
+                    "h": 84,
+                    "w": 84
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 442,
+                    "y": 167,
+                    "h": 49,
+                    "w": 49
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 251,
+                    "y": 94,
+                    "h": 27,
+                    "w": 27
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 756,
+                    "y": 286,
+                    "h": 84,
+                    "w": 84
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1362,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1362,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1362,
+                  "h": 1362
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1195,
+                  "h": 1362
+                },
+                {
+                  "x": 120,
+                  "y": 0,
+                  "w": 681,
+                  "h": 1362
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1362
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900208635558449152"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/letEb9VBTn",
+            "expanded_url": "https://x.com/MickeySpajic/status/1900208643225624991/photo/1",
+            "id_str": "1900208635566817280",
+            "indices": [
+              186,
+              209
+            ],
+            "media_key": "3_1900208635566817280",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7lr7IXAAAI3Rw.jpg",
+            "type": "photo",
+            "url": "https://t.co/letEb9VBTn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1464,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 858,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 486,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1464,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 584,
+                  "y": 0,
+                  "w": 1464,
+                  "h": 1464
+                },
+                {
+                  "x": 738,
+                  "y": 0,
+                  "w": 1284,
+                  "h": 1464
+                },
+                {
+                  "x": 1014,
+                  "y": 0,
+                  "w": 732,
+                  "h": 1464
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1464
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900208635566817280"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/letEb9VBTn",
+            "expanded_url": "https://x.com/MickeySpajic/status/1900208643225624991/photo/1",
+            "id_str": "1900208635537444864",
+            "indices": [
+              186,
+              209
+            ],
+            "media_key": "3_1900208635537444864",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7lr7BW0AAPB2j.jpg",
+            "type": "photo",
+            "url": "https://t.co/letEb9VBTn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 154,
+                    "y": 1128,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 90,
+                    "y": 660,
+                    "h": 106,
+                    "w": 106
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 51,
+                    "y": 374,
+                    "h": 60,
+                    "w": 60
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 154,
+                    "y": 1128,
+                    "h": 182,
+                    "w": 182
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1362,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1362,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 92,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 686,
+                  "y": 0,
+                  "w": 1362,
+                  "h": 1362
+                },
+                {
+                  "x": 853,
+                  "y": 0,
+                  "w": 1195,
+                  "h": 1362
+                },
+                {
+                  "x": 1367,
+                  "y": 0,
+                  "w": 681,
+                  "h": 1362
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1362
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900208635537444864"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/letEb9VBTn",
+            "expanded_url": "https://x.com/MickeySpajic/status/1900208643225624991/photo/1",
+            "id_str": "1900208635558449152",
+            "indices": [
+              186,
+              209
+            ],
+            "media_key": "3_1900208635558449152",
+            "media_url_https": "https://pbs.twimg.com/media/Gl7lr7GXUAAHTUM.jpg",
+            "type": "photo",
+            "url": "https://t.co/letEb9VBTn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 756,
+                    "y": 286,
+                    "h": 84,
+                    "w": 84
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 442,
+                    "y": 167,
+                    "h": 49,
+                    "w": 49
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 251,
+                    "y": 94,
+                    "h": 27,
+                    "w": 27
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 756,
+                    "y": 286,
+                    "h": 84,
+                    "w": 84
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1362,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1362,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1147
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1362,
+                  "h": 1362
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1195,
+                  "h": 1362
+                },
+                {
+                  "x": 120,
+                  "y": 0,
+                  "w": 681,
+                  "h": 1362
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1362
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900208635558449152"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 47,
+      "favorited": false,
+      "full_text": "Reforme otvaraju vrata za nove investicije i to EBRD prepoznaje! ✅ Nastavljamo sa velikim radom na privlačenju investicija koje donose ekonomski rast i otvaraju nova radna mjesta! 🚀🇲🇪❤️ https://t.co/letEb9VBTn",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 10,
+      "retweeted": false,
+      "user_id_str": "1272631485078687750",
+      "id_str": "1900208643225624991",
+      "url": "https://x.com/MickeySpajic/status/1900208643225624991",
+      "views_count": "1991",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jun 15 20:46:17 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Predsjednik Vlade Crne Gore 🇲🇪 Prime Minister of Montenegro ⁣⁣⁣🇲🇪 ⁣⁣⁣Predsjednik @pokretevropasad",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evropasad.com",
+                "expanded_url": "https://evropasad.com/",
+                "url": "https://t.co/ORqz9gPOn9",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5233,
+        "followers_count": 27362,
+        "friends_count": 171,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 81,
+        "location": "Montenegro",
+        "media_count": 1154,
+        "name": "Milojko Spajić",
+        "normal_followers_count": 27362,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272631485078687750/1657035347",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1651864285620862976/c55NL7mW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "MickeySpajic",
+        "statuses_count": 2960,
+        "translator_type": "none",
+        "url": "https://t.co/ORqz9gPOn9",
+        "verified": false,
+        "verified_type": "Government",
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 8,
+      "created_at": "Tue Mar 11 21:20:16 +0000 2025",
+      "conversation_id_str": "1899571097432973764",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/dSKTUJ9S6i",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899571097432973764/photo/1",
+            "id_str": "1899571078365614080",
+            "indices": [
+              123,
+              146
+            ],
+            "media_key": "3_1899571078365614080",
+            "media_url_https": "https://pbs.twimg.com/media/Glyh1NeWkAA5KoP.jpg",
+            "type": "photo",
+            "url": "https://t.co/dSKTUJ9S6i",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1290,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1191,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 675,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1290,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 722
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899571078365614080"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/dSKTUJ9S6i",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899571097432973764/photo/1",
+            "id_str": "1899571078365614080",
+            "indices": [
+              123,
+              146
+            ],
+            "media_key": "3_1899571078365614080",
+            "media_url_https": "https://pbs.twimg.com/media/Glyh1NeWkAA5KoP.jpg",
+            "type": "photo",
+            "url": "https://t.co/dSKTUJ9S6i",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 1290,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1191,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 675,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 1290,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 722
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1123,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 640,
+                  "h": 1280
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1290,
+                  "h": 1280
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899571078365614080"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 120,
+      "favorited": false,
+      "full_text": "Sjutra ćemo se sresti sa predsjednikom opštine Ulcinj i  razgovarati o zabrinutostima Ulcinjana koji se tiču zakupa plaža. https://t.co/dSKTUJ9S6i",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 11,
+      "reply_count": 40,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1272631485078687750",
+      "id_str": "1899571097432973764",
+      "url": "https://x.com/MickeySpajic/status/1899571097432973764",
+      "views_count": "28313",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jun 15 20:46:17 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Predsjednik Vlade Crne Gore 🇲🇪 Prime Minister of Montenegro ⁣⁣⁣🇲🇪 ⁣⁣⁣Predsjednik @pokretevropasad",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evropasad.com",
+                "expanded_url": "https://evropasad.com/",
+                "url": "https://t.co/ORqz9gPOn9",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5233,
+        "followers_count": 27362,
+        "friends_count": 171,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 81,
+        "location": "Montenegro",
+        "media_count": 1154,
+        "name": "Milojko Spajić",
+        "normal_followers_count": 27362,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272631485078687750/1657035347",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1651864285620862976/c55NL7mW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "MickeySpajic",
+        "statuses_count": 2960,
+        "translator_type": "none",
+        "url": "https://t.co/ORqz9gPOn9",
+        "verified": false,
+        "verified_type": "Government",
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 2,
+      "created_at": "Tue Mar 11 09:59:46 +0000 2025",
+      "conversation_id_str": "1899399844457755002",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839332405248",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839332405248",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyXXkAAuU_h.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 831,
+                    "y": 598,
+                    "h": 54,
+                    "w": 54
+                  },
+                  {
+                    "x": 239,
+                    "y": 129,
+                    "h": 439,
+                    "w": 439
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 623,
+                    "y": 448,
+                    "h": 40,
+                    "w": 40
+                  },
+                  {
+                    "x": 179,
+                    "y": 96,
+                    "h": 329,
+                    "w": 329
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 353,
+                    "y": 254,
+                    "h": 22,
+                    "w": 22
+                  },
+                  {
+                    "x": 101,
+                    "y": 54,
+                    "h": 186,
+                    "w": 186
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 831,
+                    "y": 598,
+                    "h": 54,
+                    "w": 54
+                  },
+                  {
+                    "x": 239,
+                    "y": 129,
+                    "h": 439,
+                    "w": 439
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 536,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 667,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 892,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839332405248"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839336595456",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839336595456",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyYXgAARoMV.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 364,
+                    "y": 529,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 273,
+                    "y": 396,
+                    "h": 51,
+                    "w": 51
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 154,
+                    "y": 224,
+                    "h": 28,
+                    "w": 28
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 364,
+                    "y": 529,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 536,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 667,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 892,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839336595456"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839332380672",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839332380672",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyXXMAAq1-j.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1178,
+                    "y": 796,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 671,
+                    "y": 289,
+                    "h": 79,
+                    "w": 79
+                  },
+                  {
+                    "x": 934,
+                    "y": 290,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 883,
+                    "y": 597,
+                    "h": 44,
+                    "w": 44
+                  },
+                  {
+                    "x": 503,
+                    "y": 216,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 700,
+                    "y": 217,
+                    "h": 75,
+                    "w": 75
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 500,
+                    "y": 338,
+                    "h": 25,
+                    "w": 25
+                  },
+                  {
+                    "x": 285,
+                    "y": 122,
+                    "h": 33,
+                    "w": 33
+                  },
+                  {
+                    "x": 396,
+                    "y": 123,
+                    "h": 42,
+                    "w": 42
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1178,
+                    "y": 796,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 671,
+                    "y": 289,
+                    "h": 79,
+                    "w": 79
+                  },
+                  {
+                    "x": 934,
+                    "y": 290,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 536,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 667,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 892,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839332380672"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839336513536",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839336513536",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyYWQAAgD9R.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 450,
+                    "y": 675,
+                    "h": 132,
+                    "w": 132
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 337,
+                    "y": 506,
+                    "h": 99,
+                    "w": 99
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 191,
+                    "y": 286,
+                    "h": 56,
+                    "w": 56
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 450,
+                    "y": 675,
+                    "h": 132,
+                    "w": 132
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 387,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 453,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 653,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839336513536"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839332405248",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839332405248",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyXXkAAuU_h.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 831,
+                    "y": 598,
+                    "h": 54,
+                    "w": 54
+                  },
+                  {
+                    "x": 239,
+                    "y": 129,
+                    "h": 439,
+                    "w": 439
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 623,
+                    "y": 448,
+                    "h": 40,
+                    "w": 40
+                  },
+                  {
+                    "x": 179,
+                    "y": 96,
+                    "h": 329,
+                    "w": 329
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 353,
+                    "y": 254,
+                    "h": 22,
+                    "w": 22
+                  },
+                  {
+                    "x": 101,
+                    "y": 54,
+                    "h": 186,
+                    "w": 186
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 831,
+                    "y": 598,
+                    "h": 54,
+                    "w": 54
+                  },
+                  {
+                    "x": 239,
+                    "y": 129,
+                    "h": 439,
+                    "w": 439
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 536,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 667,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 892,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839332405248"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839336595456",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839336595456",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyYXgAARoMV.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 364,
+                    "y": 529,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 273,
+                    "y": 396,
+                    "h": 51,
+                    "w": 51
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 154,
+                    "y": 224,
+                    "h": 28,
+                    "w": 28
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 364,
+                    "y": 529,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 536,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 667,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 892,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839336595456"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839332380672",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839332380672",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyXXMAAq1-j.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1178,
+                    "y": 796,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 671,
+                    "y": 289,
+                    "h": 79,
+                    "w": 79
+                  },
+                  {
+                    "x": 934,
+                    "y": 290,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 883,
+                    "y": 597,
+                    "h": 44,
+                    "w": 44
+                  },
+                  {
+                    "x": 503,
+                    "y": 216,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 700,
+                    "y": 217,
+                    "h": 75,
+                    "w": 75
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 500,
+                    "y": 338,
+                    "h": 25,
+                    "w": 25
+                  },
+                  {
+                    "x": 285,
+                    "y": 122,
+                    "h": 33,
+                    "w": 33
+                  },
+                  {
+                    "x": 396,
+                    "y": 123,
+                    "h": 42,
+                    "w": 42
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1178,
+                    "y": 796,
+                    "h": 59,
+                    "w": 59
+                  },
+                  {
+                    "x": 671,
+                    "y": 289,
+                    "h": 79,
+                    "w": 79
+                  },
+                  {
+                    "x": 934,
+                    "y": 290,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 536,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 667,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 892,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839332380672"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/vY6NKP61Ap",
+            "expanded_url": "https://x.com/MickeySpajic/status/1899399844457755002/photo/1",
+            "id_str": "1899399839336513536",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "3_1899399839336513536",
+            "media_url_https": "https://pbs.twimg.com/media/GlwGFyYWQAAgD9R.jpg",
+            "type": "photo",
+            "url": "https://t.co/vY6NKP61Ap",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 450,
+                    "y": 675,
+                    "h": 132,
+                    "w": 132
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 337,
+                    "y": 506,
+                    "h": 99,
+                    "w": 99
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 191,
+                    "y": 286,
+                    "h": 56,
+                    "w": 56
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 450,
+                    "y": 675,
+                    "h": 132,
+                    "w": 132
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1064,
+                "w": 1600,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 798,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 452,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1064,
+              "width": 1600,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 896
+                },
+                {
+                  "x": 387,
+                  "y": 0,
+                  "w": 1064,
+                  "h": 1064
+                },
+                {
+                  "x": 453,
+                  "y": 0,
+                  "w": 933,
+                  "h": 1064
+                },
+                {
+                  "x": 653,
+                  "y": 0,
+                  "w": 532,
+                  "h": 1064
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1600,
+                  "h": 1064
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899399839336513536"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 166,
+      "favorited": false,
+      "full_text": "Ivica Kostelić je dobro i oporavlja se u barskoj bolnici. Izuzetno je zahvalan Vojsci 🇲🇪 za pravovremenu reakciju, kao i medicinskom kadru naše zemlje. Legendarni 🇭🇷 skijaš boravio je prethodnih dana na Prokletijama i rijeci Bojani - promovišući ljepote ovih naših dragulja, koji prema Kostelićevim riječima imaju ogroman potencijal i za ekstremne sportove. Ivice, ponovo nam dođi u goste! 🇲🇪🇭🇷🇪🇺❤️",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 7,
+      "reply_count": 15,
+      "retweet_count": 6,
+      "retweeted": false,
+      "user_id_str": "1272631485078687750",
+      "id_str": "1899399844457755002",
+      "url": "https://x.com/MickeySpajic/status/1899399844457755002",
+      "views_count": "22905",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jun 15 20:46:17 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Predsjednik Vlade Crne Gore 🇲🇪 Prime Minister of Montenegro ⁣⁣⁣🇲🇪 ⁣⁣⁣Predsjednik @pokretevropasad",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evropasad.com",
+                "expanded_url": "https://evropasad.com/",
+                "url": "https://t.co/ORqz9gPOn9",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 5233,
+        "followers_count": 27362,
+        "friends_count": 171,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 81,
+        "location": "Montenegro",
+        "media_count": 1154,
+        "name": "Milojko Spajić",
+        "normal_followers_count": 27362,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272631485078687750/1657035347",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1651864285620862976/c55NL7mW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "MickeySpajic",
+        "statuses_count": 2960,
+        "translator_type": "none",
+        "url": "https://t.co/ORqz9gPOn9",
+        "verified": false,
+        "verified_type": "Government",
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0
+    ],
+    "2025-03-13": [
+      1
+    ],
+    "2025-03-11": [
+      2,
+      3
+    ]
+  }
+}

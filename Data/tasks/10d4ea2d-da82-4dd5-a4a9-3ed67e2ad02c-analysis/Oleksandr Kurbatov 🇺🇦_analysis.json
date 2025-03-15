@@ -1,0 +1,31 @@
+{
+  "username": "Oleksandr Kurbatov 🇺🇦",
+  "analyzedAt": "2025-03-15T18:29:30.448Z",
+  "tweetCount": 1,
+  "tweetDateRange": {
+    "earliestTweet": "Mon Mar 10 18:47:32 +0000 2025",
+    "latestTweet": "Mon Mar 10 18:47:32 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Oleksandr Kurbatov 🇺🇦 and provide a summary of what they mainly talked about in the past week:\n\n@cryptobuilder_ https://t.co/Nf99kSF1JX"
+  },
+  "summary": "The tweets from @Oleksandr Kurbatov 🇺🇦 in the past week mainly focus on cryptocurrency, with a specific mention of @cryptobuilder_. The content likely revolves around discussions, updates, or opinions related to the cryptocurrency industry. Further context from the linked tweet could provide more insight into the specific topics and sentiments discussed.",
+  "keyTopics": [
+    "Kurbatov",
+    "Further"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1899170272235704369",
+      "createdAt": "Mon Mar 10 18:47:32 +0000 2025",
+      "text": "@cryptobuilder_ https://t.co/Nf99kSF1JX"
+    }
+  ]
+}

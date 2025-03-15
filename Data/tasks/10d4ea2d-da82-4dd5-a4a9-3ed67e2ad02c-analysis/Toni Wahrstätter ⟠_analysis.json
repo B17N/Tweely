@@ -1,0 +1,32 @@
+{
+  "username": "Toni Wahrstätter ⟠",
+  "analyzedAt": "2025-03-15T18:28:16.491Z",
+  "tweetCount": 1,
+  "tweetDateRange": {
+    "earliestTweet": "Sun Mar 09 19:44:51 +0000 2025",
+    "latestTweet": "Sun Mar 09 19:44:51 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @Toni Wahrstätter ⟠ and provide a summary of what they mainly talked about in the past week:\n\nGreat write-up on the issues with the Pectra hardfork on Sepolia.\n\nWeird edge cases causing big problems."
+  },
+  "summary": "Based on the tweets from @Toni Wahrstätter ⟠ in the past week, the main topics discussed were the issues related to the Pectra hardfork on Sepolia. The tweets mentioned a great write-up on these issues and highlighted the problems caused by weird edge cases. The sentiment appears to be negative, focusing on the challenges and complications arising from the hardfork.",
+  "keyTopics": [
+    "Based",
+    "Wahrstätter",
+    "Pectra"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1898822306820145206",
+      "createdAt": "Sun Mar 09 19:44:51 +0000 2025",
+      "text": "Great write-up on the issues with the Pectra hardfork on Sepolia.\n\nWeird edge cases causing big prob..."
+    }
+  ]
+}

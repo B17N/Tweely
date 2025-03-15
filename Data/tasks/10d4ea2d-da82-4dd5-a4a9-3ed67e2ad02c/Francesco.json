@@ -1,0 +1,675 @@
+{
+  "username": "Francesco",
+  "fetchedAt": "2025-03-15T15:55:31.358Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 1,
+      "created_at": "Fri Mar 14 17:15:39 +0000 2025",
+      "conversation_id_str": "1900594565696155990",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1427859040671911939",
+            "name": "storm",
+            "screen_name": "notnotstorm",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "@notnotstorm Here you're focusing on storage, which indeed is not an issue (particularly after history expiry). That's not the only problem with state size though. Sync performance is the primary concern of Geth folks, iiuc.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1346134852685484032",
+      "id_str": "1900596700705923151",
+      "url": "https://x.com/fradamt/status/1900596700705923151",
+      "views_count": "463",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 04 16:42:27 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@ethereum researcher, dealing with wacky protocols with weird acronyms",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2642,
+        "followers_count": 3553,
+        "friends_count": 982,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 99,
+        "location": "Berlin, Germany",
+        "media_count": 24,
+        "name": "Francesco",
+        "normal_followers_count": 3553,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459852719783657484/8S8aKURW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fradamt",
+        "statuses_count": 1253,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 19:12:29 +0000 2025",
+      "conversation_id_str": "1899175636389765225",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/QjnOMDcWqR",
+            "expanded_url": "https://x.com/fradamt/status/1899176550765048287/photo/1",
+            "id_str": "1899176543164735488",
+            "indices": [
+              23,
+              46
+            ],
+            "media_key": "3_1899176543164735488",
+            "media_url_https": "https://pbs.twimg.com/media/Gls7APUWoAAdfvo.jpg",
+            "type": "photo",
+            "url": "https://t.co/QjnOMDcWqR",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 922,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 306,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 922,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1431,
+                  "w": 922,
+                  "h": 516
+                },
+                {
+                  "x": 0,
+                  "y": 1126,
+                  "w": 922,
+                  "h": 922
+                },
+                {
+                  "x": 0,
+                  "y": 997,
+                  "w": 922,
+                  "h": 1051
+                },
+                {
+                  "x": 0,
+                  "y": 204,
+                  "w": 922,
+                  "h": 1844
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 922,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899176543164735488"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/QjnOMDcWqR",
+            "expanded_url": "https://x.com/fradamt/status/1899176550765048287/photo/1",
+            "id_str": "1899176543164735488",
+            "indices": [
+              23,
+              46
+            ],
+            "media_key": "3_1899176543164735488",
+            "media_url_https": "https://pbs.twimg.com/media/Gls7APUWoAAdfvo.jpg",
+            "type": "photo",
+            "url": "https://t.co/QjnOMDcWqR",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 922,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 306,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 922,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1431,
+                  "w": 922,
+                  "h": 516
+                },
+                {
+                  "x": 0,
+                  "y": 1126,
+                  "w": 922,
+                  "h": 922
+                },
+                {
+                  "x": 0,
+                  "y": 997,
+                  "w": 922,
+                  "h": 1051
+                },
+                {
+                  "x": 0,
+                  "y": 204,
+                  "w": 922,
+                  "h": 1844
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 922,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899176543164735488"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 6,
+      "favorited": false,
+      "full_text": "Refreshing intensifies https://t.co/QjnOMDcWqR",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1346134852685484032",
+      "id_str": "1899176550765048287",
+      "url": "https://x.com/fradamt/status/1899176550765048287",
+      "views_count": "256",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 04 16:42:27 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@ethereum researcher, dealing with wacky protocols with weird acronyms",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2642,
+        "followers_count": 3553,
+        "friends_count": 982,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 99,
+        "location": "Berlin, Germany",
+        "media_count": 24,
+        "name": "Francesco",
+        "normal_followers_count": 3553,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459852719783657484/8S8aKURW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fradamt",
+        "statuses_count": 1253,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 1,
+      "created_at": "Mon Mar 10 19:08:51 +0000 2025",
+      "conversation_id_str": "1899175636389765225",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Hl8GN8ydGm",
+            "expanded_url": "https://x.com/fradamt/status/1899175636389765225/photo/1",
+            "id_str": "1899175630459080704",
+            "indices": [
+              3,
+              26
+            ],
+            "media_key": "3_1899175630459080704",
+            "media_url_https": "https://pbs.twimg.com/media/Gls6LHOXkAAbrR_.jpg",
+            "type": "photo",
+            "url": "https://t.co/Hl8GN8ydGm",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 922,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 306,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 922,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1022,
+                  "w": 922,
+                  "h": 516
+                },
+                {
+                  "x": 0,
+                  "y": 819,
+                  "w": 922,
+                  "h": 922
+                },
+                {
+                  "x": 0,
+                  "y": 755,
+                  "w": 922,
+                  "h": 1051
+                },
+                {
+                  "x": 0,
+                  "y": 204,
+                  "w": 922,
+                  "h": 1844
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 922,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899175630459080704"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Hl8GN8ydGm",
+            "expanded_url": "https://x.com/fradamt/status/1899175636389765225/photo/1",
+            "id_str": "1899175630459080704",
+            "indices": [
+              3,
+              26
+            ],
+            "media_key": "3_1899175630459080704",
+            "media_url_https": "https://pbs.twimg.com/media/Gls6LHOXkAAbrR_.jpg",
+            "type": "photo",
+            "url": "https://t.co/Hl8GN8ydGm",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 922,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 306,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2048,
+              "width": 922,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1022,
+                  "w": 922,
+                  "h": 516
+                },
+                {
+                  "x": 0,
+                  "y": 819,
+                  "w": 922,
+                  "h": 922
+                },
+                {
+                  "x": 0,
+                  "y": 755,
+                  "w": 922,
+                  "h": 1051
+                },
+                {
+                  "x": 0,
+                  "y": 204,
+                  "w": 922,
+                  "h": 1844
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 922,
+                  "h": 2048
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899175630459080704"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 17,
+      "favorited": false,
+      "full_text": "🍿🍿 https://t.co/Hl8GN8ydGm",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 2,
+      "retweeted": false,
+      "user_id_str": "1346134852685484032",
+      "id_str": "1899175636389765225",
+      "url": "https://x.com/fradamt/status/1899175636389765225",
+      "views_count": "1027",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 04 16:42:27 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@ethereum researcher, dealing with wacky protocols with weird acronyms",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2642,
+        "followers_count": 3553,
+        "friends_count": 982,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 99,
+        "location": "Berlin, Germany",
+        "media_count": 24,
+        "name": "Francesco",
+        "normal_followers_count": 3553,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459852719783657484/8S8aKURW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fradamt",
+        "statuses_count": 1253,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 07:55:35 +0000 2025",
+      "conversation_id_str": "1899005770366108155",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1318997279328460801",
+            "name": "Lily",
+            "screen_name": "nope_its_lily",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 7,
+      "favorited": false,
+      "full_text": "@nope_its_lily Only if you have good memory. I regularly find that I muted someone but have no idea why",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1346134852685484032",
+      "id_str": "1899006203004403864",
+      "url": "https://x.com/fradamt/status/1899006203004403864",
+      "views_count": "191",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Jan 04 16:42:27 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@ethereum researcher, dealing with wacky protocols with weird acronyms",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 2642,
+        "followers_count": 3553,
+        "friends_count": 982,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 99,
+        "location": "Berlin, Germany",
+        "media_count": 24,
+        "name": "Francesco",
+        "normal_followers_count": 3553,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459852719783657484/8S8aKURW_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "fradamt",
+        "statuses_count": 1253,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0
+    ],
+    "2025-03-10": [
+      1,
+      2,
+      3
+    ]
+  }
+}

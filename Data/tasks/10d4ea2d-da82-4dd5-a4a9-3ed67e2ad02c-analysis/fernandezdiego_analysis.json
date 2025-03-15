@@ -1,0 +1,82 @@
+{
+  "username": "fernandezdiego",
+  "analyzedAt": "2025-03-15T18:29:19.567Z",
+  "tweetCount": 10,
+  "tweetDateRange": {
+    "earliestTweet": "Fri Mar 07 11:44:17 +0000 2025",
+    "latestTweet": "Fri Mar 14 13:51:51 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @fernandezdiego and provide a summary of what they mainly talked about in the past week:\n\n@Mariandipietra Those events should go to 0!\n\n@CamiRusso @blackjackdoteth Sequencer decentralization &amp; interoperability solving what you considered, and I agree, the terrible UX he have today.\n\nChatting about rockets and satellites constellations with my friends @dfavarolo and @GugaSuarezBA from https://t.co/HHRL4pU84i https://t.co/KKIXYR34a4\n\n@fede_intern Adoption adoption adoption. That's the end game. Everything else is a means to an end\n\n@Leandro84D Que triste Lean. Lo lamento. ❤️\n\nPlanning and thinking about the future with ⁦@fran_aligned⁩. We need you here ⁦@fede_intern⁩! https://t.co/5oFnQH1olW\n\n100%\n\nHace 3 años cometí el error de comprar una compu con teclado en castellano. Nunca me pude acostumbrar luego de haber usado toda mi vida teclado en ingles. Mi nueva compu tiene teclado en ingles. Es como volver a casa! Que felicidad no errarle mas al =, al + y al * por ejemplo. 😍\n\n@emivelazquez6 @crecimientoar Guauuuuuuuuu 🔥🔥🇦🇷🇦🇷\n\n@GabrielGruber @Leandro84D @OfframpXYZ @Cypher_HQ_ @TheAvaxCard @Exa_App Perfecto! Todavia faltán por lo menos 6 dias corridos para que @AmericanExpress le mande la tarjeta y recien pudo pagar su almuerzo con @Exa_App. Los chicos de Amex deberian recordar a Charly, los dinosaurios van a desaparecer...."
+  },
+  "summary": "The tweets from @fernandezdiego in the past week cover a range of topics. The main themes include discussions on decentralization and interoperability in the context of user experience, adoption of technologies, personal anecdotes, interactions with friends, and mentions of specific individuals and projects. The overall sentiment appears to be positive, with expressions of agreement, excitement, appreciation, and nostalgia.",
+  "keyTopics": [],
+  "sentiment": "Positive",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900545414882824373",
+      "createdAt": "Fri Mar 14 13:51:51 +0000 2025",
+      "text": "@Mariandipietra Those events should go to 0!"
+    },
+    {
+      "index": 1,
+      "id": "1900312861148160449",
+      "createdAt": "Thu Mar 13 22:27:46 +0000 2025",
+      "text": "@CamiRusso @blackjackdoteth Sequencer decentralization &amp; interoperability solving what you consi..."
+    },
+    {
+      "index": 2,
+      "id": "1900245719199482123",
+      "createdAt": "Thu Mar 13 18:00:58 +0000 2025",
+      "text": "Chatting about rockets and satellites constellations with my friends @dfavarolo and @GugaSuarezBA fr..."
+    },
+    {
+      "index": 3,
+      "id": "1899994297069384037",
+      "createdAt": "Thu Mar 13 01:21:55 +0000 2025",
+      "text": "@fede_intern Adoption adoption adoption. That's the end game. Everything else is a means to an end"
+    },
+    {
+      "index": 4,
+      "id": "1899279354938490894",
+      "createdAt": "Tue Mar 11 02:00:59 +0000 2025",
+      "text": "@Leandro84D Que triste Lean. Lo lamento. ❤️"
+    },
+    {
+      "index": 5,
+      "id": "1899269673486623114",
+      "createdAt": "Tue Mar 11 01:22:31 +0000 2025",
+      "text": "Planning and thinking about the future with ⁦@fran_aligned⁩. We need you here ⁦@fede_intern⁩! https:..."
+    },
+    {
+      "index": 6,
+      "id": "1899213944767517101",
+      "createdAt": "Mon Mar 10 21:41:04 +0000 2025",
+      "text": "100%"
+    },
+    {
+      "index": 7,
+      "id": "1898871448971710502",
+      "createdAt": "Sun Mar 09 23:00:07 +0000 2025",
+      "text": "Hace 3 años cometí el error de comprar una compu con teclado en castellano. Nunca me pude acostumbra..."
+    },
+    {
+      "index": 8,
+      "id": "1898545035370467767",
+      "createdAt": "Sun Mar 09 01:23:04 +0000 2025",
+      "text": "@emivelazquez6 @crecimientoar Guauuuuuuuuu 🔥🔥🇦🇷🇦🇷"
+    },
+    {
+      "index": 9,
+      "id": "1897976594733432955",
+      "createdAt": "Fri Mar 07 11:44:17 +0000 2025",
+      "text": "@GabrielGruber @Leandro84D @OfframpXYZ @Cypher_HQ_ @TheAvaxCard @Exa_App Perfecto! Todavia faltán po..."
+    }
+  ]
+}

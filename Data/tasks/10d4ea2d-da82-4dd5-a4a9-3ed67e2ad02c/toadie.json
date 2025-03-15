@@ -1,0 +1,1613 @@
+{
+  "username": "toadie",
+  "fetchedAt": "2025-03-15T15:58:08.317Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 06:54:19 +0000 2025",
+      "conversation_id_str": "1900274803010933203",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "407310774",
+            "name": "materkel.eth 🦇🔊",
+            "screen_name": "materkel",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@materkel 17hrs 😱",
+      "is_quote_status": false,
+      "lang": "und",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1900440337946206388",
+      "url": "https://x.com/ethersphoenix/status/1900440337946206388",
+      "views_count": "22",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 05:28:55 +0000 2025",
+      "conversation_id_str": "1900220433729020015",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/C0matrFjlP",
+            "expanded_url": "https://x.com/ethersphoenix/status/1900418845355163993/photo/1",
+            "id_str": "1900418835083395072",
+            "indices": [
+              41,
+              64
+            ],
+            "media_key": "16_1900418835083395072",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gl-k3JWbgAAiPOB.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/C0matrFjlP",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 220,
+              "width": 220,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/Gl-k3JWbgAAiPOB.mp4"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "16_1900418835083395072"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "860396746186276864",
+            "name": "Nick White 🦣",
+            "screen_name": "nickwh8te",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "id_str": "1107518478",
+            "name": "Yano 🟪",
+            "screen_name": "JasonYanowitz",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "id_str": "869684062067322880",
+            "name": "Mippo 🟪",
+            "screen_name": "MikeIppolito_",
+            "indices": [
+              26,
+              40
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/C0matrFjlP",
+            "expanded_url": "https://x.com/ethersphoenix/status/1900418845355163993/photo/1",
+            "id_str": "1900418835083395072",
+            "indices": [
+              41,
+              64
+            ],
+            "media_key": "16_1900418835083395072",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gl-k3JWbgAAiPOB.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/C0matrFjlP",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 220,
+              "width": 220,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/Gl-k3JWbgAAiPOB.mp4"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "16_1900418835083395072"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@nickwh8te @JasonYanowitz @MikeIppolito_ https://t.co/C0matrFjlP",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1900418845355163993",
+      "url": "https://x.com/ethersphoenix/status/1900418845355163993",
+      "views_count": "24",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 22:39:12 +0000 2025",
+      "conversation_id_str": "1899931564764783012",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "808749775",
+            "name": "Toghrul Maharramov 🇺🇦",
+            "screen_name": "toghrulmaharram",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "989912836901089282",
+            "name": "Blockworks",
+            "screen_name": "Blockworks_",
+            "indices": [
+              25,
+              37
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@toghrulmaharram Classic @Blockworks_ garbage",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899953348318814533",
+      "url": "https://x.com/ethersphoenix/status/1899953348318814533",
+      "views_count": "282",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Wed Mar 12 19:58:34 +0000 2025",
+      "conversation_id_str": "1899800018824913125",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2190759643",
+            "name": "Marc “Billy” Zeller 👻 🦇🔊",
+            "screen_name": "lemiscate",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@lemiscate I hate to break it to you but a 2.5% yield on an asset that is down 60% in a year is…. Not attractive to investors",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899912924539609115",
+      "url": "https://x.com/ethersphoenix/status/1899912924539609115",
+      "views_count": "51",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 19:31:06 +0000 2025",
+      "conversation_id_str": "1899455738205946036",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "909794221267341312",
+            "name": "Hedgex.eth",
+            "screen_name": "hedge__x",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@hedge__x Please stop",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899543623047557399",
+      "url": "https://x.com/ethersphoenix/status/1899543623047557399",
+      "views_count": "59",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 11:21:33 +0000 2025",
+      "conversation_id_str": "1899254681668313209",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1271614640498380800",
+            "name": "Ethprofit.eth 🦇🔊",
+            "screen_name": "Ethprofit",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@Ethprofit Please stop",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899420425676869806",
+      "url": "https://x.com/ethersphoenix/status/1899420425676869806",
+      "views_count": "102",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 09:25:22 +0000 2025",
+      "conversation_id_str": "1899127093390360754",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1096436452576047104",
+            "name": "Shay Boloor",
+            "screen_name": "StockSavvyShay",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "id_str": "1402700298926317570",
+            "name": "FinChat",
+            "screen_name": "finchat_io",
+            "indices": [
+              16,
+              27
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@StockSavvyShay @finchat_io Law of large numbers \n\nFFS",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899391187838259454",
+      "url": "https://x.com/ethersphoenix/status/1899391187838259454",
+      "views_count": "38",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 09:16:09 +0000 2025",
+      "conversation_id_str": "1899269961002193286",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "14101591",
+            "name": "eric.eth",
+            "screen_name": "econoar",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "@econoar Is this the trump pump you were promising?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899388868455174299",
+      "url": "https://x.com/ethersphoenix/status/1899388868455174299",
+      "views_count": "41",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 09:06:20 +0000 2025",
+      "conversation_id_str": "1899373851190112374",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3154245288",
+            "name": "Galaviz.eth",
+            "screen_name": "AdrianGalaviz5",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@AdrianGalaviz5 Yep \n\nYou’re never wrong if you predict both 👌\n\nClassic grift",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899386395770425742",
+      "url": "https://x.com/ethersphoenix/status/1899386395770425742",
+      "views_count": "3",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 09:04:44 +0000 2025",
+      "conversation_id_str": "1898785947925508127",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1531639904567971840",
+            "name": "Bio Protocol",
+            "screen_name": "bioprotocol",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@bioprotocol Are you based on solana?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899385992379077059",
+      "url": "https://x.com/ethersphoenix/status/1899385992379077059",
+      "views_count": "91",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 08:16:29 +0000 2025",
+      "conversation_id_str": "1899373851190112374",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/stocksavvyshay…",
+            "expanded_url": "https://x.com/stocksavvyshay/status/1886110293966930004?s=46&t=JmiSm46D8i7HB6-2EXE_iw",
+            "url": "https://t.co/32suTXrHmb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "https://t.co/32suTXrHmb\n\nOk mate, whatever you say 🤣",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899373851190112374",
+      "url": "https://x.com/ethersphoenix/status/1899373851190112374",
+      "views_count": "37",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 08:14:35 +0000 2025",
+      "conversation_id_str": "1899181375129092317",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1096436452576047104",
+            "name": "Shay Boloor",
+            "screen_name": "StockSavvyShay",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@StockSavvyShay Bro \n\nYou literally called the “roaring 20s” like a month ago",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899373371374109109",
+      "url": "https://x.com/ethersphoenix/status/1899373371374109109",
+      "views_count": "39",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 08:06:47 +0000 2025",
+      "conversation_id_str": "1899272272420167808",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1096436452576047104",
+            "name": "Shay Boloor",
+            "screen_name": "StockSavvyShay",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@StockSavvyShay The “being run by a Nazi” rhetoric is spot on\n\nDon’t support Nazis",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899371410730213839",
+      "url": "https://x.com/ethersphoenix/status/1899371410730213839",
+      "views_count": "23",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 07:53:58 +0000 2025",
+      "conversation_id_str": "1899247986275721246",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/kPV4PeJnh4",
+            "expanded_url": "https://x.com/ethersphoenix/status/1899368183179722997/photo/1",
+            "id_str": "1899368173432094720",
+            "indices": [
+              37,
+              60
+            ],
+            "media_key": "16_1899368173432094720",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GlvpSlsaQAAyLjZ.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/kPV4PeJnh4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 220,
+              "width": 220,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/GlvpSlsaQAAyLjZ.mp4"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "16_1899368173432094720"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "933379966695227392",
+            "name": "Mad Swan",
+            "screen_name": "MiranaSwan",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "id_str": "37839293",
+            "name": "TΞtranodΞ 🦇🔊",
+            "screen_name": "Tetranode",
+            "indices": [
+              12,
+              22
+            ]
+          },
+          {
+            "id_str": "116328126",
+            "name": "Adam Cochran (adamscochran.eth)",
+            "screen_name": "adamscochran",
+            "indices": [
+              23,
+              36
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/kPV4PeJnh4",
+            "expanded_url": "https://x.com/ethersphoenix/status/1899368183179722997/photo/1",
+            "id_str": "1899368173432094720",
+            "indices": [
+              37,
+              60
+            ],
+            "media_key": "16_1899368173432094720",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GlvpSlsaQAAyLjZ.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/kPV4PeJnh4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 220,
+                "w": 220,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 220,
+              "width": 220,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/GlvpSlsaQAAyLjZ.mp4"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "16_1899368173432094720"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@MiranaSwan @Tetranode @adamscochran https://t.co/kPV4PeJnh4",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899368183179722997",
+      "url": "https://x.com/ethersphoenix/status/1899368183179722997",
+      "views_count": "7",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:53:08 +0000 2025",
+      "conversation_id_str": "1899190422213448021",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1285902652111499265",
+            "name": "M. V. Cunha",
+            "screen_name": "mvcinvesting",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@mvcinvesting Is nebius making any money yet? \nWhat’s the gross margin?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 6,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899232081290633698",
+      "url": "https://x.com/ethersphoenix/status/1899232081290633698",
+      "views_count": "599",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:50:32 +0000 2025",
+      "conversation_id_str": "1896705527155151306",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1330170106501079041",
+            "name": "Starlink",
+            "screen_name": "Starlink",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 10,
+      "favorited": false,
+      "full_text": "@Starlink Corrupt Nazis",
+      "is_quote_status": false,
+      "lang": "pt",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899231423804162276",
+      "url": "https://x.com/ethersphoenix/status/1899231423804162276",
+      "views_count": "149",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Mon Mar 10 22:43:34 +0000 2025",
+      "conversation_id_str": "1899220173393207427",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "313724502",
+            "name": "sassal.eth/acc 🦇🔊",
+            "screen_name": "sassal0x",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "38055242",
+            "name": "Austin Federa | IBRL | 🇺🇸",
+            "screen_name": "Austin_Federa",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@sassal0x This one’s for you @Austin_Federa",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1300736402028544000",
+      "id_str": "1899229672392790289",
+      "url": "https://x.com/ethersphoenix/status/1899229672392790289",
+      "views_count": "61",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Tue Sep 01 10:05:13 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 48247,
+        "followers_count": 467,
+        "friends_count": 1100,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 11,
+        "location": "",
+        "media_count": 718,
+        "name": "toadie",
+        "normal_followers_count": 467,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300736402028544000/1653911384",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1852958072479903745/f3PSRYdS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "ethersphoenix",
+        "statuses_count": 4508,
+        "translator_type": "none",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1
+    ],
+    "2025-03-12": [
+      2,
+      3
+    ],
+    "2025-03-11": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "2025-03-10": [
+      14,
+      15,
+      16
+    ]
+  }
+}

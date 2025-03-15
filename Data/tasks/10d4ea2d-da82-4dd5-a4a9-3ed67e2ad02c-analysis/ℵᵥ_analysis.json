@@ -1,0 +1,122 @@
+{
+  "username": "ℵᵥ",
+  "analyzedAt": "2025-03-15T18:28:25.138Z",
+  "tweetCount": 16,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 02:42:47 +0000 2025",
+    "latestTweet": "Sat Mar 15 11:24:48 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @ℵᵥ and provide a summary of what they mainly talked about in the past week:\n\n@PoorGuard @tugytur long holidays on the beach I thought you were br*tish\n\n@capitalnotfound @mycelias I’m right here, be parasocial about me\n\n@liamzebedee coward, putting everything in one account is more fun\n\n@edgedlt this isn't a threat actor its a defender\n\n@Cointelegraph what does this mean for the uniswap token?\n\nworking on some serious cryptography here https://t.co/ItHOkjLK5v\n\n@0xl3th3 damn\n\ndamn my investments are down a lot does anybody know how much jubilee pays gays to pretend to be anti woke on camera\n\nits time to get over the cynicism of the failures from 2021, new apps are possible, new usecases are possible.\n\nthere are actually two cycles: bull/bear and winter/summer. we were in a bull winter. with sol founders saying stuff like \"there are 6 useful contracts\" and few novel things shipping\n\nbut the spring is comming, we will launch new things again, we will try new experiments again\n\n@WildcatFi can’t believe Laurence wants me to give loans to w*nterm*te and calls it risk free this is a scam\n\n@functi0nZer0 too long, didn't read, give me the token already\n\nits kinda funny how much monero privacy stickers are all over berlin, like the grass roots doesn't realize its a cia op yet\n\n@hievalir knowing your team I'm sure you have more interesting things to come, but the initial design leaves a lot to be desired imo\n\n@hievalir the thing that makes \"web2 scalablity with web3 verifiability\" a real thing is the combo of proof systems, DA, and proper l1 mechanims. \n\ninit isn't that, which is fine, but this design isn't a rollup it's a bridge.\n\n@functi0nZer0 did Tim Clancy take over your account"
+  },
+  "summary": "The tweets from @ℵᵥ in the past week covered various topics such as personal reflections on investments, discussions on crypto and blockchain technology, skepticism towards certain projects, and comments on social issues like LGBTQ+ representation. There is also a mix of humor and criticism in the tweets, with mentions of privacy concerns, scalability in web3, and potential scams. Overall, the tweets reflect a blend of opinions, observations, and engagement with different online communities.",
+  "keyTopics": [
+    "LGBTQ+",
+    "There",
+    "Overall,"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1900870794038964281",
+      "createdAt": "Sat Mar 15 11:24:48 +0000 2025",
+      "text": "@PoorGuard @tugytur long holidays on the beach I thought you were br*tish"
+    },
+    {
+      "index": 1,
+      "id": "1900391769910763994",
+      "createdAt": "Fri Mar 14 03:41:20 +0000 2025",
+      "text": "@capitalnotfound @mycelias I’m right here, be parasocial about me"
+    },
+    {
+      "index": 2,
+      "id": "1900361028665565301",
+      "createdAt": "Fri Mar 14 01:39:10 +0000 2025",
+      "text": "@liamzebedee coward, putting everything in one account is more fun"
+    },
+    {
+      "index": 3,
+      "id": "1900123358106444020",
+      "createdAt": "Thu Mar 13 09:54:45 +0000 2025",
+      "text": "@edgedlt this isn't a threat actor its a defender"
+    },
+    {
+      "index": 4,
+      "id": "1900093498537500674",
+      "createdAt": "Thu Mar 13 07:56:06 +0000 2025",
+      "text": "@Cointelegraph what does this mean for the uniswap token?"
+    },
+    {
+      "index": 5,
+      "id": "1900075446722846759",
+      "createdAt": "Thu Mar 13 06:44:22 +0000 2025",
+      "text": "working on some serious cryptography here https://t.co/ItHOkjLK5v"
+    },
+    {
+      "index": 6,
+      "id": "1899839980564021592",
+      "createdAt": "Wed Mar 12 15:08:43 +0000 2025",
+      "text": "@0xl3th3 damn"
+    },
+    {
+      "index": 7,
+      "id": "1899839510814613681",
+      "createdAt": "Wed Mar 12 15:06:51 +0000 2025",
+      "text": "damn my investments are down a lot does anybody know how much jubilee pays gays to pretend to be ant..."
+    },
+    {
+      "index": 8,
+      "id": "1899719631222526031",
+      "createdAt": "Wed Mar 12 07:10:29 +0000 2025",
+      "text": "its time to get over the cynicism of the failures from 2021, new apps are possible, new usecases are..."
+    },
+    {
+      "index": 9,
+      "id": "1899719127629263172",
+      "createdAt": "Wed Mar 12 07:08:29 +0000 2025",
+      "text": "there are actually two cycles: bull/bear and winter/summer. we were in a bull winter. with sol found..."
+    },
+    {
+      "index": 10,
+      "id": "1899700204477219242",
+      "createdAt": "Wed Mar 12 05:53:18 +0000 2025",
+      "text": "@WildcatFi can’t believe Laurence wants me to give loans to w*nterm*te and calls it risk free this i..."
+    },
+    {
+      "index": 11,
+      "id": "1899677528861925397",
+      "createdAt": "Wed Mar 12 04:23:11 +0000 2025",
+      "text": "@functi0nZer0 too long, didn't read, give me the token already"
+    },
+    {
+      "index": 12,
+      "id": "1899651182756581488",
+      "createdAt": "Wed Mar 12 02:38:30 +0000 2025",
+      "text": "its kinda funny how much monero privacy stickers are all over berlin, like the grass roots doesn't r..."
+    },
+    {
+      "index": 13,
+      "id": "1899647016323649917",
+      "createdAt": "Wed Mar 12 02:21:57 +0000 2025",
+      "text": "@hievalir knowing your team I'm sure you have more interesting things to come, but the initial desig..."
+    },
+    {
+      "index": 14,
+      "id": "1899646409294618669",
+      "createdAt": "Wed Mar 12 02:19:32 +0000 2025",
+      "text": "@hievalir the thing that makes \"web2 scalablity with web3 verifiability\" a real thing is the combo o..."
+    },
+    {
+      "index": 15,
+      "id": "1899289872990425225",
+      "createdAt": "Tue Mar 11 02:42:47 +0000 2025",
+      "text": "@functi0nZer0 did Tim Clancy take over your account"
+    }
+  ]
+}

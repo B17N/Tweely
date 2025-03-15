@@ -1,0 +1,338 @@
+{
+  "username": "privacypools",
+  "fetchedAt": "2025-03-15T15:55:31.360Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 10:53:57 +0000 2025",
+      "conversation_id_str": "1900500643804057913",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "We're gonna rug the testnet soon, pushing some updates on contracts. \n\nIf you don't get your funds out of the Pool in time we'll send you some fresh ETH.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "retweeted": false,
+      "user_id_str": "1891520681776713728",
+      "id_str": "1900500643804057913",
+      "url": "https://x.com/0xprivacypools/status/1900500643804057913",
+      "views_count": "933",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Feb 17 16:10:54 +0000 2025",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. @0xbowio blocks illicit actors to ensure pool integrity.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "privacypools.com",
+                "expanded_url": "https://privacypools.com/",
+                "url": "https://t.co/IbC1oTPRRD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 28,
+        "followers_count": 311,
+        "friends_count": 1,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 4,
+        "location": "",
+        "media_count": 9,
+        "name": "privacypools",
+        "normal_followers_count": 311,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891520681776713728/1739817239",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1891544803948609536/PLfM6Ce-_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "0xprivacypools",
+        "statuses_count": 23,
+        "translator_type": "none",
+        "url": "https://t.co/IbC1oTPRRD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 08 02:04:38 +0000 2025",
+      "conversation_id_str": "1898193106752655710",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/RF9OQ3rocj",
+            "expanded_url": "https://x.com/0xprivacypools/status/1898193106752655710/video/1",
+            "id_str": "1898192196064481280",
+            "indices": [
+              254,
+              277
+            ],
+            "media_key": "7_1898192196064481280",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1898192196064481280/pu/img/EgPEIj0GqLfcTD2k.jpg",
+            "type": "video",
+            "url": "https://t.co/RF9OQ3rocj",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 64021,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/pl/apbhwIBB2yg6ATJO.m3u8?tag=12&v=c89"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/vid/avc1/480x270/WpEN0lAOE6XuWA1I.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/vid/avc1/640x360/uRGCJ7KI8qoVYngU.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/vid/avc1/1280x720/6Lz9u1RW3xFnE9qn.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1898192196064481280"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/RF9OQ3rocj",
+            "expanded_url": "https://x.com/0xprivacypools/status/1898193106752655710/video/1",
+            "id_str": "1898192196064481280",
+            "indices": [
+              254,
+              277
+            ],
+            "media_key": "7_1898192196064481280",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1898192196064481280/pu/img/EgPEIj0GqLfcTD2k.jpg",
+            "type": "video",
+            "url": "https://t.co/RF9OQ3rocj",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": []
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 64021,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/pl/apbhwIBB2yg6ATJO.m3u8?tag=12&v=c89"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/vid/avc1/480x270/WpEN0lAOE6XuWA1I.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/vid/avc1/640x360/uRGCJ7KI8qoVYngU.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1898192196064481280/pu/vid/avc1/1280x720/6Lz9u1RW3xFnE9qn.mp4?tag=12"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_1898192196064481280"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 24,
+      "favorited": false,
+      "full_text": "thanks everyone who came out to KNIFEDAO 2: private edition and fought, spectated, or just vibed ✨\n\nwe had a great time and we hope you did too-\n\nhere's a brief highlights compilation for your ocular/aural enjoyment.\n\n👁️see you next time (in the ring 🔪)",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 7,
+      "retweeted": false,
+      "user_id_str": "1891520681776713728",
+      "id_str": "1898193106752655710",
+      "url": "https://x.com/0xprivacypools/status/1898193106752655710",
+      "views_count": "4448",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Mon Feb 17 16:10:54 +0000 2025",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. @0xbowio blocks illicit actors to ensure pool integrity.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "privacypools.com",
+                "expanded_url": "https://privacypools.com/",
+                "url": "https://t.co/IbC1oTPRRD",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 28,
+        "followers_count": 311,
+        "friends_count": 1,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 4,
+        "location": "",
+        "media_count": 9,
+        "name": "privacypools",
+        "normal_followers_count": 311,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891520681776713728/1739817239",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1891544803948609536/PLfM6Ce-_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "0xprivacypools",
+        "statuses_count": 23,
+        "translator_type": "none",
+        "url": "https://t.co/IbC1oTPRRD",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0
+    ],
+    "2025-03-08": [
+      1
+    ]
+  }
+}

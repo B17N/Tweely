@@ -1,0 +1,30 @@
+{
+  "username": "stokes",
+  "analyzedAt": "2025-03-15T18:28:48.764Z",
+  "tweetCount": 1,
+  "tweetDateRange": {
+    "earliestTweet": "Tue Mar 11 15:02:44 +0000 2025",
+    "latestTweet": "Tue Mar 11 15:02:44 +0000 2025"
+  },
+  "analysisParams": {
+    "model": "gpt-3.5-turbo",
+    "promptTemplate": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets."
+  },
+  "promptUsed": {
+    "system": "You are an analyst who specializes in summarizing social media content. Provide a concise summary of the main topics, themes, and sentiments in these tweets.",
+    "user": "Please analyze these tweets from @stokes and provide a summary of what they mainly talked about in the past week:\n\n@pixero00 https://t.co/FZDaKLJ3eK"
+  },
+  "summary": "Unfortunately, I am unable to access specific tweets or Twitter handles directly. If you can provide the text content of the tweets, I'd be happy to help analyze and summarize them for you.",
+  "keyTopics": [
+    "Twitter"
+  ],
+  "sentiment": "Neutral",
+  "tweetReferences": [
+    {
+      "index": 0,
+      "id": "1899476087177928759",
+      "createdAt": "Tue Mar 11 15:02:44 +0000 2025",
+      "text": "@pixero00 https://t.co/FZDaKLJ3eK"
+    }
+  ]
+}

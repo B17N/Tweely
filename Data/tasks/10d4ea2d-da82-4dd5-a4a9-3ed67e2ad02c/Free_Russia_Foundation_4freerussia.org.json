@@ -1,0 +1,297 @@
+{
+  "username": "Free Russia Foundation 4freerussia.org",
+  "fetchedAt": "2025-03-15T16:01:50.844Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 03:00:24 +0000 2025",
+      "conversation_id_str": "1899294306214490435",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/X7KdWLnUAb",
+            "expanded_url": "https://x.com/4freerussia_org/status/1899294306214490435/photo/1",
+            "id_str": "1899293445887299584",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1899293445887299584",
+            "media_url_https": "https://pbs.twimg.com/media/GlulU35XEAANXuo.jpg",
+            "type": "photo",
+            "url": "https://t.co/X7KdWLnUAb",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1620,
+                "w": 1620,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1620,
+              "width": 1620,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 478,
+                  "w": 1620,
+                  "h": 907
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1620,
+                  "h": 1620
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1421,
+                  "h": 1620
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 810,
+                  "h": 1620
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1620,
+                  "h": 1620
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899293445887299584"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "178831365",
+            "name": "Vladimir Milov",
+            "screen_name": "v_milov",
+            "indices": [
+              255,
+              263
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/X7KdWLnUAb",
+            "expanded_url": "https://x.com/4freerussia_org/status/1899294306214490435/photo/1",
+            "id_str": "1899293445887299584",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1899293445887299584",
+            "media_url_https": "https://pbs.twimg.com/media/GlulU35XEAANXuo.jpg",
+            "type": "photo",
+            "url": "https://t.co/X7KdWLnUAb",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1620,
+                "w": 1620,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1620,
+              "width": 1620,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 478,
+                  "w": 1620,
+                  "h": 907
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1620,
+                  "h": 1620
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1421,
+                  "h": 1620
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 810,
+                  "h": 1620
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1620,
+                  "h": 1620
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1899293445887299584"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 9,
+      "favorited": false,
+      "full_text": "📉 Russia’s economy is under growing pressure: soaring inflation, a rising budget deficit, and a 21% interest rate choking investment. Meanwhile, the Trump administration has halted new U.S. sanctions, boosting Russian markets—but the crisis runs deeper.\n\n@v_milov breaks it down in his latest brief.\nhttps://t.co/HFTne7Ib6O",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "3065005619",
+      "id_str": "1899294306214490435",
+      "url": "https://x.com/4freerussia_org/status/1899294306214490435",
+      "views_count": "309",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "created_at": "Sat Feb 28 23:25:30 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Empowering and coordinating global efforts for democracy in Russia\n\nInternational advocacy and justice | Think Tank | Community support",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4freerussia.org",
+                "expanded_url": "https://www.4freerussia.org",
+                "url": "https://t.co/21lb87z80Q",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 1792,
+        "followers_count": 12380,
+        "friends_count": 2170,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 242,
+        "location": "Washington, DC",
+        "media_count": 1322,
+        "name": "Free Russia Foundation 4freerussia.org",
+        "normal_followers_count": 12380,
+        "pinned_tweet_ids_str": [
+          "1885267146990563362"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3065005619/1721902359",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1859038011154907136/6XraSP12_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "4freerussia_org",
+        "statuses_count": 7745,
+        "translator_type": "none",
+        "url": "https://t.co/21lb87z80Q",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-11": [
+      0
+    ]
+  }
+}

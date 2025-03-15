@@ -1,0 +1,218 @@
+{
+  "username": "mashbean｜豆泥｜ドゥに｜도니",
+  "fetchedAt": "2025-03-15T15:55:31.346Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Sat Mar 15 15:41:30 +0000 2025",
+      "conversation_id_str": "1900935394814030221",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "matters.town/a/aryv5higybp5",
+            "expanded_url": "https://matters.town/a/aryv5higybp5",
+            "url": "https://t.co/XWstgGFF9S",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "14992326",
+            "name": "ICANN",
+            "screen_name": "ICANN",
+            "indices": [
+              29,
+              35
+            ]
+          },
+          {
+            "id_str": "990873507285188608",
+            "name": "TWNIC",
+            "screen_name": "twnic_ia",
+            "indices": [
+              56,
+              65
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "Some thought after attending @ICANN 82 Forum. Thanks to @twnic_ia for the fellowship program~\nhttps://t.co/XWstgGFF9S",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "64367856",
+      "id_str": "1900935394814030221",
+      "url": "https://x.com/mashbean/status/1900935394814030221",
+      "views_count": "21",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Aug 10 09:32:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ex-medical doctor, anti-hegemony, serves as a decentralized architect in the Ministry of Digital Affairs, Taiwan, making DID staff and columnist of digital art.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/mashbean",
+                "expanded_url": "https://bento.me/mashbean",
+                "url": "https://t.co/GSajnhxfH5",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7696,
+        "followers_count": 2588,
+        "friends_count": 913,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Taiwan",
+        "media_count": 178,
+        "name": "mashbean｜豆泥｜ドゥに｜도니",
+        "normal_followers_count": 2588,
+        "pinned_tweet_ids_str": [
+          "1839994183555121524"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64367856/1681038256",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1589255439262560256/fBwswQrY_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "mashbean",
+        "statuses_count": 1942,
+        "translator_type": "none",
+        "url": "https://t.co/GSajnhxfH5",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 06:35:35 +0000 2025",
+      "conversation_id_str": "1898564081457508503",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "635682749",
+            "name": "Suji Yan - Mask is BUIDLing",
+            "screen_name": "suji_yan",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 4,
+      "favorited": false,
+      "full_text": "@suji_yan 最近才知道吳國光作為趙紫陽文膽，撰寫《政治體制改革總體設想》時也才30歲",
+      "is_quote_status": false,
+      "lang": "zh",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "64367856",
+      "id_str": "1898623682072940835",
+      "url": "https://x.com/mashbean/status/1898623682072940835",
+      "views_count": "359",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Mon Aug 10 09:32:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ex-medical doctor, anti-hegemony, serves as a decentralized architect in the Ministry of Digital Affairs, Taiwan, making DID staff and columnist of digital art.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/mashbean",
+                "expanded_url": "https://bento.me/mashbean",
+                "url": "https://t.co/GSajnhxfH5",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 7696,
+        "followers_count": 2585,
+        "friends_count": 913,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 37,
+        "location": "Taiwan",
+        "media_count": 178,
+        "name": "mashbean｜豆泥｜ドゥに｜도니",
+        "normal_followers_count": 2585,
+        "pinned_tweet_ids_str": [
+          "1839994183555121524"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64367856/1681038256",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1589255439262560256/fBwswQrY_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "mashbean",
+        "statuses_count": 1942,
+        "translator_type": "none",
+        "url": "https://t.co/GSajnhxfH5",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-15": [
+      0
+    ],
+    "2025-03-09": [
+      1
+    ]
+  }
+}

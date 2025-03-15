@@ -1,0 +1,2033 @@
+{
+  "username": "dorgo.eth ✝️🇺🇦",
+  "fetchedAt": "2025-03-15T15:55:31.359Z",
+  "params": {
+    "daysBack": 7,
+    "includeReplies": true,
+    "includeRetweets": true
+  },
+  "tweets": [
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 15:09:45 +0000 2025",
+      "conversation_id_str": "1900565011199590478",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "gofund.me/ce1e2090",
+            "expanded_url": "https://gofund.me/ce1e2090",
+            "url": "https://t.co/8t6PDb95DF",
+            "indices": [
+              152,
+              175
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 11,
+      "favorited": false,
+      "full_text": "✨ Your support will help cover artist honorariums, production costs, outreach, and accessibility. Any contribution matters!\n\n💛 Join and share:\nIn fiat: https://t.co/8t6PDb95DF\nIn crypto: to karyna.eth\nGoal: $600",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 7,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1900565018346688762",
+      "url": "https://x.com/dorgo_eth/status/1900565018346688762",
+      "views_count": "99",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 15:09:44 +0000 2025",
+      "conversation_id_str": "1900565011199590478",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "This project is a key part of her research on female and queer Ukrainian art in the wake of the full-scale war. \n\nArt is a tool for resistance, healing, and storytelling, especially in times of crisis. This performance will create space for deep conversations about guilt, vulnerability, connection, and collective trauma through immersive rituals and discussion.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1900565014760550537",
+      "url": "https://x.com/dorgo_eth/status/1900565014760550537",
+      "views_count": "49",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Fri Mar 14 15:09:44 +0000 2025",
+      "conversation_id_str": "1900565011199590478",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/edR2eTZzCW",
+            "expanded_url": "https://x.com/dorgo_eth/status/1900565011199590478/photo/1",
+            "id_str": "1900565006678130688",
+            "indices": [
+              274,
+              297
+            ],
+            "media_key": "3_1900565006678130688",
+            "media_url_https": "https://pbs.twimg.com/media/GmApzc-WgAAzHmk.jpg",
+            "type": "photo",
+            "url": "https://t.co/edR2eTZzCW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 404,
+                    "y": 60,
+                    "h": 58,
+                    "w": 58
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 404,
+                    "y": 60,
+                    "h": 58,
+                    "w": 58
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 381,
+                    "y": 56,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 404,
+                    "y": 60,
+                    "h": 58,
+                    "w": 58
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 405,
+                "w": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 405,
+                "w": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 405,
+              "width": 720,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 403
+                },
+                {
+                  "x": 248,
+                  "y": 0,
+                  "w": 405,
+                  "h": 405
+                },
+                {
+                  "x": 273,
+                  "y": 0,
+                  "w": 355,
+                  "h": 405
+                },
+                {
+                  "x": 349,
+                  "y": 0,
+                  "w": 203,
+                  "h": 405
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 405
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900565006678130688"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "20207592",
+            "name": "School of the Art Institute of Chicago",
+            "screen_name": "saic_news",
+            "indices": [
+              120,
+              130
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/edR2eTZzCW",
+            "expanded_url": "https://x.com/dorgo_eth/status/1900565011199590478/photo/1",
+            "id_str": "1900565006678130688",
+            "indices": [
+              274,
+              297
+            ],
+            "media_key": "3_1900565006678130688",
+            "media_url_https": "https://pbs.twimg.com/media/GmApzc-WgAAzHmk.jpg",
+            "type": "photo",
+            "url": "https://t.co/edR2eTZzCW",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 404,
+                    "y": 60,
+                    "h": 58,
+                    "w": 58
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 404,
+                    "y": 60,
+                    "h": 58,
+                    "w": 58
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 381,
+                    "y": 56,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 404,
+                    "y": 60,
+                    "h": 58,
+                    "w": 58
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 405,
+                "w": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 405,
+                "w": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 405,
+              "width": 720,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 403
+                },
+                {
+                  "x": 248,
+                  "y": 0,
+                  "w": 405,
+                  "h": 405
+                },
+                {
+                  "x": 273,
+                  "y": 0,
+                  "w": 355,
+                  "h": 405
+                },
+                {
+                  "x": 349,
+                  "y": 0,
+                  "w": 203,
+                  "h": 405
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 405
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900565006678130688"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "🔥 My dear friend and an amazing girl, art historian and cultural manager at the School of the Art Institute of Chicago (@saic_news) Karyna Vovkotrub, is organizing a 🇺🇦 performance called “Ok, Let’s Talk About You Instead”. ✨\n\nTo make this performance a reality, additional resources and ❤️ our support are needed.\n\nMore details: https://t.co/180hWQCotM",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1900565011199590478",
+      "url": "https://x.com/dorgo_eth/status/1900565011199590478",
+      "views_count": "53",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Thu Mar 13 20:21:56 +0000 2025",
+      "conversation_id_str": "1900281193188184349",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/1YQ3rBpF3M",
+            "expanded_url": "https://x.com/dorgo_eth/status/1900281193188184349/photo/1",
+            "id_str": "1900271672185196544",
+            "indices": [
+              104,
+              127
+            ],
+            "media_key": "3_1900271672185196544",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8fBI1WEAAONTa.jpg",
+            "type": "photo",
+            "url": "https://t.co/1YQ3rBpF3M",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1054,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 618,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 350,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1054,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1882,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1054,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 925,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 527,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1054
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900271672185196544"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/watch?v=AD5ZrU…",
+            "expanded_url": "https://www.youtube.com/watch?v=AD5ZrU7AZ4A",
+            "url": "https://t.co/lN8n3imMuY",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1067793430863069184",
+            "name": "Nym",
+            "screen_name": "nymproject",
+            "indices": [
+              22,
+              33
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/1YQ3rBpF3M",
+            "expanded_url": "https://x.com/dorgo_eth/status/1900281193188184349/photo/1",
+            "id_str": "1900271672185196544",
+            "indices": [
+              104,
+              127
+            ],
+            "media_key": "3_1900271672185196544",
+            "media_url_https": "https://pbs.twimg.com/media/Gl8fBI1WEAAONTa.jpg",
+            "type": "photo",
+            "url": "https://t.co/1YQ3rBpF3M",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1054,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 618,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 350,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1054,
+              "width": 2048,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1882,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1054,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 925,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 527,
+                  "h": 1054
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2048,
+                  "h": 1054
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1900271672185196544"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "Cypherpunks, join the @nymproject VPN Launch Livestream on Twitter or YouTube:\n\nhttps://t.co/lN8n3imMuY https://t.co/1YQ3rBpF3M",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1900281193188184349",
+      "url": "https://x.com/dorgo_eth/status/1900281193188184349",
+      "views_count": "91",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:58:03 +0000 2025",
+      "conversation_id_str": "1899472530588492272",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1587508374794543106",
+            "name": "Rarimo",
+            "screen_name": "Rarimo_protocol",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 5,
+      "favorited": false,
+      "full_text": "@Rarimo_protocol thank you for this product!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899520205946073132",
+      "url": "https://x.com/dorgo_eth/status/1899520205946073132",
+      "views_count": "83",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:57:45 +0000 2025",
+      "conversation_id_str": "1899472530588492272",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1371178604726484992",
+            "name": "Artem Chystiakov",
+            "screen_name": "Arvolear",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "id_str": "1587508374794543106",
+            "name": "Rarimo",
+            "screen_name": "Rarimo_protocol",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@Arvolear @Rarimo_protocol thank you for this product!",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899520132298182745",
+      "url": "https://x.com/dorgo_eth/status/1899520132298182745",
+      "views_count": "17",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:43:24 +0000 2025",
+      "conversation_id_str": "1899514329310822906",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2916451034",
+            "name": "Serhii Sternenko ✙",
+            "screen_name": "sternenko",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@sternenko +",
+      "is_quote_status": false,
+      "lang": "qam",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899516522562826647",
+      "url": "https://x.com/dorgo_eth/status/1899516522562826647",
+      "views_count": "87",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 17:16:40 +0000 2025",
+      "conversation_id_str": "1899506416764805474",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1887254594306093058",
+            "name": "factCheck",
+            "screen_name": "factcheckdotfun",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@factcheckdotfun Why is Kyiv, Ukraine not permitted to access your platform?",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899509792466424268",
+      "url": "https://x.com/dorgo_eth/status/1899509792466424268",
+      "views_count": "46",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 16:33:52 +0000 2025",
+      "conversation_id_str": "1899486627686481935",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1135676003592888330",
+            "name": "hexdrunker 🐻⛓",
+            "screen_name": "hexdrunker",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "Vitalik has built an entire digital system based on an incredible philosophy, which has given rise to thousands of blockchain products and developers.\n\nCompared to other L1s, Ethereum has been able to unlock the potential of blockchain and continues to do so. It has gathered quality like-minded people around. At this stage. And it’s simply amazing.\n\nWe need to stop thinking about the fiat equivalent of eth. It’s a big mistake.\nWe should get used to the idea that 1 ETH = 1 ETH and unite to build new products on Ethereum.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899499020885569880",
+      "url": "https://x.com/dorgo_eth/status/1899499020885569880",
+      "views_count": "138",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 12:59:17 +0000 2025",
+      "conversation_id_str": "1899445018730872953",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": null,
+      "favorite_count": 2,
+      "favorited": false,
+      "full_text": "Your vote may have a huge impact",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899445018730872953",
+      "url": "https://x.com/dorgo_eth/status/1899445018730872953",
+      "views_count": "70",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 12:42:16 +0000 2025",
+      "conversation_id_str": "1899440735620862400",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1542228578",
+            "name": "JD Vance",
+            "screen_name": "JDVance",
+            "indices": [
+              26,
+              34
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "Nate Vance, the cousin of @JDVance, said that he personally saw russians shooting their own soldiers for trying to retreat.\n\n“This happened so often that it could be considered their policy towards retreating soldiers. These people ‘devour’ their own. They don’t care what we think. They are not our allies and won’t be for at least a generation,” said Nate Vance.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899440738796007805",
+      "url": "https://x.com/dorgo_eth/status/1899440738796007805",
+      "views_count": "51",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 12:42:15 +0000 2025",
+      "conversation_id_str": "1899440735620862400",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1546407250125799426",
+            "name": "Вовки Да Вінчі",
+            "screen_name": "VovkyDaVinchi",
+            "indices": [
+              117,
+              131
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 3,
+      "favorited": false,
+      "full_text": "The cousin of U.S. Vice President J.D. Vance, Nate Vance, fought for Ukraine as part of the Gonor (“Da Vinci Wolves” @VovkyDaVinchi ) unit.",
+      "is_quote_status": true,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899440735620862400",
+      "url": "https://x.com/dorgo_eth/status/1899440735620862400",
+      "views_count": "115",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 11:32:28 +0000 2025",
+      "conversation_id_str": "1899254681668313209",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1300736402028544000",
+            "name": "toadie",
+            "screen_name": "ethersphoenix",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id_str": "1271614640498380800",
+            "name": "Ethprofit.eth 🦇🔊",
+            "screen_name": "Ethprofit",
+            "indices": [
+              15,
+              25
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@ethersphoenix @Ethprofit 🤜🤛",
+      "is_quote_status": false,
+      "lang": "qme",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899423172547465653",
+      "url": "https://x.com/dorgo_eth/status/1899423172547465653",
+      "views_count": "9",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Tue Mar 11 09:19:49 +0000 2025",
+      "conversation_id_str": "1899064004175122818",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "u-f-d-a.org/artwork-6076-v…",
+            "expanded_url": "https://u-f-d-a.org/artwork-6076-victory/",
+            "url": "https://t.co/MMN6bg8DYF",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1687128999292522496",
+            "name": "Digital Original",
+            "screen_name": "dgtlrgnl",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "@dgtlrgnl Look at this Ukrainian fund of digitized art\nhttps://t.co/MMN6bg8DYF",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1899389789536747932",
+      "url": "https://x.com/dorgo_eth/status/1899389789536747932",
+      "views_count": "3",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 16:35:28 +0000 2025",
+      "conversation_id_str": "1898693673035993165",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "897198731975680001",
+            "name": "Amir Taaki ⛛",
+            "screen_name": "Narodism",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "What makes you think russia is a technological state? All the smart people who could have contributed to the development of technology left this country a long time ago or were repressed.\n\nWar is terrible—I agree with you on that. But russia and its dictatorship must be stopped, or it will spread across the world if we don’t stop it. \nThe russian empire must be dismantled FOREVER.",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1898774650118959385",
+      "url": "https://x.com/dorgo_eth/status/1898774650118959385",
+      "views_count": "26",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 16:15:33 +0000 2025",
+      "conversation_id_str": "1898570313581178911",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "373157754",
+            "name": "Anonymous",
+            "screen_name": "YourAnonCentral",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "id_str": "1314362144268464128",
+            "name": "Василіск на ім'я Василіса",
+            "screen_name": "vasylisk_tattoo",
+            "indices": [
+              43,
+              59
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 8,
+      "favorited": false,
+      "full_text": "@YourAnonCentral The author of this art is @vasylisk_tattoo",
+      "is_quote_status": false,
+      "lang": "en",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1898769638005014707",
+      "url": "https://x.com/dorgo_eth/status/1898769638005014707",
+      "views_count": "621",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    },
+    {
+      "bookmark_count": 0,
+      "created_at": "Sun Mar 09 12:03:31 +0000 2025",
+      "conversation_id_str": "1898641007853322672",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "720132156",
+            "name": "Trayan ✙",
+            "screen_name": "trayanmuse",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ]
+      },
+      "extended_entities": null,
+      "favorite_count": 1,
+      "favorited": false,
+      "full_text": "@trayanmuse Ставлю комент, щоб просунути твіт",
+      "is_quote_status": false,
+      "lang": "uk",
+      "possibly_sensitive": null,
+      "possibly_sensitive_editable": null,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1461739230284156936",
+      "id_str": "1898706211668672610",
+      "url": "https://x.com/dorgo_eth/status/1898706211668672610",
+      "views_count": "34",
+      "user": {
+        "following": false,
+        "can_dm": false,
+        "can_media_tag": false,
+        "created_at": "Fri Nov 19 16:53:05 +0000 2021",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ukraine, Constitution, $ETH maxi | @berehynianft co-creator",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cypherpunksUA",
+                "expanded_url": "https://t.me/cypherpunksUA",
+                "url": "https://t.co/LAzvl8LLfl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 18053,
+        "followers_count": 735,
+        "friends_count": 320,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 7,
+        "location": "Ukraine ",
+        "media_count": 1124,
+        "name": "dorgo.eth ✝️🇺🇦",
+        "normal_followers_count": 735,
+        "pinned_tweet_ids_str": [
+          "1705709057628319977"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461739230284156936/1740850908",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893659212288249856/5QydxaPS_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "dorgo_eth",
+        "statuses_count": 6075,
+        "translator_type": "none",
+        "url": "https://t.co/LAzvl8LLfl",
+        "verified": false,
+        "want_retweets": false,
+        "withheld_in_countries": []
+      }
+    }
+  ],
+  "tweetsByDay": {
+    "2025-03-14": [
+      0,
+      1,
+      2
+    ],
+    "2025-03-13": [
+      3
+    ],
+    "2025-03-11": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "2025-03-09": [
+      14,
+      15,
+      16
+    ]
+  }
+}
